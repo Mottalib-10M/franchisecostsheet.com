@@ -1,0 +1,141 @@
+{
+ "slug": "papa-johns",
+ "brand": "Papa Johns",
+ "franchisor": "Papa John's Franchising, LLC",
+ "issuanceDate": "2026-03-30",
+ "amendedDate": null,
+ "format": "Standard (traditional) Papa Johns Restaurant in leased space in a shopping or strip center (range shared with Small-Town Restaurant)",
+ "invest": {
+  "low": 281485,
+  "high": 890267,
+  "toFranchisorLow": 38376,
+  "toFranchisorHigh": 80426,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Standard Papa Johns franchise and a Small-Town Papa Johns franchise is $281,485 to $890,267. This includes $38,376 to $80,426 that must be paid to the franchisor or its affiliate for a Standard Papa Johns franchise"
+ },
+ "fee": {
+  "low": 5000,
+  "high": 25000,
+  "quote": "Depending on if you qualify for one of our incentives, the Initial Franchise Fee for a standard Restaurant will range from $5,000 to $25,000 and is non-refundable.",
+  "note": "A Development Agreement is required even for a single unit; the Development Fee Deposit of $5,000 to $25,000 per Restaurant is credited against the Initial Franchise Fee. Fee is not uniform (depends on number of Restaurants, financial condition, experience, incentives, negotiation). Non-Traditional and Small-Town Restaurants: $5,000."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": 6,
+  "basis": "net sales",
+  "flat": null,
+  "quote": "Royalty Traditional Restaurant – 5% of Net Sales of the Restaurant for each Period Payable on the 10th day of each month"
+ },
+ "adFund": {
+  "pct": 6,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Marketing Fund Contributions Traditional Restaurant – 6% ... established a contribution rate of 6% of Net Sales beginning April 1, 2024 and continuing until December 30, 2029",
+  "note": "6% of Net Sales under the NMF Initiative until December 30, 2029; reverts to 5% if the standard royalty is raised before then. Cooperative contributions and local advertising currently voluntary until December 30, 2029; in a later 'Mandatory Period' minimum co-op 2% and minimum combined marketing spend 8% of Net Sales. Grand opening spend minimum $10,000."
+ },
+ "otherRecurring": [
+  {
+   "name": "Digital Fee",
+   "amount": "1.75% of Net Sales via Digital/Internet on-line ordering including aggregator orders",
+   "annualUsd": null
+  },
+  {
+   "name": "Software Maintenance Fee",
+   "amount": "$375 per month",
+   "annualUsd": 4500
+  },
+  {
+   "name": "Help Desk Service Fee",
+   "amount": "Flat fee of $80 per month",
+   "annualUsd": 960
+  },
+  {
+   "name": "PapaNet",
+   "amount": "$400-$450 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Hot Schedules",
+   "amount": "$33-$55 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Training Fees",
+   "amount": "$150 per year per Restaurant",
+   "annualUsd": 150
+  },
+  {
+   "name": "Papa Card Transaction and IVR Fees",
+   "amount": "Maximum - 2% of Papa Card redemption transactions",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$4,000, or if transfer is of multiple Restaurants to more than one unaffiliated transferee, $4,000 per transferee, or if transfer is of multiple Restaurants to more than one affiliated transferee, $8,000 in total.",
+  "usd": 4000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Net Sales, standard franchised Papa Johns Restaurants (US) open the entire year 2025",
+   "value": 1097987,
+   "count": 2389,
+   "period": "fiscal year ended December 28, 2025",
+   "median": 1043433
+  },
+  "other": [
+   {
+    "label": "Average annual Net Sales, 448 standard company-owned Restaurants, 2025",
+    "value": 1264646
+   },
+   {
+    "label": "Median annual Net Sales, standard company-owned Restaurants, 2025",
+    "value": 1164844
+   },
+   {
+    "label": "Average annual Net Sales, all 2,837 standard Restaurants (franchised + company), 2025",
+    "value": 1124305
+   },
+   {
+    "label": "Average annual Net Sales, top 25% of franchised stores (598), 2025",
+    "value": 1619518
+   },
+   {
+    "label": "Average annual Net Sales, bottom 25% of franchised stores (597), 2025",
+    "value": 675314
+   },
+   {
+    "label": "Weekly per store average Net Sales, franchised, 2025",
+    "value": 21115
+   },
+   {
+    "label": "Weekly per store median Net Sales, franchised, 2025",
+    "value": 20066
+   }
+  ],
+  "profitPct": null,
+  "quote": "Average Net Royalty Sales in Category $1,619,518 $1,391,759 $1,238,799 $1,097,987 Median Net Royalty Sales in Category $1,533,219 $1,313,338 $1,162,447 $1,043,433 (Table 2, Total = 2,389 standard franchised Restaurants)",
+  "note": "Sales only (Net Sales); no costs or profits. Standard US Restaurants only; excludes 152 Non-Traditional, 154 Small-Town and 52 standard franchised Restaurants not open the full year. 1,047 (43.8%) of franchised stores met or exceeded the average. No Item 19 data for Non-Traditional or Small-Town Restaurants."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 2832,
+  "company": 462,
+  "total": 3294,
+  "franchisedNetChange": 80,
+  "quote": "Franchised 2025 2752 2832 80 Company-Owned** 2025 539 462 -77 Total Outlets 2025 3291 3294 3"
+ },
+ "special": "Franchisees must buy pizza dough and pizza sauce from affiliate PJ Food Service (plus the Information System and Designated Software from Papa Johns); other food items may be bought from affiliates. Royalty may be raised up to 6% of Net Sales. Item 20 counts are US only (including Alaska and Hawaii) and company-owned includes 13 outlets of franchisees majority-owned by Papa Johns. Item 7 amounts are net of an average tenant improvement allowance of $42,000.",
+ "confidence": "high",
+ "issues": "Cover and Item 7 give one combined range for Standard and Small-Town Restaurants. Item 19 notes mention 52 standard franchised Restaurants excluded in one place and 137 in the Table 4 note for 2025; not reconciled in the text.",
+ "source": {
+  "doc": "35810-202604-11",
+  "received": "2026-04-02",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B0064BA9D-0000-C711-BA7C-9EC8918839C3%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 588,
+  "registrant": "PAPA JOHN'S FRANCHISING, LLC",
+  "filedName": "PAPA JOHN'S PIZZA",
+  "type": "Clean FDD"
+ }
+}

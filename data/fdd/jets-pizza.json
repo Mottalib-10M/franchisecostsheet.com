@@ -1,0 +1,97 @@
+{
+ "slug": "jets-pizza",
+ "brand": "Jet's Pizza",
+ "franchisor": "Jet's America, Inc.",
+ "issuanceDate": "2025-04-29",
+ "amendedDate": null,
+ "format": "Single Jet's Pizza carry-out and delivery restaurant in leased strip-center space (1,200 - 1,500 sq. ft.)",
+ "invest": {
+  "low": 572500,
+  "high": 786000,
+  "toFranchisorLow": 15000,
+  "toFranchisorHigh": 30000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a single Jet's Pizza franchise ranges from $572,500 to $786,000. This includes $30,000 (or $15,000 if you qualify for the 50% military discount) that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 30000,
+  "high": 30000,
+  "quote": "The initial franchise fee is $30,000; except for certain franchises established pursuant to an Area Development Agreement as described above and for those franchisees which qualify for a military discount.",
+  "note": "$15,000 (50% military discount) if at least 20% owned by an active-duty member or veteran not dishonorably discharged. Area Development: $30,000 first, $25,000 second, $20,000 third, $15,000 each additional (minimum 3 franchises, $75,000; $37,500 with military discount). Fee may be waived for certain affiliate stores."
+ },
+ "royalty": {
+  "pct": 12,
+  "pctHigh": null,
+  "basis": "acquired inventory (franchisee's cost of all inventory and supplies purchased), not sales",
+  "flat": "minimum of $1,200 per month",
+  "quote": "Royalty Fee - All franchisees 12% of Acquired Inventory; minimum of $1,200 per month 15th day of each month"
+ },
+ "adFund": {
+  "pct": null,
+  "pctHigh": 10,
+  "localPct": null,
+  "quote": "Fees to the General Advertising Fund Up to 10% of Acquired Inventory when added to the Technology Fee",
+  "note": "General Advertising Fund: up to 10% of Acquired Inventory combined with the Technology Fee (Technology Fee currently not imposed); current rate not printed. Required minimum of $3,800 per month on local advertising and regional advertising fund contributions. Regional fund currently 25¢ per box purchased (some regions) or a weekly flat fee from $0 to $1,000."
+ },
+ "otherRecurring": [
+  {
+   "name": "Minimum local and regional advertising spend",
+   "amount": "a minimum per month of $3,800 on your own local advertising initiatives and for contributions required by any regional advertising fund",
+   "annualUsd": 45600
+  },
+  {
+   "name": "Regional Advertising Fund",
+   "amount": "currently 25¢ per box purchased for ordinary expenses (for some regions) or a weekly flat fee ranging from $0 to $1,000.00 (counts toward the minimum advertising spend)",
+   "annualUsd": null
+  },
+  {
+   "name": "Gift Card Program and Loyalty Program Administration Fees",
+   "amount": "Currently $30 - $99 Monthly",
+   "annualUsd": null
+  },
+  {
+   "name": "Technology Fee",
+   "amount": "Up to 10% of Acquired Inventory when added to the Fees to the General Advertising Fund; currently not imposed",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Up to $6,000",
+  "usd": 6000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": false,
+  "headline": {
+   "label": null,
+   "value": null,
+   "count": null,
+   "period": null,
+   "median": null
+  },
+  "other": [],
+  "profitPct": null,
+  "quote": null,
+  "note": "We do not make any representations about a franchisee's future financial performance or the past financial performance of company-owned or franchised outlets."
+ },
+ "units": {
+  "year": 2024,
+  "franchised": 394,
+  "company": 56,
+  "total": 450,
+  "franchisedNetChange": 25,
+  "quote": "Franchised ... 2024 369 394 +25 Company or Affiliate Owned ... 2024 53 56 +3 Total Outlets ... 2024 422 450 +28"
+ },
+ "special": "Royalty is 12% of Acquired Inventory (the franchisee's cost of food, beverages, packaging and supplies), not a percentage of sales, with a $1,200 monthly minimum; the sales x royalty% model does not apply. Liquidated damages of $43,200 on termination for default. Administrative default fees up to $30,000. Item 7 assumes a lease (rent estimated $30,000 to $60,000 per year); real estate purchase excluded.",
+ "confidence": "high",
+ "issues": "FDD is the 2025 edition (Item 20 data through 2024). Current General Advertising Fund rate not printed; Item 11 says contributions are 'not currently required' while also saying you must pay the General Advertising Fee.",
+ "source": {
+  "doc": "34027-202505-09",
+  "received": "2025-05-14",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B70781D97-0000-C53F-BAEE-A7E3A39FFEEB%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 208,
+  "registrant": "JET'S AMERICA, INC.",
+  "filedName": "JET'S AMERICA, INC.",
+  "type": "Clean FDD"
+ }
+}

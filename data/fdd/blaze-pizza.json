@@ -1,0 +1,132 @@
+{
+ "slug": "blaze-pizza",
+ "brand": "Blaze Pizza",
+ "franchisor": "Blaze Pizza, LLC",
+ "issuanceDate": "2026-04-30",
+ "amendedDate": null,
+ "format": "Single traditional Restaurant (typically 1,800 to 2,500 sq ft, leased; retail strip malls, urban areas, shopping centers)",
+ "invest": {
+  "low": 757000,
+  "high": 1297100,
+  "toFranchisorLow": 30000,
+  "toFranchisorHigh": 40000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Blaze Pizza restaurant is between $757,000 and $1,297,100. This includes $30,000 to $40,000 that must be paid to the franchisor or its affiliate(s)."
+ },
+ "fee": {
+  "low": 30000,
+  "high": 30000,
+  "quote": "An Initial Franchise Fee of $30,000 is payment for all of our pre-opening assistance that we provide to allow you to open your Restaurant. The Initial Franchise Fee is non-refundable, uniform, and payable in a lump-sum when you sign each Franchise Agreement.",
+  "note": "No reduced fees collected last fiscal year; no veteran discount printed. Area Development Agreement: Development Fee of $10,000 per Restaurant after the first, credited $10,000 against each subsequent fee. Grand opening advertising minimum $10,000."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "gross sales (weekly)",
+  "flat": null,
+  "quote": "Continuing Royalty(2) 5% of Gross Sales Due on Wednesday of each week"
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": 4,
+  "localPct": 2,
+  "quote": "Creative Fund Contribution(2) Up to 4% of weekly Gross Sales (currently 2% of weekly Gross Sales)",
+  "note": "Creative Fund currently 2%, up to 4% on 60 days' notice. Local Advertising Requirement: 2% of Gross Sales over each rolling 6-month period (shortfall payable to the Creative Fund)."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Fee",
+   "amount": "Up to $300 per month (not increased more than 3% in any given year)",
+   "annualUsd": null
+  },
+  {
+   "name": "Loyalty Platform Fee",
+   "amount": "Actual costs charged by our vendor, currently $126 per month per Restaurant",
+   "annualUsd": 1512
+  },
+  {
+   "name": "Reputation Management Fee",
+   "amount": "Actual costs, currently $38 per month per Restaurant",
+   "annualUsd": 456
+  },
+  {
+   "name": "Training Software License and MDM License Fees",
+   "amount": "$30 per Training Tablet per month (total of $60) plus MDM license fees of $4 per Training Tablet and per Online Ordering Tablet per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Mystery Shops",
+   "amount": "Standard program: $25 per mystery shop for each of 11 written mystery shops and 1 video mystery shop annually",
+   "annualUsd": 300
+  },
+  {
+   "name": "Registration for Annual Convention",
+   "amount": "Between $250 and $500 per attendee",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "50% of our then-current initial franchise fee per Restaurant ($1,000 non-refundable deposit at time of transfer application submittal); transfer to a controlled entity: actual costs up to $5,000",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average gross sales, franchised Restaurants at Traditional Locations open the entire 2025 fiscal year",
+   "value": 1341998,
+   "count": 208,
+   "period": "fiscal 2025",
+   "median": 1225848
+  },
+  "other": [
+   {
+    "label": "Average gross sales, top 20% Traditional Locations (41), 2025, dollars",
+    "value": 2146044
+   },
+   {
+    "label": "Average gross sales, bottom 20% Traditional Locations (42), 2025, dollars",
+    "value": 766846
+   },
+   {
+    "label": "Average gross sales, Mall Storefront Locations (10), 2025, dollars",
+    "value": 1403934
+   },
+   {
+    "label": "Median gross sales, Mall Storefront Locations, 2025, dollars",
+    "value": 1299200
+   },
+   {
+    "label": "Lowest gross sales, Traditional Locations, 2025, dollars",
+    "value": 378061
+   },
+   {
+    "label": "Highest gross sales, Traditional Locations, 2025, dollars",
+    "value": 3361445
+   }
+  ],
+  "profitPct": null,
+  "quote": "Of the 208 2025 Franchised Restaurants operated from Traditional Locations, 84 or 40% attained or surpassed the average Gross Sales of $1,341,998 in 2025, the median Gross Sales was $1,225,848, the low Gross Sales was $378,061, and the high Gross Sales was $3,361,445.",
+  "note": "Sales only, no costs. Excludes 6 Non-Traditional and 2 food court Restaurants, and 38 franchised Restaurants that closed during 2025. No company-owned Restaurants at 2025 fiscal year end."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 230,
+  "company": 0,
+  "total": 230,
+  "franchisedNetChange": -25,
+  "quote": "Franchised 2025 255 230 -25 Company-Owned 2025 11 0 -11 Total Outlets 2025 266 230 -36"
+ },
+ "special": "Franchisor primarily sells multi-unit Area Development Agreements; transfers of single Restaurants are restricted (owners of 3 or fewer must transfer all; more than 3 at least 50%). System shrank from 303 to 230 outlets over 2023-2025, with 38 franchised closures in 2025; all company Restaurants were refranchised or closed in 2025.",
+ "confidence": "high",
+ "issues": "Transfer fee not printed in dollars (50% of $30,000 implies $15,000). Technology Fee is printed only as a maximum ('Up to $300 per month'). Item 19 text writes the average as '$1,341, 998' with a broken space.",
+ "source": {
+  "doc": "36377-202604-09",
+  "received": "2026-04-30",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BF034899E-0000-CEDE-A736-A75B8B364832%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 290,
+  "registrant": "Blaze Pizza, LLC",
+  "filedName": "BLAZE PIZZA",
+  "type": "Clean FDD"
+ }
+}

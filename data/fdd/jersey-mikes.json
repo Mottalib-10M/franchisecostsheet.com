@@ -1,0 +1,121 @@
+{
+ "slug": "jersey-mikes",
+ "brand": "Jersey Mike's",
+ "franchisor": "A Sub Above, LLC",
+ "issuanceDate": "2026-04-10",
+ "amendedDate": "2026-08-26",
+ "format": "individual Jersey Mike's Franchised Restaurant in a retail shopping center (approx. 1,000 to 2,000 sq ft; excludes non-traditional, standalone and drive-thru)",
+ "invest": {
+  "low": 436176,
+  "high": 1162228,
+  "toFranchisorLow": 47250,
+  "toFranchisorHigh": 49250,
+  "excludesRealEstate": null,
+  "quote": "The total initial investment necessary to begin operation of an individual Jersey Mike's Franchised Restaurant ranges from $436,176 to $1,162,228. This includes $47,250 to $49,250 that you must pay to Company."
+ },
+ "fee": {
+  "low": 20000,
+  "high": 20000,
+  "quote": "In addition to the development fee, an initial franchise fee of $20,000 is payable in lump sum and due each time you sign a Franchise Agreement pursuant to an Area Development Agreement.",
+  "note": "An Area Development Agreement is always required, with a non-refundable development fee of $10,000 per Restaurant that is not applied toward the initial franchise fee (so $30,000 per Restaurant in total). Grand Opening Advertising fee of $10,000 also paid to Company at signing. In fiscal 2025 a reduced initial franchise fee of $8,500 was charged to certain existing franchisees acquiring rights to additional Restaurants."
+ },
+ "royalty": {
+  "pct": 6.5,
+  "pctHigh": null,
+  "basis": "gross receipts",
+  "flat": null,
+  "quote": "Continuing Royalty Fees 6.5% of Gross Receipts Payable weekly via wire transfer."
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": 6,
+  "localPct": null,
+  "quote": "Corporate Advertising and Development Fund Currently 1% of Gross Receipts ... National Media Fund 4% of Gross Receipts ... Your total payments to the Corporate Advertising Fund and the National Media Fund will not exceed 6% of Gross Receipts.",
+  "note": "Currently 1% Corporate Advertising and Development Fund + 4% National Media Fund = 5%; combined cap 6% of Gross Receipts."
+ },
+ "otherRecurring": [
+  {
+   "name": "POS Software License Fee and Support Package",
+   "amount": "Currently, $395/month, but may increase up to $795/month",
+   "annualUsd": 4740
+  },
+  {
+   "name": "Secure Network Fee for Processing of Credit Cards and Transferring of Sales Data",
+   "amount": "$39.85/month",
+   "annualUsd": 478.2
+  },
+  {
+   "name": "Gift Card Program",
+   "amount": "$9.50/month",
+   "annualUsd": 114
+  },
+  {
+   "name": "Teamworx Software Fee (optional)",
+   "amount": "$59.99/month",
+   "annualUsd": 719.88
+  },
+  {
+   "name": "Online Ordering Fees",
+   "amount": "Currently, $0.2921 per transaction and 3.74% of the sale of each such transaction",
+   "annualUsd": null
+  },
+  {
+   "name": "Third-Party Order Fees",
+   "amount": "$0.2921 per third party transaction",
+   "annualUsd": null
+  },
+  {
+   "name": "Third-Party Delivery Fee",
+   "amount": "$6.00 to $9.00 per small-order delivery, and $29 to $41 per large-order delivery",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$15,000 per Franchised Restaurant being transferred",
+  "usd": 15000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average Unit Volume, Traditional Franchised Restaurants operated more than 360 days in the Measurement Period",
+   "value": 1367578,
+   "count": 2606,
+   "period": "January 1, 2025 to December 28, 2025",
+   "median": 1305850
+  },
+  "other": [
+   {
+    "label": "Highest Unit Volume, Traditional Franchised Restaurants, 2025",
+    "value": 3228616
+   },
+   {
+    "label": "Lowest Unit Volume, Traditional Franchised Restaurants, 2025",
+    "value": 512332
+   }
+  ],
+  "profitPct": null,
+  "quote": "Traditional Franchised Restaurants 2,606 $1,367,578 $1,305,850 $3,228,616 $512,332 1,148 / 44%",
+  "note": "Sales only (Unit Volume, net of sales taxes, refunds, discounts, coupons and donations); no costs or profits. Excludes 583 Restaurants open fewer than 361 days, 8 not on the designated POS, 13 Non-Traditional, and 17 owned or managed by Company, affiliates or Item 2 persons. 1,148 (44%) met or exceeded the average."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 3201,
+  "company": 26,
+  "total": 3227,
+  "franchisedNetChange": 246,
+  "quote": "Franchised ... 2025 2955 3201 +246 Company-Owned ... 2025 34 26 -8 Total Outlets ... 2025 2989 3227 +238"
+ },
+ "special": "An Area Development Agreement with a $10,000 non-creditable development fee per Restaurant is mandatory even for one Restaurant. Company-Owned outlets are owned by affiliates (Company owns none); 8 former affiliate outlets were reclassified as franchised for 2025 after the Blackstone acquisition. Fund contributions may each be increased up to 6% of Gross Receipts, combined cap 6%.",
+ "confidence": "high",
+ "issues": "Cover does not say whether real estate is excluded (Item 7 covers leased premises only: rent deposits and leasehold improvements, no land or building purchase). Fee field shows the $20,000 franchise fee only; the mandatory $10,000 development fee comes on top.",
+ "source": {
+  "doc": "37192-202608-03",
+  "received": "2026-08-26",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B806D68A0-0000-CB5F-8E92-5AC69733AE1C%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 394,
+  "registrant": "A SUB ABOVE, LLC",
+  "filedName": "JERSEY MIKE'S",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "slug": "baskin-robbins",
+ "brand": "Baskin-Robbins",
+ "franchisor": "Baskin-Robbins Franchising LLC",
+ "issuanceDate": "2026-03-26",
+ "amendedDate": null,
+ "format": "standard Baskin-Robbins Restaurant (traditional location, typically 1,100 to 1,300 sq ft, leased)",
+ "invest": {
+  "low": 307400,
+  "high": 626700,
+  "toFranchisorLow": 28300,
+  "toFranchisorHigh": 36650,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Baskin Robbinsfranchise ranges from $307,400 to $626,700. This includes a range of $28,300 to $36,650 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 25000,
+  "high": 25000,
+  "quote": "Standard Baskin-Robbins Restaurant $25,000",
+  "note": "Gas station/convenience store: standard IFF pro-rated by term (e.g. $12,500 for 10 years); SDO location 50% of standard IFF pro-rated (e.g. $6,250); Combo Restaurant $10,000 plus Dunkin' fee. The Center initial access fee $300. During fiscal 2025 the IFF paid ranged from $0 to $25,000. VetFran Program: $10,000 royalty credit per Restaurant (up to $100,000). Fees may be reduced or waived case by case."
+ },
+ "royalty": {
+  "pct": 5.9,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Continuing Franchise Fee (\"CFF\") Except as stated below, 5.9% of Gross Sales (Note 1) 0.5% of Gross Sales for Restaurants located in Hawaii and the Central States Territory 1.0% of Gross Sales for Restaurants located in Alaska, Idaho, Montana, Oregon or Washington"
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Continuing Advertising Fee (\"CAF\") 5.0% of Gross Sales, except that CAF is 3.5% of Gross Sales for Restaurants in Alaska and Hawaii and CAF is 2.5% of Gross Sales for Restaurants in the Central States Territory 2.5% of Gross Sales for SDOs",
+  "note": "Standard (Royalty) Incentive reduces CAF to 2.5% opening through Year 3, then 5.0%."
+ },
+ "otherRecurring": [
+  {
+   "name": "Continuing Training Fee (The Center subscription)",
+   "amount": "Currently, $300 per Restaurant Annually",
+   "annualUsd": 300
+  }
+ ],
+ "transferFee": {
+  "amount": "Baskin-Robbins Restaurant: $7,500 Combo Restaurant: $20,000",
+  "usd": 7500
+ },
+ "rentToFranchisor": "If you lease the Premises from an affiliate: fixed monthly rent set in the lease, and 'You may also pay us percentage rent regardless of whether the prime lease requires percentage rent. The amount of percentage rent varies and will be set forth in your lease.' (net-net-net lease). No percentage printed.",
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual unit volume (gross sales), 814 franchised Baskin-Robbins Restaurants open the full year 2025 (incl. 80 non-traditional/SDO; excl. Combo, Multi-Brand, new and temporarily closed)",
+   "value": 526669,
+   "count": 814,
+   "period": "fiscal 2025 (December 30, 2024 to December 28, 2025)",
+   "median": 503430
+  },
+  "other": [
+   {
+    "label": "Average AUV, 1st (top) quartile, 204 Restaurants, 2025",
+    "value": 832696
+   },
+   {
+    "label": "Average AUV, 2nd quartile, 204 Restaurants, 2025",
+    "value": 566966
+   },
+   {
+    "label": "Average AUV, 3rd quartile, 204 Restaurants, 2025",
+    "value": 440463
+   },
+   {
+    "label": "Average AUV, 4th quartile, 202 Restaurants, 2025",
+    "value": 263978
+   },
+   {
+    "label": "Highest AUV, 2025",
+    "value": 2317892
+   },
+   {
+    "label": "Lowest AUV, 2025",
+    "value": 15859
+   }
+  ],
+  "profitPct": null,
+  "quote": "All Restaurants 814 $2,317,892 $503,430 $15,859 $526,669 366 / 45%",
+  "note": "Sales only; does not reflect costs of sales, operating expenses or other costs. Excludes 32 Restaurants opened in 2025, 112 closed for extended periods, 9 at Multi-Brand Locations, 41 that closed in 2025, and all 1,219 Combo (Baskin-Robbins/Dunkin') Restaurants. No company-owned Restaurants."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 967,
+  "company": 0,
+  "total": 967,
+  "franchisedNetChange": -9,
+  "quote": "Franchised ... 2025 976 967 -9 Company-Owned ... 2025 0 0 0 Total Outlets (Note 1) ... 2025 976 967 -9"
+ },
+ "special": "Royalty and ad fund rates vary by state: CFF 0.5% (Hawaii, Central States Territory) or 1.0% (Alaska, Idaho, Montana, Oregon, Washington) versus 5.9% elsewhere; Standard (Royalty) incentive ramps the CFF from 1.9% in Year 1 to 5.9% from Year 5, with a $12,500 CFF credit. Affiliate-landlord leases may include percentage rent. Combo Restaurants with Dunkin' (1,219) are outside the Item 19 and Table 1 counts.",
+ "confidence": "high",
+ "issues": "Item 20 Table 1 counts Baskin-Robbins standalone outlets only; Combo Restaurants are reported separately (not extracted). Percentage rent rate for affiliate leases not printed.",
+ "source": {
+  "doc": "35663-202603-13",
+  "received": "2026-03-28",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B10B4789D-0000-CD16-9041-FD212F663954%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 417,
+  "registrant": "BASKIN-ROBBINS FRANCHISING LLC",
+  "filedName": "BASKIN-ROBBINS",
+  "type": "Clean FDD"
+ }
+}

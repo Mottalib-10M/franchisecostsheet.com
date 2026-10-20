@@ -1,0 +1,213 @@
+{
+ "slug": "mcdonalds",
+ "brand": "McDonald's",
+ "franchisor": "McDonald’s USA, LLC",
+ "issuanceDate": "2024-05-01",
+ "amendedDate": "2025-01-01",
+ "format": "traditional McDonald's restaurant (McDonald's owns or leases the land and building; franchisee buys equipment, signs, seating and decor)",
+ "invest": {
+  "low": 1470500,
+  "high": 2642000,
+  "toFranchisorLow": 45000,
+  "toFranchisorHigh": 358000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a traditional McDonald’s franchise ranges from $1,470,500 to $2,642,000 (see Item 7 for small town oil, small town retail, and Satellite locations). This includes an initial franchise fee of $45,000.00"
+ },
+ "fee": {
+  "low": 45000,
+  "high": 45000,
+  "quote": "All franchisees pay a $45,000 lump sum initial franchise fee on the opening of the restaurant, except for: (a) the McOpCo companies, which do not pay any initial franchise fee;",
+  "note": "Prorated fee if real estate tenure or agreed term is 10 years or less; rebuild/relocation gets a credit for part of the previous fee; Satellite locations pay $500 (Walmart locations none) plus a $500 to $2,500 annual fee; STO and STR locations pay $22,500. Fee refunded in full if construction is not completed within 1 year of signing."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty (1) 5% or 4% of Gross Sales, depending on the circumstances (2) Payable monthly on the 10th day of the next month."
+ },
+ "adFund": {
+  "pct": 4,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Advertising and Promotion (5) Not less than 4% of Gross Sales Spent during each calendar year.",
+  "note": "Minimum 4% of Gross Sales, not payable to McDonald's; spent through franchisee cooperatives. National fund OPNAD: 'currently 2.00% of sales'; each local cooperative sets its own rate. Rates may or may not exceed the required 4%."
+ },
+ "otherRecurring": [
+  {
+   "name": "Sesame (POS) software",
+   "amount": "$2,600 license fee (one-time fee); $1,096 annual fee",
+   "annualUsd": 1096
+  },
+  {
+   "name": "Global Mobile App / Digital Capabilities",
+   "amount": "$632 annual fee",
+   "annualUsd": 632
+  },
+  {
+   "name": "McDelivery Integration",
+   "amount": "$611 annual fee",
+   "annualUsd": 611
+  },
+  {
+   "name": "Self-Ordering Kiosk",
+   "amount": "$1,500 licensing fee (one-time fee); $534 annual fee",
+   "annualUsd": 534
+  },
+  {
+   "name": "Self-Ordering Kiosk Accessibility",
+   "amount": "$150 annual fee",
+   "annualUsd": 150
+  },
+  {
+   "name": "Hand-Held Order Taker (optional)",
+   "amount": "$50 annual fee; $500 (one-time fee)",
+   "annualUsd": 50
+  },
+  {
+   "name": "eProduction",
+   "amount": "$45 annual fee",
+   "annualUsd": 45
+  },
+  {
+   "name": "Back Office Integration and Enhancements",
+   "amount": "$755 annual fee",
+   "annualUsd": 755
+  },
+  {
+   "name": "Payments and Fraud Management",
+   "amount": "$700 annual fee",
+   "annualUsd": 700
+  },
+  {
+   "name": "Employee Engagement Platforms",
+   "amount": "$391 annual fee",
+   "annualUsd": 391
+  },
+  {
+   "name": "People Data Warehouse Reporting (optional)",
+   "amount": "$156 annual fee",
+   "annualUsd": 156
+  },
+  {
+   "name": "Deployment, OTP, Execution and Support",
+   "amount": "$2,303 annual fee",
+   "annualUsd": 2303
+  },
+  {
+   "name": "Restaurant Network Management, Access and Security",
+   "amount": "$999 annual fee",
+   "annualUsd": 999
+  },
+  {
+   "name": "Restaurant Hardware, Data Movement, Management, and Monitoring",
+   "amount": "$802 annual fee",
+   "annualUsd": 802
+  },
+  {
+   "name": "Restaurant File Maintenance (RFM)",
+   "amount": "$565 annual fee",
+   "annualUsd": 565
+  },
+  {
+   "name": "Microsoft License Subscription",
+   "amount": "$671 annual fee",
+   "annualUsd": 671
+  },
+  {
+   "name": "Pricing Engine (optional)",
+   "amount": "$264 annual fee",
+   "annualUsd": 264
+  },
+  {
+   "name": "Workplace by Meta (optional)",
+   "amount": "$150 annual fee",
+   "annualUsd": 150
+  },
+  {
+   "name": "Store Mail (email accounts)",
+   "amount": "$73.80 annual fee",
+   "annualUsd": 73.8
+  },
+  {
+   "name": "Rent (Monthly Base Rent, Pass Thru Rent, Fixed Percentage Rent)",
+   "amount": "Varies; Base Rent payable on the 1st day of the month; Percentage Rent payable monthly on the 10th day of the next month",
+   "annualUsd": null
+  }
+ ],
+ "rentToFranchisor": "McDonald’s acquires real estate and building and franchises the right to operate at the location. Franchisee pays McDonald's a Monthly Base Rent plus a Fixed Percentage Rent of Gross Sales; for new traditional restaurants opened on or after January 1, 2020 the rate is 10.00% (development costs up to $1,550,000) rising 0.25% per step (e.g. 15.00% for $3,210,001 to $3,310,000). Item 7: Percentage Rent 0.00% to 28.00%. Item 19: 'The range of effective rent percentages in 2023 for franchised restaurants was 0.00% to 33.30%.'",
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual sales volume, domestic traditional franchised McDonald's restaurants open at least 1 year as of December 31, 2023",
+   "value": 3964000,
+   "count": 11972,
+   "period": "2023",
+   "median": 3797000
+  },
+  "other": [
+   {
+    "label": "Average annual sales volume, all domestic traditional restaurants (franchised + McOpCo, approx. 12,605) open at least 1 year, 2023",
+    "value": 4001000
+   },
+   {
+    "label": "Median annual sales volume, all domestic traditional restaurants open at least 1 year, 2023",
+    "value": 3837000
+   },
+   {
+    "label": "Average annual sales volume, domestic traditional McOpCo (company) restaurants (approx. 633), 2023",
+    "value": 4711000
+   },
+   {
+    "label": "Median annual sales volume, domestic traditional McOpCo restaurants, 2023",
+    "value": 4612000
+   },
+   {
+    "label": "Highest annual sales volume, domestic traditional franchised restaurants, 2023",
+    "value": 19556000
+   },
+   {
+    "label": "Lowest annual sales volume, domestic traditional franchised restaurants, 2023",
+    "value": 1098000
+   },
+   {
+    "label": "Share of franchised restaurants with annual sales above $3,000,000 (%)",
+    "value": 78
+   },
+   {
+    "label": "Pro forma operating income before occupancy costs at $3,000,000 product sales",
+    "value": 762000
+   },
+   {
+    "label": "Pro forma operating income before occupancy costs at $3,200,000 product sales",
+    "value": 835000
+   },
+   {
+    "label": "Pro forma operating income before occupancy costs at $3,400,000 product sales",
+    "value": 903000
+   }
+  ],
+  "quote": "The average annual sales volume of domestic traditional franchised McDonald’s restaurants open at least 1 year as of December 31, 2023, was $3,964,000 during 2023. ... The median annual sales volume of domestic traditional franchised McDonald’s restaurants open at least 1 year as of December 31, 2023, was $3,797,000 during 2023.",
+  "note": "Count is 'approximately 11,972'. Sales figures only. Pro forma operating income (based on 11,362 independent franchisee restaurants) excludes rent, royalty, depreciation and amortization, interest and income taxes; royalties during the period were 4% of Gross Sales."
+ },
+ "units": {
+  "year": 2023,
+  "franchised": 12772,
+  "company": 685,
+  "total": 13457,
+  "franchisedNetChange": 8,
+  "quote": "Franchised 2023 12,764 12,772 +8 | Company-Owned 2023 691 685 -6 | Total Outlets 2023 13,455 13,457 +2"
+ },
+ "special": "McDonald's is the landlord: besides royalty (5% for new restaurants; 4% for existing franchisees in some cases) and at least 4% advertising, the franchisee pays McDonald's a Monthly Base Rent plus Fixed Percentage Rent of Gross Sales (10.00% and up for new traditional restaurants; effective rent in 2023 ranged 0.00% to 33.30%). Item 7 totals 'do not include percentage rent or royalty'. Optional co-investment (no less than $30,000 per 0.25% quarter) to lower percentage rent, in addition to Item 7. About 20 annual technology fees paid to McDonald's. Of 20 McOpCo sales in 2023, 5 exceeded the high end of the investment range, by up to $2,297,182.",
+ "confidence": "high",
+ "issues": "Item 19 and Item 20 data are for 2023 (FDD issued 2024, amended 2025-01-01). toFranchisor computed: $45,000 fee + Base Rent $0 to $313,000 (3 months). Royalty is 5% for new restaurants, 4% for some existing-franchisee cases. No fixed local ad rate.",
+ "source": {
+  "doc": "32701-202412-04",
+  "received": "2024-12-31",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B00854694-0000-C81E-A837-45255DE7E7CE%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 368,
+  "registrant": "MCDONALD'S USA, LLC",
+  "filedName": "MCDONALD'S",
+  "type": "Clean FDD"
+ }
+}

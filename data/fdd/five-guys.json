@@ -1,0 +1,87 @@
+{
+ "slug": "five-guys",
+ "brand": "Five Guys",
+ "franchisor": "Five Guys Franchisor, LLC",
+ "issuanceDate": "2026-06-30",
+ "amendedDate": null,
+ "format": "single FIVE GUYS fast casual restaurant in leased strip-center or urban space (approx. 2,000 to 3,000 sq ft), under a mandatory Development Agreement",
+ "invest": {
+  "low": 927850,
+  "high": 1375750,
+  "toFranchisorLow": 25350,
+  "toFranchisorHigh": 25350,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to establish one FIVE GUYS® restaurant under the Development Agreement ranges from $927,850 to $1,375,750. This (i) includes $25,350 that must be paid to the franchisor or its affiliates under the Franchise Agreement and (ii) excludes $50,000 per restaurant"
+ },
+ "fee": {
+  "low": 25000,
+  "high": 25000,
+  "quote": "You must pay us an initial franchise fee of $25,000 for the right to establish a single Restaurant under a Franchise Agreement (\"Franchise Fee\").",
+  "note": "A Development Agreement is required even for one Restaurant, with a non-refundable Development Fee of $50,000 per Restaurant ($125,000 in Alaska, Hawaii or Puerto Rico) that is not applied to the Franchise Fee. Veterans Program: Franchise Fee reduced by $10,000 to $15,000 for the first Restaurant. 75% of the Franchise Fee may be refunded if no approved location is obtained within 6 months."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": 8,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Fee 6% of Gross Sales. If the Restaurant is located in Alaska, Hawaii or Puerto Rico, the Royalty Fee is 8% of Gross Sales. Weekly on Wednesdays"
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": 4,
+  "localPct": 2,
+  "quote": "Creative Fund Up to 4% of Gross Sales (Currently 2%) ... Local Advertising Not less than 2% of Gross Sales",
+  "note": "Creative Fund currently 2%, up to 4%; local advertising up to 2% of Gross Sales; cooperative up to 1.5% credited toward local advertising. Total of Creative Fund, Cooperative and Local Advertising will not exceed 4% of Gross Sales."
+ },
+ "otherRecurring": [
+  {
+   "name": "Bread Products (Five Guys Bakery)",
+   "amount": "Varies, depending on your bread product needs, weekly on Mondays",
+   "annualUsd": null
+  },
+  {
+   "name": "Cash Register Upgrades",
+   "amount": "Approximately $5,000 when incurred",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$5,000 to reimburse us for our reasonable costs and expenses in reviewing the transfer application (a similar amount is charged under both the Franchise Agreement and the Development Agreement)",
+  "usd": 5000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": false,
+  "headline": {
+   "label": null,
+   "value": null,
+   "count": null,
+   "period": null,
+   "median": null
+  },
+  "other": [],
+  "profitPct": null,
+  "quote": null,
+  "note": "We do not make any representations about a franchisee's future financial performance or the past financial performance of company-owned or franchised outlets."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 970,
+  "company": 613,
+  "total": 1583,
+  "franchisedNetChange": 25,
+  "quote": "Franchised ... 2025 945 970 +25 Company-Owned* ... 2025 613 613 0 Total Outlets ... 2025 1,558 1,583 +25"
+ },
+ "special": "Mandatory Development Agreement: $50,000 non-creditable Development Fee per Restaurant on top of the $25,000 Franchise Fee, so $75,350 is actually paid to the franchisor and affiliates per Restaurant (cover excludes the $50,000 from the investment range). Proprietary buns must be bought weekly from affiliate Five Guys Bakery. Alaska, Hawaii and Puerto Rico: $125,000 Development Fee and 8% royalty.",
+ "confidence": "high",
+ "issues": "No Item 19 financial performance representation. The cover investment range excludes the $50,000 Development Fee and $2,100 transportation expenses that are payable under the Development Agreement.",
+ "source": {
+  "doc": "37173-202608-08",
+  "received": "2026-08-19",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B304A44A0-0000-CD10-B22B-BC0BF3569AD7%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 351,
+  "registrant": "FIVE GUYS FRANCHISOR, LLC",
+  "filedName": "FIVE GUYS",
+  "type": "Clean FDD"
+ }
+}

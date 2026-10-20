@@ -1,0 +1,139 @@
+{
+ "slug": "burger-king",
+ "brand": "Burger King",
+ "franchisor": "Burger King Company LLC",
+ "issuanceDate": "2026-03-26",
+ "amendedDate": "2026-09-02",
+ "format": "Traditional Facility (freestanding BURGER KING Restaurant), excluding real estate",
+ "invest": {
+  "low": 2039200,
+  "high": 4730600,
+  "toFranchisorLow": 57750,
+  "toFranchisorHigh": 62500,
+  "excludesRealEstate": true,
+  "quote": "Traditional Facility ... Total Estimated Initial Investment 18 $2,039,200 $4,730,600 (cover: The total investment necessary to begin operation of a BURGER KING® Restaurant (“Restaurant”) is between $348,400 and $4,730,600, in all cases excluding real estate. This includes $57,750 to $62,500 that must be paid to the franchisor or its affiliates.)"
+ },
+ "fee": {
+  "low": 50000,
+  "high": 50000,
+  "quote": "The standard franchise fee for a 20-year Franchise Agreement term (including successor Franchise Agreements) is $50,000.",
+  "note": "Prorated for shorter terms, minimum currently $15,000 (typically $25,000 for a 10-year term, non-traditional sites). Plus application fee $250 per individual applicant and $5,000 for entity ownership, and $7,500 New Franchisee Training Fee per trainee. Development Agreement: prepay $50,000 per Restaurant (minimum $100,000). TRA/MTRA deposits credited against the fee."
+ },
+ "royalty": {
+  "pct": 4.5,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty2 4.5% of monthly Gross Sales2 Payable monthly on 10th day of next month"
+ },
+ "adFund": {
+  "pct": 4.5,
+  "pctHigh": null,
+  "localPct": 2,
+  "quote": "Advertising3 An amount not to exceed 4.5% of monthly Gross Sales3 ... As of January 1, 2025 the advertising contribution is 4.5% of Gross Sales",
+  "note": "Advertising contribution currently 4.5%, capped at 4.5%. Investment Spending (marketing): up to 2.0% of Gross Sales, amount determined collectively by franchisees in the DMA. Reduced rates under the 2024 Multi-Unit New Development program (royalty 2.5%-4.5%, advertising 2.0%-3.5% in years 1-5)."
+ },
+ "otherRecurring": [
+  {
+   "name": "Service Desk Fee",
+   "amount": "$750-$1,200 per year per Restaurant",
+   "annualUsd": null
+  },
+  {
+   "name": "Digital Services Fee",
+   "amount": "$110 per Restaurant per month, plus 1% of monthly digital sales; not to exceed $4,500 per Restaurant per year",
+   "annualUsd": null
+  },
+  {
+   "name": "BK University / Support & Training Material",
+   "amount": "$700 annually per Restaurant",
+   "annualUsd": 700
+  },
+  {
+   "name": "Burger King Foundation",
+   "amount": "$1,000 per Restaurant per year (purchase or fundraise in-restaurant)",
+   "annualUsd": 1000
+  },
+  {
+   "name": "Gift Card Services",
+   "amount": "Set-up fee: $40 per Restaurant; Transaction Fee: Estimated 1.8% of any redeemed sales",
+   "annualUsd": null
+  },
+  {
+   "name": "Static Menu Board Kit",
+   "amount": "$200 to $300 per month (only if no outdoor digital menu board installed)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$2,000 for the first Restaurant and $500 for each additional Restaurant transferred in the same transaction. $175 additional transfer fee per restaurant for transfers occurring on the weekend and on United States federal holidays",
+  "usd": 2000
+ },
+ "rentToFranchisor": "Only where the premises are leased from BKC (BKL/BKG): minimum annual rent typically 10% of capitalized site acquisition and construction costs (or 125% of BKC's rent plus 10% of costs), plus percentage rent which is typically 8.5% of monthly Gross Sales up to $133,333.33 and increases to 10% on monthly Gross Sales above $133,333.33 per month in excess of the monthly installment of the guaranteed minimum annual rent.",
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual sales, franchisee-owned Traditional Restaurants open the entire 12 months of 2025",
+   "value": 1692549,
+   "count": 4730,
+   "period": "January 1, 2025 - December 31, 2025",
+   "median": 1593606
+  },
+  "other": [
+   {
+    "label": "Average annual sales, company-owned Traditional Restaurants (1,017), 2025",
+    "value": 1779702
+   },
+   {
+    "label": "Median annual sales, company-owned Traditional Restaurants, 2025",
+    "value": 1685154
+   },
+   {
+    "label": "Average annual sales, all Traditional Restaurants (consolidated, 5,747), 2025",
+    "value": 1707974
+   },
+   {
+    "label": "Average annual sales, franchisee-owned Non-Traditional Restaurants (630), 2025",
+    "value": 1381645
+   },
+   {
+    "label": "Median annual sales, franchisee-owned Non-Traditional Restaurants, 2025",
+    "value": 1197033
+   },
+   {
+    "label": "Average sales, Full Size Fuel Co-Branded Restaurants (52), 2025",
+    "value": 1537710
+   },
+   {
+    "label": "Average sales, Kiosk Fuel Co-Branded Restaurants (77), 2025",
+    "value": 1009964
+   },
+   {
+    "label": "Average sales uplift %, 1,031 remodeled Traditional Restaurants (12 months after vs before)",
+    "value": 12.8
+   }
+  ],
+  "quote": "Traditional(1) ... Consolidated Company-owned Franchisee-Owned ... Average Sales $1,707,974 $1,779,702 $1,692,549 ... Median Sales $1,610,633 $1,685,154 $1,593,606 High Annual Sales $5,532,973 $4,287,457 $5,532,973 Low Annual Sales $188,523 $661,763 $188,523",
+  "note": "Sales only: THE SALES FIGURES IN THIS ITEM 19 DO NOT REFLECT THE COSTS OF SALES, OPERATING EXPENSES, OR OTHER COSTS. Only restaurants open the entire 12 months ended December 31, 2025; excludes 104 franchisee-owned Traditional Restaurants temporarily closed and 20 opened in 2025. 2,037 / 43% of franchisee-owned Traditional Restaurants met or exceeded the average."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 5518,
+  "company": 1132,
+  "total": 6650,
+  "franchisedNetChange": -6,
+  "quote": "Franchised ... 2025 5,524 5,518 -6 Company-Owned ... 2025 1,177 1,132 -45 Total Outlets ... 2025 6,701 6,650 -51"
+ },
+ "special": "Investment excludes real estate (Item 7 note 3: buying unimproved land for a freestanding facility may cost $250,000 to $2,000,000). If BKC is the landlord, percentage rent is typically 8.5% of monthly Gross Sales (10% above $133,333.33/month) on top of royalty and advertising. Remodel deadlines missed under Reclaim the Flame 2 / Sizzle Jr. programs raise royalty by 3.0%; deferred remodel default royalty 6.0% or 7.5%. 2024 Carrols acquisition turned 1,023 franchised Restaurants into company-owned.",
+ "confidence": "high",
+ "issues": "toFranchisor $57,750-$62,500 is the cover figure for all formats, not specific to the Traditional Facility. Cover investment range $348,400-$4,730,600 spans all formats; the Traditional low $2,039,200 is used.",
+ "source": {
+  "doc": "37219-202609-03",
+  "received": "2026-09-02",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BC05B91A0-0000-C719-87E1-5D6CC28097DC%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 1043,
+  "registrant": "BURGER KING COMPANY LLC",
+  "filedName": "Burger King",
+  "type": "Clean FDD"
+ }
+}

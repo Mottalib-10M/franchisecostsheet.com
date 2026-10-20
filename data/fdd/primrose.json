@@ -1,0 +1,154 @@
+{
+ "slug": "primrose",
+ "brand": "Primrose Schools",
+ "franchisor": "Primrose School Franchising SPE, LLC",
+ "issuanceDate": "2026-04-24",
+ "amendedDate": null,
+ "format": "single new ground-up build Primrose School (New-Build School, typical one-story; excludes land acquisition)",
+ "invest": {
+  "low": 5016600,
+  "high": 7960300,
+  "toFranchisorLow": 175000,
+  "toFranchisorHigh": 273000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin ownership of a Primrose ® franchise for a new, ground-up build School is $5,016,600 to $7,960,300. This includes $175,000 to $273,000 that must be paid to the franchisor or an affiliate."
+ },
+ "fee": {
+  "low": 80000,
+  "high": 80000,
+  "quote": "The initial franchise fee for a Primrose franchise (the \"Initial Fee\") for a new franchisee for a new School is $80,000. If you are an existing franchisee that meets our qualifications, the Initial Fee for a new School will be $70,000.",
+  "note": "Existing franchisees $70,000; VetFran veterans/U.S. Armed Forces $50,000 for the first School; buyer of an existing School pays 60% of the then-current existing-franchisee fee. Also paid to franchisor: Real Estate Fee $25,000 to $70,000 depending on program, Initial Training Fee $35,000, plus reimbursement of Development Expenses (with 10% interest) under the Real Estate Development and Permanent Lease Programs."
+ },
+ "royalty": {
+  "pct": 7,
+  "pctHigh": null,
+  "basis": "gross revenues",
+  "flat": null,
+  "quote": "Continuing Services and Royalty Fee (the \"Royalty Fee\") 7% of Gross Revenues Payable monthly on the 10th day of the next month"
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": 3,
+  "localPct": 1,
+  "quote": "Brand Fund Fee Currently, 2% of Gross Revenues, but may be increased by us at any time, but not more than a total of 3% of Gross Revenues ... Local Advertising 1% of Gross Revenues for the preceding month or $1,000, whichever is greater",
+  "note": "Brand Fund currently 2%, up to 3%. Local advertising spend: greater of 1% of Gross Revenues or $1,000 per month. Cooperatives (up to 1%, up to 2% by vote) exist in markets with ten or more Schools but are being dissolved as of June 30, 2026. Grand opening minimum $75,000 to $100,000."
+ },
+ "otherRecurring": [
+  {
+   "name": "Academic Curriculum Material License Fee",
+   "amount": "Currently, $4,000 per School annually",
+   "annualUsd": 4000
+  },
+  {
+   "name": "Local Advertising (minimum spend)",
+   "amount": "1% of Gross Revenues for the preceding month or $1,000, whichever is greater",
+   "annualUsd": null
+  },
+  {
+   "name": "Computer maintenance, support and upgrades (franchisor estimate)",
+   "amount": "approximately $6,000 to $13,000 per year",
+   "annualUsd": null
+  },
+  {
+   "name": "Conference and Meeting Registration Fees",
+   "amount": "ranges from $500 to $1,299 per attendee",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "For any Control Transfer, (i) you must pay a transfer fee of 40% of the then-current Initial Fee for existing franchisees purchasing a new School, plus all costs and expenses incurred by us and (ii) your transferee must pay a non-refundable Initial Fee equal to 60% of the then-current Initial Fee for existing franchisees purchasing a new School. Transfer Training and Support Fee currently $35,000.",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Revenue of franchised Schools open all of 2025 is printed only by occupancy-rate quartile (130 Schools each); no all-School average or median is printed",
+   "value": null,
+   "count": 520,
+   "period": "calendar 2025",
+   "median": null
+  },
+  "other": [
+   {
+    "label": "Average annual Gross Revenue, top occupancy quartile (130 Schools, 94% occupancy), 2025",
+    "value": 3586393
+   },
+   {
+    "label": "Average annual Gross Revenue, second quartile (130 Schools, 83%), 2025",
+    "value": 3109936
+   },
+   {
+    "label": "Average annual Gross Revenue, third quartile (130 Schools, 72%), 2025",
+    "value": 2513577
+   },
+   {
+    "label": "Average annual Gross Revenue, bottom quartile (130 Schools, 52%), 2025",
+    "value": 1909787
+   },
+   {
+    "label": "Average EBITDA (dollar amount, after rent, before owner compensation), top quartile of 357 rent-reporting Schools, 2025",
+    "value": 768966
+   },
+   {
+    "label": "Average EBITDA as % of Gross Revenue, top quartile rent-reporting Schools, 2025",
+    "value": 21.6
+   },
+   {
+    "label": "Average EBITDA as % of Gross Revenue, second quartile rent-reporting Schools, 2025",
+    "value": 17.8
+   },
+   {
+    "label": "Average EBITDA as % of Gross Revenue, third quartile rent-reporting Schools, 2025",
+    "value": 13.2
+   },
+   {
+    "label": "Average EBITDA as % of Gross Revenue, bottom quartile rent-reporting Schools, 2025",
+    "value": 8.2
+   },
+   {
+    "label": "Average EBITDAR as % of Gross Revenue (before rent), top quartile of 405 Included Schools, 2025",
+    "value": 30.8
+   },
+   {
+    "label": "Average EBITDAR as % of Gross Revenue, bottom quartile of 405 Included Schools, 2025",
+    "value": 25.3
+   },
+   {
+    "label": "Average rent as % of Gross Revenue, top quartile rent-reporting Schools (89), 2025",
+    "value": 9.5
+   },
+   {
+    "label": "Average annual Gross Revenue in 2025, Schools opened in 2024 (16), all new Schools",
+    "value": 1943324
+   },
+   {
+    "label": "Average rent as % of Gross Revenue, bottom quartile rent-reporting Schools (90), 2025",
+    "value": 16.7
+   }
+  ],
+  "quote": "Average Annual Gross Revenue $3,586,393 $3,109,936 $2,513,577 $1,909,787 (Top, Second, Third, Bottom Quartile by occupancy; # of Schools 130 130 130 130)",
+  "note": "Sales by occupancy quartile; P&L for 405 Schools that reported (115 did not). EBITDA/EBITDAR exclude owner compensation; Advertising and Royalty about 10% of revenue. Excludes 33 Schools opened in 2025 and 5 Primrose on Premise Schools. Unaudited.",
+  "profitPct": null
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 557,
+  "company": 0,
+  "total": 557,
+  "franchisedNetChange": 32,
+  "quote": "Franchised 2023 483 505 +22 2024 505 525 +20 2025 525 557 +32 Company-Owned ... 2025 0 0 0 Total Schools ... 2025 525 557 +32"
+ },
+ "special": "Very high capital project: development costs $4,254,600 to $6,202,500 for a new build, often owned through a Real Estate Affiliate, plus reimbursement to the franchisor of its Development Expenses with 10% interest. An affiliate (PSFC) may give a limited rent guarantee for a 5% fee. Royalty and Brand Fund are charged on billed tuition at franchisor-prescribed billing and discount limits, whether or not collected. Item 19 shows EBITDA after rent from 8.2% (bottom quartile) to 21.6% (top quartile) of revenue, before owner pay and debt service.",
+ "confidence": "medium",
+ "issues": "No all-School average/median AGR or overall EBITDA margin is printed (only quartiles), so headline value and profitPct are null. Item 19 says 558 Schools open at end of 2025 while Item 20 Table 1 shows 557. Transfer fee only as a % (40% of existing-franchisee fee), no dollar figure. Issuance date taken from 'We issued this Disclosure Document on April 24, 2026'.",
+ "source": {
+  "doc": "36231-202604-08",
+  "received": "2026-04-27",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B8055439F-0000-C656-8E3A-606233CE8CA5%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 412,
+  "registrant": "PRIMROSE SCHOOL FRANCHISING SPE, LLC",
+  "filedName": "PRIMROSE SCHOOLS",
+  "type": "Clean FDD"
+ }
+}

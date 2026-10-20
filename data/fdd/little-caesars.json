@@ -1,0 +1,106 @@
+{
+ "slug": "little-caesars",
+ "brand": "Little Caesars",
+ "franchisor": "Little Caesar Enterprises, Inc.",
+ "issuanceDate": "2026-03-27",
+ "amendedDate": null,
+ "format": "single Little Caesars restaurant franchise (leased site, 1,200 to 1,600 square feet)",
+ "invest": {
+  "low": 376500,
+  "high": 1769200,
+  "toFranchisorLow": 277000,
+  "toFranchisorHigh": 504000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a single Little Caesars® restaurant franchise ranges from $376,500 to $1,769,200. This includes $277,000 to $504,000 that must be paid to us or our affiliate."
+ },
+ "fee": {
+  "low": 20000,
+  "high": 20000,
+  "quote": "Franchise fee. The standard initial franchise fee is $20,000. However, we reduce the initial franchise fee in certain circumstances, as described below in this item.",
+  "note": "Reduced by $5,000 (to $15,000) for honorably discharged U.S. military veterans and qualified first responders, waived for combat-disabled veterans and Gold Star families (first Restaurant only); $7,500 for a Food Truck. Fees collected last fiscal year ranged from $0 to $20,000. Also a $15,000 grand opening advertising fee paid to the franchisor (or $15,000 minimum self-spend)."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": "minimum $300 for each one-week period",
+  "quote": "Royalty The greater of 6% of Gross Sales for each one-week period or $300 for each one-week period"
+ },
+ "adFund": {
+  "pct": null,
+  "pctHigh": 7,
+  "localPct": null,
+  "quote": "Advertising Fee Up to 7% of Gross Sales, as determined by us ... We allocate your total advertising obligation among contributions to a system-wide fund called Caesar Fund, contributions to an advertising cooperative (if applicable), and expenditures on local advertising.",
+  "note": "Up to 7% of Gross Sales (unless the advertising Cooperative agrees to more), split by the franchisor among Caesar Fund, cooperative and local advertising. No current rate printed."
+ },
+ "otherRecurring": [
+  {
+   "name": "Caesar Vision system annual support fee",
+   "amount": "Up to $3,750 per year per Restaurant; currently $3,120 per year per Restaurant (payable to Blue Line)",
+   "annualUsd": 3120
+  },
+  {
+   "name": "Digital transactions fee",
+   "amount": "Up to $0.40 per transaction – currently $0.36, plus, if applicable, a third party aggregator fee of up to $0.10 per transaction",
+   "annualUsd": null
+  },
+  {
+   "name": "Security and technology fee",
+   "amount": "Up to $0.09 per credit or debit transaction – currently $0.06",
+   "annualUsd": null
+  },
+  {
+   "name": "Learning Management System (LMS) fee",
+   "amount": "Currently $260 per year per Restaurant",
+   "annualUsd": 260
+  },
+  {
+   "name": "Restaurant Dashboard system fee",
+   "amount": "$25 Monthly (if installed or required)",
+   "annualUsd": 300
+  },
+  {
+   "name": "Late-to-Portal fee (delivery)",
+   "amount": "$0.50 per late order",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$5,000 per Restaurant for a transfer that changes control of the Franchisee or the Restaurant; $1,000 per Restaurant for a transfer that does not change control",
+  "usd": 5000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": false,
+  "headline": {
+   "label": "No financial performance representation",
+   "value": null,
+   "count": null,
+   "period": null,
+   "median": null
+  },
+  "other": [],
+  "quote": "We do not make any representations about a franchisee's future financial performance or the past financial performance of company-owned or franchised outlets.",
+  "note": "We do not make any representations about a franchisee's future financial performance or the past financial performance of company-owned or franchised outlets."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 3788,
+  "company": 586,
+  "total": 4374,
+  "franchisedNetChange": 87,
+  "quote": "Franchised ... 2025 3,701 3,788 +87 Company-Owned ... 2025 580 586 +6 Total Outlets ... 2025 4,281 4,374 +93"
+ },
+ "special": "Required purchases from franchisor affiliate Blue Line: equipment and technology $235,000 to $460,000 before opening, opening order $7,000 to $9,000, and most food, paper products, supplies and equipment afterwards. This is why $277,000 to $504,000 of the investment is paid to the franchisor or its affiliate. Royalty has a $300 per week minimum. Refurbishment may be required every 5 years (up to $150,000).",
+ "confidence": "high",
+ "issues": "Advertising Fee current percentage not printed (only 'Up to 7%'). Item 19 not published. Investment assumes leased premises (one month's rent only).",
+ "source": {
+  "doc": "36134-202604-03",
+  "received": "2026-04-22",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B60B86E9E-0000-CE16-B960-2ACFD8534AA0%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 372,
+  "registrant": "LITTLE CAESAR ENTERPRISES INC",
+  "filedName": "LITTLE CAESARS",
+  "type": "Clean FDD"
+ }
+}

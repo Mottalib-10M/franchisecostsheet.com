@@ -1,0 +1,133 @@
+{
+ "slug": "dennys",
+ "brand": "Denny's",
+ "franchisor": "DFO, LLC",
+ "issuanceDate": "2026-04-30",
+ "amendedDate": "2026-05-20",
+ "format": "traditional Denny's Diner 2.0 restaurant (approx. 4,200 sq ft, 150 seats)",
+ "invest": {
+  "low": 1618574.75,
+  "high": 3055924.75,
+  "toFranchisorLow": 30000,
+  "toFranchisorHigh": 75000,
+  "excludesRealEstate": true,
+  "quote": "From $1,618,574.75 to $3,055,924.75 for a Denny's Diner 2.0 facility; ... This includes the initial franchise fee of $ 30,000 and the New Restaurant Opening fee of $0 to $45,000, for a total of $30,000 to $75,000"
+ },
+ "fee": {
+  "low": 30000,
+  "high": 30000,
+  "quote": "You must pay us an initial franchise fee of $30,000 for each traditional Denny's franchise.",
+  "note": "New Restaurant Opening training team fee $0 to $45,000 also payable to franchisor. The Den by Denny's: $10,000. Successor agreement: $10,000 (10-year) or $30,000 (20-year). IGP Development Agreement: $5,000 deposit; Denny's contributes a $75,000 development incentive per restaurant plus a 2% royalty reduction for up to 5 years or $225,000. Scrape and Rebuild/Offset Program: no initial fee."
+ },
+ "royalty": {
+  "pct": 4.5,
+  "pctHigh": 7,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Fee 4.5% - 7%2 of your Gross Sales Payable weekly ... NOTE 2: The Royalty Fee for a Denny's within a Travel Center or a standard restaurant without a development incentive is 4.5% of your weekly gross sales."
+ },
+ "adFund": {
+  "pct": 3,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Brand Building Fee 3% of your Gross Sales4 Payable weekly ... Local Advertising Coop Fee As determined by the Coop",
+  "note": "Local advertising co-op fee as determined by the co-op."
+ },
+ "otherRecurring": [
+  {
+   "name": "Standard Enterprise Technology Platform Support Fee",
+   "amount": "$55 Weekly",
+   "annualUsd": null
+  },
+  {
+   "name": "Xenial Software Subscription Fee",
+   "amount": "$125 Monthly",
+   "annualUsd": 1500
+  },
+  {
+   "name": "DINE Software Subscription Fee",
+   "amount": "$48.65 Monthly",
+   "annualUsd": null
+  },
+  {
+   "name": "Verifone Payment Terminal",
+   "amount": "$28 per device Monthly",
+   "annualUsd": null
+  },
+  {
+   "name": "Endpoint Protection",
+   "amount": "$25 per device Annual",
+   "annualUsd": null
+  },
+  {
+   "name": "Denny's on Demand (Olo)",
+   "amount": "$250 Activation; $70 Monthly; $0.09 per order",
+   "annualUsd": null
+  },
+  {
+   "name": "Menus",
+   "amount": "$500 to $850 ... 2 required times per year",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "To be determined by Company from time to time, currently $5,000 per restaurant, and $7,500 for every restaurant which changes owners past its remodel due date.",
+  "usd": 5000
+ },
+ "rentToFranchisor": "If Denny's, Inc. (DI, affiliate) owned and operated the Restaurant, you must sign a (Sub)Lease with DI: 'Minimum weekly rental payments range from $710 to $6,790 or more. In addition to a minimum rental payment, you will also be required to make percentage rental payments based upon the Gross Sales for the Restaurant less any amounts paid for minimum rent.' The percentage is left blank in the lease form; DI also receives 75% of sub-sublease rent in excess of rent paid to DI.",
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual net sales, traditional franchised Denny's restaurants open all 12 months of fiscal 2025 (excl. The Den and restaurants closed at least one month)",
+   "value": 1951330,
+   "count": 1178,
+   "period": "fiscal 2025 (53 weeks)",
+   "median": 1829472
+  },
+  "other": [
+   {
+    "label": "Highest net sales, franchised restaurants, 2025",
+    "value": 4393305
+   },
+   {
+    "label": "Lowest net sales, franchised restaurants, 2025",
+    "value": 553769
+   },
+   {
+    "label": "Average net sales, franchised restaurants, 2024 (1,237 units)",
+    "value": 1918224
+   },
+   {
+    "label": "Average net sales, franchised restaurants, 2023 (1,304 units)",
+    "value": 1868092
+   },
+   {
+    "label": "Same store sales change, franchised restaurants open 18+ months, 2025 (%)",
+    "value": -2.7
+   }
+  ],
+  "profitPct": null,
+  "quote": "Number of domestic restaurants (open for all 12 months) 1,178 1,237 1,304 Average Net Sales 1,951,330 1,918,224 1,868,092 ... Median Net Sales 1,829,472 1,805,776 1,766,751",
+  "note": "Sales only, no costs or profit. 2025 is a 53-week year (2023 and 2024 are 52-week). Excludes The Den restaurants and restaurants closed at least one month. Unaudited franchisee reports."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1212,
+  "company": 62,
+  "total": 1274,
+  "franchisedNetChange": -61,
+  "quote": "Franchised ... 2025 1273 1212 -61 Company-Owned2 ... 2025 61 62 +1 Total Outlets1 ... 2025 1334 1274 -60"
+ },
+ "special": "Investment excludes land (real estate may range from $300,000 to $1,500,000 or more). Restaurants bought from the company are subleased from affiliate DI with minimum plus percentage rent. Royalty 7% for The Den. During a month-to-month lease transition the franchisor may temporarily charge a higher royalty rate. The company is selling its company-owned outlets.",
+ "confidence": "high",
+ "issues": "Investment figures include cents ($1,618,574.75 / $3,055,924.75); kept with cents rather than rounded. Percentage rent rate under DI subleases is not printed (blank in lease form).",
+ "source": {
+  "doc": "36684-202605-04",
+  "received": "2026-05-20",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B4028999E-0000-C913-A806-D4F1B5F05B5F%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 416,
+  "registrant": "DFO, LLC",
+  "filedName": "DENNY'S",
+  "type": "Clean FDD"
+ }
+}

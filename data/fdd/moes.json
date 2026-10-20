@@ -1,0 +1,147 @@
+{
+ "slug": "moes",
+ "brand": "Moe's Southwest Grill",
+ "franchisor": "Moe's Franchisor SPV LLC",
+ "issuanceDate": "2026-03-27",
+ "amendedDate": null,
+ "format": "Traditional restaurant (about 2,200 sq ft) in an in-line or endcap retail plaza space; freestanding building costs more (up to $1,968,450)",
+ "invest": {
+  "low": 644425,
+  "high": 1401650,
+  "toFranchisorLow": 35659,
+  "toFranchisorHigh": 104502,
+  "excludesRealEstate": true,
+  "quote": "Total Initial Investment – Endcap and Inline23 $644,425 $1,401,650 Total Initial Investment – Freestanding23 $644,425 $1,968,450"
+ },
+ "fee": {
+  "low": 35500,
+  "high": 35500,
+  "quote": "When you sign your Franchise Agreement you must pay us an initial franchise fee (the “Initial Franchise Fee”) of $35,500.",
+  "note": "VetFran: Initial Franchise Fee is $20,000 for qualifying veterans or members of the Armed Forces. Reductions possible case by case (existing operators, reopening a closed Restaurant, multi-unit operators). During 2025 franchisees paid Initial Franchise Fees ranging from $4,500 to $20,500. Grand opening advertising minimum $25,000 ($35,000 if first in a Designated Market Area)."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "net sales",
+  "flat": null,
+  "quote": "Royalty Fee 5% of Net Sales. Payable weekly on the date specified in the Manuals (the “Payment Due Date”)"
+ },
+ "adFund": {
+  "pct": 3,
+  "pctHigh": 4,
+  "localPct": 1,
+  "quote": "Advertising Contribution Currently, 3% of Net Sales, but it may be increased to up to 4% of Net Sales.",
+  "note": "Currently 3%, up to 4% of Net Sales. Local Marketing Obligation: currently not less than 1% of Net Sales each calendar quarter. Advertising Cooperative contribution may also apply."
+ },
+ "otherRecurring": [
+  {
+   "name": "POS System License and Lease Fees",
+   "amount": "Currently, $159 to $454 per month under the CapEx Program and $332 to $902 per month under the HaaS Program",
+   "annualUsd": null
+  },
+  {
+   "name": "POS System Support Fee",
+   "amount": "Currently, between $125 and $250 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Ordering Support Fee",
+   "amount": "Currently, 3% of the pre-tax transaction amount for each transaction that is processed through our online ordering system",
+   "annualUsd": null
+  },
+  {
+   "name": "Online Ordering Fee",
+   "amount": "Currently, $111 per month, plus a per transaction fee (currently, 0.04% per transaction)",
+   "annualUsd": null
+  },
+  {
+   "name": "Loyalty App Fee",
+   "amount": "Currently, $66 per month",
+   "annualUsd": 792
+  },
+  {
+   "name": "Gift card processor",
+   "amount": "$4.50 per Restaurant per month",
+   "annualUsd": 54
+  },
+  {
+   "name": "Learning Management System License Fee",
+   "amount": "Currently, $210 per year",
+   "annualUsd": 210
+  },
+  {
+   "name": "Supply Chain Fee",
+   "amount": "Currently, $0.61 to $0.91 per case purchased through certain Appointed Distributors",
+   "annualUsd": null
+  },
+  {
+   "name": "Sublease Administration Fee",
+   "amount": "Currently, $200 per month (only if you sublease a Restaurant from us)",
+   "annualUsd": 2400
+  }
+ ],
+ "transferFee": {
+  "amount": "50% of the then-current Initial Franchise Fee if it is a Control Transfer; if it is a transfer to a related party or that is not a Control Transfer, 10% of the then-current Initial Franchise Fee.",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average net sales, franchised Traditional Franchises reporting all 52 weeks (excludes non-traditional, co-branded and affiliate-owned)",
+   "value": 1182975,
+   "count": 464,
+   "period": "fiscal 2025 (ended December 28, 2025)",
+   "median": 1137571
+  },
+  "other": [
+   {
+    "label": "Average net sales, top quartile (116), fiscal 2025, dollars",
+    "value": 1753026
+   },
+   {
+    "label": "Average net sales, 2nd quartile (116), fiscal 2025, dollars",
+    "value": 1254386
+   },
+   {
+    "label": "Average net sales, 3rd quartile (116), fiscal 2025, dollars",
+    "value": 1005591
+   },
+   {
+    "label": "Average net sales, bottom quartile (116), fiscal 2025, dollars",
+    "value": 718897
+   },
+   {
+    "label": "Lowest net sales, fiscal 2025, dollars",
+    "value": 456437
+   },
+   {
+    "label": "Highest net sales, fiscal 2025, dollars",
+    "value": 3033274
+   }
+  ],
+  "profitPct": null,
+  "quote": "Total $1,182,975 205/464 (44%) $1,137,571 $456,437 $3,033,274 (average net sales, number attaining average, median, lowest, highest; Traditional Franchises, Fiscal Year 2025)",
+  "note": "Sales only: 'These sales figures do not reflect the costs of sales, operating expenses or other costs or expenses'. Excludes 11 Traditional Franchises not reporting all 52 weeks (incl. 5 opened in 2025) and 33 that permanently closed in 2025; excludes non-traditional, co-branded and affiliate-owned Restaurants. Unaudited franchisee reports."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 563,
+  "company": 5,
+  "total": 568,
+  "franchisedNetChange": -28,
+  "quote": "Franchised 2025 591 563 -28 Company-Owned 2025 5 5 +0 Total Outlets 2025 596 568 -28"
+ },
+ "special": "Many ancillary fees are paid to the franchisor or affiliates (Ordering Support Fee 3% of online/catering transactions, POS license/lease fees passed through at cost plus 0.5% admin, supply chain fee per case collected from distributors). If you sublease from the franchisor, a $200 monthly Sublease Administration Fee is added to rent.",
+ "confidence": "high",
+ "issues": "Item 19 note says 463 of 474 Traditional Franchises are represented, but the table total row shows 464 (4 x 116). Item 7 includes only one month of rent; real estate purchase not estimated. Transfer fee not printed in dollars (50% of $35,500 would be $17,750). System outlets shrank 3 years in a row.",
+ "source": {
+  "doc": "35791-202604-09",
+  "received": "2026-04-01",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B50B46E9E-0000-C41C-A772-54F9F296ADFB%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 378,
+  "registrant": "MOE'S FRANCHISOR SPV LLC",
+  "filedName": "MOE'S SOUTHWEST GRILL",
+  "type": "Clean FDD"
+ }
+}

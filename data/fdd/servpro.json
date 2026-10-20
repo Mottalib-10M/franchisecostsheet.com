@@ -1,0 +1,102 @@
+{
+ "slug": "servpro",
+ "brand": "SERVPRO",
+ "franchisor": "Servpro Franchisor, LLC",
+ "issuanceDate": "2026-04-15",
+ "amendedDate": null,
+ "format": "single Servpro associate license (one territory of 50,000 to 80,000 population, home/office based, at least 1 vehicle)",
+ "invest": {
+  "low": 263305,
+  "high": 385570,
+  "toFranchisorLow": 212000,
+  "toFranchisorHigh": 212000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Servpro franchise for an associate license is from $263,305 to $385,570. This includes $212,000 that must be paid to the franchisor or its affiliate."
+ },
+ "fee": {
+  "low": 100000,
+  "high": 100000,
+  "quote": "The Standard Purchase Price is $212,000. It includes an initial franchise license fee of $100,000 and a standard Equipment and Products Package costing $112,000. The minimum initial franchise fee is $100,000.",
+  "note": "The $112,000 Equipment and Products Package must be bought from a franchisor affiliate at signing. 2.5% ($5,300) discount for cash payment or note paid within 90 days. Extra territory $1,110 per 1,000 population above the maximum. Conversion candidates may buy a smaller package (about $25,000 to $75,000)."
+ },
+ "royalty": {
+  "pct": 3,
+  "pctHigh": 10,
+  "basis": "gross volume (tiered by monthly volume)",
+  "flat": "Fixed fee $45-$115 based on Your monthly Gross Volume; Minimum royalty fee $100 Monthly",
+  "quote": "Royalty fee Currently ranges from 3% to 10% of Your monthly Gross Volume with a 10% cap ... Fixed fee $45-$115 based on Your monthly Gross Volume ... Minimum royalty fee $100 Monthly"
+ },
+ "adFund": {
+  "pct": 2.5,
+  "pctHigh": 3,
+  "localPct": null,
+  "quote": "Brand Fund Fee 3% of Your monthly Gross Volume ... We may collect up to 3% of Your monthly Gross Volume as a Brand Fund Fee. Currently, we collect 2 ½ % of Your monthly Gross Volume (not including Gross Volume from Reduced Rate Services) subject to a \"cap\" of $1,550,000.",
+  "note": "Currently 2.5%, up to 3%; 0.25% on Reduced Rate Services; contributions capped at $1,550,000 of Gross Volume. Local advertising at franchisee's discretion (no fixed minimum in Item 6)."
+ },
+ "otherRecurring": [
+  {
+   "name": "Software License and Technology Agreement (WorkCenter)",
+   "amount": "$200 per month per franchise license, beginning the 1st day of the third month after You sign",
+   "annualUsd": 2400
+  },
+  {
+   "name": "Fixed fee (with royalty)",
+   "amount": "$45-$115 based on Your monthly Gross Volume",
+   "annualUsd": null
+  },
+  {
+   "name": "Lead fee",
+   "amount": "A fee not to exceed $75 for each lead referred by Us and Our affiliates; additional fee not to exceed $50 per lead where the client pays Us",
+   "annualUsd": null
+  },
+  {
+   "name": "Program fees on referred jobs",
+   "amount": "Servpro Disaster Response Program Fee 5% of your Gross Volume for each job; Commercial Select Program Fee up to 5%; Commercial Job Fee not to exceed 10% of total invoice",
+   "annualUsd": null
+  },
+  {
+   "name": "Annual Convention registration",
+   "amount": "In-person and virtual registration fees per attendee (virtual $359 to $459), deducted from Convention Allowance if available",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Up to $35,000 Before transfer is effective; Resale referral fee up to 10% of gross sales price if franchisor finds the buyer",
+  "usd": 35000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": false,
+  "headline": {
+   "label": null,
+   "value": null,
+   "count": null,
+   "period": null,
+   "median": null
+  },
+  "other": [],
+  "quote": null,
+  "note": "We do not make any representations about a franchisee's future financial performance or the past financial performance of company-owned or franchised outlets.",
+  "profitPct": null
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 2354,
+  "company": 0,
+  "total": 2354,
+  "franchisedNetChange": 68,
+  "quote": "Franchised 2023 2114 2202 +88 2024 2202 2286 +84 2025 2286 2354 +68 Company Owned ... 2025 0 0 0 Total Outlets ... 2025 2286 2354 +68"
+ },
+ "special": "Royalty is a sliding scale on monthly Gross Volume (10% up to $13,196.99, then 9%, 8%, 7.5%, 7%, and marginal 6.5% down to 5% above $219,947), plus a $45-$115 monthly Fixed Fee; reconstruction work can qualify for Reduced Rate Royalty (5% until $43,989 year-to-date, then a declining scale starting at 4.5%). Jobs from national accounts, disaster response and commercial programs carry extra per-lead fees and 5%-10% program fees withheld by the franchisor, which collects payment from the client. Up to 10% of royalties may be returned as a Convention Allowance. $112,000 equipment package bought from an affiliate.",
+ "confidence": "high",
+ "issues": "Transfer fee printed as 'Up to $35,000' (maximum used). Royalty pct/pctHigh taken from the Item 6 range 3%-10% which includes Reduced Rate Services; core restoration services range 10% to 5%.",
+ "source": {
+  "doc": "36010-202604-03",
+  "received": "2026-04-16",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B3003049E-0000-C414-89E1-0C295E6123C8%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 401,
+  "registrant": "SERVPRO FRANCHISOR, LLC",
+  "filedName": "SERVPRO (UNIT)",
+  "type": "Clean FDD"
+ }
+}

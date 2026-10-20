@@ -1,0 +1,115 @@
+{
+ "slug": "jimmy-johns",
+ "brand": "Jimmy John's",
+ "franchisor": "Jimmy John's Franchisor SPV, LLC",
+ "issuanceDate": "2026-03-26",
+ "amendedDate": null,
+ "format": "JIMMY JOHN'S Restaurant at a traditional location (leased, including initial real estate lease costs)",
+ "invest": {
+  "low": 366200,
+  "high": 733500,
+  "toFranchisorLow": 5000,
+  "toFranchisorHigh": 39400,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a JIMMY JOHN'S® Restaurant at a traditional location is $366,200 to $733,500 (including initial real estate lease costs). This includes $5,000 to $39,400 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 35000,
+  "high": 35000,
+  "quote": "Standard Traditional Restaurant $35,000",
+  "note": "$12,500 (or $5,000 for an existing franchisee in good standing) for a Traditional Restaurant previously operated and closed within the last year; $17,500 for Non-Traditional Locations. Initial training for 2 people included; $1,000 per week per additional trainee. Development Agreement: $10,000 per Restaurant, balance of the franchise fee due at signing of each Franchise Agreement. Fees charged in fiscal 2025 ranged from $0 to $35,000."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "weekly gross sales",
+  "flat": null,
+  "quote": "Royalty 6% of Restaurant's weekly Gross Sales2 Due on Wednesday of each week on Gross Sales during previous week ending Tuesday"
+ },
+ "adFund": {
+  "pct": 4.5,
+  "pctHigh": null,
+  "localPct": 2,
+  "quote": "Advertising and Development Fund Up to 4.5% of Restaurant's weekly Gross Sales (currently the full 4.5%) or 2.25% for Non-Traditional Locations ... Cooperative Advertising Programs Up to 2% of Restaurant's Gross Sales",
+  "note": "Currently 4.5% (2.25% for Non-Traditional Locations); cooperative advertising up to 2%. Standard and Strategic incentive programs (signed by March 31, 2027) give a $125,000 or $175,000 Royalty credit per new Restaurant and reduced fund contributions."
+ },
+ "otherRecurring": [
+  {
+   "name": "Franchisee Convention",
+   "amount": "Up to $500 per convention attended",
+   "annualUsd": null
+  },
+  {
+   "name": "Regional Advisory Council",
+   "amount": "Council Assessments, when billed (amount varies among councils)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$12,500 if transfer is of Restaurant, or controlling ownership interest in you or your owners, and transferee is not an existing JIMMY JOHN'S Restaurant franchisee that has operated at least 1 JIMMY JOHN'S Restaurant for 1 full year ($7,500 for such an existing franchisee; $2,500 for immediate family; $1,000 for non-controlling interest)",
+  "usd": 12500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average AUV (annual Gross Sales), franchised Jimmy John's Restaurants open all of 2025 (2,556 traditional and 25 Non-Traditional)",
+   "value": 1007437,
+   "count": 2581,
+   "period": "fiscal 2025 (December 30, 2024 to December 28, 2025)",
+   "median": 955639
+  },
+  "other": [
+   {
+    "label": "Average AUV, traditional locations with drive-thru (972), 2025",
+    "value": 1107798
+   },
+   {
+    "label": "Median AUV, traditional locations with drive-thru, 2025",
+    "value": 1073927
+   },
+   {
+    "label": "Average AUV, traditional locations without drive-thru (1,584), 2025",
+    "value": 943539
+   },
+   {
+    "label": "Median AUV, traditional locations without drive-thru, 2025",
+    "value": 893888
+   },
+   {
+    "label": "Average AUV, Non-Traditional locations (25), 2025",
+    "value": 1085163
+   },
+   {
+    "label": "Average AUV, 1st (top) quartile (645), 2025",
+    "value": 1490247
+   },
+   {
+    "label": "Average AUV, 4th (bottom) quartile (646), 2025",
+    "value": 608313
+   }
+  ],
+  "quote": "All Restaurants 2,581 $3,046,579 $955,639 $159,965 $1,007,437 1,241 / 48.0%",
+  "note": "Gross Sales only; no costs of sales or operating expenses. Excludes 123 opened in 2025, 12 closed for extended periods, 38 at Multi-Brand Locations, 33 closed in 2025, and all company-owned restaurants. 1,241 / 48.0% above average."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 2737,
+  "company": 40,
+  "total": 2777,
+  "franchisedNetChange": 90,
+  "quote": "Franchised ... 2025 2647 2737 90 Company-Owned ... 2025 42 40 -2 Total Outlets ... 2025 2689 2777 88"
+ },
+ "special": "Royalty and fund contributions are computed and paid weekly. Investment assumes leased premises and excludes real estate purchase or building construction. New-unit incentives give large Royalty credits ($125,000 Standard Markets, $175,000 Strategic Markets) that lower effective royalty in early years.",
+ "confidence": "high",
+ "issues": "Cover says traditional total includes initial real estate lease costs while Item 7 total is labeled excluding real estate purchase costs (consistent: leased, no purchase). The list of Standard and Strategic Markets is not printed in the extracted text.",
+ "source": {
+  "doc": "35680-202603-02",
+  "received": "2026-03-29",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B0030649D-0000-C43D-A122-CF17DEE04B59%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 338,
+  "registrant": "JIMMY JOHN'S FRANCHISOR SPV, LLC",
+  "filedName": "JIMMY JOHN'S",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "slug": "dairy-queen",
+ "brand": "Dairy Queen",
+ "franchisor": "American Dairy Queen Corporation",
+ "issuanceDate": "2026-03-26",
+ "amendedDate": null,
+ "format": "single DQ Grill & Chill restaurant (newly constructed freestanding quick service restaurant with seating), excluding land",
+ "invest": {
+  "low": 1510100,
+  "high": 2550100,
+  "toFranchisorLow": 45000,
+  "toFranchisorHigh": 45000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a single DQ Grill & Chill® franchise is $1,510,100.00 - $2,550,100.00. This includes the $45,000 that must be paid to the franchisor or affiliate for the initial franchise fee and management training readiness assessment."
+ },
+ "fee": {
+  "low": 45000,
+  "high": 45000,
+  "quote": "You must pay ADQ a $45,000 initial franchise fee for a single franchise, the first $10,000 of which is a non-refundable deposit due when you submit a franchise application",
+  "note": "No initial franchise fee for conversion franchisees or existing franchisees relocating under ADQ's relocation policy; reduced non-refundable fee possible for previously closed locations, certain Captive-venue locations and qualifying multi-unit operators. MTRA fee of $200 per training attendee ($600 for the three required attendees). MultiTRA: trade area reservation fee of $22,500 per required opening, credited $22,500 against each initial franchise fee."
+ },
+ "royalty": {
+  "pct": 4,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Continuing License Fee 4% of Gross Sales ... On or before the 10th day of each month for the previous month"
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": 6,
+  "localPct": null,
+  "quote": "Sales Promotion Program Fee 5% - 6% of Gross Sales ... ADQ has the right to determine the percentage you must pay within the range ... and will let you know at least 90 days in advance of any fee adjustment.",
+  "note": "5% to 6% of Gross Sales, set by ADQ within the range; lower phased rates for conversions and relocations."
+ },
+ "otherRecurring": [
+  {
+   "name": "Gift Card Program Fees",
+   "amount": "Currently, 3% of total gift card redemptions (ADQ estimates about $200 per year per location)",
+   "annualUsd": 200
+  },
+  {
+   "name": "Training Materials",
+   "amount": "$150 - $500 as materials are provided",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$6,000 when you submit transfer application; effective January 1, 2030, and each 5 years thereafter, the transfer fee increases by $500",
+  "usd": 6000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, franchisee-owned newly constructed freestanding DQ Grill & Chill restaurants opened 2015-2024, open and reporting all 12 months of 2025",
+   "value": 1485731,
+   "count": 286,
+   "period": "2025",
+   "median": 1413799
+  },
+  "other": [
+   {
+    "label": "High annual Gross Sales, Schedule A restaurants, 2025 (dollars)",
+    "value": 3148939
+   },
+   {
+    "label": "Low annual Gross Sales, Schedule A restaurants, 2025 (dollars)",
+    "value": 601647
+   },
+   {
+    "label": "Average annual Gross Sales, Schedule A restaurants, 2024 (313 restaurants, dollars)",
+    "value": 1446870
+   },
+   {
+    "label": "Average Gross Sales, Schedule B subset of 16 restaurants with usable P&Ls, 2025 (dollars)",
+    "value": 1616086
+   },
+   {
+    "label": "Cost of Goods, % of sales, straight average, 16 Schedule B restaurants, 2025",
+    "value": 30.63
+   },
+   {
+    "label": "Labor, % of sales, straight average, 16 Schedule B restaurants, 2025",
+    "value": 31.26
+   },
+   {
+    "label": "Restaurant Controllables, % of sales, straight average, 16 Schedule B restaurants, 2025",
+    "value": 10.8
+   },
+   {
+    "label": "Manageable Profit, % of sales, straight average, 16 Schedule B restaurants, 2025 (before occupancy, insurance, license fees, sales promotion fees, legal, accounting, admin)",
+    "value": 27.31
+   },
+   {
+    "label": "Manageable Profit, % of sales, straight average, 203 Schedule B restaurants, 2024",
+    "value": 29.9
+   },
+   {
+    "label": "Manageable Profit, % of sales, straight average, 185 Schedule B restaurants, 2023",
+    "value": 30.48
+   },
+   {
+    "label": "Manageable Profit, % of sales, straight average, 157 Schedule B restaurants, 2022",
+    "value": 28.39
+   }
+  ],
+  "profitPct": 27.31,
+  "quote": "Average Annual Gross Sales $1,379,954 $1,417,964 $1,446,870 $1,485,731 ... Median Annual Gross Sales $1,334,529 $1,368,130 $1,374,380 $1,413,799 ... Number of Restaurants that Qualified for Inclusion 248 282 313 286 (Years 2022 2023 2024 2025)",
+  "note": "Schedule A covers only franchisee-owned, newly constructed freestanding DQ Grill & Chill restaurants first opened January 1, 2015 to December 31, 2024 (excludes Texas, conversions, non-traditional and territory-operator restaurants). Manageable Profit is before occupancy costs, insurance, continuing license fees, sales promotion program fees, legal, accounting and other administrative costs; Labor may include owner manager wages. P&L data not audited by ADQ."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1983,
+  "company": 2,
+  "total": 1985,
+  "franchisedNetChange": 14,
+  "quote": "Franchised 2025 1969 1983 +14 Company-Owned 2025 2 2 0 Total Outlets 2025 1971 1985 +14 (DQ Grill & Chill® & Dairy Queen®/Brazier® Direct-Licensed Outlets)"
+ },
+ "special": "Investment excludes land (if purchased, generally $250,000 to $800,000). Item 20 table covers direct-licensed DQ Grill & Chill and Dairy Queen/Brazier outlets only; it excludes Texas DQ restaurants and subfranchised outlets under territory operators. Item 19 Manageable Profit (27.31% in 2025 for 16 restaurants; 29.90% in 2024 for 203) is before the 4% license fee, the 5%-6% sales promotion fee and occupancy costs.",
+ "confidence": "medium",
+ "issues": "Source is a MARKED copy (strikethrough deletions plus insertions); 2026 figures were isolated by removing struck-through characters from the PDF. Raw text shows both '$1,516,200 - $2,543,050' (deleted 2025 figures, which included '$45,600' to franchisor) and '$1,510,100 - $2,550,100' (2026); the 2026 range matches the sum of the Item 7 rows on both ends. Issuance date reads 'March 27, 2025, as amended January 29, 2026' (deleted) replaced by 'March 26, 2026'. Schedule B 2025 covers only 16 restaurants and the FDD says 318 restaurants were excluded from Schedule B in 2025 although Schedule A counts 286 qualifying restaurants (internal inconsistency in the FDD).",
+ "source": {
+  "doc": "35592-202603-05",
+  "received": "2026-04-02",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BB03BB59D-0000-CA7C-842E-74D422331935%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 496,
+  "registrant": "AMERICAN DAIRY QUEEN CORPORATION",
+  "filedName": "DQ GRILL AND CHILL FRANCHISE",
+  "type": "Marked FDD"
+ }
+}

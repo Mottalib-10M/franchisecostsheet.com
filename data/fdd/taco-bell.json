@@ -1,0 +1,131 @@
+{
+ "slug": "taco-bell",
+ "brand": "Taco Bell",
+ "franchisor": "Taco Bell Franchisor, LLC",
+ "issuanceDate": "2026-03-26",
+ "amendedDate": null,
+ "format": "new Traditional Unit (freestanding Taco Bell restaurant; In-Line/End-Cap units cost $934,750 to $1,817,200 with a $25,000 fee)",
+ "invest": {
+  "low": 1859750,
+  "high": 4312200,
+  "toFranchisorLow": 72250,
+  "toFranchisorHigh": 72250,
+  "excludesRealEstate": false,
+  "quote": "The initial investment necessary to begin operation of a new Traditional Unit is from $1,859,750 to $4,312,200 including $45,000 that must be paid to the franchisor and for the first unit only, $27,250 that must be paid to an affiliate."
+ },
+ "fee": {
+  "low": 45000,
+  "high": 45000,
+  "quote": "We charge an initial franchise fee of $45,000 for a new Traditional Unit.  The initial franchise fee for a new In-Line or End-Cap is $25,000.",
+  "note": "During fiscal year 2025, the initial franchise fees paid ranged from $0 to $45,000 per Unit. Fee may be waived under the National Incentive Program (Traditional Units with drive-thrus), Urban Test Incentive Program (In-Lines) and De-Coupling Incentive Program. Existing franchisees in the 10K Trade Areas program pay a $10,000 Trade Area Fee credited to the initial fee. Successor fee: greater of $22,500 or 1/2 of then-current initial fee."
+ },
+ "royalty": {
+  "pct": 5.5,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Period Franchise Fee (Note B)(ii) (Note C) 5.5% of the Unit's Gross Sales On or before the 5th business day immediately following the accounting period in which the sales were made"
+ },
+ "adFund": {
+  "pct": 4.25,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Period Marketing Fee (Note B)(ii) (Note C) 4.25% of the Unit's Gross Sales On or before the 5th business day immediately following the accounting period in which sales were made",
+  "note": "Paid to the Taco Bell National Advertising Fund Administration (NAFA). Existing franchisees who did not accept the 2012 marketing provisions pay 4.5% of gross sales, of which 1.5% is allocated to local store marketing. Incentive programs can waive marketing fees for 1 to 4 years or reduce them to 2.25% for the first year. Grand opening spend of $5,000 is reimbursed (up to $5,000) for new units."
+ },
+ "otherRecurring": [
+  {
+   "name": "All Access Fee",
+   "amount": "$750/year",
+   "annualUsd": 750
+  },
+  {
+   "name": "Digital Transaction Fee for Mobile, Web, Kiosk, Successful Voice AI & Delivery orders",
+   "amount": "$0.19 per digital transaction",
+   "annualUsd": null
+  },
+  {
+   "name": "Gift Card Transaction Fee",
+   "amount": "$.19 per gift card transaction",
+   "annualUsd": null
+  },
+  {
+   "name": "System-One Merchandising Program",
+   "amount": "$729.25 to $744 per quarter per Restaurant",
+   "annualUsd": null
+  },
+  {
+   "name": "Technology fees owed to Taco Bell or affiliates (Item 11)",
+   "amount": "We estimate your yearly per restaurant fees to be up to $6,000",
+   "annualUsd": 6000
+  },
+  {
+   "name": "Technology fees owed to third-party vendors (Item 11)",
+   "amount": "We estimate your yearly per restaurant fees to up to $15,500",
+   "annualUsd": 15500
+  }
+ ],
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "No historical average sales disclosed; Item 19 only describes sales-forecast tools (Bell Point, Kalibrate, SiteZeus) back-tested on 183 single brand, free-standing drive-thru Units opened in 2023",
+   "value": null,
+   "count": 183,
+   "period": "2nd year sales of Units opened between January 1, 2023 and December 31, 2023",
+   "median": null
+  },
+  "other": [
+   {
+    "label": "Kalibrate: projected annual Gross Sales of sample Units, low",
+    "value": 826707
+   },
+   {
+    "label": "Kalibrate: projected annual Gross Sales of sample Units, high",
+    "value": 3621383
+   },
+   {
+    "label": "Kalibrate: share of projections within 20% of actual annual gross sales (%)",
+    "value": 61
+   },
+   {
+    "label": "SiteZeus: projected annual Gross Sales of sample Units, low",
+    "value": 616474
+   },
+   {
+    "label": "SiteZeus: projected annual Gross Sales of sample Units, high",
+    "value": 3991919
+   },
+   {
+    "label": "SiteZeus: share of projections within 20% of actual annual Gross Sales (%)",
+    "value": 64
+   },
+   {
+    "label": "Bell Point sales projection margin of error (+/- %)",
+    "value": 20
+   }
+  ],
+  "quote": "Each third-party forecast vendor used their forecast tools to project 2nd year sales of 183 existing Units opened between January 1, 2023 and December 31, 2023 with at least 2 years' worth of Gross Sales data. ... Kalibrate ... Projected annual Gross Sales of the sample single brand Units ranged from $826,707 to $3,621,383",
+  "note": "With the limited exception of use of the Bell Point, Kalibrate, and Site Zeus forecast tools that are available to all franchisees developing free-standing, drive-thru Units, as described below, we do not make any representations about future financial performance or the past financial performance of any company-owned or franchise Units. Figures are projections (not actual sales), sales only, no costs; sample excludes multi-brand, in-line and licensed Units."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 7335,
+  "company": 663,
+  "total": 7998,
+  "franchisedNetChange": -6,
+  "quote": "Franchised 2025 7341 7335 -6 | Company-Owned 2025 498 663 165 | Total 2025 7839 7998 159"
+ },
+ "special": "In 2025 the franchisor reacquired 144 franchised Units (102 in Florida, 23 in Georgia, 19 in South Carolina), hence franchised -6 and company-owned +165. For the first Unit, a Development Services Agreement with affiliate YRSG may be required at $25,000 plus $2,250 ADA inspection; optional YRSG real estate services $10,000. Item 7 includes purchased land ($250,000 - $1,400,000); ground lease base rent may range from $45,000 to $200,000 or more per year. Existing restaurants bought from Taco Bell may be leased/subleased from it at rent 'generally ranges from $1,331.00 to $20,833.00 per month' (fixed, not % of sales). Purchases mainly through RSCS / Taco Bell Co-op purchasing program. Liquidated damages on certain terminations: greater of 11% of the Unit's Gross Sales for last 12 months or $100,000.",
+ "confidence": "high",
+ "issues": "Item 19 gives only forecast-tool back-test ranges, no average or median actual sales. Item 20 Table 1 total 2025 start (7839) does not match 2024 end (7847). toFranchisor computed from cover ($45,000 franchisor + $27,250 affiliate, first unit); Item 7 also counts optional YRSG real estate services $10,000-$37,250.",
+ "source": {
+  "doc": "35608-202603-07",
+  "received": "2026-03-27",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BA0B3739D-0000-C21D-B48A-C6DF2F008D36%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 468,
+  "registrant": "TACO BELL FRANCHISOR, LLC",
+  "filedName": "TACO BELL TRADITIONAL (UNIT)",
+  "type": "Clean FDD"
+ }
+}

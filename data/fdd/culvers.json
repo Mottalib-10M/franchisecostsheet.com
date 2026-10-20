@@ -1,0 +1,132 @@
+{
+ "slug": "culvers",
+ "brand": "Culver's",
+ "franchisor": "Culver Franchising System, LLC",
+ "issuanceDate": "2026-03-30",
+ "amendedDate": null,
+ "format": "free-standing Culver's Restaurant with drive-thru, land purchased and new building constructed",
+ "invest": {
+  "low": 3406350,
+  "high": 10294100,
+  "toFranchisorLow": 45000,
+  "toFranchisorHigh": 65000,
+  "excludesRealEstate": false,
+  "quote": "The total investment necessary to begin operation of a Culver's® Restaurant is from $3,406,350 to $10,294,100. This includes a $45,000 to $65,000 initial franchise fee that must be paid to us."
+ },
+ "fee": {
+  "low": 45000,
+  "high": 65000,
+  "quote": "If you are new to the System, you must pay an initial franchise fee of $65,000.",
+  "note": "$5,000 Application Fee credited toward the fee (refunded if not approved). $55,000 for an additional Restaurant by an existing franchisee with the same Operator; $45,000 under the Mentoring Program; Veterans' Discount reduces the fee by $10,000 (first Restaurant, full-time on-site owner-operator). 75% of the fee refunded if franchisee terminates before the fifth week of the Franchisee Development Program. Development Agreement Territory Fee $50,000 per Restaurant, refunded if scheduled dates are met."
+ },
+ "royalty": {
+  "pct": 4,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Service Fee 4% of Gross Sales (See Note 2) Payable monthly on or before the 10th day of the next month via EFT."
+ },
+ "adFund": {
+  "pct": 2.5,
+  "pctHigh": null,
+  "localPct": 1,
+  "quote": "Advertising Fee 2.5% of Gross Sales Payable monthly on or before the 10th day of the next month via EFT. Cooperative Advertising Up to 4% of your Gross Sales, as approved by a majority vote of the members of the Co-op Advertising Region.",
+  "note": "2.5% Advertising Fee (2.00% for agreements signed before March 31, 2012). Item 19 states 1.00% is the minimum local advertising spend required by the Franchise Agreement. Regional co-op up to 4% if formed."
+ },
+ "otherRecurring": [
+  {
+   "name": "Gift Card Fees",
+   "amount": "Currently $.22 cents per redeemed transaction (may increase to $.35)",
+   "annualUsd": null
+  },
+  {
+   "name": "Technology Fee (not currently charged)",
+   "amount": "Estimated $600 - $1,000 per month",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$10,000 plus our attorneys' fees; $5,000 plus our attorneys' fees if the buyer is an existing franchisee",
+  "usd": 10000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual sales, franchised Culver's Restaurants open the full 12 months of 2025 (incl. 13 non-typical locations)",
+   "value": 4142737,
+   "count": 988,
+   "period": "12 months ended December 31, 2025",
+   "median": 4036492
+  },
+  "other": [
+   {
+    "label": "Average annual sales, 975 typical franchised Restaurants (excluding 13 non-typical), 2025",
+    "value": 4145665
+   },
+   {
+    "label": "Median annual sales, 975 typical franchised Restaurants, 2025",
+    "value": 4036522
+   },
+   {
+    "label": "Highest annual sales, franchised Restaurants, 2025",
+    "value": 9030702
+   },
+   {
+    "label": "Lowest annual sales, franchised Restaurants, 2025",
+    "value": 1103114
+   },
+   {
+    "label": "Total annual sales in dollars, 7 company-owned Restaurants (Wisconsin) combined, 2025",
+    "value": 25607222
+   },
+   {
+    "label": "Income in dollars, 7 company-owned Restaurants combined, 2025 (before rent, real estate and property taxes, interest, depreciation, amortization, income tax)",
+    "value": 3320103
+   },
+   {
+    "label": "Income as % of sales, 7 company-owned Restaurants combined, 2025 (before rent, interest, depreciation, taxes)",
+    "value": 13.0
+   },
+   {
+    "label": "Food cost as % of sales, 7 company-owned Restaurants, 2025",
+    "value": 30.5
+   },
+   {
+    "label": "Salaries and wages as % of sales, 7 company-owned Restaurants, 2025",
+    "value": 31.7
+   },
+   {
+    "label": "Income as % of sales, lowest company-owned Restaurant (Spring Green, WI), 2025",
+    "value": 8.7
+   },
+   {
+    "label": "Income as % of sales, highest company-owned Restaurant (Sauk City, WI), 2025",
+    "value": 15.9
+   }
+  ],
+  "profitPct": 13.0,
+  "quote": "Highest Sales $9,030,702 Lowest Sales $1,103,114 Average Sales $4,142,737 Median Sales $4,036,492 Of the 988 Franchised Restaurants, 450 (or 46%) met or exceeded the average sales.",
+  "note": "Franchised figures are sales only. Excludes 45 franchised Restaurants opened in 2025, 1 closed for relocation and 1 closed. Cost and income figures are for the 7 company-owned Wisconsin Restaurants only, and income is before rent, real estate taxes, personal property taxes, interest, depreciation, amortization and income tax; it also excludes initial franchise fee, management fees, travel and other listed expenses."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1034,
+  "company": 7,
+  "total": 1041,
+  "franchisedNetChange": 44,
+  "quote": "Franchised ... 2025 990 1,034 +44 Company-Owned ... 2025 7 7 0 Total Outlets ... 2025 997 1,041 +44"
+ },
+ "special": "Initial investment includes purchase of land ($225,000 to $2,400,000) and construction of a new free-standing building ($2,047,000 to $4,391,000); leasing lowers the investment but rent then becomes an operating cost not shown in Item 19 income. Culver's requires 20% of total projected initial investment in cash or liquid assets. Item 19 profit figures come only from 7 company-owned Restaurants and exclude rent and financing costs.",
+ "confidence": "high",
+ "issues": "Cover gives the initial franchise fee range as $45,000 to $65,000 but the Item 7 table shows $35,000 to $65,000 (Item 7 note: veterans' discount of $10,000 can reduce the fee). The fee field uses the cover range.",
+ "source": {
+  "doc": "35692-202603-08",
+  "received": "2026-03-30",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B60A6869D-0000-CD1E-B3B9-CA58D3B2BE07%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 216,
+  "registrant": "CULVER FRANCHISING SYSTEM, LLC",
+  "filedName": "CULVER'S RESTAURANT",
+  "type": "Clean FDD"
+ }
+}

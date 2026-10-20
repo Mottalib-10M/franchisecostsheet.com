@@ -1,0 +1,157 @@
+{
+ "slug": "mosquito-joe",
+ "brand": "Mosquito Joe",
+ "franchisor": "Mosquito Joe SPV LLC",
+ "issuanceDate": "2026-04-01",
+ "amendedDate": null,
+ "format": "single Mosquito Joe franchise business (territory of 25,000 to 35,000 Targeted Households, home-based)",
+ "invest": {
+  "low": 150155,
+  "high": 191575,
+  "toFranchisorLow": 82446,
+  "toFranchisorHigh": 83096,
+  "excludesRealEstate": false,
+  "quote": "The approximate total investment necessary to begin operation of a single Mosquito Joe® franchise business ranges from $150,155 to $191,575. This includes $82,446 to $83,096 that must be paid to the franchisor or its affiliate(s)."
+ },
+ "fee": {
+  "low": 42500,
+  "high": 42500,
+  "quote": "The initial franchise fee you must pay to us is $42,500, for a Territory containing at least 25,000 to 35,000 Targeted Households.",
+  "note": "$1.00 per Targeted Household above 35,000. Discounts (not combinable): VetFran $6,500; licensed pesticide applicator $2,500; Community Heroes up to 10%; Additional Concept 10%; HIRE 10-25%; roll-in 10-50%. In 2025 the average fee paid was approximately $33,920 (range $31,875 to $43,708). Development Agreement: 2 territories $85,000 total ($42,500 each) down to 5 territories $187,500 ($37,500 each)."
+ },
+ "royalty": {
+  "pct": 10,
+  "pctHigh": null,
+  "basis": "Gross Sales (10% on the first $500,000 per calendar year per Territory, 7% above $500,000)",
+  "flat": null,
+  "quote": "License Fee 10% of Gross Sales for Gross Sales of up to $500,000 (in a calendar year, per Territory); 7% of Gross Sales for Gross Sales above $500,000 (in the same calendar year, in the one Territory). In addition, minimum license fees apply."
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": null,
+  "localPct": 2,
+  "quote": "MAP Fee 2% of Gross Sales. Payable weekly, currently on Wednesdays.",
+  "note": "Plus Local Marketing Groups 2% of Gross Sales, plus the mandatory Direct Marketing Program ($37,000 per year), plus a Local Performance Marketing Investment of $35,000 in the first 12 months."
+ },
+ "otherRecurring": [
+  {
+   "name": "Direct Marketing Program Annual Program Fee",
+   "amount": "Currently: $37,000 per year Annual Program Fee (reduced to $26,000 the following year if Gross Sales reach $450,000, with $6,000 digital spend; 15% of Gross Sales if under $250,000, with the difference to $37,000 spent locally)",
+   "annualUsd": 37000
+  },
+  {
+   "name": "SEO Program Fee",
+   "amount": "Currently, $325 per month",
+   "annualUsd": 3900
+  },
+  {
+   "name": "Software System Monthly Fees",
+   "amount": "Currently, $474.45 per month plus $25 for each additional Territory after your first Territory",
+   "annualUsd": 5693.4
+  },
+  {
+   "name": "Call Center Program Fees",
+   "amount": "$199.99/month plus $25 per closed sale",
+   "annualUsd": null
+  },
+  {
+   "name": "Weekly Minimum License Fees (June-September only, from year 3)",
+   "amount": "Year 3 $325, Year 4 $400, Year 5 - End of Term $500 per week, June-September",
+   "annualUsd": null
+  },
+  {
+   "name": "Annual Convention Fee",
+   "amount": "currently up to $1,000, plus travel and lodging; $2,000 pro-rata if you fail to attend",
+   "annualUsd": null
+  },
+  {
+   "name": "Key Accounts/Management Fee",
+   "amount": "Up to 5% of total Gross Sales related to Key Account work",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$7,500, if the gross sales price of the Business is less than $400,000; or $20,000 if the gross sales price of the Business is $400,000 or more. Development Agreement: $20,000",
+  "usd": 7500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, franchised businesses 6 years or more in business, open the entire year (no all-units figure published)",
+   "value": 444223,
+   "count": 290,
+   "period": "calendar 2025",
+   "median": 288923
+  },
+  "other": [
+   {
+    "label": "Average annual Gross Sales, franchised businesses in first 5 years in business (117 businesses), 2025",
+    "value": 208341
+   },
+   {
+    "label": "Median annual Gross Sales, first 5 years in business (117 businesses), 2025",
+    "value": 164899
+   },
+   {
+    "label": "Highest annual Gross Sales, 6 years+ group, 2025",
+    "value": 1964250
+   },
+   {
+    "label": "Lowest annual Gross Sales, 6 years+ group, 2025",
+    "value": 44987
+   },
+   {
+    "label": "Highest annual Gross Sales, first 5 years group, 2025",
+    "value": 931009
+   },
+   {
+    "label": "Lowest annual Gross Sales, first 5 years group, 2025",
+    "value": 15737
+   },
+   {
+    "label": "Average Gross Sales per treatment, all franchised businesses ($), 2025",
+    "value": 92.68
+   },
+   {
+    "label": "Customer retention rate (% of prior-year recurring customers retained), 2025",
+    "value": 76.2
+   },
+   {
+    "label": "Recurring customers (% of customers), 2025",
+    "value": 88.2
+   },
+   {
+    "label": "Average annual number of customers, 6 years+ group, 2025",
+    "value": 594
+   },
+   {
+    "label": "Average annual number of jobs, 6 years+ group, 2025",
+    "value": 5043
+   }
+  ],
+  "profitPct": null,
+  "quote": "6 Years+ in business 290 $1,964,250 $44,987 $444,223 105 / 36% $288,923",
+  "note": "Sales only, no costs. Results split by age group only: 117 businesses in their first 5 years averaged $208,341 (median $164,899); 290 businesses 6+ years averaged $444,223 (median $288,923); 105 (36%) of the 290 at or above average. Excludes 9 businesses that closed in 2025 and 4 that did not report the full period. Franchisee-reported via the Software System."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 407,
+  "company": 0,
+  "total": 407,
+  "franchisedNetChange": -8,
+  "quote": "Franchised Businesses 2025 415 407 -8 Company-Owned Businesses 2025 2 0 -2 Total Outlets 2025 417 407 -10"
+ },
+ "special": "Mandatory Direct Marketing Program bought only from the franchisor or its affiliate: $37,000 per year per territory (prepaid before opening for the first season), plus $35,000 Local Performance Marketing Investment in the first 12 months, plus $325/month SEO Program. These fixed marketing costs are large relative to average sales (e.g. $208,341 for businesses in their first 5 years). Royalty drops from 10% to 7% only above $500,000 of annual Gross Sales per territory. Seasonal business; weekly minimum royalty applies June-September from year 3.",
+ "confidence": "high",
+ "issues": "No Item 19 average for all franchised businesses; headline uses the 6+ years group (290 of 407), the first-5-years group is in 'other'. Item 19 says it covers 407 businesses yet also that 4 were excluded (117 + 290 = 407). Annual software and SEO amounts computed as monthly x 12.",
+ "source": {
+  "doc": "36176-202604-02",
+  "received": "2026-04-23",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B2011B79E-0000-CE1A-AF03-2F21F544D6DB%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 415,
+  "registrant": "MOSQUITO JOE SPV LLC",
+  "filedName": "MOSQUITO JOE",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,145 @@
+{
+ "slug": "the-joint",
+ "brand": "The Joint Chiropractic",
+ "franchisor": "The Joint Corp.",
+ "issuanceDate": "2024-05-01",
+ "amendedDate": null,
+ "format": "single THE JOINT chiropractic clinic (leased, 1,000-1,400 sq ft; Franchised Clinic or Managed Clinic)",
+ "invest": {
+  "low": 254250,
+  "high": 520800,
+  "toFranchisorLow": 40900,
+  "toFranchisorHigh": 40900,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a THE JOINT ® franchise ranges from $254,250 to $520,800. This includes $40,900 that must be paid to us."
+ },
+ "fee": {
+  "low": 39900,
+  "high": 39900,
+  "quote": "You pay us a nonrefundable $39,900 initial franchise fee, which is due in full at the time you sign the Franchise Agreement.",
+  "note": "Veterans Discount $6,000 ($33,900 fee); Multi-Clinic Discount $10,000 ($29,900 for each additional Clinic); DC Path to Ownership Program $19,900 discount ($20,000 fee). Discounts not combinable. Clinic design fee $1,000 also paid to franchisor at signing."
+ },
+ "royalty": {
+  "pct": 7,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": "Greater of (a) 7% of Gross Sales or (b) $700 per month",
+  "quote": "Royalty Fee Greater of (a) 7% of Gross Sales or (b) $700 per month 1st & 16th day of each month. Minimum royalty fee begins 30 days after earlier of Clinic's Required Opening Date or actual opening date."
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": 3,
+  "localPct": 5,
+  "quote": "Brand Fund Fee Up to 3% of Gross Sales (currently 2%) ... Local Advertising Commitment Greater of (a) 5% of Gross Sales or (b) $3,000 per month",
+  "note": "Brand Fund currently 2%, up to 3%. Separate Local Advertising Commitment: greater of 5% of Gross Sales or $3,000 per month spent with third parties (cooperative fees credited toward it). Grand opening advertising $20,000 to $25,000."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Fee",
+   "amount": "Varies (currently $599 per month; may increase to $799 per month on 30 days' notice)",
+   "annualUsd": 7188
+  },
+  {
+   "name": "Local Advertising Commitment (minimum)",
+   "amount": "Greater of (a) 5% of Gross Sales or (b) $3,000 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Conference Registration Fee",
+   "amount": "Up to $1,000 per person per day",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$2,500, $5,000 or $15,000 depending on type of Transfer ... (c) $15,000 for all other completed Transfers",
+  "usd": 15000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, franchised clinics reporting sales every month of 2023",
+   "value": 574304,
+   "count": 696,
+   "period": "calendar 2023",
+   "median": 532094
+  },
+  "other": [
+   {
+    "label": "Average Net Profit (dollar amount), 330 franchised clinics that provided 2023 P&L, calendar 2023 (excludes owner compensation and operations manager labor)",
+    "value": 110810
+   },
+   {
+    "label": "Average Net Profit as % of Gross Sales, 330 franchised clinics, calendar 2023",
+    "value": 18.0
+   },
+   {
+    "label": "Median Net Profit (dollar amount), 330 franchised clinics, calendar 2023",
+    "value": 101873
+   },
+   {
+    "label": "Average Gross Sales, 330 franchised clinics with P&L, calendar 2023",
+    "value": 615487
+   },
+   {
+    "label": "Labor Expense as % of Gross Sales, 330 franchised clinics, 2023",
+    "value": 47.5
+   },
+   {
+    "label": "Facilities Expense as % of Gross Sales, 330 franchised clinics, 2023",
+    "value": 10.4
+   },
+   {
+    "label": "Average Net Profit (dollar amount), $1 Million clinics (27), 2023",
+    "value": 336465
+   },
+   {
+    "label": "Average Net Profit as % of Gross Sales, $1 Million clinics (27), 2023",
+    "value": 28.6
+   },
+   {
+    "label": "Average Net Profit as % of Gross Sales, Quartile 4 (83 clinics), 2023 (loss)",
+    "value": -8.5
+   },
+   {
+    "label": "Average Gross Sales, Quartile 1 (174 clinics), 2023",
+    "value": 931078
+   },
+   {
+    "label": "Average Gross Sales, Quartile 4 (174 clinics), 2023",
+    "value": 288786
+   },
+   {
+    "label": "Average weekly patient visits, 696 clinics, 2023",
+    "value": 308
+   },
+   {
+    "label": "Average monthly active members, 696 clinics, 2023",
+    "value": 601
+   }
+  ],
+  "quote": "Total 696 100% $574,304 $532,094 $1,708,357 $144,036 304 of 696 (44%)",
+  "note": "Gross Sales minus refunds. Net Profit table based on P&Ls of 330 of the 696 clinics (366 did not provide one); Net Profit excludes owner compensation and operations manager labor. Affiliate-owned clinics excluded. 304 of 696 (44%) at or above average.",
+  "profitPct": 18.0
+ },
+ "units": {
+  "year": 2023,
+  "franchised": 800,
+  "company": 135,
+  "total": 935,
+  "franchisedNetChange": 88,
+  "quote": "Franchised 2023 712 800 +88 Company-Owned 2023 126 135 +9 Total Outlets 2023 838 935 +97"
+ },
+ "special": "Royalty has a floor: greater of 7% of Gross Sales or $700 per month; Local Advertising Commitment is greater of 5% or $3,000 per month on top of the 2% Brand Fund, so total marketing+royalty is at least 14% of Gross Sales. In states that require it, the franchisee only manages the clinic (Managed Clinic) on behalf of a professional corporation that owns the chiropractic practice and employs the chiropractors. Imputed Royalty Fees of $700 per month if opening is delayed past the Required Opening Date.",
+ "confidence": "high",
+ "issues": "This is the 2024 FDD (figures for 2023); a newer FDD may exist. Item 19 says Table B-2 covers 29 clinics in the list but the table shows 27; data compiled 'on or prior to March 20, 2023' as printed (likely 2024).",
+ "source": {
+  "doc": "31628-202405-09",
+  "received": "2024-05-06",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B50997A91-0000-C11C-8838-5FEC331D161B%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 439,
+  "registrant": "THE JOINT CORP.",
+  "filedName": "THE JOINT CHIROPRACTIC (UNIT)",
+  "type": "Clean FDD"
+ }
+}

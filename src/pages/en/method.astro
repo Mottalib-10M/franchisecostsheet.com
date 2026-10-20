@@ -1,0 +1,59 @@
+---
+/** Method: the documents, the Items read, the calculator, a worked example, the corrections, the limits. Figures from the kit. */
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { KIT as K } from '../../lib/kit';
+import { src, ext, table } from '../../lib/helpers';
+import { VALUE } from '../../content/home';
+import OV from '../../../data/overrides.json';
+import { breadcrumbSchema, webPageSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('method', lang);
+const P = K.P;
+const n = K.BRANDS.length;
+const title = 'Franchise Cost Method 2026: How Each Disclosure Was Read';
+const description = `Franchise cost method for 2026: ${n} disclosure documents from the Minnesota CARDS portal, Items 5, 6, 7, 19 and 20 read line by line, the payback model, limits.`;
+const docRows = K.BRANDS.map((b) => [ext(b.url, b.brand), b.franchisor, K.day(b.issued) + (b.amended ? `, amended ${K.day(b.amended)}` : ''), b.doc, K.day(b.received), K.num(b.pages)]);
+const ovRows = Object.entries(OV as Record<string, { why: string }>).filter(([s]) => K.BRANDS.some((b) => b.slug === s)).map(([s, o]) => [K.B(s).brand, o.why]);
+// Worked example: the brand the home calculator opens on, at the middle of its range and the default margin.
+const ex = K.B('jersey-mikes');
+const e = K.eco(ex.slug);
+const DM = P.calc.defaultMarginPct;
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[webPageSchema({ name: 'Where the figures come from', description, path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Where the figures come from', path }])]} breadcrumbs={[{ label: 'Where the figures come from' }]}>
+  <article class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Where the figures come from</h1>
+    <p><strong>Every brand figure on this site was read in that brand's Franchise Disclosure Document, the edition registered with the Minnesota Department of Commerce, and every payback or break-even amount is computed from those figures and from the margin you type.</strong> {n} documents were read; one script checks them and rebuilds the site when a new edition is loaded.</p>
+    <p>{VALUE}</p>
+    <h2>1. The documents</h2>
+    <p>The <Fragment set:html={src('ftc_rule', 'FTC Franchise Rule')} /> requires every franchisor that sells in the United States to give buyers a disclosure document organized in {P.rules.ftcItems} Items, described in <Fragment set:html={src('ftc_436_5', '16 CFR 436.5')} />. Some states also require the document to be registered before a franchise is sold there. Minnesota, under <Fragment set:html={src('mn_80c', 'chapter 80C of its statutes')} />, publishes every registered filing in the <Fragment set:html={src('mn_cards', 'CARDS database')} />. For each brand we took the latest clean edition (not the marked copy that shows changes) for the standard single unit, downloaded the PDF and kept its document number and the date the state received it. The table at the end of this page lists them.</p>
+    <h2>2. The Items read</h2>
+    <ul>
+      <li><strong>Item 5, initial fees</strong>: the franchise fee paid when the agreement is signed, with any discount for veterans or existing owners noted.</li>
+      <li><strong>Item 6, other fees</strong>: the royalty and the advertising fund as a percentage of sales, flat or minimum royalties, and the yearly fees printed in dollars, such as technology and software fees.</li>
+      <li><strong>Item 7, estimated initial investment</strong>: the low and high totals of the table for the standard unit. When the document has several tables (a drive-thru, a mall unit, a conversion), the page names the one used.</li>
+      <li><strong>Item 19, financial performance representations</strong>: the average, or else the median, yearly sales of the units the franchisor describes, with their count and year, and any profit or cost figure it prints.</li>
+      <li><strong>Item 20, outlets</strong>: franchised and company units at the end of the last year, and the net change of franchised units.</li>
+    </ul>
+    <p>Every figure is stored with the sentence or table line it comes from. A figure the document does not print is left empty and the page says it is not published. Amounts are kept to the dollar, as printed.</p>
+    <h2>3. The calculator</h2>
+    <p>For one unit and one year: sales come from Item 19 (or from your own figure; when a brand publishes none, the median Item 19 figure of the brands of its category on this site, if at least {P.calc.minBrandsForCategoryMedian} publish one). The margin you type, {DM} % by default, is what is left of sales after food or goods, labor, rent, utilities and insurance, before franchise fees: it is your estimate, not a published figure. From it we subtract the royalty and the ad fund at the rates of Item 6 and the fixed yearly fees printed in dollars (optional and conditional lines, and fees paid to third parties, are left out). For {K.B('chick-fil-a').brand}, half of what remains is then taken as the document's additional operating service fee. The result is the cash flow before any loan; the payback is the investment divided by it.</p>
+    <p>Loan payments are level monthly payments at the rate you choose. The default is the bank prime rate of {K.dec(P.finance.primeRate, 2)} % published by the Federal Reserve on <Fragment set:html={src('fed_h15', K.day(P.finance.primeRateDate))} />, plus {K.dec(P.finance.sbaSpreadOver350k, 1)} points, the highest spread the <Fragment set:html={src('sba_terms', 'SBA allows on a 7(a) loan above $350,000')} />. The break-even sales are the sales at which the cash flow after loan payments is zero.</p>
+    <h2>4. A worked example</h2>
+    <p>{ex.brand}: Item 7 runs from {K.usd(ex.invLow)} to {K.usd(ex.invHigh)}, so the middle of the range is {K.usd(e.inv)}. Item 19 gives {K.usd(e.sales)} of yearly sales. At a {DM} % margin the unit keeps {K.usd(e.y.operating)} before franchise fees; the royalty of {K.rate(ex.royPct)} and the ad fund of {K.rate(ex.adPct)} take {K.usd(e.y.royalty + e.y.ad)}, and {K.usd(e.y.fixed)} of fixed yearly fees follow. That leaves {K.usd(e.y.cashBeforeDebt)} a year, and a payback of {e.pay === null ? 'never' : `${K.dec(e.pay, 1)} years`} with no loan.</p>
+    <h2>5. Corrections decided after reading</h2>
+    <p>Some documents need one decision to fit the model. Each is recorded with its reason and applied by the script:</p>
+    <Fragment set:html={table(['Brand', 'Correction and reason'], ovRows, undefined, ['l', 'l'])} />
+    <h2>6. Limits</h2>
+    <ul>
+      <li>Item 19 figures differ in scope: one brand counts every franchised unit open a full year, another only drive-thrus, or only its company stores. Compare the labels on the brand pages before comparing the numbers.</li>
+      <li>Most investment ranges leave out the purchase of land and building; a few include it. Each brand page says which.</li>
+      <li>Rent paid to the franchisor as a percentage of sales, as at {K.B('mcdonalds').brand}, belongs to your margin: lower it accordingly. The brand page gives the rate the document prints.</li>
+      <li>Documents are dated. A brand may have issued a newer edition since the one read here; the issuance date is on every page.</li>
+      <li>Nothing here is an offer, an earnings claim or advice. The franchisor's own document, a franchise lawyer and the owners listed in Item 20 come first.</li>
+    </ul>
+    <h2>7. The documents read</h2>
+    <Fragment set:html={table(['Brand', 'Franchisor', 'Issued', 'Minnesota document', 'Received by the state', 'Pages'], docRows, 'Source: Minnesota Department of Commerce, CARDS franchise registrations. Each brand name links to the PDF.', ['l', 'l', 'l', 'l', 'l', 'r'])} />
+    <p>Corrections: <a href={route('contact', lang)}>contact page</a>.</p>
+  </article>
+</PageLayout>

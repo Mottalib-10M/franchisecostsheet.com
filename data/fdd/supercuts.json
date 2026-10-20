@@ -1,0 +1,115 @@
+{
+ "slug": "supercuts",
+ "brand": "Supercuts",
+ "franchisor": "Supercuts, Inc.",
+ "issuanceDate": "2025-10-17",
+ "amendedDate": "2026-02-01",
+ "format": "Single new Supercuts Salon under the Single Salon Program (Development Agreement for one Salon), leased premises",
+ "invest": {
+  "low": 185930,
+  "high": 323460,
+  "toFranchisorLow": 53340,
+  "toFranchisorHigh": 55420,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Supercuts franchise is $185,930 to $323,460. This includes $53,340 to $55,420 that must be paid to the franchisor or affiliate(s)."
+ },
+ "fee": {
+  "low": 39500,
+  "high": 39500,
+  "quote": "Single Salon Program (Note 1) ... Development Fee Amount (1 Salon) ... $39,500",
+  "note": "The Development Fee is full payment for development and franchise rights; no separate Initial Franchise Fee. Fast Start Program: $69,500 for 3 Salons, $99,500 for 6, $10,000 each additional. Also required: $10,000 Grand Opening Account paid to Supercuts (new franchisees), HSA training fees $1,440 to $1,920, computer hardware/installation $400 to $2,000 to affiliate Soham, Inc. Development Fees ranged $0 to $39,500 last fiscal year."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "combined net service revenue and net merchandise revenue",
+  "flat": null,
+  "quote": "For new Salons, combined service and merchandise royalty fee is 4% of combined net service revenue and net merchandise revenue from opening date until first year anniversary. From first year anniversary until the Franchise Agreement expires or is terminated, royalty fee is 6%"
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Advertising Fees 5% of net monthly service revenue (i.e., excluding merchandise sales) with a potential rebate if 75% of Salons in specific DMA vote in favor of rebate",
+  "note": "5% of net service revenue only (merchandise excluded); potential rebate if 75% of Salons in a DMA vote for it."
+ },
+ "otherRecurring": [
+  {
+   "name": "Computer Software (Zenoti Point of Sale System, SaaS from Soham, Inc.)",
+   "amount": "$2,040 ($170 per month)",
+   "annualUsd": 2040
+  },
+  {
+   "name": "Zenoti payment processing monthly fee",
+   "amount": "Monthly Fee: $10 per salon (plus interchange +0.15% +$0.15 per non-Amex card transaction)",
+   "annualUsd": 120
+  },
+  {
+   "name": "Gift Card ACH Monthly Settlement Service Fee",
+   "amount": "$10/month per Bank Account",
+   "annualUsd": 120
+  },
+  {
+   "name": "Anniversary Fee (renewal)",
+   "amount": "1% of total net monthly revenues for 12 months preceding first 10-year anniversary; 2% for each 10-year anniversary thereafter",
+   "annualUsd": null
+  },
+  {
+   "name": "Convention Fee",
+   "amount": "Up to $1,000 per person, plus expenses to attend (charged even if you do not attend)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "1 salon $2,500; 2 salons $4,500; 3 salons $6,000; 4 salons $7,000; 5 salons $7,500; Each salon after is $500",
+  "usd": 2500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average Gross Sales, franchised Supercuts Salons reporting sales every month of fiscal year July 2024 - June 2025 (printed as the average of the three tier averages)",
+   "value": 322306,
+   "count": 1661,
+   "period": "fiscal year July 1, 2024 - June 30, 2025",
+   "median": 297216
+  },
+  "other": [
+   {
+    "label": "Average Gross Sales, top tier (553 salons), FY2024-2025",
+    "value": 478554
+   },
+   {
+    "label": "Average Gross Sales, middle tier (554 salons), FY2024-2025",
+    "value": 300051
+   },
+   {
+    "label": "Average Gross Sales, bottom tier (554 salons), FY2024-2025",
+    "value": 188594
+   }
+  ],
+  "profitPct": null,
+  "quote": "TOTALS 1661 $322,306(1) $297,216 $1,199,963 $35,691 716 43.11%(1) (1) This is an average of the numbers presented in the table.",
+  "note": "Gross Sales only; no costs or expenses. 1,661 of 1,701 franchised outlets; 40 excluded for not reporting all 12 months. The total average is printed as an average of the tier figures."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1701,
+  "company": 100,
+  "total": 1801,
+  "franchisedNetChange": -234,
+  "quote": "Franchised ... 2025 1,935 1,701 -234 Company-Owned ... 2025 3 100 +97 Total Outlets ... 2025 1,938 1,801 -137"
+ },
+ "special": "Royalty is 4% in the first year then 6% (6% for the full term if you buy an existing company-owned or converted salon). Ad fee applies to service revenue only. If Supercuts guarantees the lease, a monthly Lease Guaranty Fee equal to the amount by which 16% of monthly gross sales exceeds monthly lease payments. Lost future royalties are due on early termination. Franchised network shrinking: -182 (FY2023), -135 (FY2024), -234 (FY2025). Fiscal year ends June 30.",
+ "confidence": "high",
+ "issues": "Item 7 total includes both the Construction Management Services Fee and the review fees that apply only if that service is not used (printed as is). Item 19 total average is described as an average of the tier figures, not necessarily a true per-salon average. Item 20 data is as of June 30, 2025.",
+ "source": {
+  "doc": "35367-202602-04",
+  "received": "2026-02-10",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B20C1909C-0000-CE18-8382-4D8EE2A66066%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 394,
+  "registrant": "SUPERCUTS, INC.",
+  "filedName": "SUPERCUTS",
+  "type": "Clean FDD"
+ }
+}

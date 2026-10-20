@@ -1,0 +1,132 @@
+{
+ "slug": "european-wax-center",
+ "brand": "European Wax Center",
+ "franchisor": "EWC Franchisor LLC",
+ "issuanceDate": "2026-04-23",
+ "amendedDate": null,
+ "format": "single European Wax Center franchised center (5-6 waxing suites, leased 1,000-1,600 sq ft)",
+ "invest": {
+  "low": 331600,
+  "high": 776950,
+  "toFranchisorLow": 63000,
+  "toFranchisorHigh": 66350,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operating a European Wax Center franchise is from $331,600.00 to $776,950.00. This includes $63,000.00 to $66,350.00 if you are a new franchisee, or $54,000.00 to $57,350.00 if you are an existing franchisee, that must be paid to us or our affiliates."
+ },
+ "fee": {
+  "low": 45000,
+  "high": 45000,
+  "quote": "The standard Franchise Fee for new a franchisee is $45,000.00, and the standard Franchise Fee for an existing franchisee is $36,000.00.",
+  "note": "Existing franchisees pay $36,000. Franchisor may reduce or waive Franchise Fees case by case. Start-up Package of products ($18,000 to $21,000) must also be bought from the franchisor or its affiliate. Development Agreement (3+ centers): Development Fee $72,000 to $207,000."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Fee 6.00% of Gross Sales. Weekly. You pay us. See definition of Gross Sales."
+ },
+ "adFund": {
+  "pct": 3,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Marketing Fund Contribution 3.00% of Gross Sales. Monthly. You pay our affiliate, EWC MFund, LLC, directly.",
+  "note": "Since 2016 the local advertising obligation is combined into the single 3% marketing fund contribution. Grand opening advertising at least $12,000 (up to $35,000). Mandatory Local SEO/SEM program $275 per month."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology & Security Fee",
+   "amount": "$310.00 Monthly",
+   "annualUsd": 3720
+  },
+  {
+   "name": "Local SEO/SEM Program (currently mandatory)",
+   "amount": "Currently $275.00 per month",
+   "annualUsd": 3300
+  },
+  {
+   "name": "IT Network/Cyber Security Insurance Fee",
+   "amount": "$100.00 Annual",
+   "annualUsd": 100
+  },
+  {
+   "name": "Imagery Auto-Shipment Program",
+   "amount": "Actual cost ... Ranges typically from $300.00 - $500.00 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Other Auto-Shipment Programs",
+   "amount": "Actual costs of auto-shipped products ... Typically, it ranges from $300.00 - $2,500.00 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "National conference fees",
+   "amount": "Conference Fees: Up to $950.00 per person (conferences approximately every 18 months)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Transfer fee equal to 20.00% of the then-current Franchise Fee that would otherwise be payable by the transferee if purchasing a new franchise at such time (currently, $9,000.00 for new franchisees, $7,200.00 for existing franchisees). $1,000.00 processing fee paid in connection with each transfer request",
+  "usd": 9000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, franchised centers open the entire 2025 fiscal year",
+   "value": 902437,
+   "count": 1028,
+   "period": "fiscal 2025",
+   "median": 1123886
+  },
+  "other": [
+   {
+    "label": "Average Gross Sales, mature franchised centers (60+ months in operation, 724), fiscal 2025",
+    "value": 1024725
+   },
+   {
+    "label": "Median Gross Sales, mature franchised centers (724), fiscal 2025",
+    "value": 967104
+   },
+   {
+    "label": "Average Gross Sales, 1st (top) quartile (257 centers), fiscal 2025",
+    "value": 1428602
+   },
+   {
+    "label": "Average Gross Sales, 4th (bottom) quartile (257 centers), fiscal 2025",
+    "value": 475545
+   },
+   {
+    "label": "Highest Gross Sales, fiscal 2025",
+    "value": 2420856
+   },
+   {
+    "label": "Lowest Gross Sales, fiscal 2025",
+    "value": 135136
+   }
+  ],
+  "quote": "Average Gross Sales** $1,428,602 $977,033 $728,567 $475,545 $902,437 $1,024,725 ... Median Gross Sales $1,375,183 $973,551 $728,468 $494,648 $1,123,886 $967,104 (All Reporting Centers: 1028)",
+  "note": "Gross Sales only, no costs or profits. 449 (43.7%) of the 1,028 centers were above average. Excludes 12 centers opened in 2025, 2 relocated and 32 closed in 2025. Gross Sales exclude proceeds from resale of branded products bought from the franchisor.",
+  "profitPct": null
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1042,
+  "company": 5,
+  "total": 1047,
+  "franchisedNetChange": -20,
+  "quote": "2025 1,062 1042 -20 Company-Owned ... 2025 5 5 0 Total Outlets ... 2025 1,067 1047 -20"
+ },
+ "special": "Affiliate EWC Distributor LLC is currently the only approved supplier of wax and all branded products, bought on an ongoing basis at then-standard wholesale prices; resale of these branded products is excluded from Gross Sales (so royalty is not charged on it). Start-up Package $18,000 to $21,000 bought from franchisor.",
+ "confidence": "high",
+ "issues": "Item 19 prints a median for All Reporting Centers ($1,123,886) above the average ($902,437) and above the 2nd-quartile median, which looks inconsistent; recorded as printed. Item 20 franchised row label missing in extracted text (first block assumed to be Franchised).",
+ "source": {
+  "doc": "36472-202605-08",
+  "received": "2026-05-01",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B902E16A1-0000-CB1D-8AFE-73C8059A99FC%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 397,
+  "registrant": "EWC Franchisor LLC",
+  "filedName": "European Wax Center",
+  "type": "Clean FDD"
+ }
+}

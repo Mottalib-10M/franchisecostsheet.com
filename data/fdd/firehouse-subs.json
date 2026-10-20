@@ -1,0 +1,162 @@
+{
+ "slug": "firehouse-subs",
+ "brand": "Firehouse Subs",
+ "franchisor": "Firehouse of America, LLC",
+ "issuanceDate": "2026-03-25",
+ "amendedDate": null,
+ "format": "Traditional Restaurant (in-line, no drive-thru), exclusive of real estate costs",
+ "invest": {
+  "low": 405350,
+  "high": 875950,
+  "toFranchisorLow": 26200,
+  "toFranchisorHigh": 26200,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a single FIREHOUSE SUBS® Restaurant, exclusive of real estate costs, ranges from $405,350 to $875,950 for a Traditional Restaurant; ... This includes $26,200 to $26,200 that must be paid to the franchisor or its affiliates."
+ },
+ "fee": {
+  "low": 20000,
+  "high": 20000,
+  "quote": "The standard initial franchise fee for a 10-year Franchise Agreement term is $20,000. The Initial Franchise Fees actually paid for new franchises during our fiscal year ended December 31, 2025 was $20,000 per FIREHOUSE SUBS® Restaurant.",
+  "note": "Fee prorated for terms of different duration. Background check fee up to $500. Development Agreement: prepaid fee of $20,000 per committed Restaurant. 2026-2028 Development Incentive Program pays a $75,000 cash contribution per Restaurant opened 2026-2028 (plus $25,000 bonus for 2 or more; up to $150,000 under Grow A-Gain or Accelerated Market incentives). Veteran and First Responder DIP pays $100,000 per Restaurant. Market Introduction Fee $5,000 per new Restaurant paid to franchisor."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "gross sales per Accounting Period (weekly)",
+  "flat": null,
+  "quote": "Royalty 6% of Gross Sales per Accounting Period. Payable the 3rd day of Accounting Period."
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "System Fund Contribution Not to exceed 5% of Gross Sales per Accounting Period (currently 5%).",
+  "note": "Currently 5% (maximum 5%). Special Co-Op Contribution: none currently but may be up to 4% of Gross Sales."
+ },
+ "otherRecurring": [
+  {
+   "name": "MIS System Fee",
+   "amount": "$1,200 per year",
+   "annualUsd": 1200
+  },
+  {
+   "name": "Digital Technology Fees",
+   "amount": "$150 per Restaurant per month, plus 1% of Digital Sales",
+   "annualUsd": null
+  },
+  {
+   "name": "Delivery Guest Support Services Fee",
+   "amount": "$0.25 to $0.75 per delivery order on the Firehouse Subs® mobile app or website (collected from guests)",
+   "annualUsd": null
+  },
+  {
+   "name": "Technology Fees",
+   "amount": "None currently, but may range from $0 to $1.00 per transaction",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "50% of our then-current initial franchise fee; $1,500 if transfer is among your owners.",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual sales, franchised Counter Service (no drive-thru) Restaurants open all of 2025",
+   "value": 973809,
+   "count": 1033,
+   "period": "fiscal 2025 (year ended December 31, 2025)",
+   "median": 938981
+  },
+  "other": [
+   {
+    "label": "Average annual sales, franchised Free Standing Restaurants with Drive Thru (35), 2025",
+    "value": 1054318
+   },
+   {
+    "label": "Median annual sales, franchised Free Standing Restaurants with Drive Thru, 2025",
+    "value": 1058115
+   },
+   {
+    "label": "Average annual sales, franchised End Cap Strip Center Restaurants with Drive Thru (69), 2025",
+    "value": 1123608
+   },
+   {
+    "label": "Median annual sales, franchised End Cap Strip Center Restaurants with Drive Thru, 2025",
+    "value": 1031817
+   },
+   {
+    "label": "Average annual sales, Counter Service top 25% (258), 2025",
+    "value": 1362686
+   },
+   {
+    "label": "Average annual sales, Counter Service bottom 25% (259), 2025",
+    "value": 645319
+   },
+   {
+    "label": "Average annual sales, 704 franchised Restaurants submitting P&L, 2025",
+    "value": 1035521
+   },
+   {
+    "label": "Average restaurant-level EBITDA in dollars, 704 franchised Restaurants submitting P&L, 2025",
+    "value": 103119
+   },
+   {
+    "label": "Average restaurant-level EBITDA as % of sales, 704 franchised Restaurants, 2025",
+    "value": 10.0
+   },
+   {
+    "label": "Median restaurant-level EBITDA in dollars, 704 franchised Restaurants, 2025",
+    "value": 95743
+   },
+   {
+    "label": "Median restaurant-level EBITDA as % of sales, 704 franchised Restaurants, 2025",
+    "value": 9.7
+   },
+   {
+    "label": "Average EBITDA as % of sales, Restaurants with sales >$1.2M (164), 2025",
+    "value": 13.0
+   },
+   {
+    "label": "Average EBITDA as % of sales, Restaurants with sales <$0.8M (145), 2025",
+    "value": 3.8
+   },
+   {
+    "label": "Average COGS as % of sales, 704 Restaurants, 2025",
+    "value": 30.5
+   },
+   {
+    "label": "Average Labor as % of sales, 704 Restaurants, 2025",
+    "value": 26.3
+   },
+   {
+    "label": "Average Occupancy as % of sales, 704 Restaurants, 2025",
+    "value": 7.6
+   }
+  ],
+  "profitPct": 10.0,
+  "quote": "Average Restaurant Annual Sales Volume $1,362,686 $1,026,183 $862,320 $645,319 $973,809 ... Median $1,290,643 $1,023,189 $860,166 $679,227 $938,981 (2025 Annual AUV / Counter Service Franchised Restaurants, All = 1033)",
+  "note": "Sales are Gross Sales (incl. catering and delivery, excl. refunds and sales tax). Excludes 76 Counter Service Restaurants not open all of 2025 and 21 closed in 2025; company-owned excluded. EBITDA tables based on 704 of 1,137 full-year franchised Restaurants that submitted complete P&Ls (433 excluded); EBITDA is restaurant-level, before interest, taxes, depreciation, amortization, franchise fees, loan fees and above-restaurant overhead; 'Other' costs include royalties and System Fund contributions."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1249,
+  "company": 42,
+  "total": 1291,
+  "franchisedNetChange": 43,
+  "quote": "Franchised ... 2025 1,206 1,249 +43 Company-Owned ... 2025 42 42 0 Total Outlets ... 2025 1,248 1,291 +43"
+ },
+ "special": "Development incentive cash contributions ($75,000 to $150,000 per new Restaurant, $100,000 under the Veteran and First Responder program) offset part of the initial investment. Accelerated-market Restaurants get a royalty reduced by 2% of Gross Sales for the first 3 years. Deferred Renovation program can raise royalty to an agreed default rate (typically up to 9%) if renovation is not completed. Development Agreement requires a $1,000 contribution per Restaurant to the Firehouse Subs Public Safety Foundation.",
+ "confidence": "high",
+ "issues": "Item 19 says 1,234 franchised Restaurants at December 31, 2025 (U.S., excluding territories) while Item 20 Table 1 shows 1,249 franchised; difference not explained in the cut. Transfer fee is a percentage of the then-current fee (50% of $20,000 would be $10,000, not printed as such).",
+ "source": {
+  "doc": "35581-202603-09",
+  "received": "2026-03-25",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BB0F9629D-0000-CE38-A082-F6F5EC95F9D8%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 487,
+  "registrant": "FIREHOUSE OF AMERICA LLC",
+  "filedName": "FIREHOUSE SUBS RESTAURANTS (UNIT)",
+  "type": "Clean FDD"
+ }
+}

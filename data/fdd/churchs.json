@@ -1,0 +1,125 @@
+{
+ "slug": "churchs",
+ "brand": "Church's Texas Chicken",
+ "franchisor": "Cajun Global LLC",
+ "issuanceDate": "2026-05-01",
+ "amendedDate": "2026-08-31",
+ "format": "new Blaze Freestanding Building (stand-alone restaurant, approx. 1,000 to 1,400 sq ft, typically with drive-through)",
+ "invest": {
+  "low": 1252400,
+  "high": 1970300,
+  "toFranchisorLow": 45500,
+  "toFranchisorHigh": 55000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin the operation of a new free-standing Church's Restaurant ranges from $1,252,400 to $1,970,300 for the Blaze Freestanding Building ... Each of these estimates includes $45,500 - $55,000 that is paid to Cajun ... These estimates exclude real estate costs."
+ },
+ "fee": {
+  "low": 20000,
+  "high": 20000,
+  "quote": "The initial franchise fee (\"Franchise Fee\") is $20,000 for each Restaurant. You must pay the Franchise Fee, which is in addition to the Development Fee, when you sign the Franchise Agreement for each Restaurant.",
+  "note": "Plus a $10,000 Development Fee per Restaurant (a Development Agreement is required) and $15,500 Grand Opening Marketing Funds paid to Cajun. U.S. military veterans and first responders: Franchise Fee $10,000 for the first Restaurant. Diamond Incentive Program (DA for 3+ Restaurants signed by December 31, 2027): $0 Franchise Fee, $50,000 or $150,000 cash back per qualifying opening, royalty 2% to 5% and advertising 3% to 5% ramp over 4 years."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty2 5% of Gross Sales Within 5 business days after the end of each fiscal week."
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Advertising Fund Contribution 5% of Gross Sales (up to 1% of Gross Sales if a Regional Co-Op has been formed, plus contribution to Co-Op) and at least $25,000/year",
+  "note": "5% of Gross Sales with a minimum of $25,000 per year; if a Regional Co-Op is formed, up to 1% goes to the fund plus the co-op contribution."
+ },
+ "otherRecurring": [
+  {
+   "name": "Digital and Technology Fees",
+   "amount": "Currently, $205 per period ($2,665 annually) plus 5% of first party digital sales",
+   "annualUsd": 2665
+  },
+  {
+   "name": "Restaurant Support Fund (customer satisfaction and compliance programs)",
+   "amount": "Currently, $75 per 4-week period",
+   "annualUsd": null
+  },
+  {
+   "name": "Supply Chain Department Surcharge",
+   "amount": "$3.57 per case of regular chicken boxes, $3.57 per case of family chicken boxes, $0.95 per case of frying oil, and $4.71 per case of biscuit mix",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Transfer $10,000",
+  "usd": 10000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average unit volume (annual gross sales), 565 domestic franchised Church's restaurants open 52+ weeks in fiscal 2025 (excl. Puerto Rico)",
+   "value": 1115007,
+   "count": 565,
+   "period": "fiscal 2025 (ended December 28, 2025)",
+   "median": 1065581
+  },
+  "other": [
+   {
+    "label": "Average gross sales, 372 franchised freestanding Restaurants with P&L, 2025",
+    "value": 1270320
+   },
+   {
+    "label": "Restaurant Operating Profit (EBITDAR) in dollars, average of 372 franchised freestanding Restaurants, 2025 (before rent, interest, taxes, depreciation)",
+    "value": 234836
+   },
+   {
+    "label": "Average gross sales, 142 company freestanding Restaurants, 2025",
+    "value": 1236658
+   },
+   {
+    "label": "Restaurant Operating Profit (EBITDAR) in dollars, average of 142 company freestanding Restaurants, 2025",
+    "value": 188853
+   },
+   {
+    "label": "Average unit volume, 145 company Restaurants, 2025",
+    "value": 1239870
+   },
+   {
+    "label": "AUV, 391 franchised Restaurants in South region, 2025",
+    "value": 1061478
+   },
+   {
+    "label": "Average annual sales after Full Blaze reimage, 44 franchised freestanding Restaurants",
+    "value": 1268600
+   },
+   {
+    "label": "Growth of average annual sales after reimage (%)",
+    "value": 6.7
+   }
+  ],
+  "profitPct": null,
+  "quote": "Total 565 1,115,007$ 1,065,581$ 2,435,926$ 336,236$ (Table 6A Average Unit Volume for Franchise Restaurants by Region)",
+  "note": "EBITDAR excludes rent and all lease/real estate costs and corporate overhead; marketing and royalty are each 5%. P&L covers 372 of the franchised freestanding Restaurants (117 did not provide P&L). The % of sales printed in Table 2 is for the High/Median/Low restaurants, not for the average, so no average margin % is printed."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 722,
+  "company": 163,
+  "total": 885,
+  "franchisedNetChange": 8,
+  "quote": "Franchised ... 2025 714 722 +8 Company Owned ... 2025 159 163 +4 Total Outlets ... 2025 873 885 +12"
+ },
+ "special": "Advertising contribution is as high as the royalty (5% + 5%) with a $25,000/year minimum, plus Digital and Technology Fees of 5% of first-party digital sales. Supply chain surcharges on chicken boxes, oil and biscuit mix may include amounts retained by franchisor or affiliates. Default Royalty: +1% of Gross Sales while in default. Item 19 profit (EBITDAR) excludes rent. Unit counts include 115 franchised restaurants in Puerto Rico (excluded from Item 19).",
+ "confidence": "medium",
+ "issues": "Item 19 Table 1 (gross sales by venue type) did not extract as text; Table 3 franchised C-store P&L also not visible. Item 19 tables are image-like text with column labels printed after the blocks; franchise/company assignment of the Table 2 blocks inferred from those labels. Average EBITDAR % not printed, profitPct left null.",
+ "source": {
+  "doc": "37208-202608-04",
+  "received": "2026-08-31",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BE00587A0-0000-C812-A813-D17D82C90A51%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 437,
+  "registrant": "Cajun Global LLC",
+  "filedName": "Church's Chicken Church's Restaurants Church's Texas Chicken",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "slug": "visiting-angels",
+ "brand": "Visiting Angels",
+ "franchisor": "Living Assistance Services, Inc.",
+ "issuanceDate": "2026-04-20",
+ "amendedDate": null,
+ "format": "start-up Visiting Angels franchise (non-medical home care office), Protected Territory of up to 325,000 population (standard 200,000)",
+ "invest": {
+  "low": 125460,
+  "high": 171150,
+  "toFranchisorLow": 51950,
+  "toFranchisorHigh": 89950,
+  "excludesRealEstate": null,
+  "quote": "The total investment necessary to begin operation of a Visiting Angels franchise is $125,460.00 to $171,150.00. This includes $51,950.00 to $89,950.00 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 51950,
+  "high": 89950,
+  "quote": "pay an Initial Franchise Fee to us ranging from $51,950.00 to $89,950.00 (amount varies based on size of territory) when they sign the Franchise Agreement. The Initial Franchise Fee is $64,950.00 for a Protected Territory of 200K population.",
+  "note": "$51,950 for territories up to 100,000 population; $64,950 (Standard Franchise) for 100,000-200,000; $89,950 for 325,000; proportionately higher above. Buyers of an existing franchise (transfer) pay $15,950 to $49,950 depending on territory population."
+ },
+ "royalty": {
+  "pct": 3.5,
+  "pctHigh": null,
+  "basis": "gross revenues (collected receipts, including caregiver wages)",
+  "flat": null,
+  "quote": "Royalty/Gross Monthly Service Fee 3.5% of total Gross Revenues; 3.25% after $125,000.00 per month revenues are reached; 3.0% after $225,000.00 per month are reached. Minimum $495.00 ($625.00/month in 325K pop. territory) by 2nd month after training"
+ },
+ "adFund": {
+  "pct": 2.5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Cooperative Advertising $425.00 per month ($575.00/month in 325K pop. territory) or 2.5% of your Gross Revenues if higher; 2.25% of Gross Revenues after $150,000.00 per month revenues are reached if higher; 2.0% of Gross Revenues after $250,000.00 per month revenues are reached if higher",
+  "note": "Greater of a monthly minimum ($425, rising to $550 in month 24, $750 in month 48, $895 in month 60; higher in 325K territories) or 2.5% of Gross Revenues (2.25% above $150,000/month, 2.0% above $250,000/month)."
+ },
+ "otherRecurring": [
+  {
+   "name": "Minimum Gross Service Fee (royalty floor)",
+   "amount": "Minimum $495.00 per month by 2nd month after training; $650.00 in the 24th month; $875.00 in the 48th month; $1,095.00 per month in the 60th month (higher in 325K pop. territory)",
+   "annualUsd": null
+  },
+  {
+   "name": "Email Fee",
+   "amount": "currently $60.00-$168.00 per user, per year",
+   "annualUsd": null
+  },
+  {
+   "name": "Attendance Fee for National Conference",
+   "amount": "$899.00",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Transferring Franchisee: $9,500.00 to $25,000.00 or 2.5% of sale price, if greater; based on sale price. Purchasing Franchisee: $15,950.00 for up to 325K population ... $49,950.00 for above 1.25M population.",
+  "usd": 9500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "2025 annual revenues of 550 franchisees grouped by dollar range and months since training (no average or median published)",
+   "value": null,
+   "count": 550,
+   "period": "calendar year 2025",
+   "median": null
+  },
+  "other": [
+   {
+    "label": "Number of franchisees with 2025 receipts of $1 - 1.5 Million (most frequent range)",
+    "value": 105
+   },
+   {
+    "label": "Number of franchisees with 2025 receipts of $1.5 - 2 Million",
+    "value": 84
+   },
+   {
+    "label": "Number of franchisees with 2025 receipts over $10 Million",
+    "value": 9
+   },
+   {
+    "label": "Number of franchisees with 2025 receipts of $0 - 250,000",
+    "value": 23
+   },
+   {
+    "label": "Number of the 550 franchisees with 73+ months since training",
+    "value": 508
+   }
+  ],
+  "profitPct": null,
+  "quote": "The Revenue vs. Longevity Chart below is based on the actual annual revenues reported by 550 franchisees that operated in calendar year 2025. ... $1 - 1.5 Million 3 1 1 2 98 105",
+  "note": "Revenue (collected receipts, including caregiver wages) only, in ranges; no average, median or costs. Includes franchisees that opened or closed during 2025 even if they operated only part of the year; excludes those that had not attended training by October 2025."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 541,
+  "company": 0,
+  "total": 541,
+  "franchisedNetChange": 2,
+  "quote": "Franchised 2025 539 541 +2 Company-Owned 2025 0 0 0 Total Outlets 2025 539 541 +2"
+ },
+ "special": "Royalty and cooperative advertising are each the greater of a percentage of Gross Revenues or a monthly minimum that steps up with time (royalty minimum $495 rising to $1,095 per month by month 60; ad minimum $425 rising to $895). Gross Revenues include the wages paid to caregivers, so fees apply to a labor-heavy revenue base. Royalty percentage declines to 3.25% above $125,000 and 3.0% above $225,000 of monthly revenue.",
+ "confidence": "high",
+ "issues": "Item 19 gives only a range distribution, so headline value and median are null. excludesRealEstate is null: Item 7 has a $5,000 'Deposits, Insurances, Licenses, Lease' line but no real estate purchase. Transfer fee usd is the transferring franchisee's minimum ($9,500, or 2.5% of sale price if greater).",
+ "source": {
+  "doc": "36131-202604-14",
+  "received": "2026-04-22",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B30A32B9E-0000-C91C-B2B7-A3A813846CA5%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 173,
+  "registrant": "Living Assistance Services, Inc.",
+  "filedName": "Visiting Angels",
+  "type": "Clean FDD"
+ }
+}

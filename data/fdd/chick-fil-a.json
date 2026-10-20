@@ -1,0 +1,127 @@
+{
+ "slug": "chick-fil-a",
+ "brand": "Chick-fil-A",
+ "franchisor": "Chick-fil-A, Inc.",
+ "issuanceDate": "2026-03-31",
+ "amendedDate": null,
+ "format": "Operator Program: traditional franchised Chick-fil-A Restaurant (free-standing, mall, in-line or drive-thru only unit); premises and equipment leased from Chick-fil-A",
+ "invest": {
+  "low": 317521,
+  "high": 3463155,
+  "toFranchisorLow": 10000,
+  "toFranchisorHigh": 10000,
+  "excludesRealEstate": null,
+  "quote": "The total investment necessary to begin operation of a traditional franchised Chick-fil-A Restaurant business is from $317,521 to $3,463,155. This includes $10,000 that must be paid to the franchisor or any affiliate."
+ },
+ "fee": {
+  "low": 10000,
+  "high": 10000,
+  "quote": "You must pay an initial franchise fee of $10,000 payable in full when you sign the Franchise Agreement whether for a traditional location or a captive venue unit.",
+  "note": "$5,000 of the $10,000 is held by Chick-fil-A as a working capital deposit, returned (less amounts owed) at termination or non-renewal; additional franchise fee of $5,000 for each additional Chick-fil-A Restaurant business, if offered. Item 7 Note 2: the fee is the only initial out-of-pocket investment the Operator is required to make."
+ },
+ "royalty": {
+  "pct": 15,
+  "pctHigh": null,
+  "basis": "Gross Receipts (Base Operating Service Fee = 15% of Gross Receipts minus monthly equipment rental and business services fee), plus 50% of Net Profit as Additional Operating Service Fee",
+  "flat": null,
+  "quote": "\"Base Operating Service Fee\" for a particular restaurant for each calendar month is the amount by which 15% of the Gross Receipts for the month exceeds the monthly equipment rental payable and business services fee for the calendar month."
+ },
+ "adFund": {
+  "pct": 0,
+  "pctHigh": 3.25,
+  "localPct": null,
+  "quote": "Advertising fund contribution may vary (a) between 0% to 3.25%, to be determined by Chick-fil-A, as a percentage of \"Gross Receipts\" ... Since 6/30/89, Chick-fil-A has not charged any amount for advertising (0% of Gross Receipts) as a matter of internal policy, which is subject to change.",
+  "note": "currently 0%, up to 3.25%; Operators in a geographic area may establish local or regional advertising fees (no % given)"
+ },
+ "otherRecurring": [
+  {
+   "name": "Business Services Fee",
+   "amount": "$300, subject to change; Monthly",
+   "annualUsd": 3600
+  },
+  {
+   "name": "Equipment Rental",
+   "amount": "$750 to $5,000, monthly; current: Free-Standing and In-Line: $5,000/month; Drive-Through only: $4,000/month; Mall: $3,000/month",
+   "annualUsd": null
+  },
+  {
+   "name": "Rent (Traditional Unit)",
+   "amount": "$3,500 to $100,655 (including, where applicable, percentage rent) per formula; Monthly",
+   "annualUsd": null
+  },
+  {
+   "name": "Insurance",
+   "amount": "$321 to $22,500, subject to change; Monthly",
+   "annualUsd": null
+  },
+  {
+   "name": "Hardware and Software Support; High-Speed Internet Access",
+   "amount": "$9,500 to $20,000 (annually), subject to change",
+   "annualUsd": null
+  },
+  {
+   "name": "Cash Handling System Services",
+   "amount": "$85 to $450 (monthly), subject to change",
+   "annualUsd": null
+  }
+ ],
+ "rentToFranchisor": "Chick-fil-A (or a subsidiary) is the landlord or sublessor of traditional locations; rent $3,500 to $100,655 monthly (Item 6). For a site owned by Chick-fil-A there is no base rent and the Operator pays percentage rent: \"Percentage of Gross Receipts Payable Above Breakpoint 6%\" (breakpoint typically $0.00). Internal Rent Policy since January 1, 2015: rent (excluding equipment) \"will not exceed 6% of the annual Gross Receipts\" for traditional locations.",
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual sales volume, domestic non-captive venue non-mall franchised Operator restaurants (e.g., free-standing or drive-thru only) open and operated by Operators the full calendar year 2025",
+   "value": 9161239,
+   "count": 2302,
+   "period": "calendar year 2025",
+   "median": 9087673
+  },
+  "other": [
+   {
+    "label": "Non-mall franchised Operator restaurants 2025: highest annual sales volume",
+    "value": 20048032
+   },
+   {
+    "label": "Non-mall franchised Operator restaurants 2025: lowest annual sales volume",
+    "value": 1658209
+   },
+   {
+    "label": "Mall franchised Operator restaurants (201) 2025: average annual sales volume",
+    "value": 4579894
+   },
+   {
+    "label": "Mall franchised Operator restaurants (201) 2025: median annual sales volume",
+    "value": 3356330
+   },
+   {
+    "label": "Delivery kitchen franchised Operator units (3) 2025: average annual sales volume",
+    "value": 2547052
+   },
+   {
+    "label": "Delivery kitchen franchised Operator units (3) 2025: median annual sales volume",
+    "value": 2752922
+   }
+  ],
+  "quote": "In 2025, of the approximately 2,302 domestic non-captive venue franchised Operator Chick-fil-A Restaurants located in non-malls (e.g., free-standing or drive-thru only units) that had been open and operated by Operators for at least one full calendar year as of December 31, 2025, the median annual sales volume was $9,087,673 and the average annual sales volume was $9,161,239",
+  "note": "Sales only: \"The Financial Performance Representations do not reflect the costs of sales or operating expenses\". Excludes company-operated restaurants, 25 captive venue units and 424 Licensed Units. 1,120 of the 2,302 (49%) did as well or better than the average."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 2795,
+  "company": 68,
+  "total": 2863,
+  "franchisedNetChange": 171,
+  "quote": "Franchised 2025 2624 2795 +171; Company Owned 2025 60 68 +8; Total Outlets 2025 2684 2863 +179"
+ },
+ "special": "Operator does not own the restaurant assets: premises leased from Chick-fil-A (rent up to 6% of Gross Receipts) and equipment rented ($750 to $5,000/month). Chick-fil-A takes a Base Operating Service Fee equal to 15% of Gross Receipts minus equipment rental and business services fee, plus an Additional Operating Service Fee of 50% of the restaurant's Net Profit; the Operator keeps a Base Profit of $1,000/month, Extra Profit advance up to $1,500/month, and the other 50% of Net Profit. Franchise agreement only with an individual. Opening inventory $22,950 to $107,000 bought partly from affiliate CFA Supply; distributor prices include amounts paid to Chick-fil-A for proprietary seasoning and coater.",
+ "confidence": "high",
+ "issues": "royalty is not a simple %: 15% of Gross Receipts includes equipment rental and business services fee, plus 50% profit share; Item 7 Additional Funds high printed '$3,463155' and equals the total high, cover/Item 7 total agree; Item 20 franchised 2025 start (2624) differs from 2024 end (2629); real estate not explicitly stated as excluded (premises leased from Chick-fil-A)",
+ "source": {
+  "doc": "36161-202604-08",
+  "received": "2026-04-23",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B00602C9E-0000-CC1A-A642-D5F525B987CB%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 606,
+  "registrant": "CHICK-FIL-A, INC.",
+  "filedName": "CHICK-FIL-A OPERATOR PROGRAM",
+  "type": "Clean FDD"
+ }
+}

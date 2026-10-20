@@ -1,0 +1,114 @@
+{
+ "slug": "crumbl",
+ "brand": "Crumbl",
+ "franchisor": "Crumbl Franchising, LLC",
+ "issuanceDate": "2026-04-06",
+ "amendedDate": "2026-07-01",
+ "format": "single Crumbl cookie bakery location (leased space, approx. 1,600 to 2,000 sq ft)",
+ "invest": {
+  "low": 848566,
+  "high": 1472533,
+  "toFranchisorLow": 81000,
+  "toFranchisorHigh": 89000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Crumbl® franchise is $848,566 to $1,472,533. This includes the $81,000 to $89,000 that must be paid to the franchisor or its affiliates."
+ },
+ "fee": {
+  "low": 50000,
+  "high": 50000,
+  "quote": "On the signing of the franchise agreement, all franchisees pay an initial franchise fee of $50,000.",
+  "note": "Also paid to franchisor/affiliate: opening tech equipment package $12,000 to $15,000, opening box and ingredient package $11,000 to $16,000, initial training fee $8,000. Area development: $50,000 per unit up front, minimum 3 units, credited to each initial fee."
+ },
+ "royalty": {
+  "pct": 8,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty*1 8% of gross sales Payable weekly to be received by Tuesday of the following week (a sales week runs Monday – Saturday)"
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": null,
+  "localPct": 0,
+  "quote": "Marketing Fund Fee*1,2 2% of gross sales payable to us ... Advertising Cooperative*1,2 1% to 2% of gross sales payable to the co-op, if established by us",
+  "note": "Local marketing requirement 0 to 2% of gross sales, currently 0%. Co-op 1% to 2% if established."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Fee",
+   "amount": "Currently $650 Payable monthly",
+   "annualUsd": 7800
+  },
+  {
+   "name": "Transaction Processing Fee",
+   "amount": "Currently 2.4% to 4% of each transaction",
+   "annualUsd": null
+  },
+  {
+   "name": "Gift Card Program Fee",
+   "amount": "5% to 15% of the redemption value of the gift card",
+   "annualUsd": null
+  },
+  {
+   "name": "Store Inspection Fee",
+   "amount": "Currently, the cost of the services, plus a 5% to 15% administrative fee (two to four inspections per year)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Franchise Agreement Transfer Fee $10,000",
+  "usd": 10000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual gross sales, 776 franchised Crumbl locations open all of 2025 that timely submitted complete financial reports (74% of 1,048)",
+   "value": 1139162,
+   "count": 776,
+   "period": "calendar year 2025",
+   "median": 1093071
+  },
+  "other": [
+   {
+    "label": "Highest gross sales, 2025",
+    "value": 3421762
+   },
+   {
+    "label": "Lowest gross sales, 2025",
+    "value": 365129
+   },
+   {
+    "label": "Average gross sales, January 1 to May 31, 2026, 621 locations",
+    "value": 364193
+   },
+   {
+    "label": "Median gross sales, January 1 to May 31, 2026, 621 locations",
+    "value": 344951
+   }
+  ],
+  "profitPct": null,
+  "quote": "2025 Calendar Year Average Median High Store Low Store Gross Sales $1,139,162 $1,093,071 $3,421,762 $365,129",
+  "note": "Sales only: 'The financial performance representation figures do not reflect the costs or expenses...'. Subset: 272 locations excluded for not timely submitting complete financial information, 53 for not operating the whole year. 346 (approx. 45%) met or surpassed the average."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1101,
+  "company": 0,
+  "total": 1101,
+  "franchisedNetChange": 43,
+  "quote": "Franchised 2023 689 970 +281 2024 970 1058 +88 2025 1058 1101 +43 Company Owned ... 2025 1 0 -1 Total Outlets ... 2025 1059 1101 +42"
+ },
+ "special": "Royalty 8% plus 2% marketing fund plus $650 monthly technology fee; transaction processing fee of 2.4% to 4% of each transaction is paid to the franchisor, which keeps the difference over the processor's cost (about 2.36%). Required purchases of tech and box/ingredient packages from franchisor or affiliate. $30,000 minimum working capital must be kept in the operating account. Investment excludes purchase of real property (lease assumed, rent $50,000 to $250,000 per annum).",
+ "confidence": "high",
+ "issues": "Items 5-19 were not cut in the items file; figures taken by grep of the full text. Item 19 covers only the 74% of full-year locations that reported on time.",
+ "source": {
+  "doc": "36632-202605-08",
+  "received": "2026-05-13",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BE0773C9F-0000-C61B-9369-4CD47BACD015%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 390,
+  "registrant": "CRUMBL FRANCHISING, LLC",
+  "filedName": "CRUMBL",
+  "type": "Clean FDD"
+ }
+}

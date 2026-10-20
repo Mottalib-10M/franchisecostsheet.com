@@ -1,0 +1,135 @@
+{
+ "slug": "great-clips",
+ "brand": "Great Clips",
+ "franchisor": "Great Clips, Inc.",
+ "issuanceDate": "2026-03-30",
+ "amendedDate": null,
+ "format": "Single Great Clips salon in leased shopping-center space (single Franchise Agreement)",
+ "invest": {
+  "low": 187800,
+  "high": 419900,
+  "toFranchisorLow": 73800,
+  "toFranchisorHigh": 104400,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Great Clips franchise is from $187,800 to $419,900. This includes $73,800 to $104,400 that must be paid to Great Clips or an affiliate for a single franchise agreement"
+ },
+ "fee": {
+  "low": 20000,
+  "high": 20000,
+  "quote": "The Initial Franchise Fee is $20,000 for a single salon.",
+  "note": "Plus a non-refundable $5,000 Initial Advertising Contribution to the MDAF. Required purchases from Great Clips of fixtures, signage, flooring and initial inventory estimated at $48,700 to $71,600, architecture fees $100 to $3,800, lease review fee $2,200 to $2,500. VetFran: $5,000 rebate on first salon. Master Development Agreement: $4,000 Development Fee per salon plus $6,000 Initial Franchise Fee. Three Star Program: $35,000 Program Fee plus $5,000 MDAF for three agreements."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Continuing Franchise Fee2 6% of your Gross Sales Biweekly"
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Continuing Advertising Contribution to the Ad Fund2 5% of your Gross Sales Biweekly ... you will likely need to spend a minimum of 1-3% of your Gross Sales on incremental advertising in addition to the 5% Continuing Advertising Contribution",
+  "note": "5% Ad Fund; Great Clips says you will likely need to spend another 1-3% of Gross Sales on local advertising. Local Co-op dues system average of $100 per month."
+ },
+ "otherRecurring": [
+  {
+   "name": "Training Fee",
+   "amount": "Combined fee of $200 per year per salon (not to exceed the greater of $200 per year or 1% of annual Gross Sales)",
+   "annualUsd": 200
+  },
+  {
+   "name": "Recruiting Technology Fee",
+   "amount": "Currently $750 per year per salon, $375 collected semi-annually",
+   "annualUsd": 750
+  },
+  {
+   "name": "Local Co-op Dues",
+   "amount": "System average of $100 per month",
+   "annualUsd": 1200
+  },
+  {
+   "name": "Salon Ongoing Maintenance Costs",
+   "amount": "$3,000-$9,000 Annually, as incurred",
+   "annualUsd": null
+  },
+  {
+   "name": "Insurance Coverage",
+   "amount": "$1,500-$3,000 per year",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Assignment Fee Currently $1,500 per salon",
+  "usd": 1500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Total Sales, franchised salons eligible to be open all of 2025 (U.S. and Canada)",
+   "value": 410783,
+   "count": 4158,
+   "period": "calendar 2025",
+   "median": 390685
+  },
+  "other": [
+   {
+    "label": "Average Operating Cash Flow (dollars), 2,376 Reporting 2025 Salons",
+    "value": 83504
+   },
+   {
+    "label": "Average Operating Cash Flow as % of Total Sales, 2,376 Reporting 2025 Salons",
+    "value": 19.77
+   },
+   {
+    "label": "Median Operating Cash Flow (dollars), Reporting 2025 Salons",
+    "value": 75896
+   },
+   {
+    "label": "Average Total Sales, 2,376 Reporting 2025 Salons",
+    "value": 422283
+   },
+   {
+    "label": "Labor as % of Total Sales, Reporting 2025 Salons (average)",
+    "value": 49.25
+   },
+   {
+    "label": "Occupancy as % of Total Sales, Reporting 2025 Salons (average)",
+    "value": 11.09
+   },
+   {
+    "label": "Operating Cash Flow as % of sales, salons under $250K sales (188)",
+    "value": -2.46
+   },
+   {
+    "label": "Operating Cash Flow as % of sales, salons over $600K sales (274)",
+    "value": 27.05
+   }
+  ],
+  "profitPct": 19.77,
+  "quote": "4,158 ... Total Sales4 $410,783 1,848 / 44.44% $28,0365 / $1,082,803 $390,685",
+  "note": "Sales from POS (Canadian dollars converted at 0.71). Excludes 283 salons not eligible to be open the full year or that changed ownership, and 108 closed in 2025. Operating Cash Flow excludes income taxes, depreciation, amortization, capital reserves and, if identifiable, general manager or franchisee labor; based on 2,376 salons that submitted financial statements, unaudited. Many franchisees operate multiple salons (average 8.5 for owners of 5+ years)."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 4441,
+  "company": 0,
+  "total": 4441,
+  "franchisedNetChange": 2,
+  "quote": "Franchised ... 2025 4,439 4,441 2 Company-Owned ... 2025 0 0 0 Total Outlets ... 2025 4,439 4,441 2"
+ },
+ "special": "Fixtures, signage, flooring and initial inventory must be bought from Great Clips ($48,700 to $71,600). Salon remodel required every seven to 10 years ($20,000 - $80,000). Royalty and ad fund total 11% of Gross Sales, paid biweekly. Item 19 sales include Canadian salons.",
+ "confidence": "high",
+ "issues": "Item 7 total printed as '$187,800 to 419,900' (missing $ sign), consistent with cover. Lowest total sales printed '$28,0365' (footnote 5 merged; note says $28,036).",
+ "source": {
+  "doc": "35696-202603-08",
+  "received": "2026-03-30",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B10DB6E9D-0000-C115-8A89-2FA991DC69F8%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 413,
+  "registrant": "GREAT CLIPS INC",
+  "filedName": "GREAT CLIPS",
+  "type": "Clean FDD"
+ }
+}

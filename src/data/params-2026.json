@@ -1,0 +1,159 @@
+{
+  "_lisezmoi": "Paramètres du site (RECETTE §4). Les chiffres de chaque enseigne vivent dans brands.json (scripts/build-brands.py, un FDD chacune) ; ici, les réglages du calculateur et les sources générales. Chaque valeur relue sur la source citée le jour de retrieved_at.",
+  "year": 2026,
+  "retrieved_at": "2026-10-20",
+  "valid_from": "2026-10-20",
+  "valid_to": "2027-04-30",
+  "calc": {
+    "_defaultMargin": "Valeur de départ du champ « marge avant redevances », que le lecteur remplace : ce n'est pas un chiffre publié. Elle est mise à 15 % et dite telle sur la page Méthode.",
+    "defaultMarginPct": 15,
+    "minBrandsForCategoryMedian": 3
+  },
+  "finance": {
+    "primeRate": 7.0,
+    "primeRateDate": "2026-10-19",
+    "sbaSpreadOver350k": 3.0,
+    "sbaSpreads": [
+      {
+        "upTo": 50000,
+        "spread": 6.5
+      },
+      {
+        "upTo": 250000,
+        "spread": 6.0
+      },
+      {
+        "upTo": 350000,
+        "spread": 4.5
+      },
+      {
+        "upTo": null,
+        "spread": 3.0
+      }
+    ],
+    "sbaMaxYearsEquipment": 10,
+    "sbaMaxYearsRealEstate": 25
+  },
+  "rules": {
+    "disclosureDays": 14,
+    "ftcItems": 23
+  },
+  "categories": {
+    "burgers": {
+      "label": "Burger franchises",
+      "short": "burger"
+    },
+    "chicken": {
+      "label": "Chicken franchises",
+      "short": "chicken"
+    },
+    "pizza": {
+      "label": "Pizza franchises",
+      "short": "pizza"
+    },
+    "sandwiches": {
+      "label": "Sandwich and sub franchises",
+      "short": "sandwich"
+    },
+    "mexican": {
+      "label": "Mexican food franchises",
+      "short": "Mexican food"
+    },
+    "coffee-treats": {
+      "label": "Coffee, dessert and smoothie franchises",
+      "short": "coffee, dessert and smoothie"
+    },
+    "casual-dining": {
+      "label": "Sit-down restaurant franchises",
+      "short": "sit-down restaurant"
+    },
+    "fitness": {
+      "label": "Gym and fitness franchises",
+      "short": "fitness"
+    },
+    "beauty-wellness": {
+      "label": "Hair, beauty and wellness franchises",
+      "short": "beauty and wellness"
+    },
+    "education-childcare": {
+      "label": "Tutoring and child care franchises",
+      "short": "education and child care"
+    },
+    "services": {
+      "label": "Retail service franchises",
+      "short": "service"
+    },
+    "home-services": {
+      "label": "Home service franchises",
+      "short": "home service"
+    },
+    "senior-care": {
+      "label": "Home care franchises",
+      "short": "home care"
+    },
+    "auto": {
+      "label": "Auto service franchises",
+      "short": "auto service"
+    },
+    "retail": {
+      "label": "Retail store franchises",
+      "short": "retail"
+    }
+  },
+  "sources": {
+    "ftc_rule": {
+      "url": "https://www.ecfr.gov/current/title-16/chapter-I/subchapter-D/part-436",
+      "label": {
+        "en": "FTC Franchise Rule, 16 CFR Part 436 (eCFR): the 23 Items of a disclosure document"
+      }
+    },
+    "ftc_436_5": {
+      "url": "https://www.ecfr.gov/current/title-16/chapter-I/subchapter-D/part-436/subpart-C/section-436.5",
+      "label": {
+        "en": "16 CFR 436.5: disclosure items, including Items 5, 6, 7, 19 and 20"
+      }
+    },
+    "ftc_guide": {
+      "url": "https://www.ftc.gov/business-guidance/resources/franchise-rule-compliance-guide",
+      "label": {
+        "en": "FTC, Franchise Rule Compliance Guide"
+      }
+    },
+    "mn_cards": {
+      "url": "https://cards.web.commerce.state.mn.us/franchise-registrations",
+      "label": {
+        "en": "Minnesota Department of Commerce, CARDS: franchise registrations and disclosure documents"
+      }
+    },
+    "mn_80c": {
+      "url": "https://www.revisor.mn.gov/statutes/cite/80C",
+      "label": {
+        "en": "Minnesota Statutes, chapter 80C: Franchises (registration of disclosure documents)"
+      }
+    },
+    "sba_terms": {
+      "url": "https://www.sba.gov/partners/lenders/7a-loan-program/terms-conditions-eligibility",
+      "label": {
+        "en": "SBA, 7(a) loan program: terms, conditions and maximum interest rates"
+      }
+    },
+    "fed_h15": {
+      "url": "https://www.federalreserve.gov/releases/h15/",
+      "label": {
+        "en": "Federal Reserve, H.15 Selected Interest Rates: bank prime loan rate (release of October 19, 2026)"
+      }
+    },
+    "sec_sbux": {
+      "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm",
+      "label": {
+        "en": "Starbucks Corporation, annual report on Form 10-K, fiscal 2025 (SEC)"
+      }
+    },
+    "sec_cmg": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000009/cmg-20251231.htm",
+      "label": {
+        "en": "Chipotle Mexican Grill, annual report on Form 10-K, 2025 (SEC)"
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+ "slug": "cinnabon",
+ "brand": "Cinnabon",
+ "franchisor": "Cinnabon Franchisor SPV LLC",
+ "issuanceDate": "2026-03-27",
+ "amendedDate": null,
+ "format": "Full Bakery in a Traditional Location",
+ "invest": {
+  "low": 256950,
+  "high": 703500,
+  "toFranchisorLow": 35659,
+  "toFranchisorHigh": 60367,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Full Bakery franchise ranges from $256,950 to $703,500 in a Traditional Location and from $196,250 to $715,100 in a Non-Traditional Location. This includes $35,659 to $60,367 that must be paid to us or our affiliates."
+ },
+ "fee": {
+  "low": 35500,
+  "high": 35500,
+  "quote": "When you sign a Franchise Agreement, you must pay us an initial franchise fee (the \"Initial Franchise Fee\") of $35,500 for a Full Bakery, $8,000 for an Express Bakery, $5,500 for a Concession Bakery",
+  "note": "VetFran: Initial Franchise Fee for a Full Bakery is $20,000 for qualifying veterans or members of the Armed Forces. May be reduced case by case; in 2025 franchisees paid $1,000 to $30,500. Co-branded (Auntie Anne's or Carvel) $71,000, half to the other brand."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "net sales",
+  "flat": null,
+  "quote": "Royalty Fee 6% of Net Sales, except: Auntie Anne's Co-Branded Bakeries in Other Locations: 6% of Net Sales attributed to Cinnabon; 7% of Net Sales attributed to Auntie Anne's ... Express Bakeries in a Schlotzsky's: then-current product price per case"
+ },
+ "adFund": {
+  "pct": 2.5,
+  "pctHigh": 3,
+  "localPct": 1,
+  "quote": "Advertising Contribution Bakeries in Other Locations (except Auntie Anne's Co-Branded Bakeries): Currently, 2.5% of Net Sales ... Bakeries in Streetside Locations: Currently, 3% of Net Sales",
+  "note": "2.5% in Other Locations, 3% in Streetside Locations and Swirl Bakeries. Local Marketing Obligation currently not less than 1% of Net Sales; Advertising Contribution plus Local Marketing Obligation capped at 5% of Net Sales."
+ },
+ "otherRecurring": [
+  {
+   "name": "POS System License and Lease Fees",
+   "amount": "Currently, $159 to $397 per month (CapEx Program) and $302 to $967 per month (HaaS Program)",
+   "annualUsd": null
+  },
+  {
+   "name": "POS System Support Fee",
+   "amount": "Currently, between $70 and $250 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Learning Management System License Fee",
+   "amount": "Currently, $170 per year",
+   "annualUsd": 170
+  }
+ ],
+ "transferFee": {
+  "amount": "50% of the then-current Initial Franchise Fee if it is a Control Transfer; if it is a transfer to a related party or that is not a Control Transfer, 10% of the then-current Initial Franchise Fee.",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual net sales, 189 single-branded franchised Full Bakeries in enclosed malls reporting all 52 weeks of fiscal 2025",
+   "value": 665401,
+   "count": 189,
+   "period": "fiscal year ended December 28, 2025",
+   "median": 600536
+  },
+  "other": [
+   {
+    "label": "Average net sales, 187 Convenience Franchises (travel plazas, travel centers, convenience stores), FY2025",
+    "value": 184621
+   },
+   {
+    "label": "Average net sales, 64 Auntie Anne's Co-Branded Franchises (both brands), FY2025",
+    "value": 1209353
+   },
+   {
+    "label": "Average net sales, top quartile Enclosed Mall Franchises (48), FY2025",
+    "value": 1080645
+   },
+   {
+    "label": "Average net sales, bottom quartile Enclosed Mall Franchises (47), FY2025",
+    "value": 343695
+   },
+   {
+    "label": "Highest net sales, Enclosed Mall Franchises, FY2025",
+    "value": 2216582
+   },
+   {
+    "label": "Lowest net sales, Enclosed Mall Franchises, FY2025",
+    "value": 186211
+   }
+  ],
+  "profitPct": null,
+  "quote": "Total $665,401 82/189 (43%) $600,536 $186,211 $2,216,582 (TABLE 1: AVERAGE NET SALES BY QUARTILES ENCLOSED MALL FRANCHISES FOR FISCAL YEAR 2025)",
+  "note": "Sales only, no costs. No system-wide average: only Enclosed Mall, Convenience and Auntie Anne's Co-Branded franchises are covered. Excludes streetside/other traditional Full Bakeries, Express and Concession Bakeries, other co-branded and affiliate-owned Bakeries."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1310,
+  "company": 28,
+  "total": 1338,
+  "franchisedNetChange": 308,
+  "quote": "Franchised ... 2025 1002 1310 +308 Affiliate-Owned ... 2025 28 28 +0 Total Outlets ... 2025 1030 1338 +308"
+ },
+ "special": "Express Bakeries inside Schlotzsky's pay royalty through the product price per case rather than a % of sales. Affiliate-owned Bakeries are inside Schlotzsky's restaurants. Item 7 includes only one month of rent; real estate purchase not estimated.",
+ "confidence": "medium",
+ "issues": "Item 19 has no system-wide average; headline is the Enclosed Mall group. Franchised outlets jump +308 in 2025 (1,002 to 1,310) without explanation in the extracted Item 20 text; not verified. Transfer fee only as % of IFF.",
+ "source": {
+  "doc": "35787-202604-09",
+  "received": "2026-04-01",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BF095699E-0000-C31D-8B81-A8F4782FA0DB%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 448,
+  "registrant": "CINNABON FRANCHISOR SPV LLC",
+  "filedName": "CINNABON",
+  "type": "Clean FDD"
+ }
+}

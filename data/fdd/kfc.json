@@ -1,0 +1,112 @@
+{
+ "slug": "kfc",
+ "brand": "KFC",
+ "franchisor": "KFC US, LLC",
+ "issuanceDate": "2026-03-25",
+ "amendedDate": null,
+ "format": "newly constructed KFC outlet (traditional dine-in and carryout, single Franchise Agreement), land purchased",
+ "invest": {
+  "low": 2107575,
+  "high": 4155000,
+  "toFranchisorLow": 48575,
+  "toFranchisorHigh": 50500,
+  "excludesRealEstate": false,
+  "quote": "The total investment necessary to begin operation of a newly constructed KFC outlet ranges from $2,107,575 to $4,155,000. This includes $48,575 to $50,500 that must be paid to KFCLLC or its affiliates."
+ },
+ "fee": {
+  "low": 45000,
+  "high": 45000,
+  "quote": "Initial Franchise Fee. KFCLLC charges an initial franchise fee of $45,000. ... You must pay the initial franchise fee in two parts: (i) the Deposit Fee; and (ii) the Option Fee.",
+  "note": "Paid as a $20,000 Deposit Fee and a $25,000 Option Fee. Plus training fee of $3,000 per person (if trained at a Company-Owned Outlet) and background check fee of $575 to $2,500 per person. Development Agreement: $45,000 per committed Outlet ($135,000 to $540,000 for 3 to 12 Outlets)."
+ },
+ "royalty": {
+  "pct": 4,
+  "pctHigh": 5.25,
+  "basis": "gross revenue",
+  "flat": "minimum of $1,440 per month, whichever is greater",
+  "quote": "Royalty (Note 2) 4% to 5.25% of Gross Revenue or a minimum of $1,440, whichever is greater, per month (minimum fee subject to adjustment based upon the Consumer Price Index)."
+ },
+ "adFund": {
+  "pct": 5.8,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "National Co-Op (Note 4) 5.8% of Gross Revenue. ... your national advertising contribution rate is 5.8% during the Comeback Period. After the Comeback Period ends and through December 31, 2028, your national advertising contribution rate will be 4.5%",
+  "note": "5.8% during the Comeback Period (October 1, 2025 through March 31, 2027), then 4.5% through December 31, 2028, then reverts to 2% from January 1, 2029 unless changed under the National Co-Op By-Laws."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Fees",
+   "amount": "Currently, $297.39 per Outlet per month (anticipated to increase to up to $450.63; not to exceed $3,000 per Outlet per month)",
+   "annualUsd": 3568.68
+  },
+  {
+   "name": "One System Fund Fee",
+   "amount": "$180 per Outlet per month (plus applicable tax and shipping)",
+   "annualUsd": 2160
+  },
+  {
+   "name": "Digital Fee",
+   "amount": "3.1% of Gross Revenue collected from all Digital Orders",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Transfer to a new KFCLLC franchisee: $9,600 for the first Outlet and $4,800 for each additional Outlet in the same transaction (to an existing franchisee: $4,800 for the first Outlet and $2,400 for each additional Outlet)",
+  "usd": 9600
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "No average sales disclosed; Forecast Tool (Kalibrate) projections vs actual annual Net Sales of 2,227 single-brand drive-thru Outlets in American Showman or Next Gen image open at least one year",
+   "value": null,
+   "count": 2227,
+   "period": "fiscal year ended December 29, 2025",
+   "median": null
+  },
+  "other": [
+   {
+    "label": "Lowest actual annual Net Sales of the Sample Outlets, FYE 2025",
+    "value": 387000
+   },
+   {
+    "label": "Highest actual annual Net Sales of the Sample Outlets, FYE 2025",
+    "value": 3379000
+   },
+   {
+    "label": "Lowest projected annual Net Sales (Forecast Tool), Sample Outlets",
+    "value": 545000
+   },
+   {
+    "label": "Highest projected annual Net Sales (Forecast Tool), Sample Outlets",
+    "value": 3151000
+   },
+   {
+    "label": "% of projections within 22% of actual annual Net Sales",
+    "value": 77
+   }
+  ],
+  "quote": "it projected annual Net Sales for the Sample Outlets of $545,000 to $3,151,000. Actual annual Net Sales of the Sample Outlets ranged from $387,000 to $3,379,000 for FYE 2025.",
+  "note": "Only a sales forecast-tool accuracy disclosure; no average or median. Sample: 2,167 franchisee-owned and 60 Company-Owned Outlets; excludes 1,263 Outlets not meeting the criteria and 156 franchised Outlets that closed in 2025. Net Sales only, no labor, food or operating costs."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 3404,
+  "company": 86,
+  "total": 3490,
+  "franchisedNetChange": -154,
+  "quote": "Franchised Outlets 2025 3558 3404 -154 ... Company-Owned Outlets2 2025 79 86 +7 ... Total Locations 2025 3637 3490 -147"
+ },
+ "special": "Investment includes purchased land (Real Property $300,000 to $1,200,000). Advertising is temporarily 5.8% under the Comeback Agreement (Comeback Period through March 31, 2027). Royalty is 5% for new Outlets of non-Legacy franchisees (4% for Legacy Franchisees); 5.25% possible on acquired Outlets under a Brand Contribution Option Amendment. Digital Fee 3.1% of digital-order revenue. Franchised outlets declined each year 2023-2025.",
+ "confidence": "medium",
+ "issues": "Item 19 gives no average/median sales, only forecast-tool ranges (headline value null). Royalty for a new non-Legacy franchisee is 5% (Note 2), range 4%-5.25% kept. Technology Fee annualUsd computed from the monthly $297.39.",
+ "source": {
+  "doc": "35571-202603-05",
+  "received": "2026-03-25",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BB06C459D-0000-CE13-B0FD-5C15B24288B3%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 379,
+  "registrant": "KFC US, LLC",
+  "filedName": "KFC (TRADITIONAL)",
+  "type": "Clean FDD"
+ }
+}

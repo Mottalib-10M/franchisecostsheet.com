@@ -1,0 +1,117 @@
+{
+ "slug": "pizza-hut",
+ "brand": "Pizza Hut",
+ "franchisor": "Pizza Hut, LLC",
+ "issuanceDate": "2026-03-25",
+ "amendedDate": null,
+ "format": "new Restaurant Based Delivery (RBD) or Delivery Based Restaurant (DBR) dine-in/delivery/carryout System Restaurant, excluding real property",
+ "invest": {
+  "low": 846000,
+  "high": 2130000,
+  "toFranchisorLow": 25000,
+  "toFranchisorHigh": 25000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a new Restaurant ranges from: (i) $846,000 to $2,130,000 for a Restaurant Based Delivery Restaurant or Delivery Based Restaurant; ... in each case excluding real property and including $25,000 that must be paid to us or our affiliates."
+ },
+ "fee": {
+  "low": 25000,
+  "high": 25000,
+  "quote": "You must pay us an initial franchise fee of $25,000 for each System Restaurant. We reserve the right to increase the initial franchise fee annually consistent with the rate of inflation.",
+  "note": "Payable in full when signing the Location Franchise Agreement; not refundable. Waived in the last fiscal year for existing franchisees enrolled in the ACE incentive program (enrollment closed). Includes the Initial Training Program for the first Qualified Operator."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": 6.5,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Monthly Service Fee 6.0% of Gross Sales (6.5% of Gross Sales under certain circumstances). Payable monthly by the 20th day of the next month. ... This fee is not uniformly imposed."
+ },
+ "adFund": {
+  "pct": 4.75,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "System Advertising Fund Contribution 4.75% of Gross Sales. ... IPHFHA Dues 4.75% of Gross Sales (set by IPHFHA), credited to required System Advertising Fund.",
+  "note": "While the Advertising Committee Agreement is in effect, the franchisee must belong to IPHFHA and its dues (4.75%) are credited against the System Advertising Fund Contribution, so not paid twice."
+ },
+ "otherRecurring": [
+  {
+   "name": "Restaurant Technology Fee",
+   "amount": "Currently, $2,950 per year (12 monthly bills); may increase up to 12% per calendar year",
+   "annualUsd": 2950
+  },
+  {
+   "name": "Digital Innovation Fee",
+   "amount": "Currently, $0.41 per transaction conducted through a digital or other automated channel",
+   "annualUsd": null
+  },
+  {
+   "name": "Dragontail KMX Fee",
+   "amount": "one-time installation fee of $240 per Restaurant and an ongoing monthly fee of $75 per Restaurant (if using delivery as a service; suspended first quarter of 2026)",
+   "annualUsd": 900
+  },
+  {
+   "name": "Help Desk High-Use Fee",
+   "amount": "Currently, $12 per phone call and $7 for all other events beyond 52 events per year",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$2,500 plus an additional $250 per System Restaurant transferred.",
+  "usd": 2750
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual gross sales, all Mature Franchised System Restaurants (Dine-In/Red Roof, RBD and Delco; open at least one year), fiscal 2025",
+   "value": 972864,
+   "count": 4767,
+   "period": "fiscal 2025 (December 31, 2024 to December 29, 2025)",
+   "median": 929232
+  },
+  "other": [
+   {
+    "label": "Average gross sales, Mature Franchised Dine-In/Red Roof and RBD restaurants (1,875), FY2025",
+    "value": 1037823
+   },
+   {
+    "label": "Median gross sales, Mature Franchised Dine-In/Red Roof and RBD restaurants, FY2025",
+    "value": 978424
+   },
+   {
+    "label": "Average gross sales, Mature Franchised Delco Delivery/Carry-out restaurants (2,892), FY2025",
+    "value": 937342
+   },
+   {
+    "label": "Median gross sales, Mature Franchised Delco Delivery/Carry-out restaurants, FY2025",
+    "value": 895289
+   },
+   {
+    "label": "Average gross sales, all Mature Franchised System Restaurants (5,059), FY2024",
+    "value": 1024898
+   }
+  ],
+  "quote": "FY 2025 and FY 2024 Average Performance – All Mature Franchise System Restaurants ... 2025 (ended December 29, 2025) 4,767 $972,864 $929,232",
+  "note": "Sales only (net of discounts, allowances and sales taxes), no costs. Excludes DBR/Fast Casual Delco, carryout-only, seasonal and Express restaurants, units open less than a year, and restaurants that closed during the period. Range $233,001 to $3,050,083; 2,071 (43.4%) exceeded the average."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 4956,
+  "company": 75,
+  "total": 5031,
+  "franchisedNetChange": -258,
+  "quote": "Franchised ... 2025 5214 4956 -258 Company- Owned3 ... 2025 23 75 52 Total ... 2025 5237 5031 -206"
+ },
+ "special": "Royalty is called a 'Monthly Service Fee' (6.0%, 6.5% in certain circumstances, not uniformly imposed). Unauthorized closure fee equals 24 times the average Monthly Service Fees. Affiliate Pizza Hut of America, LLC leases real estate for some System Restaurants (no rent % disclosed). Under the January 5, 2026 Hut Forward Agreement, qualified existing franchisees may close up to 10% of their restaurants; 127 franchised restaurants ceased operations from December 30, 2025 through March 6, 2026. In November 2025 YUM announced it was exploring strategic options for Pizza Hut, possibly a sale.",
+ "confidence": "high",
+ "issues": "Item 20 cut was empty and Item 19 truncated in items file; both read from the full FDD. Conditions for the 6.5% royalty not described in Item 6. Item 19 excludes DBR/FCD units, so the headline does not cover the DBR part of the chosen format. Transfer fee usd 2750 = $2,500 + $250 for one restaurant.",
+ "source": {
+  "doc": "35579-202603-06",
+  "received": "2026-03-25",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BA0B4789D-0000-CA32-9D9D-4329202DD0DD%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 423,
+  "registrant": "PIZZA HUT, LLC",
+  "filedName": "PIZZA HUT (TRADITIONAL)",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "slug": "pet-supplies-plus",
+ "brand": "Pet Supplies Plus",
+ "franchisor": "PSP Franchise Operations SPV, LLC",
+ "issuanceDate": "2026-04-20",
+ "amendedDate": null,
+ "format": "single Pet Supplies Plus retail store (leased, approximately 5,000 to 8,000 sq ft)",
+ "invest": {
+  "low": 520250,
+  "high": 1818900,
+  "toFranchisorLow": 244900,
+  "toFranchisorHigh": 354900,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Pet Supplies Plus® franchise is $520,250 to $1,818,900. This includes $244,900 to $354,900 that must be paid to the franchisor or an affiliate."
+ },
+ "fee": {
+  "low": 49900,
+  "high": 49900,
+  "quote": "You must pay PSP a lump sum initial franchise fee of $49,900 when you sign the Franchise Agreement (the \"Initial Franchise Fee\").",
+  "note": "Waived for approved conversions of an existing retail pet store; $35,000 for an existing franchisee's second and later Stores; VetFran 20% off; First Responder 10% off; PSP employees $10,000. Also paid to PSP before opening: $15,000 Set Up Fee and $30,000 Grand Opening advertising. Multi-Unit Fee: $49,900 for the first Store plus $35,000 per additional Store."
+ },
+ "royalty": {
+  "pct": 2,
+  "pctHigh": 3,
+  "basis": "monthly Gross Sales (2% for the first 12 months of operation, 3% thereafter)",
+  "flat": null,
+  "quote": "Royalty 2% of monthly Gross Sales for first 12 months of operation; 3% of monthly Gross sales after first 12 months of operation"
+ },
+ "adFund": {
+  "pct": 3.5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "For all subsequent months after the first 12 months of operation, the required monthly advertising contribution shall be the lesser of 3.5% of Gross Sales or $8,333.00 (\"the Advertising Contribution Monthly Cap\") with (a) 2/3 of that amount directed to the LMS ... and (b) 1/3 of that amount to the NAF.",
+  "note": "3.5% is the total advertising requirement (2/3 Local Marketing Spend, 1/3 National Advertising Fund), capped at $8,333.00 per month and $100,000 per year. First 12 months: fixed $3,350 per month LMS plus $1,000 to the NAF. Grand Opening $30,000 before opening."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Fee",
+   "amount": "Up to $1,500 per month based on Store build out and services you select (may increase up to 10% annually)",
+   "annualUsd": null
+  },
+  {
+   "name": "Point of Sale (POS) Leasing Payments",
+   "amount": "Estimated at $295-$431 per month plus tax",
+   "annualUsd": null
+  },
+  {
+   "name": "Grooming Scheduling Software",
+   "amount": "Currently, $1,620 per year charged at $135 per month, plus text-message fees (stores offering grooming)",
+   "annualUsd": 1620
+  },
+  {
+   "name": "Local Marketing Spend + NAF, first 12 months",
+   "amount": "$3,350 per month in Local Marketing Spend and $1,000 to the National Advertising Fund",
+   "annualUsd": null
+  },
+  {
+   "name": "3rd Party Courier Deliver from Store Fees (optional)",
+   "amount": "typically ranges from $150 to $1,700 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Annual Conference Fee",
+   "amount": "Up to $2,000 per person (up to two attendees per entity)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$5,000",
+  "usd": 5000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average Annual Gross Sales, franchised stores open before January 1, 2025 and operating the full year under the same owner",
+   "value": 2622279,
+   "count": 385,
+   "period": "January 1 to December 31, 2025",
+   "median": 2487454
+  },
+  "other": [
+   {
+    "label": "Average Annual Gross Sales, 4+ years stores (291), 2025",
+    "value": 2823225
+   },
+   {
+    "label": "Average Annual Gross Sales, 1-year stores (18), 2025",
+    "value": 1609336
+   },
+   {
+    "label": "Average Weekly Gross Sales, all 385 reporting franchised stores, 2025",
+    "value": 50428
+   },
+   {
+    "label": "Average Annual Gross Margin (% of sales, sales minus cost of merchandise), all 385 stores, 2025",
+    "value": 37.8
+   },
+   {
+    "label": "Average Annual Rent ($, occupancy incl. taxes, insurance, CAM), all 385 stores, 2025",
+    "value": 184473
+   },
+   {
+    "label": "Annual Rent (% of Gross Sales), all 385 stores, 2025",
+    "value": 7.0
+   },
+   {
+    "label": "Average Annual Labor Expense ($, incl. store manager, excl. owner), all 385 stores, 2025",
+    "value": 377105
+   },
+   {
+    "label": "Annual Labor Expense (% of Gross Sales), all 385 stores, 2025",
+    "value": 14.4
+   }
+  ],
+  "profitPct": null,
+  "quote": "Average Annual Gross Sales 9 $1,609,336 $1,898,015 $2,277,552 $2,823,225 $2,622,279 ... Median $1,554,132 $1,827,653 $2,207,865 $2,687,352 $2,487,454",
+  "note": "Discloses gross sales, gross margin (37.8%), rent (7.0%) and labor (14.4%) but no net profit or EBITDA; gross margin is before rent, labor, royalty, advertising and other costs. 43.6% of stores at or above the average. Excludes 57 stores that did not timely report, 5 with materially different self-reported data, 23 transferred, 6 reacquired, 8 closed and 18 opened during 2025."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 498,
+  "company": 231,
+  "total": 729,
+  "franchisedNetChange": -4,
+  "quote": "Franchised 2025 502 498 -4 Company- Owned or Affiliate-Owned 2025 233 231 -2 Total Outlets 2025 735 729 -6"
+ },
+ "special": "Approximately 75% to 90% of initial inventory ($112,500 to $234,000 of $150,000 to $260,000) must be bought from affiliate PSP Distribution, which also supplies ongoing inventory (payments collected by EFT); POS equipment must be leased from the franchisor. Low royalty (2% then 3%) but retail model with ~62% cost of goods (37.8% average gross margin).",
+ "confidence": "high",
+ "issues": "Item 7 excludes purchase of real estate (assumes a leased store; includes leasehold improvements and prepaid rent/deposit). Item 6 does not say whether the first-year $1,000 NAF contribution is monthly. Item 19 gives gross margin, rent and labor but no profit figure, so profitPct is null.",
+ "source": {
+  "doc": "36222-202604-11",
+  "received": "2026-04-25",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BE0FE639E-0000-CB35-94B1-C00352A376D0%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 275,
+  "registrant": "PSP Franchise Operations SPV, LLC",
+  "filedName": "Pet Supplies Plus",
+  "type": "Clean FDD"
+ }
+}

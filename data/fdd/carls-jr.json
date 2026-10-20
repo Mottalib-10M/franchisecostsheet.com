@@ -1,0 +1,142 @@
+{
+ "slug": "carls-jr",
+ "brand": "Carl's Jr.",
+ "franchisor": "Carl's Jr. Restaurants LLC",
+ "issuanceDate": "2026-05-24",
+ "amendedDate": "2026-06-15",
+ "format": "New Carl's Jr. Restaurant in a 3,200 square foot freestanding building with drive-thru (Traditional Format, current prototype), excluding land/real property",
+ "invest": {
+  "low": 1816500,
+  "high": 3304700,
+  "toFranchisorLow": 55000,
+  "toFranchisorHigh": 99000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin the operation of a newly-developed Carl's Jr. Restaurant ranges from approximately $1,816,500 - $3,304,700 for a 3,200 square foot freestanding building and $1,488,000 - $2,862,135 for a 2,200 square foot freestanding building. This includes $55,000 to $99,000, which must be paid to us."
+ },
+ "fee": {
+  "low": 25000,
+  "high": 25000,
+  "quote": "The Initial Franchise Fee is $25,000, although the balance of the Initial Franchise Fee due to CJR is reduced to $15,000 for a Restaurant developed pursuant to the terms of a Development Agreement.",
+  "note": "Under a Development Agreement, a $10,000 non-refundable Development Fee per restaurant is paid upfront and credited against the $25,000 fee (balance $15,000). Opening Training Support Fee (All-Star Team) for the first 2 restaurants estimated $30,000 to $70,000 in Item 5 ($30,000 to $74,000 in Item 7). Additional FMTP trainees $500 per person per week; 10-Day Operations Overview up to $500 per person. CJR may waive initial fees as incentives; in 2026 it waived the fee for some takeovers of closed restaurants."
+ },
+ "royalty": {
+  "pct": 4,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty 4% of Gross Sales (2) Within 10 calendar days after the end of each fiscal week"
+ },
+ "adFund": {
+  "pct": 6,
+  "pctHigh": 7,
+  "localPct": null,
+  "quote": "An advertising and promotion obligation (\"APO\") in an amount set forth in your Franchise Agreement. The APO will be up to 7% of Gross Sales. Currently, the APO is 6% of Gross Sales (3)",
+  "note": "Currently 6%, up to 7% (increase of no more than 1/2% of Gross Sales in any 12-month period); split between a Production Fund and a Media Fund. Under the CJR 2026 Development Incentive Program, royalty and APO are each reduced by 3% in year 1, 2% in year 2 and 1% in year 3 for restaurants opening on or ahead of schedule."
+ },
+ "otherRecurring": [
+  {
+   "name": "Digital Tech Fee",
+   "amount": "Currently, $160 per fiscal period (4 week accounting period); effective August 11, 2026: 3% of Gross Sales generated through First Party Digital Channels, monthly minimum $160 / maximum $600 (Year 1), $700 (Year 2), $800 (Year 3)",
+   "annualUsd": null
+  },
+  {
+   "name": "Software Support Fee (Genius or PAR Brink) and CrunchTime",
+   "amount": "Currently, $118 per Franchised Restaurant per fiscal period (4 week accounting period); in addition, $825 per Franchised Restaurant bi-annually (every 26 week accounting period) for back office support fee payable to CrunchTime",
+   "annualUsd": null
+  },
+  {
+   "name": "Star University Access Fee",
+   "amount": "Currently, $18.20 per Fiscal Period (currently a 4-week accounting period)",
+   "annualUsd": null
+  },
+  {
+   "name": "Lease / Sublease Administration Fee (only if leasing/subleasing from CJR or affiliate, on renewal/amendment)",
+   "amount": "Currently, $2,500 per year",
+   "annualUsd": 2500
+  }
+ ],
+ "transferFee": {
+  "amount": "$2,500 per restaurant transferred",
+  "usd": 2500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual revenue, franchised freestanding Carl's Jr. Restaurants (US) open the entire 53-week FY26 period",
+   "value": 1388797,
+   "count": 728,
+   "period": "FY26 (January 28, 2025 to January 26, 2026, 53 weeks)",
+   "median": 1317362
+  },
+  "other": [
+   {
+    "label": "Average revenue, company-owned freestanding restaurants (50), FY26 ($)",
+    "value": 2244810
+   },
+   {
+    "label": "Average revenue, California franchised freestanding restaurants (467), FY26 ($)",
+    "value": 1418935
+   },
+   {
+    "label": "Average food & paper costs, California franchised freestanding restaurants, FY26 (% of revenue)",
+    "value": 22.4
+   },
+   {
+    "label": "Average direct labor costs, California franchised freestanding restaurants, FY26 (% of revenue)",
+    "value": 27.4
+   },
+   {
+    "label": "Average incentive labor costs, California franchised freestanding restaurants, FY26 (% of revenue)",
+    "value": 5.8
+   },
+   {
+    "label": "Average revenue, non-California franchised freestanding restaurants (298), FY26 ($)",
+    "value": 1347060
+   },
+   {
+    "label": "Average food & paper costs, non-California franchised freestanding restaurants, FY26 (% of revenue)",
+    "value": 26.1
+   },
+   {
+    "label": "Average direct labor costs, non-California franchised freestanding restaurants, FY26 (% of revenue)",
+    "value": 26.3
+   },
+   {
+    "label": "Average incentive labor costs, non-California franchised freestanding restaurants, FY26 (% of revenue)",
+    "value": 5.9
+   },
+   {
+    "label": "Average food & paper costs, California company-owned freestanding restaurants (50), FY26 (% of revenue)",
+    "value": 24.9
+   },
+   {
+    "label": "Average direct labor costs, California company-owned freestanding restaurants (50), FY26 (% of revenue)",
+    "value": 29.3
+   }
+  ],
+  "profitPct": null,
+  "quote": "Average Revenue FY26 Franchised Carl's Jr. Freestanding Restaurants Average Revenue $1,388,797 Median Revenue $1,317,362 # Met / Exceeded Average 334 % Met / Exceeded Average 42.9% Lowest $468,470 Highest $3,233,404",
+  "note": "Revenue plus food & paper and labor costs only; no profit or margin figure. Excludes 78 non-freestanding (travel plaza, gas/convenience, college, airport), 15 with incomplete data and 71 Dual Concept restaurants, and restaurants outside the US. 728 franchised + 50 company-operated restaurants in Section I."
+ },
+ "units": {
+  "year": 2026,
+  "franchised": 942,
+  "company": 50,
+  "total": 992,
+  "franchisedNetChange": -40,
+  "quote": "Franchised 2026 982 942 -40 Company-Operated 2026 50 50 0 Total Outlets 2026 1032 992 -40"
+ },
+ "special": "CJR (through the 2013 assignment from CKE) holds real estate leases and subleases with some franchisees; those franchisees may pay a Lease / Sublease Administration Fee (currently $2,500 per year) and reimburse lease costs, but no rent-as-%-of-sales to the franchisor is disclosed in Items 5-7. Opening Training Support Fee $30,000 to $74,000 is paid to CJR. Development Incentive Program reduces royalty and APO by 3%/2%/1% in years 1-3.",
+ "confidence": "medium",
+ "issues": "Item 7 Traditional Format line items do not add up to the printed totals (low lines sum to $1,871,000 and high to $3,403,700 vs printed $1,816,500 and $3,304,700; build-out low lines sum to $1,626,000 vs printed $1,626,500); printed cover/Item 7 totals used. Opening Training Support Fee is $30,000-$70,000 in Item 5 but $30,000-$74,000 in Item 7. Item 20 fiscal year 2026 ends January 2026. Item 19 labels incentive labor costs but defines 'Indirect Labor Costs'.",
+ "source": {
+  "doc": "36912-202606-02",
+  "received": "2026-06-23",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B00AF469F-0000-CD16-9C86-EA32654AFC77%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 519,
+  "registrant": "CARL'S JR. RESTAURANTS LLC",
+  "filedName": "CARL'S JR",
+  "type": "Clean FDD"
+ }
+}

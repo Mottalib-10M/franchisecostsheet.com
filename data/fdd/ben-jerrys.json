@@ -1,0 +1,108 @@
+{
+ "slug": "ben-jerrys",
+ "brand": "Ben & Jerry's",
+ "franchisor": "Ben & Jerry's Franchising, Inc.",
+ "issuanceDate": "2026-05-29",
+ "amendedDate": null,
+ "format": "Full-Sized Scoop Shop (approximately 750-1,200 sq. ft., leased)",
+ "invest": {
+  "low": 280300,
+  "high": 631300,
+  "toFranchisorLow": 19750,
+  "toFranchisorHigh": 39500,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Scoop Shop ranges from $280,300 to $631,300 for a Full-Sized Shop, $228,300 to $435,300 for an In-Line Shop and $188,300 to $402,300 for a Kiosk Scoop Shop (not including estimates for real estate purchases should you wish to purchase the property for your Shop)."
+ },
+ "fee": {
+  "low": 39500,
+  "high": 39500,
+  "quote": "When you sign a Franchise Agreement for a Scoop Shop you must pay us the initial franchise fee, which is $39,500, except in the circumstances described below. If you are an existing franchisee and you enter into a Franchise Agreement for an additional Scoop Shop, your initial franchise fee will be $19,750.",
+  "note": "Existing franchisees: $19,750. Non-refundable Preliminary Agreement Deposit ($10,000 new, $5,000 existing) credited to the fee. Satellite Shop fee $8,000. Prorated for terms under 10 years. Manager-to-Franchisee Pathways Program: fee waiver and up to 2 years of royalty waivers. In 2025, initial fees ranged from $0 to $39,500."
+ },
+ "royalty": {
+  "pct": 3,
+  "pctHigh": 5,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Varies, but will not exceed 5% of Gross Sales2/ Current: Royalty: 3% 15th day of each month on the Gross Sales for the prior month"
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": 4,
+  "localPct": 2,
+  "quote": "Advertising Obligations Total: Varies but total will not exceed 4% of Gross Sales Current Allocation: Local Advertising and Promotion: 2% Fund contributions: 2% Cooperative Contributions: none",
+  "note": "Currently 2% Fund plus 2% local advertising; total advertising obligations capped at 4% of Gross Sales. No cooperatives at present."
+ },
+ "otherRecurring": [
+  {
+   "name": "Point of Sale (POS) SaaS License Fee",
+   "amount": "Will vary depending on POS vendor Currently: $100 per month",
+   "annualUsd": 1200
+  },
+  {
+   "name": "Technology Fee",
+   "amount": "Varies, but shall not exceed $3,500 annually Currently: $0 per month",
+   "annualUsd": 0
+  }
+ ],
+ "transferFee": {
+  "amount": "$7,000 (reduced to $3,000 if the transfer is to a legal entity you form for the convenience of ownership)",
+  "usd": 7000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average reported annual Gross Sales, franchised Scoop Shops open all 12 months of 2025 (excluding seasonal, satellite, test, special venue and company-owned shops)",
+   "value": 664862,
+   "count": 126,
+   "period": "52 weeks ended December 31, 2025",
+   "median": 583767
+  },
+  "other": [
+   {
+    "label": "Average Gross Sales, Seasonal Scoop Shops (Chart 2), 2025",
+    "value": 300031
+   },
+   {
+    "label": "Median Gross Sales, Seasonal Scoop Shops, 2025",
+    "value": 261664
+   },
+   {
+    "label": "Average Gross Sales, Satellite Shops (16), 2025",
+    "value": 353233
+   },
+   {
+    "label": "Highest reported Gross Sales, Chart 1 Scoop Shops, 2025",
+    "value": 2411194
+   },
+   {
+    "label": "Lowest reported Gross Sales, Chart 1 Scoop Shops, 2025",
+    "value": 154592
+   }
+  ],
+  "profitPct": null,
+  "quote": "The median reported Gross Sales for the Scoop Shops in Chart 1 was $583,767. The average reported Gross Sales in 2025 for the Scoop Shops in Chart 1 was $664,862.",
+  "note": "Gross Sales only; does not reflect cost of goods, operating expenses or rent. Unaudited franchisee-reported data. 61 of 126 shops (48%) at or above $600K. Excludes 9 shops opened or closed during the period and 8 closed 1+ months for weather."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 155,
+  "company": 2,
+  "total": 157,
+  "franchisedNetChange": 3,
+  "quote": "Franchised ... 2025 152 155 +3 Company-Owned ... 2025 2 2 0 Total Outlets ... 2025 154 157 +2"
+ },
+ "special": "Ben & Jerry's Products are manufactured by the franchisor's parent (Homemade) and sold to franchisees through distributors; purchases from approved suppliers are about 75% of start-up and 80% of ongoing purchases. Refurbishment of $5,000 - $15,000 may be required no more than once every five years. Separate Special Venue program (17 franchised shops) is not covered.",
+ "confidence": "medium",
+ "issues": "The Item 7 Full-Sized low total of $280,300 only adds up using the $8,000 Satellite fee (with the $19,750 Scoop Shop fee the line items sum to $292,050); the printed total is kept. Item 20 Table 1 total net change for 2025 printed as +2 although 154 to 157 is +3. Chart 2 counts 15 seasonal shops while Note 4 says 17.",
+ "source": {
+  "doc": "36811-202606-16",
+  "received": "2026-06-03",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BC086AFA0-0000-C27F-8FA8-FF3985E73E7A%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 360,
+  "registrant": "BEN & JERRY'S FRANCHISING, INC.",
+  "filedName": "BEN & JERRY'S SCOOP SHOP BEN & JERRY'S",
+  "type": "Clean FDD"
+ }
+}

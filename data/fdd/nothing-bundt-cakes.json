@@ -1,0 +1,186 @@
+{
+ "slug": "nothing-bundt-cakes",
+ "brand": "Nothing Bundt Cakes",
+ "franchisor": "NBC Franchisor LLC",
+ "issuanceDate": "2026-04-30",
+ "amendedDate": null,
+ "format": "Single Bakery, prototype 1,600 to 1,800 sq ft (leased), including lease costs but not real estate purchase",
+ "invest": {
+  "low": 475200,
+  "high": 994100,
+  "toFranchisorLow": 71784,
+  "toFranchisorHigh": 76784,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Nothing Bundt Cakes® Bakery that is 1,600 sq. ft. to 1,800 sq. ft. in size is $ $475,200 to $994,100. ... This includes $71,784 to $76,784 that must be paid to the franchisor and its affiliate."
+ },
+ "fee": {
+  "low": 45000,
+  "high": 45000,
+  "quote": "You must pay us an initial franchise fee of $45,000 when you sign a Franchise Agreement (the “Franchise Fee”).",
+  "note": "No veteran discount printed. Development Rights Rider: $45,000 for the first Bakery plus 50% ($22,500) of the fee for each additional Bakery upfront, balance at signing. Also payable to franchisor/affiliate before opening: $10,000 Opening Advertising Program (up to $5,000 more), about $16,034 of initial purchases from NBC Distribution, $750 Master Architect Program fee."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "net revenues (weekly)",
+  "flat": null,
+  "quote": "Royalty 6% of Bakery’s weekly Net Revenues Due on Tuesday of each week on Net Revenues during previous week ending Sunday"
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Combined contributions made by you for the Production Fund and the Paid Media Fund will be 5% of your weekly Net Revenues (see Note 3)",
+  "note": "5% combined (Marketing Production Fund + Paid Media Fund), split set by franchisor. Local Cooperative contributions, if designated, are credited toward the Production Fund contribution."
+ },
+ "otherRecurring": [
+  {
+   "name": "POS System ongoing fees for support and software",
+   "amount": "presently $3,348 for 12 months of service",
+   "annualUsd": 3348
+  },
+  {
+   "name": "Online Ordering (E-Commerce Program)",
+   "amount": "Currently $100 per month, excluding any third-party charges",
+   "annualUsd": 1200
+  },
+  {
+   "name": "Technology Services Fee",
+   "amount": "presently $65 per month",
+   "annualUsd": 780
+  },
+  {
+   "name": "VoIP Phone Service",
+   "amount": "presently $100 per month, plus any applicable taxes",
+   "annualUsd": 1200
+  },
+  {
+   "name": "Digital Menu Board Service",
+   "amount": "presently $35 per month",
+   "annualUsd": 420
+  },
+  {
+   "name": "Monthly Music Fee",
+   "amount": "presently $20 per month. Additionally, there is a $12.00 per month fee for media player lease",
+   "annualUsd": 384
+  },
+  {
+   "name": "Refrigeration Monitoring Fee",
+   "amount": "activation fee presently ranging between $500 - $600, plus a monthly fee between $20 - $40",
+   "annualUsd": null
+  },
+  {
+   "name": "Guest Experience Monitor (GEM)",
+   "amount": "currently $462 annually (presently not charged)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$10,000 transfer fee, plus $5,000 for transfer opening advertising campaign, plus any broker fees or commissions we incur.",
+  "usd": 10000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average net revenues, all franchised Bakeries operating at least 2 full fiscal years (545)",
+   "value": 1477163,
+   "count": 545,
+   "period": "fiscal 2025 (December 30, 2024 - December 28, 2025)",
+   "median": 1336380
+  },
+  "other": [
+   {
+    "label": "Average net revenues, top 1/3 (182 Bakeries), fiscal 2025, dollars",
+    "value": 2109292
+   },
+   {
+    "label": "Average net revenues, bottom 1/3 (182 Bakeries), fiscal 2025, dollars",
+    "value": 962724
+   },
+   {
+    "label": "Average net revenues, 101 Bakeries opened in 2024 (first full year), fiscal 2025, dollars",
+    "value": 1023390
+   },
+   {
+    "label": "Average net revenues, Bakeries of 1,800 sq ft or less (162), dollars (labelled 'Avg 2024 Net Revenues' in the table)",
+    "value": 1571830
+   },
+   {
+    "label": "Average net revenues, Bakeries larger than 1,800 sq ft (383), dollars (labelled 'Avg 2024 Net Revenues' in the table)",
+    "value": 1437121
+   },
+   {
+    "label": "Average net sales, 358 franchised Bakeries with full P&L, fiscal 2025, dollars",
+    "value": 1474849
+   },
+   {
+    "label": "Average 4-Wall EBITDA after royalty and marketing fees, 358 Bakeries, fiscal 2025, dollars",
+    "value": 314561
+   },
+   {
+    "label": "Average 4-Wall EBITDA, 358 Bakeries, fiscal 2025, % of net sales",
+    "value": 21.3
+   },
+   {
+    "label": "Median 4-Wall EBITDA, 358 Bakeries, fiscal 2025, dollars",
+    "value": 299190
+   },
+   {
+    "label": "Median 4-Wall EBITDA, 358 Bakeries, fiscal 2025, % of net sales",
+    "value": 22.3
+   },
+   {
+    "label": "Average 4-Wall EBITDA, bottom 1/3 (119 Bakeries), fiscal 2025, % of net sales",
+    "value": 16.2
+   },
+   {
+    "label": "Average 4-Wall EBITDA, top 1/3 (120 Bakeries), fiscal 2025, % of net sales",
+    "value": 24.5
+   },
+   {
+    "label": "Average gross profit (net sales less COGS), 358 Bakeries, % of net sales",
+    "value": 76.9
+   },
+   {
+    "label": "Average total variable expenses incl. labor, 358 Bakeries, % of net sales",
+    "value": 35.9
+   },
+   {
+    "label": "Average total fixed expenses incl. occupancy, 358 Bakeries, % of net sales",
+    "value": 8.7
+   },
+   {
+    "label": "Average labor (excluding owner payroll), 358 Bakeries, dollars",
+    "value": 408481
+   },
+   {
+    "label": "Average occupancy, 358 Bakeries, dollars",
+    "value": 87680
+   }
+  ],
+  "profitPct": 21.3,
+  "quote": "Avg 2025 Net Revenues $2,109,292 $1,358,821 $962,724 $1,477,163 $1,336,380 222 / 41% (Top 1/3, Mid 1/3, Bottom 1/3, Avg All Bakeries, Median, # met/exceeded average; 545 Bakeries)",
+  "note": "Part I covers 545 franchised Bakeries open at least 24 months (average age 7.4 years); none excluded; affiliate-owned excluded. 4-Wall EBITDA (Part III, 358 Bakeries) is after royalty and marketing fees adjusted to 11% of Net Revenues, but excludes owner salary/draw (190 Bakeries reported owner payroll averaging $80,457), depreciation, amortization, interest, taxes, accounting and consulting fees. 409 Bakeries excluded from Part III (incomplete P&L or >10% discrepancy, under 24 months, or Hub locations)."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 771,
+  "company": 8,
+  "total": 779,
+  "franchisedNetChange": 128,
+  "quote": "Franchised 2025 643 771 +128 Company-Owned 2025 17 8 -9 Total Outlets 2025 660 779 +119"
+ },
+ "special": "Required purchases of cake mixes, ingredients, accessories and supplies from the franchisor's affiliate NBC Distribution (about $16,034 before opening, then ongoing). The 4-Wall EBITDA excludes owner payroll, which averaged $80,457 among the 190 Bakeries that reported it. 117 transfers (resales) in 2025.",
+ "confidence": "high",
+ "issues": "Item 19 says 765 franchised Bakeries at FYE 2025 vs 771 in Item 20 Table 1. Part II square-footage table labels its averages 'Avg 2024 Net Revenues' although the section covers the 2025 Fiscal Year. Part III text says exclusions for incomplete 2024 P&Ls (167+222+18 = 407, not 409). Cover sentence contains a doubled '$ $'. Vintage and density tables are in thousands of dollars.",
+ "source": {
+  "doc": "36672-202605-07",
+  "received": "2026-05-19",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B50C59FA0-0000-CE56-B6CF-5D78B0A1ED9A%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 317,
+  "registrant": "NBC FRANCHISOR LLC",
+  "filedName": "NOTHING BUNDT CAKES",
+  "type": "Clean FDD"
+ }
+}

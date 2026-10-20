@@ -1,0 +1,123 @@
+{
+ "slug": "taco-johns",
+ "brand": "Taco John's",
+ "franchisor": "Taco John's International, Inc.",
+ "issuanceDate": "2026-03-31",
+ "amendedDate": "2026-07-10",
+ "format": "Traditional freestanding restaurant with drive-thru (ground lease scenario)",
+ "invest": {
+  "low": 814400,
+  "high": 2039250,
+  "toFranchisorLow": 40000,
+  "toFranchisorHigh": 40000,
+  "excludesRealEstate": true,
+  "quote": "The total investment for a freestanding traditional restaurant ranges from $814,400 to $2,039,250, for an endcap traditional restaurant ranges from $805,310 to $1,423,750, and for a drive-thru focused freestanding restaurant ranges from $1,069,100 to $2,015,750. This includes $40,000 that must be paid to us."
+ },
+ "fee": {
+  "low": 40000,
+  "high": 40000,
+  "quote": "For a single traditional Taco John's Restaurant, we currently charge an Initial Franchise Fee (...) of $40,000, payable in full when you sign the Franchise Agreement.",
+  "note": "Military Service Incentive: $0 for first Restaurant of a U.S. veteran with 50% or more service-connected disability rating, $24,000 for first Restaurant of a qualified U.S. veteran, $28,000 for second and additional. Multi-Unit Incentive (new franchisees): $32,000 (2 Restaurants), $28,000 (3 or 4), $24,000 (5 or more). Non-traditional: $15,000. ADA Development Fee $5,000 per Restaurant, credited to the fee. In 2025, fees paid ranged between $20,000 and $25,000."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "net sales",
+  "flat": null,
+  "quote": "Royalty 5% of Net Sales3,6 Currently due on the 20th day of each month"
+ },
+ "adFund": {
+  "pct": 4,
+  "pctHigh": 4.25,
+  "localPct": null,
+  "quote": "Advertising and Marketing Fees Currently, 4% of Net Sales for traditional Restaurants (...) We may modify this fee upon 60 days' notice up to a maximum of 4.25% of the Net Sales of a traditional Restaurant",
+  "note": "Currently 4% of Net Sales (traditional), up to 4.25%; non-traditional 2%, up to 2.25%. No fixed local advertising percentage stated; local cooperatives required to cease operations by July 2026."
+ },
+ "otherRecurring": [
+  {
+   "name": "Online Learning Management System License Fee",
+   "amount": "Currently, $240 Annually",
+   "annualUsd": 240
+  },
+  {
+   "name": "Back of House Information System",
+   "amount": "Currently, $145 Monthly",
+   "annualUsd": 1740
+  },
+  {
+   "name": "Geofencing Service Fee",
+   "amount": "Currently, $35 Monthly",
+   "annualUsd": 420
+  },
+  {
+   "name": "Mystery Shop Program",
+   "amount": "Currently, $95 per shop; participation required on a monthly basis",
+   "annualUsd": 1140
+  },
+  {
+   "name": "Premium for Loss of Business Income and Incident Response for Foodborne Illness Insurance",
+   "amount": "Currently, $350 Annually",
+   "annualUsd": 350
+  }
+ ],
+ "transferFee": {
+  "amount": "Up to $10,000, plus our reasonable costs and expenses",
+  "usd": 10000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Sales, franchised traditional freestanding restaurants with drive-thru open at least 12 months, 2025 calendar year",
+   "value": 1260890,
+   "count": 248,
+   "period": "calendar 2025",
+   "median": 1176775
+  },
+  "other": [
+   {
+    "label": "Average Sales, top quartile freestanding (62), 2025",
+    "value": 1889495
+   },
+   {
+    "label": "Average Sales, lower quartile freestanding (62), 2025",
+    "value": 775273
+   },
+   {
+    "label": "Average Sales, traditional endcap restaurants (26), 2025",
+    "value": 1025570
+   },
+   {
+    "label": "Median Sales, traditional endcap restaurants, 2025",
+    "value": 1024916
+   },
+   {
+    "label": "Average Sales, c-store and travel plaza restaurants (25), 2025",
+    "value": 942291
+   }
+  ],
+  "profitPct": null,
+  "quote": "Combined 248 $1,260,890 104 41.9% $2,834,514 $1,176,775 $455,745",
+  "note": "Sales only (excluding sales tax); no costs or expenses. Covers 299 of 316 franchised restaurants open at least 12 months; excludes 2 new, 1 tornado-closed, 3 non-traditional, 7 without drive-thru, 4 DT Digital Ole prototypes/earlier concepts, 15 closed in 2025, and company-owned restaurants. 104 (41.9%) met or exceeded the average."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 316,
+  "company": 11,
+  "total": 327,
+  "franchisedNetChange": -17,
+  "quote": "Franchised ... 2025 333 316 -17 Company-Owned ... 2025 7 11 4 TOTAL OUTLETS ... 2025 340 327 -13"
+ },
+ "special": "Investment assumes a ground lease (deposit plus first three months' rent); land purchase (generally $16 to $45 per square foot) is not included. Non-compliance fees: $1,000 per failed inspection, $1,000 to $3,000 per day for delivery/catering/hours non-compliance, 3% of Net Sales per day for other non-compliance. Franchised system shrinking: -4 (2023), -24 (2024), -17 (2025).",
+ "confidence": "high",
+ "issues": "The 'Other Non-Compliance' fee is printed as '3% of Net Sales per day' in the amount column but remarks describe 3% of Net Sales during the non-compliance period. Mystery Shop annual figure assumes 12 monthly shops at $95. Toward-franchisor amount is the cover's $40,000 (initial fee only).",
+ "source": {
+  "doc": "37002-202607-03",
+  "received": "2026-07-10",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B50C17F9F-0000-C21B-8DC2-FA5DF95B331E%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 243,
+  "registrant": "TACO JOHN'S INTERNATIONAL INC",
+  "filedName": "TACO JOHN'S",
+  "type": "Clean FDD"
+ }
+}

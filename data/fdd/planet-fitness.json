@@ -1,0 +1,131 @@
+{
+ "slug": "planet-fitness",
+ "brand": "Planet Fitness",
+ "franchisor": "Planet Fitness Franchising LLC",
+ "issuanceDate": "2026-05-22",
+ "amendedDate": null,
+ "format": "single PLANET FITNESS facility (approx. 15,000 to 25,000 sq ft leased), equipment financed",
+ "invest": {
+  "low": 1282500,
+  "high": 3769000,
+  "toFranchisorLow": 33300,
+  "toFranchisorHigh": 353500,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a single PLANET FITNESS® facility ranges from $1,282,500 to $3,769,000 if you finance your equipment.  This includes $33,300 to $353,500 that must be paid to the franchisor or its affiliate."
+ },
+ "fee": {
+  "low": 40000,
+  "high": 40000,
+  "quote": "Except as discussed below, you will pay a lump-sum nonrefundable Initial Franchise Fee of $40,000 when you sign the Franchise Agreement.",
+  "note": "Initial Franchise Fees are currently waived for Franchise Agreements issued under Area Development Agreements (Area Development Fee $10,000 per location, or $30,000 in a previously terminated territory). Item 7 shows $0 - $40,000. Fitness equipment must be bought from affiliate PF Equipment ($333,000 to $995,000, or a down payment of $33,300 to $298,500 if financed)."
+ },
+ "royalty": {
+  "pct": 7,
+  "pctHigh": null,
+  "basis": "total gross monthly and annual membership fees payable via EFT (EFT Dues Draft)",
+  "flat": null,
+  "quote": "Royalty (See Note 2) 7% of the total gross monthly and annual membership fees payable to you via EFT Dues Draft (as described in Note 2). Paid monthly and annually."
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": 3,
+  "localPct": 7,
+  "quote": "National Advertising Fund (\"NAF\") Fee 2% of monthly membership fees and certain annual membership fees, not to exceed 3% of the EFT Dues Draft. During 2026 only, 2% of the EFT Dues Draft, plus 1% of total gross monthly membership fees payable to you via EFT (\"Monthly EFT\")",
+  "note": "NAF 2%, up to 3%; during 2026 only 2% plus 1% of Monthly EFT. Local Advertising Funds: greater of $60,000 or 7% of cumulative Monthly EFT in a year (during 2026 only, greater of $50,000 or 6%). Pre-sale/grand opening marketing up to $120,000."
+ },
+ "otherRecurring": [
+  {
+   "name": "Join Fee",
+   "amount": "20% of the regular monthly membership fee or 5% of the total price of a prepaid membership. Paid monthly; charged once per new membership",
+   "annualUsd": null
+  },
+  {
+   "name": "Local Advertising Funds (minimum local spend)",
+   "amount": "Greater of $60,000 or 7% of cumulative Monthly EFT in a year (during 2026 only, greater of $50,000 or 6% of cumulative Monthly EFT)",
+   "annualUsd": null
+  },
+  {
+   "name": "Software licensing",
+   "amount": "Currently, $100 per year",
+   "annualUsd": 100
+  },
+  {
+   "name": "Re-Equip Costs",
+   "amount": "Currently, $333,000 to $995,000 every 5 to 9 years, payable to our affiliate",
+   "annualUsd": null
+  },
+  {
+   "name": "Remodel Costs",
+   "amount": "Currently, $250,000 to $1,200,000; substantial remodeling as frequently as every 12 years",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$10,000, plus our reasonable out-of-pocket expenses, including external legal and administrative costs we incur in connection with the transfer, which will not exceed $10,000 per club transferred.",
+  "usd": 10000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average Annual EFT Revenue (recurring membership dues only), franchised US clubs open all of 2025, MIDDLE THIRD only (no all-club average printed)",
+   "value": 1873231,
+   "count": 764,
+   "period": "calendar 2025",
+   "median": 1863300
+  },
+  "other": [
+   {
+    "label": "Average Annual EFT Revenue, franchised clubs, bottom third (764 clubs), 2025",
+    "value": 1260539
+   },
+   {
+    "label": "Average Annual EFT Revenue, franchised clubs, upper third (763 clubs), 2025",
+    "value": 2705811
+   },
+   {
+    "label": "Median Annual EFT Revenue, franchised clubs, bottom third, 2025",
+    "value": 1311575
+   },
+   {
+    "label": "Median Annual EFT Revenue, franchised clubs, upper third, 2025",
+    "value": 2595549
+   },
+   {
+    "label": "Number of franchised clubs open all of 2025 included",
+    "value": 2291
+   },
+   {
+    "label": "Average Annual EFT Revenue, corporate-owned clubs, middle third (90 clubs), 2025",
+    "value": 2018854
+   },
+   {
+    "label": "Average required local marketing expense, corporate clubs, middle third, 2025 ($)",
+    "value": 114254
+   }
+  ],
+  "profitPct": null,
+  "quote": "Average Annual EFT Revenue* 1,260,539 1,873,231 2,705,811 Median Annual EFT Revenue* 1,311,575 1,863,300 2,595,549 ... Clubs 764 764 763",
+  "note": "EFT Revenue = recurring monthly and annual membership fees billed to members; excludes paid-in-full memberships, retail and other revenue, returns and taxes. 2,291 franchised clubs open all of 2025 (US incl. Puerto Rico) split in thirds; 133 opened in 2025 and 8 bought from the company in August 2025 excluded. A 2025 Revenue and Operations Statement (EBITDAR, EBITDA) is given for 262 corporate-owned clubs, but the table itself is not in the extracted text."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 2432,
+  "company": 277,
+  "total": 2709,
+  "franchisedNetChange": 134,
+  "quote": "Franchised Outlets ... 2025 2,298 2,432 +134 Company-Owned ... 2025 270 277 +7 Total Outlets ... 2025 2,568 2,709 +141"
+ },
+ "special": "Royalty and NAF are on membership dues drafted by EFT (not total gross sales), charged on amounts due regardless of collection. Fitness equipment must be purchased from affiliate PF Equipment ($333,000 to $995,000) and replaced every 5 to 9 years at the same estimated cost; remodel $250,000 to $1,200,000 as often as every 12 years. Join Fee to franchisor of 20% of the monthly fee per new membership. If equipment is purchased rather than financed, total investment is $2,385,000 to $5,386,000 including $333,000 to $1,050,000 paid to the franchisor or its affiliate.",
+ "confidence": "medium",
+ "issues": "No all-franchised-club average EFT revenue is printed (only thirds); headline uses the middle third. The corporate Revenue and Operations Statement table (EBITDAR/EBITDA, margins) is an image not present in the text, so no profit figures recorded. Item 7 table total spans $1,282,500 - $5,386,000 (financed low to purchased high); financed-equipment cover range used.",
+ "source": {
+  "doc": "36703-202605-07",
+  "received": "2026-05-22",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B5027009F-0000-C215-9900-678E50EA83AF%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 550,
+  "registrant": "Planet Fitness Franchising LLC",
+  "filedName": "Planet Fitness",
+  "type": "Clean FDD"
+ }
+}

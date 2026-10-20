@@ -1,0 +1,119 @@
+{
+ "slug": "buffalo-wild-wings",
+ "brand": "Buffalo Wild Wings",
+ "franchisor": "Buffalo Wild Wings International, Inc.",
+ "issuanceDate": "2026-03-26",
+ "amendedDate": null,
+ "format": "New free-standing Buffalo Wild Wings Sports Bar (typically 3,500 to 6,500 sq ft), excluding land purchase, site work and demolition",
+ "invest": {
+  "low": 2896445,
+  "high": 4900320,
+  "toFranchisorLow": 12500,
+  "toFranchisorHigh": 156200,
+  "excludesRealEstate": true,
+  "quote": "Total Estimated Initial Investment (16)(17) $2,896,445 to $4,900,320 [New Free-Standing and Non-Traditional Location Sports Bars] $2,463,945 to $4,500,320 [Non-Free Standing and Conversion]. Cover: ranges from $2,463,945 to $4,900,320. This includes $12,500 to $156,200 that must be paid to the franchisor or an affiliate."
+ },
+ "fee": {
+  "low": 25000,
+  "high": 25000,
+  "quote": "Traditional Sports Bar $25,000* Sports Bar at a Non-Traditional Location $12,500 ($1,250 multiplied by the number of full or partial years in the term, up to 10 years)",
+  "note": "Under a Development Agreement, $12,500 per bar development fee is credited toward the $25,000 fee. Training fee currently $2,500 per person (first three bars), $5,000 per person otherwise; opening team administrative fee $5,000 plus expenses estimated $20,000 to $100,000 (waived if you train your own staff). Fees may be reduced or waived case by case."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Fee(3) 5% of Gross Sales(2), subject to applicable incentive program(3) Paid by electronic funds transfer every Friday for the preceding Reporting Period"
+ },
+ "adFund": {
+  "pct": 4,
+  "pctHigh": 4.15,
+  "localPct": 0.25,
+  "quote": "Advertising Fee(4) 4% of Gross Sales(2) and 2% of Gross Sales(2) for Non-Traditional Locations",
+  "note": "4% (may not increase more than 0.5% per year and will not exceed 4.15% in the initial term); plus local co-op/LMG contribution of at least 0.25% of Gross Sales (more if voted); $12,500 grand opening advertising spend."
+ },
+ "otherRecurring": [
+  {
+   "name": "Loyalty Program Contribution Payments",
+   "amount": "Currently 2.2% of Loyalty Program Sales, weekly",
+   "annualUsd": null
+  },
+  {
+   "name": "Menu database support",
+   "amount": "$300 to $420 annually (per Sports Bar)",
+   "annualUsd": null
+  },
+  {
+   "name": "Learning management system fee",
+   "amount": "Currently $62.99 plus tax per Sports Bar per year",
+   "annualUsd": 62.99
+  },
+  {
+   "name": "Contactless payment fee (optional)",
+   "amount": "currently up to $35 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Annual Convention Registration Fee",
+   "amount": "Currently $550 to $1,000 per person",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$12,500 (but see note 6); Family Transfers $1,000 plus costs and expenses not to exceed $12,500; multiple bars $12,500 for the first and $2,500 for each additional",
+  "usd": 12500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average AUV (annual Gross Sales), franchised Buffalo Wild Wings Sports Bars open all of 2025",
+   "value": 3574130,
+   "count": 532,
+   "period": "fiscal 2025 (December 30, 2024 to December 28, 2025)",
+   "median": 3433937
+  },
+  "other": [
+   {
+    "label": "Average AUV, 1st (top) quartile (133), 2025 ($)",
+    "value": 5079519
+   },
+   {
+    "label": "Average AUV, 2nd quartile (133), 2025 ($)",
+    "value": 3799484
+   },
+   {
+    "label": "Average AUV, 3rd quartile (133), 2025 ($)",
+    "value": 3095189
+   },
+   {
+    "label": "Average AUV, 4th (bottom) quartile (133), 2025 ($)",
+    "value": 2322326
+   }
+  ],
+  "profitPct": null,
+  "quote": "All Sports Bars 532 $8,127,592 $3,433,937 $1,352,618 $3,574,130 240 / 45.1%",
+  "note": "Gross Sales only; no costs or profits. Excludes 15 franchised bars opened in 2025, 2 closed for extended periods, 4 that closed in 2025 and all company-owned bars. Includes 4 Non-Traditional Locations; bars average 15.1 years open and 4,000 to 10,000 sq ft."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 549,
+  "company": 629,
+  "total": 1178,
+  "franchisedNetChange": 11,
+  "quote": "Franchised Outlets 2025 538 549 +11 Company-Owned 2025 645 629 -16 Total Outlets 2025 1183 1178 -5"
+ },
+ "special": "Standard incentive (sign by March 31, 2027): Royalty Fee credit equal to $325,000 per new Sports Bar; Early Opening Incentive: 0% royalty up to 6 months for opening early; VetFran: $10,000 royalty credit per bar up to $100,000. For the second half of the term the royalty becomes the greater of 5% or the then-current rate (increase capped at 0.5%). Alcohol sales and liquor license ($5,000 to $500,000 in Item 7, up to $1,000,000 or more in some East Coast areas). Majority of units are company-owned.",
+ "confidence": "high",
+ "issues": "Cover range $2,463,945-$4,900,320 mixes the non-free-standing low and free-standing high; the free-standing Item 7 column ($2,896,445-$4,900,320) is used. Cover amount paid to franchisor ($12,500-$156,200) is not itemized in Item 7.",
+ "source": {
+  "doc": "35664-202603-14",
+  "received": "2026-03-29",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BA0DD779D-0000-C51F-AE1E-786BF8FCC4E0%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 271,
+  "registrant": "BUFFALO WILD WINGS INTERNATIONAL INC",
+  "filedName": "BUFFALO WILD WINGS",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,27 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { CONTACT_EMAIL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { contactPageSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('contact', lang);
+const description = 'Write to the publisher of Franchise Cost Sheet about a figure, a disclosure document or a newer edition. E-mail only: no call back, no broker, nothing passed on.';
+---
+<PageLayout title="Contact Franchise Cost Sheet: corrections to an FDD figure" description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path, lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Contact</h1>
+    <p>By e-mail: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. No form and no phone line: a franchise page that asks for your name, budget and phone number usually sells them to a broker or to the brand's sales team, and this one passes nothing on.</p>
+    <h2>Messages that help</h2>
+    <ul>
+      <li>A figure that differs from the brand's disclosure document: name the brand, the Item and the issuance date of the edition you read.</li>
+      <li>A newer edition of a disclosure document that we have not loaded yet, with the state registration where it can be read.</li>
+      <li>A fee the calculator leaves out or counts twice: quote the line of Item 6.</li>
+      <li>Embedding the payback calculator on a blog or a newsroom page: the code is on the <a href={route('widget', lang)}>embed page</a>.</li>
+    </ul>
+    <h2>What we cannot do</h2>
+    <p>We do not sell disclosure documents, introduce buyers to brands, review a franchise agreement or arrange a loan. For the agreement, ask a franchise lawyer; for the figures behind Item 19, ask the franchisor and the franchisees listed in Item 20; for a loan, a lender.</p>
+    <h2>Publisher</h2>
+    <LegalIdentity lang={lang} />
+  </div>
+</PageLayout>

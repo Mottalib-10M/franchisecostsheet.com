@@ -1,0 +1,127 @@
+{
+ "slug": "freddys",
+ "brand": "Freddy's Frozen Custard & Steakburgers",
+ "franchisor": "Freddy's, L.L.C.",
+ "issuanceDate": "2026-04-30",
+ "amendedDate": null,
+ "format": "Standalone Restaurant (freestanding with drive-thru, approx. 3,000 sq ft)",
+ "invest": {
+  "low": 1586334,
+  "high": 2802000,
+  "toFranchisorLow": 55000,
+  "toFranchisorHigh": 95000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Freddy's Restaurant franchise ranges from $854,834 to $1,301,000 for an In-Line Restaurant, $1,026,334 to $2,361,000 for an End-Cap Restaurant and $1,586,334 to $2,802,000 for a Standalone Restaurant. This includes $55,000 to $95,000 that must be paid to the franchisor."
+ },
+ "fee": {
+  "low": 35000,
+  "high": 35000,
+  "quote": "You must pay an initial license fee in the amount of $35,000 (\"License Fee\") in a lump sum when you sign the License Agreement, less any applicable License Fee Deposit or Development Fee credit due under a Development Agreement.",
+  "note": "Freddy Simon Salute to Veterans Program: 25% reduction in the License Fee for a veteran's first Restaurant only. Construction Advisory Services: $35,000 non-refundable Advisory Fee required for the first Restaurant. Grand opening training expenses estimated $20,000 to $60,000. Development Agreement: $15,000 x number of Restaurants plus $20,000 License Fee Deposit."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "gross receipts",
+  "flat": null,
+  "quote": "Royalty 5% of all Gross Receipts2 Payable the 3rd day after the end of each consecutive week during each 28-day operating period"
+ },
+ "adFund": {
+  "pct": 2.5,
+  "pctHigh": 3,
+  "localPct": null,
+  "quote": "National Marketing and Advertising Fund3 0% - 3% of Gross Receipts currently, 2.5% of Gross Receipts As of October 8, 2026, 3% of Gross Receipts",
+  "note": "Currently 2.5%, rising to 3% as of October 8, 2026. Cooperative advertising 0% to 2% (none established); local advertising may be required up to 2.0% of Gross Receipts."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Support Fee",
+   "amount": "$100 per 28-day operating period",
+   "annualUsd": 1300
+  }
+ ],
+ "transferFee": {
+  "amount": "Transfer $5,000 Before consummation of transfer",
+  "usd": 5000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual gross receipts, 477 franchised Restaurants open the entire 2025 fiscal year (all facility types; excl. non-traditional)",
+   "value": 1859481,
+   "count": 477,
+   "period": "fiscal year ended December 31, 2025",
+   "median": 1820745
+  },
+  "other": [
+   {
+    "label": "Average annual gross receipts, 435 franchised Stand Alone drive-thru Restaurants, 2025",
+    "value": 1868226
+   },
+   {
+    "label": "Average annual gross receipts, 35 company-owned Restaurants, 2025",
+    "value": 2370951
+   },
+   {
+    "label": "Average annual gross receipts, systemwide 512 company-owned and franchised Restaurants, 2025",
+    "value": 1894445
+   },
+   {
+    "label": "4-Wall EBITDA in dollars, average of 42 franchised End Cap and Inline Restaurants, 2025",
+    "value": 178469
+   },
+   {
+    "label": "4-Wall EBITDA as % of gross receipts, average of 42 franchised End Cap and Inline Restaurants, 2025",
+    "value": 10.1
+   },
+   {
+    "label": "Average gross receipts, 42 franchised End Cap and Inline Restaurants with P&L, 2025",
+    "value": 1764975
+   },
+   {
+    "label": "4-Wall EBITDA in dollars, average of 7 company-owned End Cap and Inline Restaurants, 2025",
+    "value": 511164
+   },
+   {
+    "label": "4-Wall EBITDA as % of gross receipts, average of 7 company-owned End Cap and Inline Restaurants, 2025",
+    "value": 19.5
+   },
+   {
+    "label": "Cost of Sales as % of gross receipts, 35 company-owned Restaurants, 2025",
+    "value": 32.0
+   },
+   {
+    "label": "Labor with Benefits as % of gross receipts, 35 company-owned Restaurants, 2025",
+    "value": 31.3
+   },
+   {
+    "label": "Controllable Expenses as % of gross receipts, 35 company-owned Restaurants, 2025",
+    "value": 10.3
+   }
+  ],
+  "profitPct": 10.1,
+  "quote": "Number of Restaurants 435 39 3 477 Average Annual Gross Receipts $1,868,226 $1,798,407 $1,385,497 $1,859,481 ... Median Annual Gross Receipts $1,836,394 $1,763,017 $1,375,095 $1,820,745",
+  "note": "Excludes 43 franchised Restaurants not open the full year, 19 that closed, and 22 franchised non-traditional Restaurants. 4-Wall EBITDA covers only 42 franchised End Cap/Inline Restaurants that supplied P&Ls (14 did not); it excludes above-restaurant management, interest, depreciation; 'Other' includes royalty fees and marketing. No P&L is published for franchised Stand Alone Restaurants."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 542,
+  "company": 38,
+  "total": 580,
+  "franchisedNetChange": 28,
+  "quote": "Franchised ... 2025 514 542 +28 Company-Owned ... 2025 36 38 +2 Total Outlets ... 2025 550 580 +30"
+ },
+ "special": "Required $35,000 Construction Advisory Services fee to the franchisor for the first Restaurant (included in construction costs in Item 7). Investment excludes land purchase. Profit margin published only for End Cap/Inline franchised units (10.1% 4-Wall EBITDA), not the Standalone format.",
+ "confidence": "high",
+ "issues": "Cover In-Line high is $1,301,000 but Item 7 total says $1,302,000. Item 19 intro says 475 franchised Restaurants open the full year but Tables 3, 4 and 7 use 477. Cover 'paid to franchisor' range ($55,000 to $95,000) appears not to include the $35,000 advisory fee.",
+ "source": {
+  "doc": "36401-202604-09",
+  "received": "2026-04-30",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BC0C56A9E-0000-C81C-AF7D-68C5D275F8D2%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 314,
+  "registrant": "FREDDY'S, L.L.C.",
+  "filedName": "FREDDY'S FROZEN CUSTARD & STEAKBURGERS",
+  "type": "Clean FDD"
+ }
+}

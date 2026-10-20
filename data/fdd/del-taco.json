@@ -1,0 +1,139 @@
+{
+ "slug": "del-taco",
+ "brand": "Del Taco",
+ "franchisor": "Del Taco LLC",
+ "issuanceDate": "2025-05-05",
+ "amendedDate": null,
+ "format": "New freestanding Del Taco restaurant (Fresh Flex prototype, 1,152 to 2,304 sq ft), single Franchise Agreement, excluding land and financing",
+ "invest": {
+  "low": 1497200,
+  "high": 3321000,
+  "toFranchisorLow": 46700,
+  "toFranchisorHigh": 156000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Del Taco franchised business ranges from $1,497,200 to $3,321,000. This includes between $46,700 to $156,000 that must be paid to the franchisor or its affiliate(s)."
+ },
+ "fee": {
+  "low": 35000,
+  "high": 35000,
+  "quote": "If you purchase the rights to develop and operate one Del Taco Restaurant under a Franchise Agreement, you must pay us a Franchise Fee of $35,000 and a Promotional Fee of $10,000 when you sign the Franchise Agreement.",
+  "note": "Plus a $10,000 Promotional Fee that must be spent (with Del Taco's approval) promoting your restaurant within one year of opening, or forfeited. Veterans Program: fee reduced 25% to $26,250 for a qualifying veteran's first new restaurant. Nontraditional locations: $1,750 per year of the term. Development Agreement: $35,000 for the first restaurant plus $10,000 deposit for each additional (balance $25,000 each). Pre-opening technical support reimbursement $1,700 to $3,500; site development services fee up to $50,000 if Del Taco provides them."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "net sales",
+  "flat": null,
+  "quote": "Royalty 2 5% of net sales Payable monthly by electronic funds transfer by the fifteenth (15th) day of each month, based on the Net Sales for the preceding month"
+ },
+ "adFund": {
+  "pct": 4,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Marketing 4% of net sales ... We may increase the fee to the then-current fee we charge new franchisees upon notice to you. The marketing fee for nontraditional locations is typically 1.4% of net sales, but we may modify this fee.",
+  "note": "4% of net sales; may be raised to the then-current rate for new franchisees; nontraditional locations typically 1.4%."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Systems Support Services Fee",
+   "amount": "$173.81 per restaurant per month for your 1st through 5th restaurants; $148.82 per restaurant per month for your 6th through 10th restaurants; $123.84 per restaurant per month for your 11th restaurant and beyond",
+   "annualUsd": null
+  },
+  {
+   "name": "Ceridian Dayforce (workforce management)",
+   "amount": "$109.75 per month, $577.50 per year annual, $2,997.50 one-time payment for Ceridian clock",
+   "annualUsd": null
+  },
+  {
+   "name": "Del U E-Learning",
+   "amount": "$13.89 per month (paid annually from June 2025)",
+   "annualUsd": null
+  },
+  {
+   "name": "Digital Checklist",
+   "amount": "$50 per month (paid to approved vendor)",
+   "annualUsd": null
+  },
+  {
+   "name": "Royalty for Games and Devices",
+   "amount": "40% of net sales from such games and devices, monthly",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$5,000 Prior to our consent for the transfer",
+  "usd": 5000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual sales, freestanding franchised Del Taco restaurants open at least 12 months, fiscal 2024",
+   "value": 1613899,
+   "count": 387,
+   "period": "fiscal 2024 (ended September 29, 2024)",
+   "median": 1541335
+  },
+  "other": [
+   {
+    "label": "Average sales, freestanding company-owned restaurants open at least 12 months (116), fiscal 2024 ($)",
+    "value": 1804158
+   },
+   {
+    "label": "Average operating profit before rent and real estate taxes, freestanding company-owned restaurants (116), fiscal 2024 ($, before royalty)",
+    "value": 383324
+   },
+   {
+    "label": "Average operating profit before rent and real estate taxes, freestanding company-owned restaurants, fiscal 2024 (% of sales, before royalty)",
+    "value": 21.2
+   },
+   {
+    "label": "Median operating profit before rent and real estate taxes, company-owned, fiscal 2024 ($)",
+    "value": 375429
+   },
+   {
+    "label": "Average controllable profit, freestanding company-owned restaurants, fiscal 2024 (% of sales)",
+    "value": 26.0
+   },
+   {
+    "label": "Average food & paper, company-owned, fiscal 2024 (% of sales)",
+    "value": 25.6
+   },
+   {
+    "label": "Average labor, company-owned, fiscal 2024 (% of sales)",
+    "value": 30.9
+   },
+   {
+    "label": "Imputed royalty (5%) on company-owned average sales, fiscal 2024 ($)",
+    "value": 90208
+   },
+   {
+    "label": "Franchised same store sales change, fiscal 2024 (%)",
+    "value": -1.6
+   }
+  ],
+  "profitPct": 21.2,
+  "quote": "Number of Restaurants (open at least 12 months) 387 ... Average Sales $1,613,899 ... Number/Percentage of Restaurants Greater than Average 176/45% ... Median Sales $1,541,335",
+  "note": "Franchised figures are sales only. Profit figures are for company-owned freestanding restaurants (105 of 116 in California), before rent, real estate taxes, royalty (company restaurants pay none; imputed 5% royalty is $90,208), overhead, depreciation, interest and income taxes. Operating profit 21.2% minus 5% royalty is not printed as a figure."
+ },
+ "units": {
+  "year": 2024,
+  "franchised": 461,
+  "company": 133,
+  "total": 594,
+  "franchisedNetChange": 40,
+  "quote": "Franchised 2024 421 461 +40 Company-Owned 2024 171 133 -38 Total Outlets 2024 592 594 +2"
+ },
+ "special": "A $10,000 Promotional Fee is paid to Del Taco at signing but must be spent on promoting your own restaurant (unused portion forfeited). Item 19 profit margin is company-owned, before rent and before the 5% royalty franchisees pay. Del Taco refranchised many company restaurants in 2023-2024 (111 and 47 sold to franchisees), which drives the franchised unit growth. Development Incentive Program (selected emerging markets only) reduces royalty to 1%/2%/3%/4% in years 1-4.",
+ "confidence": "medium",
+ "issues": "This is the 2025 FDD (issued May 5, 2025; fiscal year ended September 29, 2024); no 2026 FDD in the source. Cover says $46,700 to $156,000 paid to franchisor, but Item 7 fees to Del Taco sum to $46,700-$56,000 (possibly plus the up-to-$50,000 site development fee); the $156,000 high is not reconciled in Items 5/7.",
+ "source": {
+  "doc": "34079-202505-08",
+  "received": "2025-05-15",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B407B3B97-0000-C818-B406-1CED59C4C234%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 325,
+  "registrant": "Del Taco",
+  "filedName": "Del Taco",
+  "type": "Clean FDD"
+ }
+}

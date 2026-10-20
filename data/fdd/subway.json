@@ -1,0 +1,97 @@
+{
+ "slug": "subway",
+ "brand": "Subway",
+ "franchisor": "Doctor's Associates LLC",
+ "issuanceDate": "2026-04-30",
+ "amendedDate": "2026-06-15",
+ "format": "single new traditional Subway restaurant (standard Franchise Agreement)",
+ "invest": {
+  "low": 263000,
+  "high": 630000,
+  "toFranchisorLow": 18000,
+  "toFranchisorHigh": 27000,
+  "excludesRealEstate": true,
+  "quote": "The initial investment necessary to begin operation of a single new Subway® franchise ranges from $263,000 to $630,000 ($227,000 to $458,000 for a non-traditional location). This sum includes an estimated $18,000 to $27,000 (including an initial franchise fee of $15,000) that must be paid to us or our affiliate."
+ },
+ "fee": {
+  "low": 15000,
+  "high": 15000,
+  "quote": "Standard Franchise Fee $15,000 This is the standard franchise fee for a Subway® restaurant franchise for all first-time franchisees except: (i) qualified United States Armed Forces Veterans (\"US Veterans\")...",
+  "note": "Reduced fee of $7,500 for qualified existing franchisees buying additional restaurants, franchisees of affiliates, honorably discharged U.S. Veterans (first franchise) and qualified non-traditional locations; add-on fee $3,750 for a new individual owner under reduced fee; satellite fee $5,000 ($1,000 short-term); no fee for School Lunch / Community Development programs."
+ },
+ "royalty": {
+  "pct": 8,
+  "pctHigh": null,
+  "basis": "total gross sales (excluding sales taxes)",
+  "flat": null,
+  "quote": "Royalty 8% of total gross sales Payable weekly See Note 1"
+ },
+ "adFund": {
+  "pct": 4.5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Advertising 4.5% of total gross sales Payable weekly See Notes 1 and 2",
+  "note": "Current franchise agreement fixes the advertising fund contribution at 4.5%; certain satellite/non-traditional restaurants may pay 0.5% to 2%; certain multi-unit developers 2% to 3.5%."
+ },
+ "otherRecurring": [
+  {
+   "name": "Restaurant Technology Fee",
+   "amount": "$75 per month, subject to increases of up to 10% annually",
+   "annualUsd": 900
+  },
+  {
+   "name": "Sub Club Program",
+   "amount": "1.9%, subject to increases of up to 10% annually, of the gross sales, for each transaction made by a Sub Club program member at your restaurant; payable weekly",
+   "annualUsd": null
+  },
+  {
+   "name": "POS System Hardware-as-a-Service Fees",
+   "amount": "Approximately $57 per month",
+   "annualUsd": 684
+  },
+  {
+   "name": "Digital Menu Board Hardware-as-a-Service Fee",
+   "amount": "$155 per month",
+   "annualUsd": 1860
+  },
+  {
+   "name": "Location Rent/License Fee",
+   "amount": "$1,000 - $6,000 per month, estimated (paid to leasing affiliate or landlord)",
+   "annualUsd": null
+  }
+ ],
+ "rentToFranchisor": null,
+ "item19": {
+  "published": false,
+  "headline": {
+   "label": null,
+   "value": null,
+   "count": null,
+   "period": null,
+   "median": null
+  },
+  "other": [],
+  "quote": "We do not make any representations about a franchisee's future financial performance or the past financial performance of company-owned or franchised outlets.",
+  "note": "We do not make any representations about a franchisee's future financial performance or the past financial performance of company-owned or franchised outlets."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 18773,
+  "company": 0,
+  "total": 18773,
+  "franchisedNetChange": -729,
+  "quote": "Franchised 2025 19,502 18,773 -729 ... Company Owned 2025 0 0 0 ... Total Outlets 2025 19,502 18,773 -729"
+ },
+ "special": "Premises are usually subleased from Doctor's Associates' affiliate leasing corporation (Sublease), with rent estimated at $1,000 to $6,000 per month; rent is not a percentage of sales. Item 7 Real Property line ($3,000-$12,000) is only a 2-month rent deposit. The system is 100% franchised (0 company-owned outlets) and shrank by 729 outlets in 2025.",
+ "confidence": "high",
+ "issues": "No Item 19 (no financial performance representation). Fee high set equal to standard $15,000 (reduced $7,500 fees listed in note).",
+ "source": {
+  "doc": "36389-202604-19",
+  "received": "2026-04-30",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B102F8B9F-0000-CA35-BE22-AE95E3BA7329%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 925,
+  "registrant": "Doctor's Associates LLC",
+  "filedName": "Subway",
+  "type": "Clean FDD"
+ }
+}

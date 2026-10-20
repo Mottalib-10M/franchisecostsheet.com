@@ -1,0 +1,122 @@
+{
+ "slug": "massage-envy",
+ "brand": "Massage Envy",
+ "franchisor": "ME SPE Franchising, LLC",
+ "issuanceDate": "2026-04-29",
+ "amendedDate": null,
+ "format": "single Massage Envy Business (leased, 2,300-2,800 sq ft, high-end retail center)",
+ "invest": {
+  "low": 695870,
+  "high": 1046506,
+  "toFranchisorLow": 28000,
+  "toFranchisorHigh": 45000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Massage Envy Business ranges from $695,870 to $1,046,506. This includes an initial franchise fee of $45,000 that must be paid to ME SPE Franchising, LLC."
+ },
+ "fee": {
+  "low": 45000,
+  "high": 45000,
+  "quote": "We currently charge an initial franchise fee of $45,000 for the right to operate a Massage Envy Business. If this is your second or subsequent Massage Envy franchise, your initial franchise fee for the new Massage Envy Business will be reduced to $35,000.",
+  "note": "Second or subsequent franchise $35,000. VetFran: veterans pay $36,000 for the first franchise ($9,000 discount) and $28,000 for a subsequent one. The Item 7 low total uses the $28,000 fee."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty 6% of Gross Sales Due on the day of each week we specify Based on Gross Sales during the previous week"
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "National Advertising Fund 2% of Gross Sales Due on the day of each week we specify ... Supplemental Marketing Fund 2% of Gross Sales ... This is an optional contribution.",
+  "note": "National Advertising Fund 2% required. Supplemental Marketing Fund 2% optional, but franchisees not contributing to it may have to contribute to a Regional Advertising Cooperative (amount set by members). Grand opening advertising $15,000."
+ },
+ "otherRecurring": [
+  {
+   "name": "P4 Technology Fees",
+   "amount": "approximately $705 per month if the Business has cable-enabled internet (Meevo Software $215 monthly; Internet/Managed Network/Security $367 per month; App Development & Maintenance $122.50 per month)",
+   "annualUsd": 8460
+  },
+  {
+   "name": "Centralized Tech Solutions & Support Fee",
+   "amount": "$390 Due on 1st of the month",
+   "annualUsd": 4680
+  },
+  {
+   "name": "Rapid Response/D3",
+   "amount": "Approximately $90 per month, but could increase if our costs increase",
+   "annualUsd": 1080
+  },
+  {
+   "name": "NASF Employment Verification System",
+   "amount": "$150 Annually as incurred (currently paid by franchisor until October 2026)",
+   "annualUsd": 150
+  }
+ ],
+ "transferFee": {
+  "amount": "2/3 of our then-current initial franchise fee ... reduced transfer fee of between $500-$2,500 for an assignment to a wholly-owned entity or reallocation among existing owners",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, franchised Massage Envy Businesses open before 2025 and reporting all 52 weeks of fiscal 2025 (the Network)",
+   "value": 1210966,
+   "count": 989,
+   "period": "fiscal 2025 (ended December 31, 2025)",
+   "median": 1136666
+  },
+  "other": [
+   {
+    "label": "Average Gross Sales, Current Format Businesses (2,300-2,800 sq ft, 189), fiscal 2025",
+    "value": 1166456
+   },
+   {
+    "label": "Median Gross Sales, Current Format Businesses (189), fiscal 2025",
+    "value": 1098105
+   },
+   {
+    "label": "Average Gross Sales, top quartile (247), fiscal 2025",
+    "value": 1879331
+   },
+   {
+    "label": "Average Gross Sales, bottom quartile (248), fiscal 2025",
+    "value": 678916
+   },
+   {
+    "label": "Average Gross Sales, businesses open 2 to <5 years (20), fiscal 2025",
+    "value": 715147
+   },
+   {
+    "label": "Average share of Gross Sales from packages and membership (%), 989 businesses, fiscal 2025",
+    "value": 76.6
+   }
+  ],
+  "quote": "Total: $ 1,210,966 429/989 (43.4%) $ 145,352 $ 1,136,666 $ 3,300,481 3,252",
+  "note": "Gross Sales only: 'These figures do not reflect the costs of sales, operating expenses or other costs or expenses'. Network excludes 2 businesses opened in 2025 and 2 reopened in 2025. Average square footage of the Network 3,252, larger than the current recommended format. Unaudited franchisee-reported data.",
+  "profitPct": null
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 993,
+  "company": 0,
+  "total": 993,
+  "franchisedNetChange": -16,
+  "quote": "Franchised 2023 1083 1053 -30 2024 1053 1009 -44 2025 1009 993 -16 Company-Owned ... 2025 0 0 0 Total Outlets ... 2025 1009 993 -16"
+ },
+ "special": "Initial Opening Package ($32,100 to $74,600) and build-out materials ($45,000 to $89,000) must be bought from designated suppliers, which pay the franchisor referral fees. Meevo and Centralized Tech fees continue after termination until memberships are transferred or funded. System shrinking: 1,083 to 993 outlets 2023-2025.",
+ "confidence": "high",
+ "issues": "Transfer fee printed only as 2/3 of the then-current initial franchise fee (no dollar figure), so usd null. Centralized Tech fee frequency inferred as monthly from the due date wording.",
+ "source": {
+  "doc": "36539-202605-08",
+  "received": "2026-05-05",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B80EEB29F-0000-CF58-8332-934EA732DDF2%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 289,
+  "registrant": "ME SPE FRANCHISING, LLC",
+  "filedName": "MASSAGE ENVY",
+  "type": "Clean FDD"
+ }
+}

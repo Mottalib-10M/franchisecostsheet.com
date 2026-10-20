@@ -1,0 +1,114 @@
+{
+ "slug": "ups-store",
+ "brand": "The UPS Store",
+ "franchisor": "The UPS Store, Inc.",
+ "issuanceDate": "2026-04-23",
+ "amendedDate": null,
+ "format": "New or Relocation Traditional (non-Rural, non-Veterans) Center, Laser Lite design, leased retail space",
+ "invest": {
+  "low": 222368,
+  "high": 606081,
+  "toFranchisorLow": 43523,
+  "toFranchisorHigh": 75643,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a New or Relocation Traditional (non-Rural and non-Veterans) Center under the Laser Lite design is $222,368 to $606,081, which includes $43,523 to $75,643 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 39950,
+  "high": 39950,
+  "quote": "You must pay us an initial franchise fee of $39,950 if this is your first Center and $19,950 if this is your 2nd or subsequent Center.",
+  "note": "$19,950 for 2nd or subsequent Center (50%+ concurrent owner). Rural Program $14,950. Believe Program (first-time purchasers) $29,950. VetFran and First Responder Programs $19,950; in 2026 fee waived for the first 10 Veterans developing a new Traditional Center. Initial Application Fee $8,000 ($4,000 for existing owners) credited to the fee. Also required: Center Development Fee $7,700 and Laser Lite Design Fee $3,275."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "Subject to Royalty (STR): Gross Sales plus Gross Commissions, less Allowable Exclusions",
+  "flat": null,
+  "quote": "Royalty 1, 2, 13 5% of Subject to Royalty (\"STR\") Payable via EFT monthly by the 20th day of the next calendar month"
+ },
+ "adFund": {
+  "pct": 2.5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "National Advertising Fee 1, 10 2.5% of STR Same as Royalty",
+  "note": "National Advertising Fee 2.5% of STR, capped (NAF Cap) at $2,135 per month January-November and $4,249 in December, annual NAF Cap $27,734. Plus The UPS Store Marketing Fee 1% of STR. DMA Advertising Collaborative dues $100-$500 monthly; may be set at 0.5% of STR, up to 3% of STR by majority vote."
+ },
+ "otherRecurring": [
+  {
+   "name": "The UPS Store Marketing Fee",
+   "amount": "1% of STR, same as Royalty",
+   "annualUsd": null
+  },
+  {
+   "name": "Annual Technology Development and Support Fee",
+   "amount": "$2,868 (new Center franchise and transfers); $2,748 (Rural Center); $2,748 per Center if you are purchasing your 2nd or greater franchise; Monthly",
+   "annualUsd": 2868
+  },
+  {
+   "name": "The Collaborative Dues",
+   "amount": "Varies from Collaborative to Collaborative. Range is $100-$500 Monthly",
+   "annualUsd": null
+  },
+  {
+   "name": "iShip Processing Fee",
+   "amount": "$0.22 per transaction",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Our current Transfer Fee is $6,000 (we periodically may increase this fee); plus Processing Fee of $6,000 ($1,500 if a Finder's Fee is paid) and a Pro-Rated Renewal Fee for Transfers",
+  "usd": 6000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual adjusted gross sales, all franchised Traditional The UPS Store Centers in the U.S. operating and reporting the full 2025 Year",
+   "value": 724293,
+   "count": 5058,
+   "period": "calendar 2025",
+   "median": null
+  },
+  "other": [
+   {
+    "label": "Average adjusted gross sales, top 10% of franchised Traditional Centers (506), 2025",
+    "value": 1248208
+   },
+   {
+    "label": "Average adjusted gross sales, bottom 10% of franchised Traditional Centers (506), 2025",
+    "value": 345790
+   },
+   {
+    "label": "Average adjusted gross sales, franchised Traditional Centers (4,931), 2024",
+    "value": 719842
+   },
+   {
+    "label": "Average adjusted gross sales, franchised Traditional Centers (4,825), 2023",
+    "value": 721245
+   }
+  ],
+  "profitPct": null,
+  "quote": "The actual 2025 average adjusted gross sales of all franchised Traditional The UPS Store® Centers in the United States that were in operation and reported gross sales from January 2025 until December 2025 (the \"2025 Year\") were $724,293. Of the 5,058 total franchised Traditional The UPS Store® Centers in operation and reporting gross sales during the 2025 Year, the adjusted gross sales of 2,263 Centers (45%) exceeded this average.",
+  "note": "Adjusted gross sales = gross sales (including UPS shipping costs collected from customers) plus gross commissions less permitted exclusions; no costs or expenses. Excludes 183 Centers not operating the full 2025 Year and 267 Non-Traditional Centers. Unaudited."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 5487,
+  "company": 16,
+  "total": 5503,
+  "franchisedNetChange": 137,
+  "quote": "Franchised ... 2025 5,350 5,487 +137 Company-Owned ... 2025 15 16 +1 Total Outlets ... 2025 5,365 5,503 +138"
+ },
+ "special": "Gross sales include UPS shipping charges passed through to customers, so the royalty and fees apply to revenue with a low margin; sales figures overstate the franchisee's net revenue. Total percentage fees on STR: 5% royalty + 1% Marketing Fee + 2.5% National Advertising Fee (capped at $27,734 per year). Area Franchisees receive 50% of royalties in their territory. Item 20 counts include Traditional and Non-Traditional Centers.",
+ "confidence": "high",
+ "issues": "Item 19 says it presents median adjusted gross sales, but the median table is not in the extracted text (likely an image), so median is null. Annual Technology fee is labelled annual but due 'Monthly'.",
+ "source": {
+  "doc": "36541-202605-03",
+  "received": "2026-05-05",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BA09A379F-0000-CF16-A17C-02EAC2978D55%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 598,
+  "registrant": "THE UPS STORE, INC.",
+  "filedName": "THE UPS STORE (TRADITIONAL)",
+  "type": "Clean FDD"
+ }
+}

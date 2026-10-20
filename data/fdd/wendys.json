@@ -1,0 +1,122 @@
+{
+ "slug": "wendys",
+ "brand": "Wendy's",
+ "franchisor": "Quality Is Our Recipe, LLC",
+ "issuanceDate": "2025-03-28",
+ "amendedDate": "2025-06-17",
+ "format": "traditional Wendy's Restaurant (new build, Franchise Agreement), all expenditures paid in cash, excluding real estate",
+ "invest": {
+  "low": 1523957,
+  "high": 2992000,
+  "toFranchisorLow": 0,
+  "toFranchisorHigh": 55000,
+  "excludesRealEstate": true,
+  "quote": "excluding real estate, it normally ranges from $1,523,957 to $2,992,000 (excluding real property costs) if you purchase for cash, or from $393,191 - $752,000 (excluding real property costs) if you finance the initial technical assistance fee, building, and equipment (see Item 7). This includes an amount between $0 -$55,000 that must be paid to the franchisor or its affiliates."
+ },
+ "fee": {
+  "low": 50000,
+  "high": 50000,
+  "quote": "you must pay a Technical Assistance Fee of $50,000 for each Wendy's Restaurant at the time the Franchise Agreement is executed, or $12,500 for a Frosty Cart.",
+  "note": "Wendy's calls it a Technical Assistance Fee. New franchisees also pay a $5,000 Training Fee and $500 per background investigation. $25,000 generally for non-traditional sites and under the Franchise Flip program; $12,500 for a Frosty Cart; waived under Pacesetter agreements and possibly under New Groundbreaker agreements if opened early. Build-to-Suit/REPP add real estate service fees ($12,500, $17,500, $40,000) and a $35,000 Project Fee."
+ },
+ "royalty": {
+  "pct": 4,
+  "pctHigh": 6,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Varies between 4-6% of \"Gross Sales\" (depending on the type of restaurant and development program): 4% for traditional/Groundbreaker Restaurants 5% for Restaurants developed under a previously executed Pacesetter Development Agreement 6% for Restaurants on military bases/Frosty Carts and those developed or acquired under the Build-to-Suit Program."
+ },
+ "adFund": {
+  "pct": 3.5,
+  "pctHigh": null,
+  "localPct": 0.5,
+  "quote": "National Advertising 1.50-3.50% of Gross Sales. ... Local and Regional Advertising .50% of Gross Sales.",
+  "note": "Total 4% required Advertising Contribution (3.50% national WNAP + 0.50% local/regional); a co-op may vote a higher local rate (example given: 1.00% for a total of 4.50%). Frosty Cart national contribution is 1.5%. Development incentives temporarily reduce royalties and WNAP fees."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Fee",
+   "amount": "$6,620 - $15,000 per restaurant per year, paid quarterly, upon invoice (note: $7,620, $10,600 or $14,200 depending on prior-year Gross Sales; $14,200 if newly built)",
+   "annualUsd": null
+  },
+  {
+   "name": "FreshAi Service Fee",
+   "amount": "$20,004 per restaurant per year, paid quarterly (monthly $1,667; restaurants opening on or after August 1, 2025)",
+   "annualUsd": 20004
+  },
+  {
+   "name": "Cyber Insurance Policy Premium Payment",
+   "amount": "A per restaurant fee of approximately $889, subject to change annually, paid quarterly",
+   "annualUsd": 889
+  },
+  {
+   "name": "Customer Care",
+   "amount": "A per restaurant fee of $95 per month, paid quarterly",
+   "annualUsd": 1140
+  },
+  {
+   "name": "In-App Delivery Account Settlement Services",
+   "amount": "A per-transaction fee of 3.0% of each in-app delivery transaction amount",
+   "annualUsd": null
+  }
+ ],
+ "rentToFranchisor": "Only if you lease or sublease from Quality and/or its affiliates (rent 'Varies'). Under a Build-to-Suit Sublease, rent typically equals Wendy's head-lease rent (or a fixed market rent if Wendy's buys the land) plus a monthly percentage rent of gross sales set by CAPCOM (no percentage printed), plus a lease administration fee of at least $6,000 per year.",
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual gross sales, U.S. franchise restaurants with at least 52 consecutive weeks of sales, fiscal year 2024",
+   "value": 2108454,
+   "count": 5325,
+   "period": "fiscal 2024 (January 1, 2024 to December 29, 2024)",
+   "median": 1984382
+  },
+  "other": [
+   {
+    "label": "Average annual gross sales, company restaurants (370), fiscal 2024",
+    "value": 2326904
+   },
+   {
+    "label": "Median annual gross sales, company restaurants, fiscal 2024",
+    "value": 2229249
+   },
+   {
+    "label": "Average weekly gross sales, 122 new traditional franchise restaurants opened fiscal 2023-24",
+    "value": 39853
+   },
+   {
+    "label": "Traditional company-owned restaurants (362): average Restaurant EBITDA before Rent, fiscal 2024",
+    "value": 425995
+   },
+   {
+    "label": "Traditional company-owned restaurants: EBITDA before Rent as % of average revenues",
+    "value": 18.2
+   },
+   {
+    "label": "Traditional company-owned restaurants: average gross sales in P&L table, fiscal 2024",
+    "value": 2339436
+   }
+  ],
+  "quote": "Table 1: U.S. AVERAGE GROSS SALES FOR THE PERIOD JANUARY 1, 2024 TO DECEMBER 29, 2024 (FISCAL YEAR 2024) ... Company Restaurants Franchise Restaurants Number of Restaurants 370 5,325 Average Annual Gross Sales $2,326,904 $2,108,454 Median $2,229,249 $1,984,382",
+  "note": "Sales only for franchise restaurants; excludes 401 franchise restaurants with less than 52 consecutive weeks of sales. Range $345,222 - $8,344,302; 2,260 (42.4%) at or above average. Cost/EBITDA figures are for company restaurants only, before rent, royalty, depreciation, interest and taxes."
+ },
+ "units": {
+  "year": 2024,
+  "franchised": 5552,
+  "company": 381,
+  "total": 5933,
+  "franchisedNetChange": -75,
+  "quote": "Franchised Outlets ... 2024 5,627 5,552 -75 Company-Owned Outlets ... 2024 403 381 -22 Total Outlets ... 2024 6,030 5,933 -97"
+ },
+ "special": "The initial fee is called a Technical Assistance Fee ($50,000). Investment excludes land; Item 7 notes purchasing land for company restaurants can cost an additional $500,000 - $1,500,000 (or more). Build-to-Suit restaurants pay a 6% royalty plus percentage rent to Wendy's. Technology Fee ($6,620 - $15,000/yr) and FreshAi Service Fee ($20,004/yr) are paid to the franchisor/affiliates in addition to royalty and advertising.",
+ "confidence": "high",
+ "issues": "FDD is the 2025 edition (figures for fiscal 2024). Technology Fee range in Item 6 table ($6,620 - $15,000) differs from footnote amounts ($7,620/$10,600/$14,200). Build-to-Suit percentage rent not quantified.",
+ "source": {
+  "doc": "34371-202506-03",
+  "received": "2025-06-18",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BC034B197-0000-C21E-A717-3AF336DC823A%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 729,
+  "registrant": "QUALITY IS OUR RECIPE, LLC",
+  "filedName": "WENDY'S OLD FASHIONED HAMBURGERS WENDY'S",
+  "type": "Clean FDD"
+ }
+}

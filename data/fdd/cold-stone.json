@@ -1,0 +1,111 @@
+{
+ "slug": "cold-stone",
+ "brand": "Cold Stone Creamery",
+ "franchisor": "Kahala Franchising, L.L.C.",
+ "issuanceDate": "2026-03-27",
+ "amendedDate": null,
+ "format": "traditional Cold Stone Creamery restaurant (approx. 1,200 sq ft leased vanilla shell)",
+ "invest": {
+  "low": 390675,
+  "high": 680775,
+  "toFranchisorLow": 27300,
+  "toFranchisorHigh": 59300,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Cold Stone Creamery franchise ranges from $390,675 to $680,775 for a traditional restaurant ... This includes $27,300 to $59,300 for a traditional restaurant ... that must be paid to the franchisor or its affiliate."
+ },
+ "fee": {
+  "low": 27000,
+  "high": 27000,
+  "quote": "The initial franchise fee (\"Initial Franchise Fee\") for your first Cold Stone Creamery traditional restaurant is $27,000. The Initial Franchise Fee is reduced for your second and each subsequent traditional restaurant to $15,000.",
+  "note": "20% discount for Eligible Military (active, reserve or honorably discharged) and 501(c)(3) organizations: $21,600 first traditional, $12,000 subsequent. Non-traditional $10,000 to $20,000. Grand Opening Marketing fee $10,000 (traditional) also paid to franchisor. Item 7 shows the fee as $12,000 to $27,000. No fee on transfer or renewal."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Fee and Surcharge (Notes 1 and 13) 6% of Gross Sales plus a maximum Surcharge of $10 per week (Note 2)"
+ },
+ "adFund": {
+  "pct": 3,
+  "pctHigh": 4,
+  "localPct": 1,
+  "quote": "Advertising Fees (Note 1) 3% of weekly Gross Sales ... The Advertising Fees are deposited as follows: 2% to the National Fund and 1% to the Regional Fund for your Cooperative or your store (Note 4).",
+  "note": "3% total (2% National Fund + 1% Regional Fund); may be increased to not exceed 4% of weekly Gross Sales on 30 days' notice."
+ },
+ "otherRecurring": [
+  {
+   "name": "Data Fees",
+   "amount": "Up to $75 per month",
+   "annualUsd": 900
+  },
+  {
+   "name": "POS Help Desk Phone Support Maintenance Contract Fee",
+   "amount": "Up to $60 per month",
+   "annualUsd": 720
+  },
+  {
+   "name": "Annual Meeting Registration Fee",
+   "amount": "Up to $1,000 plus incidental costs to attend (charged whether or not you attend)",
+   "annualUsd": null
+  },
+  {
+   "name": "Gift Card Redemption Fee",
+   "amount": "11% of the amount of the gift card redemption",
+   "annualUsd": null
+  },
+  {
+   "name": "Royalty Surcharge (New York only currently)",
+   "amount": "maximum Surcharge of $10 per week",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Transfer Franchise Fee – traditional location $17,500 (non-traditional $5,000)",
+  "usd": 17500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average gross sales, all 978 U.S. franchised Cold Stone Creamery stores (existing, not new in the year, not temporarily closed, excl. Guam)",
+   "value": 604392,
+   "count": 978,
+   "period": "December 1, 2024 through November 30, 2025",
+   "median": 573674
+  },
+  "other": [
+   {
+    "label": "Average gross sales, top 20% of franchised outlets (196 stores)",
+    "value": 964900
+   },
+   {
+    "label": "Average gross sales, bottom 20% of franchised outlets (196 stores)",
+    "value": 332501
+   }
+  ],
+  "profitPct": null,
+  "quote": "All franchised outlets $604,392 $573,674 978 418 43% 489 50%",
+  "note": "Sales only, no costs. Includes traditional and non-traditional franchised stores together. Based on unaudited weekly franchisee sales reports."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1052,
+  "company": 2,
+  "total": 1054,
+  "franchisedNetChange": 60,
+  "quote": "Franchised ... 2025 992 1052 60 Company - Owned ... 2025 2 2 0 Total Outlets ... 2025 994 1054 60 (United States)"
+ },
+ "special": "Royalties may be increased to up to 18% of Gross Sales during any period of breach or default (minimum 14 days). Some items (equipment, millwork, smallwares $5,300 to $9,800) bought from affiliate Neptune Equipment. Optional lease guarantee by franchisor for 10% of the guaranteed amount up to $10,000. Investment excludes real estate and building construction.",
+ "confidence": "high",
+ "issues": "Item 19 average mixes traditional and non-traditional stores; no separate traditional figure.",
+ "source": {
+  "doc": "35603-202603-14",
+  "received": "2026-03-27",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B60A2BA9D-0000-C61D-B8A8-13346CDC3074%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 723,
+  "registrant": "KAHALA FRANCHISING, LLC",
+  "filedName": "COLD STONE CREAMERY",
+  "type": "Clean FDD"
+ }
+}

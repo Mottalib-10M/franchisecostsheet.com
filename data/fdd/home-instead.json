@@ -1,0 +1,113 @@
+{
+ "slug": "home-instead",
+ "brand": "Home Instead",
+ "franchisor": "Home Instead, Inc.",
+ "issuanceDate": "2026-04-29",
+ "amendedDate": null,
+ "format": "single Home Instead franchised business (non-medical home care office serving a Protected Area of about 10,000 people aged 65+)",
+ "invest": {
+  "low": 92640,
+  "high": 350550,
+  "toFranchisorLow": 54000,
+  "toFranchisorHigh": 56250,
+  "excludesRealEstate": false,
+  "quote": "The total investment necessary to begin operation of a Home Instead® franchised business is $92,640–$350,550. This includes $54,000–$56,250 which must be paid to us as the initial franchise fee."
+ },
+ "fee": {
+  "low": 54000,
+  "high": 54000,
+  "quote": "You must pay us an initial franchise fee of $54,000 (\"Initial Franchise Fee\"). The Initial Franchise Fee is due when you sign the Franchise Agreement.",
+  "note": "VetFran: 20% discount (fee reduced to $43,200) for honorably discharged U.S. veterans who do not already own a Home Instead franchise. Optional $27,000 Deposit Agreement to reserve a market ($24,300 refundable if withdrawn within 90 days). Fee covers training for two people; Additional Trainee Fee $2,250 per person (max $2,700). During 2025 franchisees paid $0 to $54,000."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Fee 5% of Gross Sales 15th and the last day of each month or such other dates as specified in the Operations Manual"
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Marketing Fund 2% of monthly Gross Sales ... You must contribute 2% of monthly Gross Sales to the Fund (as defined in Item 11).",
+  "note": null
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Fee",
+   "amount": "Our then-current fee (currently $500/month); may not increase more than 25% per calendar year",
+   "annualUsd": 6000
+  },
+  {
+   "name": "Fees for Required Systems",
+   "amount": "currently ranges from $177 to $1,861 per month for systems billed on a recurring monthly basis, and up to $3,457 in any month in which annual system fees are billed",
+   "annualUsd": null
+  },
+  {
+   "name": "Bulk Purchasing Administrative Fee",
+   "amount": "Up to 10% of the cost for any Required System or optional system or other product or service where we have arranged for a network contract",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$25,000 Payable by either the transferee or transferor at the time ownership of the franchise is transferred. (Minority Ownership Change Fee $9,000)",
+  "usd": 25000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, 611 Home Instead U.S. franchised businesses in operation the entire calendar year 2025",
+   "value": 2750875,
+   "count": 611,
+   "period": "calendar year 2025",
+   "median": 2352450
+  },
+  "other": [
+   {
+    "label": "Highest franchised business Gross Sales, 2025 (dollars)",
+    "value": 13070342.4
+   },
+   {
+    "label": "Lowest franchised business Gross Sales, 2025 (dollars)",
+    "value": 38465.4
+   },
+   {
+    "label": "Average Client Hours Served per franchised business, 2025",
+    "value": 79658
+   },
+   {
+    "label": "Median Client Hours Served per franchised business, 2025",
+    "value": 69017
+   },
+   {
+    "label": "Franchised businesses with 26+ years territory tenure, % of the 611",
+    "value": 35.7
+   }
+  ],
+  "profitPct": null,
+  "quote": "Lowest Franchised Business Gross Sales 611 $2,750,875.94 242 / 39% $2,352,450.95 $13,070,342.40 $38,465.40",
+  "note": "Gross Sales only; 'The Gross Sales data in the tables above do not contain any information regarding the cost of sales, operating expenses, or other costs or expenses'. Excludes affiliate-owned businesses, 15 franchises opened after January 1, 2025, closed and 4 terminated locations. By territory tenure, 31.6% of the 611 businesses have 21-25 years and 35.7% have 26+ years; 14 have 1-2 years."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 626,
+  "company": 8,
+  "total": 634,
+  "franchisedNetChange": 7,
+  "quote": "Franchised 2023 614 616 +2 2024 616 619 +3 2025 619 626 +7 Company-Owned ... 2025 6 8 +2 Total ... 2025 625 634 +9"
+ },
+ "special": "Home care is labor-intensive: Gross Sales are billings for caregiver hours and Item 19 shows no costs. The franchisor is owned by Honor Technology, Inc.; some existing franchisees operate under Honor's 'Care Platform' (Honor or its affiliates recruit and employ caregivers, manage care and bill clients), paid to Honor. Institutional owners may have to post an escrow or letter of credit equal to 3% of prior 12-month gross revenue (or up to $65,000 for a greenfield).",
+ "confidence": "high",
+ "issues": "Item 19 average and median carry cents ($2,750,875.94; $2,352,450.95), truncated to whole dollars. Pending franchisee lawsuits over early renewal rights under a March 2024 settlement (Item 3).",
+ "source": {
+  "doc": "36339-202604-13",
+  "received": "2026-04-29",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BC0E4A39F-0000-C958-8981-6CD9DE14F98F%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 284,
+  "registrant": "Home Instead Inc.",
+  "filedName": "Home Instead",
+  "type": "Clean FDD"
+ }
+}

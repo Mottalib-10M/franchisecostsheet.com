@@ -1,0 +1,144 @@
+{
+ "slug": "two-men-and-a-truck",
+ "brand": "Two Men and a Truck",
+ "franchisor": "Two Men and a Truck SPE LLC",
+ "issuanceDate": "2026-04-30",
+ "amendedDate": null,
+ "format": "Metro Market Franchise (single Marketing Area of approximately 420,000 to 600,000 population, leased office)",
+ "invest": {
+  "low": 146950,
+  "high": 512450,
+  "toFranchisorLow": 50000,
+  "toFranchisorHigh": 165000,
+  "excludesRealEstate": true,
+  "quote": "TOTAL ESTIMATED INITIAL INVESTMENT (14) $146,950 $512,450"
+ },
+ "fee": {
+  "low": 50000,
+  "high": 165000,
+  "quote": "The initial franchise fee for a Metro Market Franchise is $50,000 for a Marketing Area where we have had no prior presence and is $85,000 for a Marketing Area where we have had a prior presence in any portion of the Marketing Area.",
+  "note": "$165,000 for a 1,000,000-population Marketing Area with prior presence ($10,000 per 50,000 population over 600,000). Mod Market Franchise (100,000-250,000 population): $30,000 (up to $40,000). One discount only: Military 20%, Affiliate 15%, Conversion 15%; employee scholarship 25%-100%. In 2025 fees collected ranged $25,000 to $50,000 (Metro) and $25,000 to $30,000 (Mod)."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "Gross Sales",
+  "flat": null,
+  "quote": "Royalty Fee 6% of all Gross Sales. Monthly on the 15th"
+ },
+ "adFund": {
+  "pct": 1,
+  "pctHigh": null,
+  "localPct": 1,
+  "quote": "Contributions to Advertising Fund 1% of all Gross Sales. Monthly on the 15th",
+  "note": "Cooperative Advertising up to 1% of annual Gross Sales (up to $1,500 per month in first 12 months; up to 2% if participants agree; currently approximately $100 to $400 per month). A Minimum Local Marketing Spend also applies (Item 11)."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology and Support Fee (Metro)",
+   "amount": "currently, 1% of Gross Sales with a minimum payment of $1,200 per month (Mod: 2% of Gross Sales with no minimum)",
+   "annualUsd": null
+  },
+  {
+   "name": "Minimum Royalty Fee (Metro)",
+   "amount": "Shortfall up to $24,000 in the 1st year, $33,000 in the 2nd, $39,000 in the 3rd, $45,000 in the 4th and subsequent years, if Minimum Performance Requirements are not met",
+   "annualUsd": null
+  },
+  {
+   "name": "First Level Support (Metro)",
+   "amount": "currently, $80 per month, which may be increased up to $92 per month",
+   "annualUsd": 960
+  },
+  {
+   "name": "Additional Sales Support (Metro, optional first 12 months)",
+   "amount": "currently, $4.50 per call or, if a prospect we contact purchases services, 7% of Gross Sales generated from such customer",
+   "annualUsd": null
+  },
+  {
+   "name": "Risk Management and Safety Services Fees",
+   "amount": "Currently, $1,800 to $4,800 per year, which may be increased up to $6,000 per year",
+   "annualUsd": null
+  },
+  {
+   "name": "Local Digital Advertising Fees (optional)",
+   "amount": "100% of digital advertising spend plus an administrative fee of 15% of the media spend",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "40% of the franchise fee charged to new franchisees at the time of transfer. In addition, you must pay our and our affiliates' costs and expenses incurred related to the transfer (including attorneys' fees).",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, Franchise Operating Units (single Metro franchises and multi-unit Metro groups counted as one unit) open all 12 months of 2025",
+   "value": 2837460,
+   "count": 198,
+   "period": "calendar 2025",
+   "median": 2340225
+  },
+  "other": [
+   {
+    "label": "Average annual Gross Sales, 145 Single Metro Market Franchises, 2025",
+    "value": 2376195
+   },
+   {
+    "label": "Median annual Gross Sales, 145 Single Metro Market Franchises, 2025",
+    "value": 2072481
+   },
+   {
+    "label": "Average Total EBITDA ($), 145 Single Metro Market Franchises, 2025",
+    "value": 341858
+   },
+   {
+    "label": "Median Total EBITDA ($), 145 Single Metro Market Franchises, 2025",
+    "value": 276922
+   },
+   {
+    "label": "Average Total Annual Expenses ($), 145 Single Metro Market Franchises, 2025",
+    "value": 2034337
+   },
+   {
+    "label": "Average annual Gross Sales, 53 Multi-Unit Metro Market Franchises, 2025",
+    "value": 4099413
+   },
+   {
+    "label": "Average Total EBITDA ($), 53 Multi-Unit Metro Market Franchises, 2025",
+    "value": 454066
+   },
+   {
+    "label": "Average annual Gross Sales, Single Metro franchises opened 2023 & 2024 (3 units), 2025",
+    "value": 444024
+   },
+   {
+    "label": "Average annual Gross Sales, Mod Market franchises opened 2023 & 2024 (16 units), 2025",
+    "value": 643527
+   }
+  ],
+  "profitPct": null,
+  "quote": "2025 198 $2,837,460 71 / 36% $2,340,225 $14,863,630 $198,567",
+  "note": "Franchisee-reported, unaudited. 71 (36%) of 198 at or above average. Excludes 7 units opened in 2025, Mod Market Franchises and affiliate-owned units. EBITDA (Gross Sales less Total Annual Expenses plus interest, taxes, depreciation) is printed in dollars only; single Metro lowest EBITDA ($290,271) loss, highest $3,384,617. Young units sell far less (2023-2024 openings average $444,024)."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 350,
+  "company": 1,
+  "total": 351,
+  "franchisedNetChange": 12,
+  "quote": "Franchised Businesses 2025 338 350 +12 Company-Owned Businesses 2025 1 1 0 Total Businesses 2025 339 351 +12"
+ },
+ "special": "Besides 6% royalty and 1% ad fund, a Technology and Support Fee of 1% of Gross Sales (minimum $1,200/month) applies to Metro franchises (2% for Mod), plus Minimum Royalty Fees ($24,000 year 1 rising to $45,000) if performance minimums are missed. Mod Market franchises must buy sales support from the franchisor ($500/month plus $40 per move, or $2,500/month after 12 months without a CSR) and bookkeeping ($95/hour). Trucks are financed or leased at $1,500 to $3,500 per truck per month.",
+ "confidence": "medium",
+ "issues": "Cover page states the Metro low investment as $145,950 but the Item 7 table lines sum to $146,950 and its TOTAL line prints $146,950; Item 7 figure used. Transfer fee is a percentage of the then-current franchise fee, so usd left null. Item 19 EBITDA is given in dollars only, so profitPct null. Headline 'Franchise Operating Units' count multi-unit groups as one unit.",
+ "source": {
+  "doc": "36598-202605-08",
+  "received": "2026-05-10",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B60ABEB9F-0000-C138-9AF6-DA0C3FB0F75E%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 413,
+  "registrant": "TWO MEN AND A TRUCK SPE LLC",
+  "filedName": "TWO MEN AND A TRUCK",
+  "type": "Clean FDD"
+ }
+}

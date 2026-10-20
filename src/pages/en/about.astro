@@ -1,0 +1,32 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { route } from '../../i18n/routes';
+import { AUTHOR_NAME, AUTHOR_DESC, CONTACT_EMAIL } from '../../data/site-config';
+import { src } from '../../lib/helpers';
+import { VALUE } from '../../content/home';
+import { KIT as K } from '../../lib/kit';
+import { profilePageSchema, breadcrumbSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('about', lang);
+const title = 'Franchise Cost Figures 2026: Who Runs Franchise Cost Sheet';
+const description = 'Franchise Cost Sheet is published by Radif Partners from disclosure documents filed in Minnesota: no broker, no lead form, no franchise sold, no details asked.';
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[profilePageSchema({ path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path }])]} breadcrumbs={[{ label: 'About' }]}>
+  <article class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>About Franchise Cost Sheet</h1>
+    <p>{AUTHOR_DESC.en}</p>
+    <h2>The gap this site fills</h2>
+    <p>Search for what a franchise costs and the first pages are written by the brands' sales teams, by franchise brokers paid by the brands, and by directories that sell leads. Some show one range and then ask for your name, budget and phone number; others sell the disclosure document itself, or copy figures from an old edition without saying which. A reader who wants the fee, the royalty and the published sales of three brands side by side has to request three brochures and wait for three calls.</p>
+    <p>{VALUE}</p>
+    <h2>Who publishes it</h2>
+    <p>The site is published by {AUTHOR_NAME}, a company that builds calculators on public rules and public data. It is not a franchisor, a franchise broker, a lender, a law firm or a franchise association. It has no partner to send you to, receives no commission and carries no affiliate link.</p>
+    <LegalIdentity lang={lang} />
+    <h2>What we rely on</h2>
+    <p>The {K.BRANDS.length} disclosure documents registered in Minnesota and published in the <Fragment set:html={src('mn_cards', 'CARDS database')} />, each named and dated on its brand page; the <Fragment set:html={src('ftc_rule', 'FTC Franchise Rule')} /> and the <Fragment set:html={src('ftc_guide', 'FTC compliance guide')} /> for what each Item must contain; the <Fragment set:html={src('sba_terms', 'SBA 7(a) terms')} /> and the Federal Reserve prime rate for the loan defaults; and the annual reports filed with the Securities and Exchange Commission for brands that sell no franchise.</p>
+    <h2>What the site leaves out</h2>
+    <p>It gives the figures each franchisor printed, never a recommendation to buy. It does not estimate a brand's profit where the document prints none: the margin is yours to type. It does not cover brands without a document on file in Minnesota, and it does not resell or reproduce the documents beyond the figures quoted. The <a href={route('method', lang)}>method page</a> lists every step and its limits; the <a href={route('editorial', lang)}>editorial policy</a> explains corrections.</p>
+    <h2>Contact</h2>
+    <p><a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>, for corrections and newer editions. We answer questions about a figure or a document, not about whether to buy a franchise.</p>
+  </article>
+</PageLayout>

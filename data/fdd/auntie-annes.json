@@ -1,0 +1,141 @@
+{
+ "slug": "auntie-annes",
+ "brand": "Auntie Anne's",
+ "franchisor": "Auntie Anne's Franchisor SPV LLC",
+ "issuanceDate": "2026-03-27",
+ "amendedDate": null,
+ "format": "traditional Full Shop (typically about 800 sq ft in a high-traffic or retail mall area)",
+ "invest": {
+  "low": 157795,
+  "high": 835500,
+  "toFranchisorLow": 35659,
+  "toFranchisorHigh": 59567,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a traditional Shop (a \"Full Shop\") ranges from $157,795 to $835,500. This includes $35,659 to $59,567 that must be paid to us or our affiliates."
+ },
+ "fee": {
+  "low": 35500,
+  "high": 35500,
+  "quote": "When you sign a Franchise Agreement, you must pay us an initial franchise fee (the \"Initial Franchise Fee\") of $35,500 for a Full Shop, $10,500 for a Concession Shop, $71,000 for a Cinnabon Co-Branded Shop ($35,500 of which will be paid to Cinnabon)",
+  "note": "VetFran: Initial Franchise Fee for a Full Shop is $20,000 for qualifying veterans or members of the Armed Forces. May be reduced case by case (additional Shops, reopening closed Shops, etc.); in 2025 franchisees paid $5,250 to $28,500. Concession Shop $10,500; co-branded $71,000."
+ },
+ "royalty": {
+  "pct": 7,
+  "pctHigh": 8,
+  "basis": "net sales",
+  "flat": null,
+  "quote": "Royalty Fee Currently, 7% of Net Sales, which we may increase in our sole discretion to 8% of Net Sales, for all Shops except: ..."
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": 3,
+  "localPct": 1,
+  "quote": "Advertising Contribution Shops in Other Locations (except Co-Branded Shops in Other Locations): Currently, 2% of Net Sales ... Shops in Streetside Locations: Currently, 3% of Net Sales.",
+  "note": "2% for Other Locations (malls, airports etc.), 3% for Streetside Locations. Local Marketing Obligation currently not less than 1% of Net Sales; Advertising Contribution plus Local Marketing Obligation may not exceed 5% of Net Sales."
+ },
+ "otherRecurring": [
+  {
+   "name": "POS System License and Lease Fees",
+   "amount": "Currently, $159 to $397 per month (CapEx Program) and $302 to $967 per month (HaaS Program)",
+   "annualUsd": null
+  },
+  {
+   "name": "POS System Support Fee",
+   "amount": "Currently, between $70 and $250 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Loyalty App Fee",
+   "amount": "Currently, $54 per month",
+   "annualUsd": 648
+  },
+  {
+   "name": "Online ordering fee",
+   "amount": "Currently, $54 per month, plus a per transaction fee (currently, 0.04% per transaction)",
+   "annualUsd": null
+  },
+  {
+   "name": "Ordering Support Fee",
+   "amount": "Currently, 3% of the pre-tax transaction amount for each transaction that is processed through our online ordering",
+   "annualUsd": null
+  },
+  {
+   "name": "Learning Management System License Fee",
+   "amount": "Currently, $170 per year",
+   "annualUsd": 170
+  },
+  {
+   "name": "Gift card processor",
+   "amount": "$4.50 per Shop per month",
+   "annualUsd": 54
+  }
+ ],
+ "transferFee": {
+  "amount": "50% of the then-current Initial Franchise Fee if it is a Control Transfer; if it is a transfer to a related party or that is not a Control Transfer, 10% of the then-current Initial Franchise Fee.",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual net sales, 489 single-branded franchised Enclosed Mall Full Shops reporting all 52 weeks of fiscal 2025",
+   "value": 792496,
+   "count": 489,
+   "period": "fiscal year ended December 28, 2025",
+   "median": 732705
+  },
+  "other": [
+   {
+    "label": "Average net sales, 93 Outlet Center Franchises, FY2025",
+    "value": 958966
+   },
+   {
+    "label": "Average net sales, 37 Airport Franchises, FY2025",
+    "value": 1705205
+   },
+   {
+    "label": "Average net sales, 64 Cinnabon Co-Branded Franchises (both brands), FY2025",
+    "value": 1209353
+   },
+   {
+    "label": "Average net sales, top quartile Enclosed Mall Franchises (123), FY2025",
+    "value": 1289812
+   },
+   {
+    "label": "Average net sales, bottom quartile Enclosed Mall Franchises (122), FY2025",
+    "value": 385408
+   },
+   {
+    "label": "Highest net sales, Enclosed Mall Franchises, FY2025",
+    "value": 2939851
+   },
+   {
+    "label": "Lowest net sales, Enclosed Mall Franchises, FY2025",
+    "value": 103731
+   }
+  ],
+  "profitPct": null,
+  "quote": "Total $792,496 214/489 (44%) $732,705 $103,731 $2,939,851 (TABLE 1: AVERAGE NET SALES BY QUARTILES ENCLOSED MALL FRANCHISES FOR FISCAL YEAR 2025)",
+  "note": "Sales only: 'These sales figures do not reflect the costs of sales, operating expenses or other costs'. No all-shop figure; only Enclosed Mall, Outlet Center, Airport and Cinnabon Co-Branded franchises are covered. Excludes streetside, strip malls, Walmarts, universities, concession shops, other co-branded and affiliate-owned shops."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1236,
+  "company": 11,
+  "total": 1247,
+  "franchisedNetChange": 54,
+  "quote": "Franchised ... 2025 1182 1236 +54 Affiliate-Owned ... 2025 11 11 +0 Total Outlets ... 2025 1193 1247 +54"
+ },
+ "special": "Royalty is currently 7% but can be raised to 8% at franchisor's discretion; ad contribution higher (3%) for Streetside Locations. Ordering Support Fee of 3% of online transactions. Item 7 includes only one month of rent and excludes purchase of real estate. Co-branded formats (Cinnabon, Jamba) pay a second franchisor's royalty on that brand's share of sales.",
+ "confidence": "high",
+ "issues": "Item 19 has no system-wide average; headline is the Enclosed Mall group (largest). Transfer fee printed only as a % of the Initial Franchise Fee (usd left null). Rest of Item 6 after gift card fees read by grep only.",
+ "source": {
+  "doc": "35777-202604-09",
+  "received": "2026-04-01",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B70306F9E-0000-CC72-9F02-9DB2F399F29A%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 428,
+  "registrant": "AUNTIE ANNE'S FRANCHISOR SPV LLC",
+  "filedName": "AUNTIE ANNE'S",
+  "type": "Clean FDD"
+ }
+}

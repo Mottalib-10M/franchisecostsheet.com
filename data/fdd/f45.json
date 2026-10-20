@@ -1,0 +1,137 @@
+{
+ "slug": "f45",
+ "brand": "F45 Training",
+ "franchisor": "F45 Training Incorporated",
+ "issuanceDate": "2026-04-01",
+ "amendedDate": null,
+ "format": "single F45 Studio (approx. 1,650 to 3,000 sq ft leased)",
+ "invest": {
+  "low": 362300,
+  "high": 857700,
+  "toFranchisorLow": 299600,
+  "toFranchisorHigh": 373200,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of an F45 Studio is between $362,300 to $857,700.  This includes $299,600 to $373,200 that must be paid to the franchisor or its affiliates."
+ },
+ "fee": {
+  "low": 60000,
+  "high": 60000,
+  "quote": "On the Effective Date of the Franchise Agreement, you must pay us: (i) a $60,000 establishment fee; and (ii) up to a $2,500 document preparation fee",
+  "note": "Called an 'establishment fee'; plus up to $2,500 document preparation fee. Up to 25% discount for certain approved US military veterans. $60,000 per additional Studio committed. In 2025 establishment fees collected ranged from $30,000 to $60,000. Equipment Pack of $115,000 must be bought from the franchisor or affiliate."
+ },
+ "royalty": {
+  "pct": 7,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": "The greater of 7% of Gross Sales or $2,500 per month",
+  "quote": "Royalty Fee The greater of 7% of Gross Sales(2) or $2,500 per month $2,500 is due on the Opening Date and then in advance on the first day of each calendar month thereafter."
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Brand Fund Up to 2% of Gross Sales, or $200 per month, whichever is higher",
+  "note": "Brand Fund up to 2% of Gross Sales or $200/month, whichever is higher; plus a Marketing Fee of $2,500 per month paid to the franchisor for local advertising (or $2,500/month local spend if not paid directly). Grand opening minimum $25,000."
+ },
+ "otherRecurring": [
+  {
+   "name": "Minimum royalty",
+   "amount": "$2,500 per month (royalty is the greater of 7% of Gross Sales or $2,500 per month)",
+   "annualUsd": 30000
+  },
+  {
+   "name": "Marketing Fee",
+   "amount": "$2,500 per month",
+   "annualUsd": 30000
+  },
+  {
+   "name": "Technology Service Fee",
+   "amount": "Currently, $500 per month",
+   "annualUsd": 6000
+  },
+  {
+   "name": "Merchandise for Resale (minimum purchase)",
+   "amount": "Currently, not less than $1,500 every three months (does not include shipping, taxes, and duties)",
+   "annualUsd": 6000
+  },
+  {
+   "name": "LionHeart Bands",
+   "amount": "Currently, $54 per monitor; at least 100 monitors every year after the first 12 months",
+   "annualUsd": 5400
+  },
+  {
+   "name": "Annual Conference",
+   "amount": "$600 per ticket; a minimum of two tickets must be purchased",
+   "annualUsd": 1200
+  },
+  {
+   "name": "Secret Shopper Fee (if implemented)",
+   "amount": "Currently $250 per Studio per year",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "25% of the then-current establishment fee, plus our reasonable costs and expenses associated with the transfer, including training costs and legal and accounting fees",
+  "usd": 15000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, franchised US Studios open at least 12 months",
+   "value": 480832,
+   "count": 676,
+   "period": "12 months March 1, 2025 to February 28, 2026",
+   "median": 429222
+  },
+  "other": [
+   {
+    "label": "Average annual Gross Sales, top third (225 studios)",
+    "value": 724472
+   },
+   {
+    "label": "Average annual Gross Sales, middle third (225 studios)",
+    "value": 437219
+   },
+   {
+    "label": "Average annual Gross Sales, bottom third (226 studios)",
+    "value": 281691
+   },
+   {
+    "label": "Maximum annual Gross Sales",
+    "value": 1879753
+   },
+   {
+    "label": "Minimum annual Gross Sales",
+    "value": 114491
+   },
+   {
+    "label": "Average monthly Gross Sales, all 676 studios",
+    "value": 40069
+   }
+  ],
+  "profitPct": null,
+  "quote": "Total 676 $480,832 $429,222 $1,879,753 $114,491 279 41.3%",
+  "note": "Gross Sales only; does not reflect cost of sales, operating expenses, real estate, lease or occupancy cost. 279 (41.3%) above average. 22 of 698 US franchised studios excluded (not open the full period). Data from POS reports, not audited."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 707,
+  "company": 2,
+  "total": 708,
+  "franchisedNetChange": -44,
+  "quote": "Franchised ... 2025 751 707 -44 Company-Owned ... 2025 2 2 0 Total Outlets ... 2025 753 708 -45"
+ },
+ "special": "Royalty has a $2,500 monthly minimum and the Marketing Fee is a fixed $2,500 per month, so fixed fees to the franchisor are at least $5,000/month plus $500 technology fee and the Brand Fund minimum of $200. Most of the initial investment ($299,600 to $373,200) is paid to the franchisor or affiliates, including the $115,000 Equipment Pack. Mandatory merchandise purchases ($1,500 per quarter, 100 LionHeart monitors per year). If Gross Sales fall below 70% of the system average, franchisor may impose promotional programs costing up to the monthly royalty.",
+ "confidence": "high",
+ "issues": "Item 20 Table 1 as printed does not add up for 2025 (707 franchised + 2 company = 709, printed total 708). Transfer fee usd computed as 25% of the $60,000 establishment fee, before costs. Item 7 total also covers optional Recovery Amenities per note 21.",
+ "source": {
+  "doc": "35815-202604-09",
+  "received": "2026-04-02",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BB0BE2B9E-0000-C811-B98F-8034187E0F0F%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 298,
+  "registrant": "F45 Training Incorporated",
+  "filedName": "F45 Training",
+  "type": "Clean FDD"
+ }
+}

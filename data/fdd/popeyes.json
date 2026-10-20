@@ -1,0 +1,158 @@
+{
+ "slug": "popeyes",
+ "brand": "Popeyes",
+ "franchisor": "Popeyes Louisiana Kitchen, Inc.",
+ "issuanceDate": "2026-03-20",
+ "amendedDate": null,
+ "format": "new free-standing Popeyes Louisiana Kitchen restaurant (single unit, Franchise Agreement)",
+ "invest": {
+  "low": 1222045,
+  "high": 3923245,
+  "toFranchisorLow": 54755,
+  "toFranchisorHigh": 149545,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Popeyes Louisiana Kitchen franchised business, exclusive of real estate costs, is between $1,222,045 and $3,923,245 for a new free-standing facility, and between $504,545 and $1,968,245 for a new in-line facility. This includes $54,755 to $149,545 that must be paid to the franchisor or its affiliates."
+ },
+ "fee": {
+  "low": 50000,
+  "high": 50000,
+  "quote": "Under the Franchise Agreement you must pay us a $50,000 franchise fee for a Popeyes Restaurant (“Initial Franchise Fee”) before opening the Franchised Restaurant.",
+  "note": "Veterans Development Incentive Program: fee reduced from $50,000 to $27,500 and royalty 2% for 6 months (first new restaurant, new franchisee). College and Airport Incentive Programs: $12,500 fee and 0% Advertising Contribution. Fee may be reduced for Alternative Venues. Fees actually paid in fiscal 2025 ranged from $0 to $50,000. MTRA deposit of $25,000 per committed restaurant is credited against the fee. Background check generally $210 (U.S.)."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "gross sales (all revenue related to the Restaurant, less sales taxes)",
+  "flat": null,
+  "quote": "Royalty2 & 3 5% of Gross Sales (see Notes 2 and 3). Weekly on Gross Sales for the prior week. “Gross Sales” mean all revenue related to the Restaurant, less sales taxes."
+ },
+ "adFund": {
+  "pct": 4.6,
+  "pctHigh": 5,
+  "localPct": 1.75,
+  "quote": "Advertising Contribution2 - 4 4.6% to 5.0% of Gross Sales (see Notes 2 - 4). Weekly on Gross Sales for the prior week. Restaurants participating in the Ad Fund Test Program will pay an Advertising Contribution of 5% starting April 1, 2025 (including all new franchisees) (see Note 4).",
+  "note": "New franchisees must join the Ad Fund Test Program: 5.0% from April 1, 2025, may rise to 5.25% (as early as May 1, 2026) and 5.50% (as early as May 1, 2027) if 4-Wall EBITDA targets are met; reverts to 4.6% if the 5.0% test fails (unless a majority vote keeps 5%). Advertising Co-Op contributions currently 0.5% to 1.75% of Gross Sales on top, not exceeding 2% unless approved by unanimous member vote or bylaws (localPct = current high end)."
+ },
+ "otherRecurring": [
+  {
+   "name": "Consumer Ordering Technology Fee (Additional Ordering System / Additional Digital System)",
+   "amount": "$200 per Restaurant per month, plus 1% of Digital Sales, with an annual maximum per calendar year of $6,500 per Restaurant",
+   "annualUsd": null
+  },
+  {
+   "name": "POP I.T. Fee",
+   "amount": "Up to $1,980 per year, per Restaurant (for Restaurants with an Easy to Run Kitchen); billed monthly, in advance",
+   "annualUsd": 1980
+  },
+  {
+   "name": "Training Platform Maintenance Fee",
+   "amount": "$60 per month ($720 annual training fee)",
+   "annualUsd": 720
+  },
+  {
+   "name": "PLK Foundation",
+   "amount": "$1,000 per Restaurant per year",
+   "annualUsd": 1000
+  },
+  {
+   "name": "Sitewise",
+   "amount": "$4,545 annually (if you sign a Development Agreement, TRA or MTRA, or are a new franchisee in your first year)",
+   "annualUsd": 4545
+  },
+  {
+   "name": "Guest Recovery Fee",
+   "amount": "Not to exceed $150 monthly; estimated average of $1,200 per Restaurant per year",
+   "annualUsd": 1200
+  },
+  {
+   "name": "Food Safety Modernization Fee",
+   "amount": "Up to $100 per restaurant per year",
+   "annualUsd": 100
+  },
+  {
+   "name": "Static Menu Board Kit",
+   "amount": "$200 - $300 per month (if no outdoor digital menu board installed)",
+   "annualUsd": null
+  },
+  {
+   "name": "Gift Card Services Transaction Fee",
+   "amount": "Estimated 1.8% of any redeemed sales",
+   "annualUsd": null
+  }
+ ],
+ "rentToFranchisor": "Only where Popeyes leases the premises to the franchisee (PL/PGL): minimum annual rent typically 10% of capitalized site acquisition and construction costs (or 125% of Popeyes' rent plus 10% of costs if Popeyes leases the property; for sold company restaurants the higher of that or 8.5% of trailing 12 months' Gross Sales), increasing 12% every 5 years, plus percentage rent typically 8.5% of monthly Gross Sales up to $133,333.33 and 10% on monthly Gross Sales above $133,333.33, in excess of the monthly minimum rent installment.",
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Arithmetic average annual sales, franchised free-standing restaurants (U.S.) open the full year 2025",
+   "value": 1893675,
+   "count": 2248,
+   "period": "fiscal 2025 (year ended December 31, 2025)",
+   "median": 1785736
+  },
+  "other": [
+   {
+    "label": "Average annual sales, company-owned free-standing restaurants 2025 (90 restaurants)",
+    "value": 1898999
+   },
+   {
+    "label": "Average annual sales, franchised in-line restaurants 2025 (496 restaurants)",
+    "value": 1802688
+   },
+   {
+    "label": "Median annual sales, franchised in-line restaurants 2025",
+    "value": 1656017
+   },
+   {
+    "label": "Average annual sales, franchised food court restaurants 2025 (187 restaurants)",
+    "value": 1328516
+   },
+   {
+    "label": "Median annual sales, franchised food court restaurants 2025",
+    "value": 1177028
+   },
+   {
+    "label": "Free-standing franchised average EBITDA, sales < $1.5M (637 restaurants), $",
+    "value": 41234
+   },
+   {
+    "label": "Free-standing franchised average EBITDA, sales $1.5M - $2.0M (624 restaurants), $",
+    "value": 194886
+   },
+   {
+    "label": "Free-standing franchised average EBITDA, sales $2.0M - $2.5M (382 restaurants), $",
+    "value": 331499
+   },
+   {
+    "label": "Free-standing franchised average EBITDA, sales > $2.5M (364 restaurants), $",
+    "value": 547990
+   },
+   {
+    "label": "Free-standing franchised average EBITDA % of sales, $1.5M - $2.0M range",
+    "value": 11.2
+   }
+  ],
+  "quote": "Arithmetic Average Sales $1,898,999 $1,893,675 $1,893,880 ... Median $1,845,516 $1,785,736 $1,788,529 ... Number of Restaurants 90 2,248 2,338 (columns: Company Owned, Franchised, Consolidated; Table I: Free-Standing Restaurants)",
+  "note": "U.S. restaurants (excluding U.S. territories) open throughout fiscal 2025; 61 franchised free-standing restaurants not in continuous operation excluded. Sales exclude refunds and sales taxes. EBITDA tables (from 2,435 of 2,818 franchised free-standing and in-line restaurants submitting P&Ls) deduct food & paper, labor and other costs (royalties, ad fund, rent included); EBITDA excludes owner's draw, depreciation, franchise fees and loan fees. 43.6% (980) of franchised free-standing restaurants met or exceeded the average. Sales only in Table I; costs shown in Tables IV-V."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 3134,
+  "company": 95,
+  "total": 3229,
+  "franchisedNetChange": 55,
+  "quote": "Franchised ... 2025 3,079 3,134 +55 ... Company-Owned ... 2025 98 95 -3 ... Total Outlets ... 2025 3,177 3,229 +52"
+ },
+ "special": "If Popeyes or its affiliate leases the premises to you, rent is a minimum annual rent (typically 10% of capitalized site and construction costs, or 125% of Popeyes' rent plus 10% of costs) plus percentage rent typically 8.5% of monthly Gross Sales up to $133,333.33 and 10% above. Ad Fund Test Program can raise the Advertising Contribution from 5.0% to 5.25% and 5.50%, plus local Co-Op 0.5% to 1.75% (cap 2%). Royalties actually paid in 2025 ranged from 2% to 10%; non-traditional locations may be negotiated at 2% to 8%. If you use construction management vendors not on the Qualified Partners list, you must pay Popeyes $20,000 to $80,000 for review.",
+ "confidence": "high",
+ "issues": "toFranchisor range from cover covers both formats; localPct uses current Co-Op high end (range 0.5%-1.75%); real estate excluded (Variable).",
+ "source": {
+  "doc": "35549-202603-10",
+  "received": "2026-03-20",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BF001559D-0000-C91B-932F-5B01ABF6CB2E%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 630,
+  "registrant": "POPEYES LOUISIANA KITCHEN INC",
+  "filedName": "POPEYES LOUISIANA KITCHEN",
+  "type": "Clean FDD"
+ }
+}

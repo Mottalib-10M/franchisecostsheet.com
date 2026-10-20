@@ -1,0 +1,131 @@
+{
+ "slug": "jiffy-lube",
+ "brand": "Jiffy Lube",
+ "franchisor": "Jiffy Lube, LLC",
+ "issuanceDate": "2026-03-27",
+ "amendedDate": "2026-07-01",
+ "format": "new freestanding Jiffy Lube service center (Pacesetter Franchise Agreement, Build to Suit leased site), excluding real estate",
+ "invest": {
+  "low": 232000,
+  "high": 520000,
+  "toFranchisorLow": 35000,
+  "toFranchisorHigh": 85000,
+  "excludesRealEstate": true,
+  "quote": "The initial investment necessary to begin operation of a new freestanding Jiffy Lube service center ranges from $232,000 to $520,000 (excluding real estate costs) (and the net total investment with funding ranges from $236,000 to $452,650). See Item 7. This includes $35,000 to $85,000 that must be paid to the franchisor or its affiliate."
+ },
+ "fee": {
+  "low": 0,
+  "high": 35000,
+  "quote": "the initial franchise fee for a new service center ... is $35,000, of which $10,000 is paid when the Franchise Agreement is signed, and the balance of which is paid on the 15th day of the month after the month in which the service center opens for business.",
+  "note": "$17,500 for a Converted Center. Fee may be waived for honorably discharged U.S. military veterans (first Franchise Agreement only), for 2nd-5th centers under the Significant Growth Funding or BTS programs, and for a new agreement at the same location. During fiscal 2025 franchisees paid between $0 and $35,000. Area development agreements may set a different fee."
+ },
+ "royalty": {
+  "pct": 4,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty 4% of Gross Sales (or 3% of Gross Sales if you pay the Royalty on or before the due date). ... For new to system locations, whether conversion sites or new locations, your Royalty Fee is reduced to 0% of Gross Sales for the first 6-month period of operation."
+ },
+ "adFund": {
+  "pct": 1.5,
+  "pctHigh": null,
+  "localPct": 2.5,
+  "quote": "National Advertising Fund (\"Ad Fund\") Contributions 1.5% of Gross Sales. Monthly. ... Local/Cooperative Advertising 2.5% of Gross Sales. Monthly. ... Minimum Advertising Requirement 4% of Gross Sales.",
+  "note": "1.5% national Ad Fund plus 2.5% local/cooperative advertising; total minimum advertising requirement 4% of Gross Sales."
+ },
+ "otherRecurring": [
+  {
+   "name": "POS Support Charge",
+   "amount": "Our then-current fee, which will not exceed $192 per month per POS System installed",
+   "annualUsd": null
+  },
+  {
+   "name": "Hardware Support",
+   "amount": "Currently $73.00 per month",
+   "annualUsd": 876
+  },
+  {
+   "name": "Cisco Meraki Enterprise License Fee",
+   "amount": "$18.00 per store. Monthly.",
+   "annualUsd": 216
+  },
+  {
+   "name": "POS Related Equipment Lease",
+   "amount": "$312 - $800 per month, depending on store size, configuration and options selected (3-year term)",
+   "annualUsd": null
+  },
+  {
+   "name": "Fleet Processing Charge",
+   "amount": "Currently, $1.25 per national fleet invoice billed by JL",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$3,500 plus our actual expenses.",
+  "usd": 3500
+ },
+ "rentToFranchisor": "Under the BTS (Build to Suit) Program the franchisee subleases the service center under a Build to Suit Sublease Agreement and pays a security deposit equal to one month's rent; Jiffy Lube estimates monthly rent can range from $8,000 to $20,000 per month. Rent is a fixed monthly amount, not a % of sales.",
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Net Adjusted Sales, all franchised service centers open 12 full months in 2025 (company-owned excluded)",
+   "value": 1109718,
+   "count": 1732,
+   "period": "calendar year 2025",
+   "median": 1004273
+  },
+  "other": [
+   {
+    "label": "Average Net Adjusted Sales, top quartile (433 franchised centers), 2025 (dollars)",
+    "value": 1871163.73
+   },
+   {
+    "label": "Average Net Adjusted Sales, bottom quartile (433 franchised centers), 2025 (dollars)",
+    "value": 549346.49
+   },
+   {
+    "label": "Highest Net Adjusted Sales, franchised center, 2025 (dollars)",
+    "value": 5962732.95
+   },
+   {
+    "label": "Lowest Net Adjusted Sales, franchised center, 2025 (dollars)",
+    "value": 195660.88
+   },
+   {
+    "label": "Average annual vehicle count, all franchised centers, 2025",
+    "value": 8442
+   },
+   {
+    "label": "Average Net Adjusted Sales, 8 new franchise stores with first full year in 2025 (dollars)",
+    "value": 720478.75
+   },
+   {
+    "label": "Average Year 1 Net Adjusted Sales, 150 new franchise Jiffy Lube Multicare centers open 7+ months (dollars)",
+    "value": 695468
+   }
+  ],
+  "profitPct": null,
+  "quote": "System Low $139,217.68 $183,195.48 $195,660.88 Avg $1,075,058.06 1,661 $1,083,577.44 1,654 $1,109,718.70 1,732 High $4,723,993.96 $5,564,791.13 $5,962,732.95 Median $967,463.37 $972,574.07 $1,004,273.06",
+  "note": "Sales only, no costs or profit. Net Adjusted Sales = Gross Sales minus promotions, warranty, non-royalty income and national billed fleet discounts. Headline value is $1,109,718.70 (cents truncated); median $1,004,273.06. Unaudited POS data; 701 (40.5%) exceeded the average in 2025."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1765,
+  "company": 318,
+  "total": 2083,
+  "franchisedNetChange": 44,
+  "quote": "Franchised ... 2025 1721 1765 +44 Company-Owned ... 2025 354 318 -36 Total Outlets 2025 2075 2083 +8"
+ },
+ "special": "Under the Pacesetter Franchise Agreement Jiffy Lube supplies all petroleum products (motor oil, transmission fluids, greases, etc.) and in some instances oil and air filters; initial purchases from Jiffy Lube estimated at $20,000 to $30,000. Royalty is 0% for the first 6 months for new-to-system locations, 4% of Gross Sales (3% with prompt payment discount), rising to 5% (4% prompt) if the Pacesetter or Fast Lubes Supply Agreement is terminated. Growth Funding of $0 to $77,350 may offset the initial investment (tied to the Pacesetter Supply Agreement). Buying land and building instead of leasing: site $300,000 to over $800,000 and building $700,000 to $1,200,000, not included in the range.",
+ "confidence": "medium",
+ "issues": "Item 7 table prints TOTAL EXPENDITURES '$211,000 to $510,000' while the cover says $232,000 to $520,000; the sum of the Item 7 rows (excluding the separate $17,500 conversion fee row) is $232,000 to $520,000, so the cover figures were used. The 'net total with funding' $236,000 to $452,650 does not equal total minus Growth Funding ($0 to $77,350). Royalty recorded as the 4% list rate (3% if paid on time).",
+ "source": {
+  "doc": "36986-202607-02",
+  "received": "2026-07-06",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B8004619F-0000-CF1D-83D0-4F40E3C56B5E%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 597,
+  "registrant": "JIFFY LUBE INTERNATIONAL, LLC",
+  "filedName": "JIFFY LUBE",
+  "type": "Clean FDD"
+ }
+}

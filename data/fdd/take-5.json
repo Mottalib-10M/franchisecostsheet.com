@@ -1,0 +1,137 @@
+{
+ "slug": "take-5",
+ "brand": "Take 5 Oil Change",
+ "franchisor": "Take 5 Franchisor SPV LLC",
+ "issuanceDate": "2025-06-13",
+ "amendedDate": "2025-12-29",
+ "format": "new (ground-up) Take 5 Oil Change Center on a ground lease, excluding real estate costs",
+ "invest": {
+  "low": 912248,
+  "high": 2053642,
+  "toFranchisorLow": 120497,
+  "toFranchisorHigh": 152388,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a new (ground-up) Take 5 Oil Change Center franchise is $912,248 to $2,053,642. This includes $120,497 to $152,388 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 45000,
+  "high": 45000,
+  "quote": "The initial franchise fee is $45,000 and is payable at the time that you sign the Franchise Agreement. The initial franchise fee is non-refundable. During fiscal year 2024, franchisees paid an initial franchise fee ranging from $0 to $35,000.",
+  "note": "Same $45,000 fee for conversion Centers (conversion investment $287,145 to $1,013,587). Also payable to Take 5 at signing: $3,000 Software Installation Fee and $20,000 Grand Opening Contribution. Area Development: development fee of 50% of the aggregate initial franchise fees, credited against each fee. Incentive programs may waive or reduce the fee."
+ },
+ "royalty": {
+  "pct": 7,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Fee 7% of Gross Sales(2) (3) On the day of each week we periodically specify (the \"Payment Day\"), currently each Friday, on Gross Sales of the Center for the preceding week ending on Saturday"
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Marketing Funds contributions 5% of Gross Sales On the Payment Day, currently each Friday, on Gross Sales of the Center for the preceding week ending on Saturday",
+  "note": "Plus a one-time $20,000 Grand Opening Contribution paid to Take 5 at signing."
+ },
+ "otherRecurring": [
+  {
+   "name": "Software License Fee",
+   "amount": "Currently, $249 per month; $416 per month with the optional POS System Surveillance Software (may increase annually by CPI + 2%, max 5%)",
+   "annualUsd": 2988
+  },
+  {
+   "name": "Credit card fees",
+   "amount": "Approximately 1% to 3% of Gross Sales",
+   "annualUsd": null
+  },
+  {
+   "name": "Annual/regional conference fees",
+   "amount": "Currently, $249 per attendee (up to $500)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Training and transfer fee: 50% of then current initial franchise fee (Currently, $17,500); plus a resale assistance fee of 10% of the purchase price if Take 5 finds the purchaser",
+  "usd": 17500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, 323 franchised Take 5 Oil Change Centers open at least one full year as of December 28, 2024",
+   "value": 1235518,
+   "count": 323,
+   "period": "2024 Fiscal Year (December 31, 2023 - December 28, 2024)",
+   "median": 1137962
+  },
+  "other": [
+   {
+    "label": "Average Gross Sales, 223 franchised Centers open more than 2 years, fiscal 2024 (dollars)",
+    "value": 1337871
+   },
+   {
+    "label": "Average Year 1 Gross Sales, 293 franchised Centers opened fiscal 2020-2023 (dollars)",
+    "value": 901665
+   },
+   {
+    "label": "Average Year 3 Gross Sales, 102 franchised Centers (dollars)",
+    "value": 1333101
+   },
+   {
+    "label": "Average cars per day, 323 franchised Centers open more than 1 year, fiscal 2024",
+    "value": 32
+   },
+   {
+    "label": "Average Gross Sales, 298 affiliate-owned Centers open a full year, fiscal 2024 (dollars)",
+    "value": 1384790
+   },
+   {
+    "label": "Average 4-Wall EBITDA in dollars, 298 affiliate-owned Centers, franchisee-adjusted (after 7% royalty, 5% marketing fund, occupancy, insurance), fiscal 2024",
+    "value": 362201
+   },
+   {
+    "label": "Average 4-Wall EBITDA, % of Gross Sales, 298 affiliate-owned Centers, franchisee-adjusted, fiscal 2024",
+    "value": 26.2
+   },
+   {
+    "label": "Median 4-Wall EBITDA, % of Gross Sales, affiliate-owned Centers, fiscal 2024",
+    "value": 25.6
+   },
+   {
+    "label": "4-Wall EBITDA, % of Gross Sales, bottom 50% (149) affiliate-owned Centers, fiscal 2024",
+    "value": 17.5
+   },
+   {
+    "label": "4-Wall EBITDA, % of Gross Sales, top 50% (149) affiliate-owned Centers, fiscal 2024",
+    "value": 30.5
+   },
+   {
+    "label": "Average Occupancy cost in dollars, affiliate-owned Centers, fiscal 2024",
+    "value": 95193
+   }
+  ],
+  "profitPct": 26.2,
+  "quote": "Gross Sales Open More Than 1 Year Open More Than 2 Years Center Count 323 223 Average $1,235,518 $1,337,871 Lowest $409,268 $409,268 Highest $3,637,350 $3,637,350 Median $1,137,962 $1,271,529",
+  "note": "Franchised figures are Gross Sales only. 4-Wall EBITDA comes from 298 affiliate-owned Ground-Up Centers (excludes 341 Acquired Centers), adjusted to add franchisee costs (7% royalty, 5% marketing fund, POS fees, COGS markup, insurance); it excludes depreciation, amortization, debt service, general administrative costs, owner draw and above-shop managers. Occupancy may not reflect current market rents."
+ },
+ "units": {
+  "year": 2024,
+  "franchised": 432,
+  "company": 710,
+  "total": 1142,
+  "franchisedNetChange": 107,
+  "quote": "Franchised 2024 325 432 +107 ... Company-Owned 2024 643 710 +67 Total Outlets 2024 968 1,142 +174"
+ },
+ "special": "You must buy the FF&E Package ($29,497 to $39,388) and Opening Inventory ($23,000 to $35,000) from Take 5, Spire Supply and/or another affiliate; Item 19 notes a franchisor markup on products sold to franchised Centers. The Premises may be leased or subleased from Take 5 or an affiliate (rent 'Varies based on the Center's market area', monthly). Company-owned Centers are operated by affiliate Take 5 Properties.",
+ "confidence": "medium",
+ "issues": "FDD issued June 13, 2025 (amended December 29, 2025): Item 19 and Item 20 data are for fiscal 2024, not 2025. Transfer fee and successor fee are stated as '50% of then current initial franchise fee (Currently, $17,500)' although the initial franchise fee is $45,000 (50% would be $22,500); the printed $17,500 was used. Item 20 company-owned 2023 line prints +64 for 580 to 643 (difference is 63).",
+ "source": {
+  "doc": "35177-202512-02",
+  "received": "2025-12-31",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BA015959B-0000-C417-B548-B21447247EA9%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 400,
+  "registrant": "Take 5 Franchisor SPV LLC",
+  "filedName": "Take 5",
+  "type": "Clean FDD"
+ }
+}

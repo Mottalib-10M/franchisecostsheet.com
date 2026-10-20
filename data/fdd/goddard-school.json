@@ -1,0 +1,137 @@
+{
+ "slug": "goddard-school",
+ "brand": "The Goddard School",
+ "franchisor": "Goddard Franchisor LLC",
+ "issuanceDate": "2026-04-30",
+ "amendedDate": null,
+ "format": "single Goddard School (10,000-12,500 sq ft), leased with landlord constructing the improvements",
+ "invest": {
+  "low": 1003500,
+  "high": 1503000,
+  "toFranchisorLow": 261500,
+  "toFranchisorHigh": 368000,
+  "excludesRealEstate": true,
+  "quote": "If you lease the school facility and the landlord constructs the improvements, the total investment necessary to begin operation of The Goddard School® franchise is from $1,003,500 to $1,503,000. This includes $261,500 to $368,000 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 135000,
+  "high": 135000,
+  "quote": "You must pay an initial license fee of $135,000 for the School you will develop under the Franchise Agreement, except as described below. The initial license fee consists of an initial deposit of $30,000 which you must pay when you sign the Preliminary Agreement.",
+  "note": "Existing franchisees developing an additional new School: $60,000 (plus reduced first-year royalty 2%/4%/6%). Veterans (Vet*Fran): $115,000 ($20,000 discount). Buying an existing School: $40,000. Also paid to franchisor before opening: Initial Training and Opening Support Fee $35,000-$42,000, Initial Marketing Fee $55,000-$75,000, Site Development Fee $35,000, background checks $1,500 per person."
+ },
+ "royalty": {
+  "pct": 7,
+  "pctHigh": null,
+  "basis": "gross receipts",
+  "flat": null,
+  "quote": "Royalty Fee 7% of Gross Receipts of the School ... Payable monthly on 3rd business day of each month on Gross Receipts for the preceding month."
+ },
+ "adFund": {
+  "pct": 4,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "TGS Marketing Fund Marketing Fee 4% of Gross Receipts, including the Gross Receipts derived from any Annex, per month; or lesser rates we may assess for certain time periods",
+  "note": "Local advertising, marketing and promotion additionally at franchisee's own cost per Operating Manual guidelines (no fixed amount). Initial Marketing Fee $55,000 to $75,000 before opening."
+ },
+ "otherRecurring": [
+  {
+   "name": "Proprietary Curriculum Fee (Wonder of Learning)",
+   "amount": "Then-current fee – currently $700 per month, plus taxes",
+   "annualUsd": 8400
+  },
+  {
+   "name": "Conventions",
+   "amount": "Reasonable registration fee, currently $2,000 per person (attendance required per policy)",
+   "annualUsd": null
+  },
+  {
+   "name": "Insurance (franchisor estimate)",
+   "amount": "approximately $13,300 to $65,800 per year (not including workers' compensation)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Transfer Fee $5,000 transfer assignment fee (payable by seller); buyer pays Transfer Initial License Fee $40,000, Initial Training and Transfer Support Fee currently $25,000 and Transfer Marketing Fee currently $15,000",
+  "usd": 5000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Revenue, Mature Schools (open over 18 months, all franchised) for 2025",
+   "value": 2507631,
+   "count": 620,
+   "period": "calendar 2025",
+   "median": 2329913
+  },
+  "other": [
+   {
+    "label": "Average EBITDA (dollar amount), 620 Mature Schools, 2025",
+    "value": 546554
+   },
+   {
+    "label": "Average EBITDA as % of Gross Revenue, 620 Mature Schools, 2025",
+    "value": 21.8
+   },
+   {
+    "label": "Median EBITDA (dollar amount), 620 Mature Schools, 2025",
+    "value": 474693
+   },
+   {
+    "label": "Median EBITDA as % of Gross Revenue, 2025",
+    "value": 20.9
+   },
+   {
+    "label": "Average EBITDAR (dollar amount, before occupancy), 620 Mature Schools, 2025",
+    "value": 876198
+   },
+   {
+    "label": "Average EBITDAR as % of Gross Revenue, 2025",
+    "value": 34.9
+   },
+   {
+    "label": "Average Payroll as % of Gross Revenue, 2025",
+    "value": 40.1
+   },
+   {
+    "label": "Average Occupancy (rent plus property tax) as % of Gross Revenue, 2025",
+    "value": 13.6
+   },
+   {
+    "label": "Highest Gross Revenue, Mature Schools, 2025",
+    "value": 6594330
+   },
+   {
+    "label": "Lowest Gross Revenue, Mature Schools, 2025",
+    "value": 716896
+   },
+   {
+    "label": "Average Gross Revenue, 596 Mature Schools, 2024",
+    "value": 2417129
+   }
+  ],
+  "quote": "2025 AVERAGE/MEDIAN - 620 Schools Open Over 18 Months* ... Gross Revenue 2,507,631 2,329,913 270 of 620/ 43.5% ... EBITDA 546,554 21.8% 474,693 20.9% 259 of 620/ 41.8%",
+  "note": "Unaudited, cash-basis expenses (Gross Revenue on accrual basis). Misc Items include royalties, marketing fees, payroll taxes and other costs; EBITDA excludes interest, taxes, depreciation and amortization (so no debt service on the large build-out). 8 of 628 Mature Schools excluded for insufficient data; 37 New Schools shown separately, many with negative EBITDA. All 665 Schools franchised.",
+  "profitPct": 21.8
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 665,
+  "company": 0,
+  "total": 665,
+  "franchisedNetChange": 23,
+  "quote": "Franchised 2023 598 627 +29 2024 627 642 +15 2025 642 665 +23 Company-Owned ... 2025 0 0 0 Total Outlets ... 2025 642 665 +23"
+ },
+ "special": "Large fees to franchisor before opening beyond the $135,000 license fee (training/opening support, initial marketing, site development; $261,500 to $368,000 total to franchisor or affiliate). Franchisor or affiliate may lease or sublease the School premises to the franchisee and the rent may exceed what it pays the prime landlord (optional). Alternative formats cost far more: $1,736,500 to $5,032,000 if the leased building needs improvements, $5,493,500 to $8,908,000 if buying land and building.",
+ "confidence": "high",
+ "issues": "Royalty and 4% marketing are on Gross Receipts; Item 19 shows them only inside 'Misc Items'. Fee note on Development Agreement ($120,000 to $450,000) not detailed.",
+ "source": {
+  "doc": "36432-202604-09",
+  "received": "2026-04-30",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B3029839E-0000-CF15-9DF0-8EEBFF5D261F%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 582,
+  "registrant": "GODDARD FRANCHISOR LLC",
+  "filedName": "THE GODDARD SCHOOL",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "slug": "anytime-fitness",
+ "brand": "Anytime Fitness",
+ "franchisor": "Anytime Fitness Franchisor LLC",
+ "issuanceDate": "2026-03-31",
+ "amendedDate": "2026-09-14",
+ "format": "start-up Anytime Fitness center (4,000 to 7,000 sq ft leased vanilla shell)",
+ "invest": {
+  "low": 539329,
+  "high": 905482,
+  "toFranchisorLow": 91357,
+  "toFranchisorHigh": 111462,
+  "excludesRealEstate": null,
+  "quote": "The total investment necessary to begin operation of an Anytime Fitness center is between $539,329 to $905,482. This includes $91,357 to $111,462 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 42500,
+  "high": 42500,
+  "quote": "Our standard initial franchise fee for an Anytime Fitness center is $42,500.",
+  "note": "1 location: existing franchisee $37,500, veteran $38,250, veteran existing $33,750, Club Purple $27,500, Club Platinum $22,500. Development Fee for 2 locations $75,000 (new franchisee). In 2025 fees ranged from $22,500 to $42,500."
+ },
+ "royalty": {
+  "pct": null,
+  "pctHigh": 8,
+  "basis": "fixed monthly fee (franchisor may switch to up to 8% of Gross Revenue)",
+  "flat": "Currently $842 per month per center. Monthly Fees are subject to an annual CPI increase in January each year.",
+  "quote": "Monthly Fee Currently $842 per month per center. Monthly Fees are subject to an annual CPI increase in January each year. We reserve the right to replace this fixed fee with a percentage-based monthly royalty of up to 8% of Gross Revenue."
+ },
+ "adFund": {
+  "pct": null,
+  "pctHigh": 3,
+  "localPct": null,
+  "quote": "General Advertising and Marketing Fee Currently, $900 per month per center, beginning when you open your center. ... it will not exceed the greater of $900 per month or 3% of Gross Revenue",
+  "note": "Flat $900 per month (may rise to the greater of $900/month or 3% of Gross Revenue). Local Marketing Spend $600, $800 or $1,000 per month depending on market tier; Grand Opening and Ramp Up Program $11,000 to $23,000."
+ },
+ "otherRecurring": [
+  {
+   "name": "Monthly Fee (royalty)",
+   "amount": "Currently $842 per month per center, subject to annual CPI increase",
+   "annualUsd": 10104
+  },
+  {
+   "name": "General Advertising and Marketing Fee",
+   "amount": "Currently, $900 per month per center",
+   "annualUsd": 10800
+  },
+  {
+   "name": "Base Technology Fee",
+   "amount": "Currently, $799 per month per center; subject to an annual increase of 10%, compounded annually",
+   "annualUsd": 9588
+  },
+  {
+   "name": "Local Marketing Spend",
+   "amount": "$600, $800 or $1,000 per month, depending on your market tier",
+   "annualUsd": null
+  },
+  {
+   "name": "Club Enhancement Program (reserve)",
+   "amount": "$1,000 per month (recommended set-aside; franchisor may require payment to it)",
+   "annualUsd": 12000
+  },
+  {
+   "name": "Conference Fee",
+   "amount": "Currently, $499 for early registration, increasing to $749 at the Conference, in years a Conference is scheduled",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$9,999 or $25,000 (Note 13): $25,000 if you transfer before you open the center; $9,999 after you open.",
+  "usd": 9999
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average Total Revenue (membership + coaching + pay-per-visit), franchised centers using AF Coaching open the full 12 months",
+   "value": 446814,
+   "count": 1683,
+   "period": "12 months ended February 28, 2026",
+   "median": 398982
+  },
+  "other": [
+   {
+    "label": "Average Membership Revenue, 1,683 franchised centers",
+    "value": 341503
+   },
+   {
+    "label": "Average Total Revenue, fourth (top) quartile, 420 centers",
+    "value": 746996
+   },
+   {
+    "label": "Average Total Revenue, first (bottom) quartile, 421 centers",
+    "value": 233169
+   },
+   {
+    "label": "Average Total Revenue, 215 franchised centers using the Coaching Dashboard",
+    "value": 561291
+   },
+   {
+    "label": "Average Total Revenue, 11 company-owned centers (12 months ended Feb 28, 2026)",
+    "value": 521854
+   },
+   {
+    "label": "Net Operating Income before manager salary, interest, taxes, D&A, 11 company-owned centers, average ($, franchisee-adjusted expenses)",
+    "value": 196183
+   },
+   {
+    "label": "Net Operating Income margin before manager salary, 11 company-owned centers (% of revenue)",
+    "value": 37.59
+   },
+   {
+    "label": "EBITDA, 11 company-owned centers, average ($, franchisee-adjusted expenses)",
+    "value": 149620
+   },
+   {
+    "label": "EBITDA margin, 11 company-owned centers (% of revenue)",
+    "value": 28.67
+   },
+   {
+    "label": "EBITDA margin, company-owned top third (4 centers) (% of revenue)",
+    "value": 36.51
+   },
+   {
+    "label": "EBITDA margin, company-owned bottom third (4 centers) (% of revenue)",
+    "value": 21.58
+   }
+  ],
+  "profitPct": 28.67,
+  "quote": "Total Revenue $446,814 $398,982 $746,996 $674,846 $461,057 $456,382 $346,746 $346,167 $233,169 $241,939",
+  "note": "Revenue excludes one-time enrollment fees and vending income. 663 (39%) of the 1,683 centers at or above average. EBITDA is from 11 company-owned centers (9 in Illinois, 2 in Minnesota) with expenses adjusted to franchisee costs (royalty $10,104, ad fund $10,800, technology $9,588); excludes owner salary beyond a manager base salary, 401K, interest, taxes, D&A."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 2271,
+  "company": 11,
+  "total": 2282,
+  "franchisedNetChange": -19,
+  "quote": "Franchised ... 2025 2290 2271 -19 Company-Owned ... 2025 11 11 0 Total Outlets ... 2025 2301 2282 -19"
+ },
+ "special": "Royalty is a flat Monthly Fee ($842/month, CPI-indexed), not a percentage; franchisor may switch to up to 8% of Gross Revenue on 30 days' notice. Technology System package ($37,857 to $45,462) must be bought from affiliate ProVision, plus a $799/month Base Technology Fee rising 10% per year compounded. Club Enhancement Program of $1,000/month recommended for remodel at renewal.",
+ "confidence": "high",
+ "issues": "Item 7 does not state whether real estate is excluded (it includes 3 months' rent and security deposit for a leased space); excludesRealEstate left null. Fixed annual amounts computed as monthly x 12.",
+ "source": {
+  "doc": "37264-202609-04",
+  "received": "2026-09-14",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BA0E8CEA0-0000-CC14-837A-7F979F2858D4%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 491,
+  "registrant": "ANYTIME FITNESS FRANCHISOR LLC",
+  "filedName": "ANYTIME FITNESS",
+  "type": "Clean FDD"
+ }
+}

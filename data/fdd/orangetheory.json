@@ -1,0 +1,126 @@
+{
+ "slug": "orangetheory",
+ "brand": "Orangetheory Fitness",
+ "franchisor": "OTF Franchisor, LLC",
+ "issuanceDate": "2026-03-31",
+ "amendedDate": "2026-09-14",
+ "format": "single Studio franchise (approx. 1,750 to 4,800 sq ft leased; typical 3,100 sq ft)",
+ "invest": {
+  "low": 764577,
+  "high": 1104920,
+  "toFranchisorLow": 182658,
+  "toFranchisorHigh": 237994,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of an ORANGETHEORY ® franchised business is $764,577 to $1,104,920. This includes $182,658 to $237,994 that must be paid to the franchisor or an affiliate."
+ },
+ "fee": {
+  "low": 59950,
+  "high": 59950,
+  "quote": "You must pay us an initial franchise fee equal to $59,950 for a single Studio franchise (the \"Initial Franchise Fee\"), paid in full when you sign the Franchise Agreement.",
+  "note": "Fees paid in 2025 ranged from $0 to $59,950. Area Development: 3 locations $150,000 ($135,000 veteran or existing franchisee, $121,500 existing veteran), 5 locations $237,500, additional +$47,500 each."
+ },
+ "royalty": {
+  "pct": 8,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Fee (2) 8% of Gross Sales Weekly See Note 3 for the definition of Gross Sales. We will debit your bank account for the Royalty due."
+ },
+ "adFund": {
+  "pct": 3,
+  "pctHigh": 5,
+  "localPct": 2,
+  "quote": "Brand Fund Contributions Currently, 3% of Gross Sales. May be increased up to 5% of Gross Sales. Monthly",
+  "note": "Currently 3%, up to 5%. Minimum Monthly Local Advertising Spend: greater of 2% of the prior month's Gross Sales or $2,500. Pre-sale and grand opening advertising $36,000 to $45,000."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Fee",
+   "amount": "Currently, $899 per month, plus a $575 Management Software setup fee. The monthly fee is subject to an annual increase of 10%, compounded",
+   "annualUsd": 10788
+  },
+  {
+   "name": "OTbeat Fees",
+   "amount": "$149 per month and a one-time setup fee of $250 (may increase up to $500 per month)",
+   "annualUsd": 1788
+  },
+  {
+   "name": "Minimum Monthly Local Advertising Spend",
+   "amount": "Greater of 2% of the Studio's Gross Sales from the prior month or $2,500",
+   "annualUsd": null
+  },
+  {
+   "name": "Product and Other Promotional Item Purchases",
+   "amount": "Typically $5,000 to $11,000 per year",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "50% of then-current Initial Franchise Fee for new franchisees for a Control Transfer. 25% of the then-current Initial Franchise Fee for all other transfers (other than transfers to an Entity formed to operate the Studio).",
+  "usd": 29975
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average Total Gross Sales, franchised Studios open the full 12-month period",
+   "value": 802145,
+   "count": 1189,
+   "period": "12 months ended February 28, 2026",
+   "median": 750643
+  },
+  "other": [
+   {
+    "label": "Average Gross Sales, top quartile",
+    "value": 1205826
+   },
+   {
+    "label": "Average Gross Sales, second quartile",
+    "value": 857849
+   },
+   {
+    "label": "Average Gross Sales, third quartile",
+    "value": 670024
+   },
+   {
+    "label": "Average Gross Sales, fourth (bottom) quartile",
+    "value": 475979
+   },
+   {
+    "label": "Highest Total Gross Sales",
+    "value": 2870191
+   },
+   {
+    "label": "Lowest Total Gross Sales",
+    "value": 156118
+   },
+   {
+    "label": "Average Monthly Member Count, all franchised Studios",
+    "value": 444
+   }
+  ],
+  "profitPct": null,
+  "quote": "Total Gross Sales $ 802,145 $1,205,826 $ 857,849 $670,024 $475,979 ... Median Total Gross Sales $750,643",
+  "note": "Gross Sales only; does not reflect cost of sales, operating expenses or other costs. 518 (44%) met or exceeded the average. 95 franchised Studios permanently closed during the period are excluded."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1209,
+  "company": 15,
+  "total": 1224,
+  "franchisedNetChange": -74,
+  "quote": "Franchised ... 2025 1283 1209 -74 Affiliate-Owned ... 2025 15 15 0 Total Studios ... 2025 1298 1224 -74"
+ },
+ "special": "Minimum performance standards: Gross Sales of $300,000 (year 1), $350,000 (year 2), $400,000 (year 3 and after); if not met you must pay the royalty shortfall as if the standard had been met. Fitness equipment, OTbeat system and retail merchandise must be bought from affiliate OTF Sourcing ($114,323 to $158,624 for equipment).",
+ "confidence": "high",
+ "issues": "Transfer fee usd computed as 50% of the $59,950 Initial Franchise Fee (Control Transfer); not printed as a dollar amount. Company count is affiliate-owned Studios (franchisor operates none). Technology/OTbeat annualUsd computed as monthly x 12 before the 10% annual increases.",
+ "source": {
+  "doc": "37265-202609-04",
+  "received": "2026-09-14",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B90ECCEA0-0000-C41B-B8F7-70085610F606%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 384,
+  "registrant": "OTF Franchisor, LLC",
+  "filedName": "Orangetheory",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "slug": "sonic",
+ "brand": "Sonic",
+ "franchisor": "Sonic Franchising LLC",
+ "issuanceDate": "2026-03-26",
+ "amendedDate": null,
+ "format": "Traditional free-standing Sonic Drive-In, leased scenario (excluding free-standing real estate costs)",
+ "invest": {
+  "low": 1485200,
+  "high": 2522900,
+  "toFranchisorLow": 15250,
+  "toFranchisorHigh": 17650,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Traditional Sonic Drive-In franchise ranges from $1,485,200 to 2,522,900. This includes $15,250 to $17,650 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 15000,
+  "high": 15000,
+  "quote": "Traditional Drive-In location or Non-Drive-In Location $15,000",
+  "note": "$12,500 (or $5,000 for an existing franchisee in good standing) at the location of a SONIC Restaurant another franchisee closed within the last year; $11,250 for Non-Traditional Locations and C-Stores; $0 for relocation. Training for first 3 people included; $5,000 per person for the 4th or subsequent trainee; $250 per General Manager Leadership Class attendee. Development fee $10,000 per Restaurant, credited against the franchise fee. In fiscal 2025 initial franchise fees paid ranged from $1,250 to $45,000."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty fee(2) 5% of Gross Sales(2) Payable monthly on the 10th day of the next month"
+ },
+ "adFund": {
+  "pct": 3.25,
+  "pctHigh": 5,
+  "localPct": 0.5,
+  "quote": "Advertising cooperative fee/SMF contribution(4) 1.625% (Minimum) of Gross Sales for Non-Traditional Locations and Non-Drive-In Locations that are C-Stores Otherwise, 3.25% (Minimum) of Gross Sales",
+  "note": "Traditional Drive-Ins: 3.25% minimum, up to 5% of Gross Sales (cooperative may vote more). Allocation by market: Core 0.5% cooperative + 2.75% to 4.5% SMF; Developing 0.5% + 4.5%; New none + 5%. Separate Brand fee/SBF contribution of 0.90% of Gross Sales. Standard incentive: royalty 1% year 1, 1.5% year 2, 2% year 3, 2.5% year 4, 5% from year 5 for new Traditional Restaurants signed by March 31, 2027."
+ },
+ "otherRecurring": [
+  {
+   "name": "Brand fee/SBF contribution",
+   "amount": "0.90% of Gross Sales, payable monthly to the Sonic Brand Fund",
+   "annualUsd": null
+  },
+  {
+   "name": "Inspire Payment Services",
+   "amount": "Currently about $365 to $565 per month, depending on the products and services covered",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$1,000 for each non-control transfer, immediate family transfer, or transfer to a wholly-owned entity, and $3,000 for other transfers",
+  "usd": 3000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average AUV (annual Gross Sales), franchised Traditional Restaurants open all of 2025",
+   "value": 1552145,
+   "count": 3057,
+   "period": "fiscal 2025 (December 30, 2024 to December 28, 2025)",
+   "median": 1465090
+  },
+  "other": [
+   {
+    "label": "Average AUV, Free-Standing and Urban Storefront franchised restaurants (2,988), 2025",
+    "value": 1562839
+   },
+   {
+    "label": "Median AUV, Free-Standing and Urban Storefront franchised restaurants, 2025",
+    "value": 1472566
+   },
+   {
+    "label": "Average AUV, Gas/C-Store franchised restaurants (69), 2025",
+    "value": 1089017
+   },
+   {
+    "label": "Average AUV, 1st (top) quartile (764), 2025",
+    "value": 2332093
+   },
+   {
+    "label": "Average AUV, 4th (bottom) quartile (765), 2025",
+    "value": 919629
+   },
+   {
+    "label": "Highest AUV, 2025",
+    "value": 4800647
+   }
+  ],
+  "quote": "All Restaurants 3,057 $4,800,647 $1,465,090 $255,308 $1,552,145 1,338 / 44%",
+  "note": "Gross Sales only; does not reflect costs of sales or operating expenses. Excludes 29 franchised restaurants opened in 2025, 23 closed for extended periods, 1 Multi-Brand, 10 Non-Traditional, 3 transferred from company in December 2025, 56 that closed in 2025, and all company-owned restaurants. 1,338 / 44% above average."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 3120,
+  "company": 292,
+  "total": 3412,
+  "franchisedNetChange": -24,
+  "quote": "Franchise ... 2025 3,144 3,120 (24) Company ... 2025 317 292 (25) Total Drive-Ins ... 2025 3,461 3,412 (49)"
+ },
+ "special": "Total of royalty 5% + SMF/cooperative 3.25% minimum + Brand fee 0.90% of Gross Sales for a Traditional Drive-In. Investment excludes land/building acquisition for free-standing sites (leased scenario; real property 'Variable'). New-unit incentive royalty ramps from 1% to 5% over 5 years, with an additional 0.5% of Gross Sales collected for the cooperative during those years.",
+ "confidence": "high",
+ "issues": "Cover prints the high figure without a dollar sign ('$1,485,200 to 2,522,900'). Item 19 lowest AUV inconsistent: 4th quartile lowest $225,308 vs All Restaurants lowest $255,308 (Gas/C-Store lowest also $255,308). Item 19 says 2,093 with drive-thru and 1,027 without (sums to 3,120, not 3,057).",
+ "source": {
+  "doc": "35683-202603-13",
+  "received": "2026-03-29",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B40B6789D-0000-C879-8358-3B55D64CB469%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 366,
+  "registrant": "SONIC FRANCHISING LLC",
+  "filedName": "SONIC DRIVE-IN",
+  "type": "Clean FDD"
+ }
+}

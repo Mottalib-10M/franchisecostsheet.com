@@ -1,0 +1,62 @@
+---
+/**
+ * Home (the pillar): the payback calculator first, the folded answer, then the asset itself: every brand's
+ * disclosure figures, one ledger per category, then the explanation in prose, the brands that sell no
+ * franchise, and the guides. Text: src/content/home.ts. Generated tables carry data-chrome.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import Clamp from './Clamp.astro';
+import Tool from './Tool.astro';
+import Body from './Body.astro';
+import { HOME, VALUE } from '../content/home';
+import { route, ROUTES } from '../i18n/routes';
+import { GROUPS } from '../i18n/nav';
+import { helpers, SOURCES, table, ext } from '../lib/helpers';
+import { GUIDES, BRAND_PAGES, brandId } from '../lib/pages';
+import { KIT as K } from '../lib/kit';
+import { faqSchema, organizationSchema, websiteSchema, webPageSchema, webApplicationSchema } from '../lib/seo';
+import { LAST_UPDATED } from '../data/site-config';
+import type { Category } from '../lib/brand-types';
+const lang = 'en';
+const x = HOME;
+const path = route('home', lang);
+const h = helpers();
+const sources = x.sources.map((k) => ({ name: SOURCES[k].label, url: SOURCES[k].url }));
+const jsonLd = [websiteSchema(lang), organizationSchema(lang), webPageSchema({ name: x.h1, description: x.description, path, lang }), webApplicationSchema({ name: x.h1, description: x.description, path, lang }), faqSchema(x.faqs, lang)];
+const hasPage = (slug: string) => BRAND_PAGES.some((p) => p.slug === slug);
+const nameCell = (slug: string, name: string) => (hasPage(slug) ? `<a href="${route(brandId(slug), lang)}">${name}</a>` : name);
+const cats = (Object.keys(K.CATS) as Category[]).map((c) => ({ c, list: K.inCat(c).sort((a, b) => a.invLow - b.invLow) })).filter((g) => g.list.length);
+const ledger = (list: typeof K.BRANDS) => table(['Brand', 'Investment (Item 7)', 'Fee (Item 5)', 'Royalty + ad fund', 'Sales (Item 19)', 'FDD'], list.map((b) => [nameCell(b.slug, b.brand), K.range(b), K.fee(b), b.royPct === null ? `flat + ${K.rate(b.adPct ?? 0)}` : K.rate(K.pctFees(b)), K.i19(b) === null ? 'none' : K.usd(K.i19(b)!), ext(b.url, b.issued.slice(0, 7))]), undefined, ['l', 'r', 'r', 'r', 'r', 'r']);
+const withSales = K.BRANDS.filter((b) => K.i19(b) !== null).length;
+---
+<PageLayout title={x.title} description={x.description} lang={lang} jsonLd={jsonLd} faqs={x.faqs} sources={sources}>
+  <header class="mb-4">
+    <h1 class="font-serif text-[1.75rem] font-bold text-navy-900 max-sm:leading-tight sm:text-3xl md:text-4xl">{x.h1}</h1>
+    <p class="mt-2 text-base text-navy-700 sm:text-lg">{x.intro}</p>
+  </header>
+  <div data-outil data-chrome><Tool kind="roi" idPrefix="home" /></div>
+  <p class="mt-3 text-sm text-navy-600">{K.BRANDS.length} disclosure documents read on the <Fragment set:html={ext(SOURCES.mn_cards.url, 'Minnesota CARDS portal')} /> · {withSales} publish a sales figure · <a href={route('method', lang)} class="underline">Where the figures come from</a> · <a href={route('about', lang)} class="underline">Who publishes this</a> · updated <time datetime={LAST_UPDATED}>{K.day(LAST_UPDATED)}</time></p>
+  <Clamp text={x.resume} lang={lang} id="clamp-home" class="my-8" />
+  <p class="mb-8 border-l-4 border-accent-500 pl-4 text-navy-800">{VALUE}</p>
+  <section data-chrome class="mt-8">
+    <h2 class="font-serif text-2xl font-bold text-navy-900">The disclosure figures, category by category</h2>
+    {cats.map((g) => (
+      <details class="fold" open={g.c === 'burgers'}>
+        <summary><h3 class="fold-h">{K.CATS[g.c].label} <span class="text-base font-normal text-navy-600">({g.list.length})</span></h3></summary>
+        <Fragment set:html={ledger(g.list)} />
+      </details>
+    ))}
+    <p class="mt-3 text-sm text-navy-600">Investment: the low and high totals of Item 7 for one standard unit. Royalty + ad fund: the percentages of sales in Item 6 (low end when a range is printed). Sales: the average, or the median when no average is given, of the units Item 19 describes; scopes differ between brands, each brand page says which units are counted. FDD: month of issue, link to the document.</p>
+  </section>
+  <section class="mt-10"><Body html={x.why(h)} path={path} /></section>
+  <section class="mt-10" data-chrome>
+    {GROUPS.map((g) => (
+      <div class="mt-6">
+        <h2 class="font-serif text-xl font-bold text-navy-900">{g.label}</h2>
+        <ul class="mt-3 grid gap-x-6 gap-y-2 text-sm sm:grid-cols-2 lg:grid-cols-3">
+          {GUIDES.filter((p) => p.group === g.id && ROUTES.some((r) => r.id === p.id)).map((p) => <li><a href={route(p.id, lang)} class="font-medium text-accent-700 underline-offset-2 hover:underline">{p.nav}</a><span class="block text-navy-600">{p.card}</span></li>)}
+        </ul>
+      </div>
+    ))}
+  </section>
+</PageLayout>

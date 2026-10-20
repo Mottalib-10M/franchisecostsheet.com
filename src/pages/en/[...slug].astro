@@ -1,0 +1,14 @@
+---
+/** Every topic page (src/content/guides) and brand page (src/content/brands). */
+import ContentPage from '../../components/ContentPage.astro';
+import BrandPage from '../../components/BrandPage.astro';
+import { GUIDES, BRAND_PAGES } from '../../lib/pages';
+export function getStaticPaths() {
+  return [
+    ...GUIDES.map((page) => ({ params: { slug: page.slug }, props: { kind: 'g', def: page } })),
+    ...BRAND_PAGES.map((def) => ({ params: { slug: `${def.slug}-franchise-cost` }, props: { kind: 'b', def } })),
+  ];
+}
+const { kind, def } = Astro.props as { kind: 'g' | 'b'; def: any };
+---
+{kind === 'g' ? <ContentPage page={def} /> : <BrandPage def={def} />}

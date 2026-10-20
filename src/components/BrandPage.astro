@@ -1,0 +1,64 @@
+---
+/**
+ * A brand page: the payback calculator set on the brand, the folded answer, the FDD fact sheet generated
+ * from src/data/brands.json (data-chrome: it is data), then the brand's own text (src/content/brands/<slug>.ts).
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import Clamp from './Clamp.astro';
+import Tool from './Tool.astro';
+import Body from './Body.astro';
+import { route, ROUTES } from '../i18n/routes';
+import { label } from '../i18n/nav';
+import { t } from '../i18n/ui';
+import { guideById, brandPageById, brandId } from '../lib/pages';
+import { helpers, SOURCES, table, ext } from '../lib/helpers';
+import { KIT as K } from '../lib/kit';
+import { articleSchema, faqSchema, breadcrumbSchema, webPageSchema, webApplicationSchema } from '../lib/seo';
+import { AUTHOR_NAME } from '../data/site-config';
+import type { BrandDef } from '../lib/page-types';
+interface Props { def: BrandDef }
+const { def } = Astro.props;
+const lang = 'en';
+const ui = t(lang);
+const b = K.B(def.slug);
+const id = brandId(def.slug);
+const path = route(id, lang);
+const h1 = `${b.brand} franchise cost in 2026: ${K.range(b)}`;
+const hub = 'franchise-cost';
+const jsonLd = [webApplicationSchema({ name: h1, description: def.description, path, lang }), articleSchema({ title: h1, description: def.description, path, lang }), webPageSchema({ name: h1, description: def.description, path, lang }), breadcrumbSchema([{ name: ui.breadcrumbHome, path: route('home', lang) }, { name: label(hub), path: route(hub, lang) }, { name: b.brand, path }])];
+if (def.faqs.length) jsonLd.push(faqSchema(def.faqs, lang));
+const card = (x: string) => guideById(x)?.card ?? (brandPageById(x) ? brandPageById(x)!.intro : '');
+const related = def.related.filter((x) => ROUTES.some((r) => r.id === x)).map((x) => ({ href: route(x, lang), name: label(x), description: card(x) }));
+const sources = [
+  { name: `${b.franchisor}, Franchise Disclosure Document issued ${K.day(b.issued)}${b.amended ? `, amended ${K.day(b.amended)}` : ''} (Minnesota CARDS, document ${b.doc})`, url: b.url },
+  ...['ftc_436_5', 'mn_cards'].map((k) => ({ name: SOURCES[k].label, url: SOURCES[k].url })),
+];
+const x19 = K.i19(b);
+const rows: Array<[string, string]> = [
+  ['Estimated initial investment (Item 7)', K.range(b)],
+  ...(b.toFrLow !== null ? [['Of which paid to the franchisor', b.toFrLow === b.toFrHigh ? K.usd(b.toFrLow!) : `${K.usd(b.toFrLow!)} to ${K.usd(b.toFrHigh!)}`] as [string, string]] : []),
+  ['Initial franchise fee (Item 5)', K.fee(b)],
+  ['Royalty (Item 6)', b.royPct !== null ? `${K.rate(b.royPct)}${b.royPctHigh ? ` to ${K.rate(b.royPctHigh)}` : ''} of ${b.royBasis.split(/[(,;]/)[0].trim()}` : (b.royFlat ?? 'n/a')],
+  ['Advertising fund (Item 6)', b.adPct !== null ? `${K.rate(b.adPct)}${b.adPctHigh && b.adPctHigh !== b.adPct ? ` (up to ${K.rate(b.adPctHigh)})` : ''}` : 'not printed as a percentage'],
+  ['Sales figure (Item 19)', x19 !== null ? `${K.usd(x19)}: ${b.i19.label}${b.i19.period ? `, ${b.i19.period}` : ''}` : b.i19.published ? 'Item 19 published, without an average or median sales figure' : 'none published'],
+  ...(b.transfer ? [['Transfer fee (Item 6)', b.transfer] as [string, string]] : []),
+  ...(b.units.total !== null ? [[`Outlets at the end of ${b.units.year} (Item 20)`, `${K.num(b.units.total!)}${b.units.franchised !== null ? `, of which ${K.num(b.units.franchised!)} franchised` : ''}`] as [string, string]] : []),
+  ['Document', `${ext(b.url, `FDD issued ${K.day(b.issued)}`)}${b.amended ? `, amended ${K.day(b.amended)}` : ''} · ${K.num(b.pages)} pages · ${b.format}`],
+];
+---
+<PageLayout title={def.title} description={def.description} lang={lang} jsonLd={jsonLd} faqs={def.faqs} related={related} sources={sources} breadcrumbs={[{ label: label(hub), href: route(hub, lang) }, { label: b.brand }]}>
+  <article>
+    <header class="mb-4">
+      <h1 class="font-serif text-[1.75rem] font-bold text-navy-900 max-sm:leading-tight sm:text-3xl md:text-4xl">{h1}</h1>
+      <p class="mt-2 text-base text-navy-700 sm:text-lg">{def.intro}</p>
+    </header>
+    <div data-outil data-chrome class="mb-4"><Tool kind="roi" arg={{ b: def.slug, ...(def.toolArg ?? {}) }} idPrefix={`b-${def.slug}`} /></div>
+    <p class="mb-6 text-sm text-navy-600">{ui.reviewedBy} <a href={route('about', lang)} class="underline hover:text-navy-900">{AUTHOR_NAME}</a> · <a href={route('method', lang)} class="underline hover:text-navy-900">{label('method')}</a> · {b.franchisor}, disclosure document of {K.day(b.issued)} · not advice</p>
+    <Clamp text={def.resume} lang={lang} id={`clamp-${def.slug}`} class="mb-8" />
+    <section data-chrome class="mb-10">
+      <h2 class="font-serif text-2xl font-bold text-navy-900">{b.brand} FDD fact sheet</h2>
+      <Fragment set:html={table(['Item', 'As printed in the document'], rows, `Copied from the ${b.brand} Franchise Disclosure Document on file with the Minnesota Department of Commerce. Single unit: ${b.format}.`, ['l', 'l'])} />
+    </section>
+    <Body html={def.body(helpers())} path={path} />
+  </article>
+</PageLayout>

@@ -1,0 +1,170 @@
+{
+ "slug": "jack-in-the-box",
+ "brand": "Jack in the Box",
+ "franchisor": "Different Rules, LLC",
+ "issuanceDate": "2026-03-13",
+ "amendedDate": null,
+ "format": "new prototypical Jack in the Box restaurant built by the franchisee (excluding land)",
+ "invest": {
+  "low": 1909500,
+  "high": 4041500,
+  "toFranchisorLow": 95000,
+  "toFranchisorHigh": 127500,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Jack in the Box franchise you build is $1,909,500 to $4,041,500. This includes $95,000 to $127,500 that must be paid to Different Rules, LLC or its affiliates."
+ },
+ "fee": {
+  "low": 50000,
+  "high": 50000,
+  "quote": "The Initial Franchise Fee is typically $50,000 for each franchised restaurant, plus any tax or other fee imposed upon the Company due to the collection of the Initial Franchise Fee.",
+  "note": "$2,500 per year if the term is shorter than the standard 20 years; $25,000 for nontraditional locations. Veterans Program: fee reduced by 25% ($12,500) to $37,500 for the first new Restaurant. Development Fee ($50,000 single unit; $50,000 + $10,000 per additional unit for new multi-unit developers; $10,000 per unit for existing franchisees) is credited toward the fee. Fees collected in the past fiscal year ranged from $0 to $50,000."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty (other than Royalty for Games & Devices) 5% of Gross Sales (see note 3) (unless eligible for a temporary reduction under our Select Market Incentive Program) Payable monthly on the 15th day of the next month"
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Marketing fee 5% of Gross Sales Payable monthly on the 15th day of the next month ... Increases are capped at 0.5% of Gross Sales in any 24-month period.",
+  "note": "5% of Gross Sales; may increase by majority vote, capped at 0.5% per 24 months. Nontraditional typically 1%. No advertising cooperatives. $10,000 Grand Opening Advertising and Promotion Fee in Select Markets."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Fees",
+   "amount": "Monthly Technology Fee (currently $350-$500 per restaurant) plus Monthly Digital Fee (currently $0.00) plus Per Digital Transaction Fee (currently $0.00); anticipated to rise to $500-$675, $105 and $0.14-$0.30",
+   "annualUsd": null
+  },
+  {
+   "name": "POS Software and support (paid to vendor)",
+   "amount": "$280 to $369 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "OLO Ecommerce Platform Fee",
+   "amount": "$106.70 per month",
+   "annualUsd": 1280.4
+  },
+  {
+   "name": "Labor Management System fee",
+   "amount": "$72 fee plus $2.50 administrative fee per restaurant per month",
+   "annualUsd": 894
+  },
+  {
+   "name": "Digital Checklist",
+   "amount": "$17.99 Monthly Fee paid quarterly",
+   "annualUsd": 215.88
+  },
+  {
+   "name": "Jack's Ca$h",
+   "amount": "currently $13 per month",
+   "annualUsd": 156
+  },
+  {
+   "name": "Stored Value Card Services Program Service Fee",
+   "amount": "will not exceed $34 a month",
+   "annualUsd": null
+  },
+  {
+   "name": "Royalty for Games and Devices",
+   "amount": "40% of net revenues from such games and devices",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Sale or assignment fee: Up to $2,500 per restaurant",
+  "usd": 2500
+ },
+ "rentToFranchisor": "Only if you lease a restaurant location from the Company or its affiliates (required when buying a company-operated restaurant; optional for new builds): monthly minimum rent (greater of underlying master-lease rent or 9.5% of 90% of trailing 52-week sales; for new openings currently 105% of underlying master lease rent) plus percentage rent, typically 9.5% of Gross Sales (after offsetting minimum rent), plus CAM, property taxes and assessments.",
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, franchised Jack in the Box Restaurants in the continental U.S. (excluding C-Store/Travel Plaza)",
+   "value": 1913335,
+   "count": 1754,
+   "period": "12 months ended September 30, 2025",
+   "median": 1830083
+  },
+  "other": [
+   {
+    "label": "Average Gross Sales, top third (585), 12 months ended Sept 30, 2025",
+    "value": 2632491
+   },
+   {
+    "label": "Average Gross Sales, bottom third (584), 12 months ended Sept 30, 2025",
+    "value": 1266871
+   },
+   {
+    "label": "Average Gross Sales, franchised C-Store/Travel Plaza Restaurants (80), 12 months ended Sept 30, 2025",
+    "value": 1671505
+   },
+   {
+    "label": "Average Gross Sales, franchised Restaurants (1,786), 12 months ended Sept 30, 2024",
+    "value": 1986186
+   },
+   {
+    "label": "Average Operating Margin as % of sales, 1,754 franchised Restaurants, 12 months ended Sept 30, 2025 (after rent/occupancy, royalty and advertising)",
+    "value": 7.1
+   },
+   {
+    "label": "Median Operating Margin as % of sales, franchised Restaurants, 2025",
+    "value": 6.3
+   },
+   {
+    "label": "Average EBITDAR as % of sales (before depreciation, amortization and rent), franchised Restaurants, 2025",
+    "value": 17.7
+   },
+   {
+    "label": "Average Gross Profit (sales less cost of sales and total labor) as % of sales, franchised Restaurants, 2025",
+    "value": 41.7
+   },
+   {
+    "label": "Average Cost of Sales as % of sales, franchised Restaurants, 2025",
+    "value": 27.1
+   },
+   {
+    "label": "Average Total Labor as % of sales, franchised Restaurants, 2025",
+    "value": 31.2
+   },
+   {
+    "label": "Average Other Occupancy (rent, building depreciation, taxes, licenses) as % of sales, franchised Restaurants, 2025",
+    "value": 11.8
+   },
+   {
+    "label": "Average Operating Margin as % of sales, 1,786 franchised Restaurants, 12 months ended Sept 30, 2024",
+    "value": 9.6
+   },
+   {
+    "label": "Average Operating Margin as % of sales, C-Store/Travel Plaza Restaurants (80), 2025",
+    "value": 4.0
+   }
+  ],
+  "profitPct": 7.1,
+  "quote": "Total $1,913,335 715 40.8% $5,882,584 $1,830,083 $624,106 1,754 ... Operating Margin (12) 7.1% 6.3% 789 45.0%",
+  "note": "Franchised Restaurants open and operated by the same franchisee for both 12-month periods. 2025 excludes 19 opened, 1 converted, 75 permanently closed, 96 with insufficient data, 81 C-Store/Travel Plaza and 34 Hawaii/Guam/Mexico Restaurants. Operating Margin excludes interest, income taxes, G&A, officer compensation and other income/expense. Franchisee data unaudited."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1985,
+  "company": 151,
+  "total": 2136,
+  "franchisedNetChange": -55,
+  "quote": "Franchised ... 2025 2040 1985* -55 Company-owned ... 2025 150 151* +1 Total Outlets ... 2025 2190 2136* -54"
+ },
+ "special": "Royalty actually paid ranges from 0% to 12.5% as negotiated (nontraditional, new markets, incentives, settlements, franchised company sites). Select Market Incentive: royalty 2% for the first five years. Development Incentive Program: $150,000 0% loan per Restaurant repaid by crediting 100% of royalties. If the franchisee leases the site from the Company, percentage rent is typically 9.5% of Gross Sales. Franchisee must buy and have the Company install IT equipment ($45,000 to $60,000) and pays an 8% broker fee on technology procured through the Company.",
+ "confidence": "medium",
+ "issues": "The item cut for Item 20 was wrong (table of contents); Table 1 was read from the full FDD text. The asterisks on the 2023-2025 end-of-year counts in Table 1 refer to a footnote not found in the text. Item 19 period is the 12 months ended September 30, 2025, not the calendar year. Item 7 excludes land.",
+ "source": {
+  "doc": "35534-202603-09",
+  "received": "2026-03-19",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BB0F33E9D-0000-CC11-9696-6933932EFEBF%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 600,
+  "registrant": "DIFFERENT RULES, LLC",
+  "filedName": "JACK IN THE BOX",
+  "type": "Clean FDD"
+ }
+}

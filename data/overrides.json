@@ -1,0 +1,100 @@
+{
+ "dominos": {
+  "why": "Item 19 prints average weekly unit sales (AWUS); the calculator works on a year, so the weekly average and median are multiplied by 52 and the label says so.",
+  "item19": {
+   "headline": {
+    "label": "Average weekly unit sales of franchised traditional stores open all of 2025 ($27,267), times 52 weeks",
+    "value": 1417884,
+    "median": 1355068
+   }
+  }
+ },
+ "chick-fil-a": {
+  "why": "Item 6: the Operator pays 15 % of gross receipts (equipment rental and the business services fee are taken out of it, so they are not counted again) plus 50 % of the restaurant's net profit.",
+  "profitSharePct": 50,
+  "fixedYear": {
+   "usd": 0,
+   "note": null
+  }
+ },
+ "kfc": {
+  "why": "Item 6, note 2: a new outlet of a franchisee who is not a Legacy Franchisee pays 5 % (4 % for Legacy Franchisees, 5.25 % under a Brand Contribution Option); the calculator uses the rate of a new franchisee.",
+  "royalty": {
+   "pct": 5,
+   "pctHigh": 5.25
+  }
+ },
+ "little-caesars": {
+  "why": "Item 6 prints the advertising fee only as 'up to 7 %' of gross sales, as decided by the franchisor; the calculator uses that maximum and the page says it is a ceiling.",
+  "adFund": {
+   "pct": 7,
+   "pctHigh": null
+  }
+ },
+ "f45": {
+  "why": "Item 6: the $2,500 monthly minimum royalty is already covered by the 7 % rate in the calculator, and merchandise and heart-rate bands are purchases, not fees; the fixed fees counted are the $2,500 monthly marketing fee and the $500 monthly technology fee.",
+  "fixedYear": {
+   "usd": 36000,
+   "note": "Marketing Fee $2,500 a month, Technology Service Fee $500 a month"
+  }
+ },
+ "mathnasium": {
+  "why": "Item 6: besides 10 % of gross receipts, a $650 monthly base royalty, a $250 monthly fixed marketing fee, a digital and local marketing fee of at least $1,000 a month and a $266 monthly technology fee; the convention ticket is left out.",
+  "fixedYear": {
+   "usd": 25992,
+   "note": "Base Royalty $650 a month, Marketing Fee fixed part $250 a month, Digital and Local Marketing Fee $1,000 a month minimum, Technology License Fee $266 a month"
+  }
+ },
+ "anytime-fitness": {
+  "why": "Item 6: the royalty is a flat monthly fee; the calculator counts the $842 monthly fee, the $900 advertising fee and the $799 technology fee, not the $1,000 monthly Club Enhancement reserve, which is a recommended set-aside.",
+  "fixedYear": {
+   "usd": 30492,
+   "note": "Monthly Fee (royalty) $842, General Advertising and Marketing Fee $900, Base Technology Fee $799, each a month"
+  }
+ },
+ "snap-fitness": {
+  "why": "Item 6: the royalty is a flat monthly fee; the calculator counts the fees paid to the franchisor or its funds ($725 royalty, $518 national marketing, $450 technology, $200 local fund, each a month), not insurance premiums or recommended local spending.",
+  "fixedYear": {
+   "usd": 22716,
+   "note": "Royalty Fee $725, National Marketing $518, Technology Fee $450, Local Marketing Fund $200, each a month"
+  }
+ },
+ "jets-pizza": {
+  "why": "Item 6: the royalty is 12 % of what the franchisee spends on inventory and supplies, not a share of sales, and the current ad fund rate is not printed; the model cannot represent it without guessing, so the brand is left out.",
+  "exclude": true
+ },
+ "kumon": {
+  "why": "Item 6: the royalty is a flat amount per enrolled student and subject, which depends on enrollment the document does not give as an average; left out rather than guessed.",
+  "exclude": true
+ },
+ "servpro": {
+  "why": "Item 6: the royalty slides from 10 % to 3 % with monthly volume, plus a fixed fee and a minimum, and no Item 19 is published; left out rather than guessed.",
+  "exclude": true
+ },
+ "chem-dry": {
+  "why": "Item 19 is a projection for one van, not actual sales, the royalty is tiered with minimums and the ad fund is printed only as 'up to 3 %'; left out rather than guessed.",
+  "exclude": true
+ },
+ "freddys": {
+  "why": "Item 6: the advertising fund contribution rises from 2.5 % to 3 % of gross sales as of October 8, 2026, a date already passed; the calculator uses 3 %.",
+  "adFund": {
+   "pct": 3
+  }
+ },
+ "popeyes": {
+  "why": "Item 6, note 4: restaurants in the Ad Fund Test Program, including all new franchisees, pay an advertising contribution of 5 % starting April 1, 2025 (4.6 % if the test fails); the calculator uses 5 %.",
+  "adFund": {
+   "pct": 5
+  }
+ },
+ "valvoline": {
+  "why": "Item 6: the General System Fund takes up to 2 % of adjusted gross revenue only until a yearly cap of $7,344 per center is reached; at the sales Item 19 reports the cap binds, so the calculator counts the fund as the $7,344 fixed amount and not as a percentage.",
+  "adFund": {
+   "pct": 0
+  },
+  "fixedYear": {
+   "usd": 7344,
+   "note": "General System Fund, capped at $7,344 a year"
+  }
+ }
+}

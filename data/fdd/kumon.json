@@ -1,0 +1,92 @@
+{
+ "slug": "kumon",
+ "brand": "Kumon",
+ "franchisor": "Kumon North America, Inc.",
+ "issuanceDate": "2026-03-27",
+ "amendedDate": null,
+ "format": "single Kumon Center (math and reading after-school center, leased retail space of at least 1,000 sq ft)",
+ "invest": {
+  "low": 101630,
+  "high": 233780,
+  "toFranchisorLow": 6500,
+  "toFranchisorHigh": 7500,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Kumon Center franchise ranges from $101,630 to $233,780. This includes $6,500 to $7,500 that you must pay to us."
+ },
+ "fee": {
+  "low": 2000,
+  "high": 3000,
+  "quote": "The Initial Franchise Fee is $2,000. If you request, and we approve your Center, to offer \"English as a Foreign Language\" (\"EFL\") as an additional subject, the amount of the Initial Franchise Fee will increase to $3,000",
+  "note": "$1,000 Training Agreement deposit credited to the fee. Also paid to Kumon at signing: initial materials $2,000 and pre-opening marketing $2,500. Kumon pays/reimburses furniture ($10,000), one exterior sign ($4,800-$10,000), up to $5,500 of carpet/blinds/paint and 50% of rent up to $1,000/month for 12 months (new centers on 4 sessions/week); the Item 7 range is net of these subsidies."
+ },
+ "royalty": {
+  "pct": null,
+  "pctHigh": null,
+  "basis": "per enrolled student per subject (flat monthly amount)",
+  "flat": "Initial Enrollment Royalty Fee: For each reporting month, $30 times the number of newly enrolled students. Monthly Royalty During Temporary License Period (\"TLP\"): $42.75 times the number of full-payment students enrolled, and $21.38 times the number of partially exempt and/or prorated tuition students for each Subject-Franchise. Monthly Royalty after completing the TLP: $38 times the number of full-paying students enrolled, and $19 times the number of partially exempt and/or prorated tuition students for each Subject-Franchise.",
+  "quote": "Monthly Royalty after completing the TLP: $38 times the number of full-paying students enrolled, and $19 times the number of partially exempt and/or prorated tuition students for each Subject-Franchise."
+ },
+ "adFund": {
+  "pct": null,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "New Center Marketing Fee $300 per month Monthly, commencing on the 7th month after you open (or takeover) your Center ... We recommend that you spend at least $4,800 annually on local advertising, but currently, you are not required to do so. You are required to pay the New Center Marketing Fee, which equates to $3,600 per year.",
+  "note": "No national ad fund percentage currently; franchisor may create national/regional funds. Pre-opening marketing $2,500. Kumon contributes $3,600 of digital marketing over the first 18 months."
+ },
+ "otherRecurring": [
+  {
+   "name": "New Center Marketing Fee",
+   "amount": "$300 per month, commencing on the 7th month after you open",
+   "annualUsd": 3600
+  },
+  {
+   "name": "Insurance program (optional)",
+   "amount": "$5.80 per Math student per year; from July 1, 2026, $0.58 per Math student per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Kumon Lead Management System (vendor)",
+   "amount": "approximately $50 per month, plus applicable taxes",
+   "annualUsd": 600
+  }
+ ],
+ "transferFee": {
+  "amount": null,
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": false,
+  "headline": {
+   "label": null,
+   "value": null,
+   "count": null,
+   "period": null,
+   "median": null
+  },
+  "other": [],
+  "quote": null,
+  "note": "We do not make any representations about a franchisee's future financial performance or the past financial performance of company-owned or franchised outlets.",
+  "profitPct": null
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1705,
+  "company": 5,
+  "total": 1710,
+  "franchisedNetChange": 34,
+  "quote": "2025 1671 1705 +34 Franchised ... 2025 18 5 -13 Company-Owned ... 2025 1689 1710 +21 Total"
+ },
+ "special": "Royalty is a fixed amount per enrolled student per subject ($38 per full-paying student per month after the Temporary License Period, $42.75 during it, plus $30 per new enrollment), not a % of sales; Kumon can change royalty rates with one year's notice and no contractual cap. Kumon supplies worksheets and materials at no charge (shipping paid) and subsidizes furniture, sign and part of rent for new centers.",
+ "confidence": "high",
+ "issues": "No transfer fee appears in Item 6 (null). Item 7 totals are net of franchisor subsidies (furniture, sign, carpet/paint, rent).",
+ "source": {
+  "doc": "35725-202603-05",
+  "received": "2026-03-31",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B602E8C9D-0000-CB5D-8704-9161D34F5CA4%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 235,
+  "registrant": "KUMON NORTH AMERICA, INC.",
+  "filedName": "KUMON",
+  "type": "Clean FDD"
+ }
+}

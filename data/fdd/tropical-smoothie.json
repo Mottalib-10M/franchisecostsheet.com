@@ -1,0 +1,127 @@
+{
+ "slug": "tropical-smoothie",
+ "brand": "Tropical Smoothie Cafe",
+ "franchisor": "TSC Franchisor, LLC",
+ "issuanceDate": "2026-04-17",
+ "amendedDate": "2026-06-10",
+ "format": "single-unit End-Cap or In-Line Tropical Smoothie Cafe in a strip retail center (leased, 1,200 to 1,900 sq ft, no drive-thru)",
+ "invest": {
+  "low": 275500,
+  "high": 770500,
+  "toFranchisorLow": 45000,
+  "toFranchisorHigh": 45000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a single-unit Tropical Smoothie Cafe franchise is $275,500 to $770,500. This includes $45,000 that must be paid to franchisor or its affiliate, consisting of a franchise fee of $35,000 and a grand opening marketing contribution of $10,000."
+ },
+ "fee": {
+  "low": 35000,
+  "high": 35000,
+  "quote": "The initial franchise fee for your first Tropical Smoothie Cafe Restaurant is $35,000, payable in full upon execution of the Franchise Agreement.",
+  "note": "$25,000 for each additional restaurant. Qualified veterans (VetFran): $17,500 for the first and each subsequent Franchised Business. Fees may be discounted in special circumstances; in 2025 initial franchise fees ranged from $1.00 to $35,000. Grand Opening Contribution of at least $10,000 paid to franchisor for first-time franchisees."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Fee 6% of Gross Sales Payable weekly for the prior week's Gross Sales"
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": 6,
+  "localPct": null,
+  "quote": "National Marketing Fee 5-6% of Gross Sales ... The current National Marketing Fee is 5% of Gross Sales. In the future, we may increase the National Marketing Fee up to 6% of Gross Sales",
+  "note": "Currently 5%, up to 6%. A portion of the National Marketing Fee may be allocated to a local advertising cooperative if one is required."
+ },
+ "otherRecurring": [
+  {
+   "name": "BOH Fees",
+   "amount": "One-time implementation fee of $145, and $179 per month subscription fee",
+   "annualUsd": 2148
+  },
+  {
+   "name": "Digital Ordering - Website & Mobile Application",
+   "amount": "Currently, $54 per month",
+   "annualUsd": 648
+  },
+  {
+   "name": "Loyalty Platform and Owned Digital Marketing Programs",
+   "amount": "$75 per month per cafe",
+   "annualUsd": 900
+  },
+  {
+   "name": "Gift Card Transaction Fee",
+   "amount": "$0.16 per qualified transaction, or $18 per month per cafe, whichever is less",
+   "annualUsd": null
+  },
+  {
+   "name": "P&L/Financial Data Software Subscription",
+   "amount": "Currently $8.00 monthly subscription (currently paid by us)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "5% of the total sales price or $10,000, whichever is greater; $2,500 upon transfer of minority interest; or $1,500 upon transfer for convenience of ownership",
+  "usd": 10000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Net Revenue, franchised traditional Tropical Smoothie Cafe Restaurants open at least one full year",
+   "value": 978298,
+   "count": 1431,
+   "period": "calendar year 2025 (fiscal year ended December 28, 2025)",
+   "median": 931173
+  },
+  "other": [
+   {
+    "label": "Average Net Revenue, top 25% (358 Restaurants), 2025",
+    "value": 1457288
+   },
+   {
+    "label": "Average Net Revenue, bottom 25% (358 Restaurants), 2025",
+    "value": 588985
+   },
+   {
+    "label": "Average Net Revenue, top 10% (144 Restaurants), 2025",
+    "value": 1709270
+   },
+   {
+    "label": "Average Net Revenue, all 1,268 Restaurants, 2024",
+    "value": 1005063
+   },
+   {
+    "label": "Median Net Revenue, all 1,268 Restaurants, 2024",
+    "value": 954743
+   },
+   {
+    "label": "Average Net Revenue, all 1,151 Restaurants, 2023",
+    "value": 979491
+   }
+  ],
+  "profitPct": null,
+  "quote": "No. of Restaurants 144 358 716 1,073 1,431 Avg. Net Revenues $1,709,270 $1,457,288 $1,251,191 $1,108,190 $978,298 Median Net Revenues $1,630,251 $1,369,487 $1,163,683 $1,046,010 $931,173",
+  "note": "Revenues only; no costs or profits. Excludes 33 non-traditional locations, 21 not open at least 357 days in 2025, franchised Restaurants open less than 12 months, and the 1 company-owned Restaurant. 643 (45%) attained or surpassed the average. Range $270,301 to $3,386,973."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1650,
+  "company": 1,
+  "total": 1651,
+  "franchisedNetChange": 136,
+  "quote": "Franchised ... 2025 1514 1650 +136 Company-Owned ... 2025 1 1 0 Total Outlets ... 2025 1515 1651 +136"
+ },
+ "special": "Technology fees may be raised to cost plus up to 20%; ordering kiosks expected in Q1 2027 at an estimated $10,000-$15,000 upfront and $200-$300 per month (not included in Item 7). Drive-thru adds approximately $40,000 to $60,000. Leasehold improvements in Item 7 are net of an average $44,000 TI Allowance.",
+ "confidence": "high",
+ "issues": "Item 7 table low end uses the veterans' fee ($17,500) and the $5,000 grand opening spend for existing franchisees, while the cover says $45,000 is paid to franchisor; toFranchisor fields use the cover figure.",
+ "source": {
+  "doc": "36853-202606-04",
+  "received": "2026-06-10",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B80BDD69E-0000-C412-9381-44E1F3A54D35%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 437,
+  "registrant": "TSC Franchisor, LLC",
+  "filedName": "Tropical Smoothie Cafe",
+  "type": "Clean FDD"
+ }
+}

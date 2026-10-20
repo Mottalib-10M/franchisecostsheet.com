@@ -1,0 +1,145 @@
+{
+ "slug": "mr-rooter",
+ "brand": "Mr. Rooter",
+ "franchisor": "Mr. Rooter SPV LLC",
+ "issuanceDate": "2026-04-02",
+ "amendedDate": null,
+ "format": "single Mr. Rooter plumbing franchise (territory of up to 100,000 population)",
+ "invest": {
+  "low": 152900,
+  "high": 298675,
+  "toFranchisorLow": 43750,
+  "toFranchisorHigh": 43750,
+  "excludesRealEstate": null,
+  "quote": "The total investment necessary to begin operation of a Mr. Rooter® franchise ranges from $152,900 to $298,675. This includes $43,750 that must be paid to the franchisor and our affiliates. It does not include fees for additional territory (beyond the minimum 100,000)"
+ },
+ "fee": {
+  "low": 42500,
+  "high": 42500,
+  "quote": "The initial franchise fee you must pay to us is $42,500 (the \"Minimum Initial Franchise Fee\"), which is a fee for a territory of up to 100,000 in population",
+  "note": "Plus $425 per additional 1,000 population beyond 100,000 (territory generally 100,000 to 300,000). VetFran: 20% off the $42,500; rural franchise (40,000-65,000 population) as low as 50% of the minimum fee; roll-in, multi-unit, additional concept and HIRE discounts cannot go below $42,500. In 2025 the average fee paid was approximately $81,424 (range $39,101 to $320,073). Software System enrollment fee $1,250 also paid to franchisor."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "weekly Gross Sales",
+  "flat": null,
+  "quote": "License Fee 6% of Gross Sales except for special rates that apply to \"roll-in\" sales. In addition, minimum license fees apply. Tuesday, 5:00 pm Central Time, each week."
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": null,
+  "localPct": 3,
+  "quote": "MAP Fee 2% of Gross Sales except for special rates that apply to \"roll-in\" sales. In addition, minimum MAP fees apply.",
+  "note": "Local Marketing Groups: not to exceed 3% of Gross Sales (currently 2% may be required for Neighborly brand initiatives). Initial Marketing Spend Requirement: $60,000 in the first 12 months and $75,000 in months 13-24; franchisor may require Minimum Local Marketing Spending of the greater of $50,000 or 8% of prior-year Gross Sales."
+ },
+ "otherRecurring": [
+  {
+   "name": "Minimum License Fee",
+   "amount": "Greater of 6% or a weekly minimum of $100 to $1,400 depending on territory population and weeks open (Standard: N/A weeks 1-39; e.g. under 150,000 population $100/week weeks 40-78, $200 weeks 79-208, $225 week 209+)",
+   "annualUsd": null
+  },
+  {
+   "name": "Software System Fees",
+   "amount": "$176.45 per month, plus additional email/portal accounts and QuickBooks Online through ZorWare $30-$220 per month",
+   "annualUsd": 2117.4
+  },
+  {
+   "name": "ServiceTitan license (paid to ServiceTitan, Inc.)",
+   "amount": "$228-241 per month for each service professional user up to 5 users (lower per-user rates above)",
+   "annualUsd": null
+  },
+  {
+   "name": "Call Center Program Fees",
+   "amount": "$349.99-$449.99 / month plus $25 per booked appointment",
+   "annualUsd": null
+  },
+  {
+   "name": "Annual Convention (Reunion) Fees",
+   "amount": "Currently up to $1,000, plus travel, lodging, meals and other expenses (mandatory attendance; $2,000 pro-rata if absent)",
+   "annualUsd": null
+  },
+  {
+   "name": "Initial Marketing Spend Requirement (local marketing)",
+   "amount": "$60,000 during the first 12 months and $75,000 during months 13-24",
+   "annualUsd": null
+  },
+  {
+   "name": "Key Accounts/Management Fee",
+   "amount": "Up to 5% of total Gross Sales related to Key Account work",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "The greater of (i) $15,000 or (ii) 5% of the sales price",
+  "usd": 15000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, franchised businesses open and reporting the full 52 weeks of 2025",
+   "value": 2093531,
+   "count": 193,
+   "period": "January 1 to December 31, 2025",
+   "median": 1257146
+  },
+  "other": [
+   {
+    "label": "Average Gross Sales, top 10% (19 businesses), 2025",
+    "value": 8162009
+   },
+   {
+    "label": "Average Gross Sales, top 25% (48 businesses), 2025",
+    "value": 5243078
+   },
+   {
+    "label": "Average Gross Sales, top 50% (97 businesses), 2025",
+    "value": 3557458
+   },
+   {
+    "label": "Average Gross Sales, bottom 50% (96 businesses), 2025",
+    "value": 614354
+   },
+   {
+    "label": "Average Gross Sales, bottom 25% (48 businesses), 2025",
+    "value": 288402
+   },
+   {
+    "label": "Average Gross Sales, bottom 10% (19 businesses), 2025",
+    "value": 147745
+   },
+   {
+    "label": "Highest Gross Sales, 2025",
+    "value": 20262638
+   },
+   {
+    "label": "Lowest Gross Sales, 2025",
+    "value": 633
+   }
+  ],
+  "profitPct": null,
+  "quote": "100% $2,093,531 $1,257,146 193 64 / 33% $20,262,638 $633",
+  "note": "Sales only, no costs. 64 (33%) of 193 at or above average. Excludes 22 businesses opened in 2025, 14 transferred in 2025 without full data, 9 reporting $0 Gross Sales, and 13 closed during 2025. Franchisee-reported via the Software System, not GAAP."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 238,
+  "company": 2,
+  "total": 240,
+  "franchisedNetChange": 10,
+  "quote": "Franchised 2025 228 238 +10 Company-Owned 2025 3 2 -1 Total Outlets 2025 231 240 +9"
+ },
+ "special": "Royalty (License Fee) is the greater of 6% of weekly Gross Sales or a weekly Minimum License Fee ($100 to $1,400 by territory population and tenure). Mandatory local marketing spend of $60,000 in year 1 and $75,000 in year 2 (and possibly the greater of $50,000 or 8% of Gross Sales thereafter) on top of the 2% MAP Fee. Item 19 median ($1,257,146) is far below the average ($2,093,531): sales are highly skewed.",
+ "confidence": "high",
+ "issues": "Item 7 totals line says the low total 'Does not include real estate costs', yet the table includes a Real Estate line ($6,000-$24,000) that is summed into $152,900; excludesRealEstate left null. Software System annual figure computed as $176.45 x 12.",
+ "source": {
+  "doc": "36167-202604-02",
+  "received": "2026-04-23",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B30ECB19E-0000-C334-BEA2-A417DC08CE37%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 455,
+  "registrant": "MR. ROOTER SPV LLC",
+  "filedName": "MR. ROOTER",
+  "type": "Clean FDD"
+ }
+}

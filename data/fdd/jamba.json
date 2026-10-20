@@ -1,0 +1,123 @@
+{
+ "slug": "jamba",
+ "brand": "Jamba",
+ "franchisor": "Jamba Juice Franchisor SPV LLC",
+ "issuanceDate": "2025-03-28",
+ "amendedDate": null,
+ "format": "Traditional Store without a drive-thru (leased, 1,000 to 1,500 sq. ft.)",
+ "invest": {
+  "low": 468650,
+  "high": 806250,
+  "toFranchisorLow": 35727,
+  "toFranchisorHigh": 62969,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Jamba franchise ranges from $468,650 to $806,250 for a Traditional Store without a drive-thru. This includes $35,727 to $62,969 that must be paid to us or our affiliates."
+ },
+ "fee": {
+  "low": 35500,
+  "high": 35500,
+  "quote": "When you sign a Franchise Agreement, you must pay us an initial franchise fee (the \"Initial Franchise Fee\") of $35,500 for a Traditional Store or Non-Traditional Store and $71,000 for a Co-Branded Store ($35,500 of which will be paid to the Co-Branded Franchisor).",
+  "note": "VetFran: $20,000 for qualifying veterans or members of the Armed Forces. Fee may be reduced case by case (incentives, existing operators, reopenings, multi-unit). In 2024 franchisees paid from $2,500 to $35,500. Grand opening advertising minimum $10,000."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "net sales",
+  "flat": null,
+  "quote": "Royalty Fee 6% of Net Sales for all Stores, except: Auntie Anne's Co-Branded Stores in Other Locations ... Payable weekly on the date specified in the Manuals"
+ },
+ "adFund": {
+  "pct": 3,
+  "pctHigh": null,
+  "localPct": 1,
+  "quote": "Advertising Contribution Currently, 3% of Net Sales ... We may increase the Advertising Contribution at any time by notice to franchisees, provided that your required Advertising Contribution and Local Marketing Obligation (as defined below) may not collectively exceed 5% of your Net Sales.",
+  "note": "Currently 3% Ad Fund plus local marketing of not less than 1% of Net Sales per quarter; combined cap 5% of Net Sales. Advertising Cooperative contribution set by the cooperative."
+ },
+ "otherRecurring": [
+  {
+   "name": "POS System License and Lease Fees",
+   "amount": "Currently, $227 to $454 per month if you purchase the POS System under the CapEx Program and $802 to $1,089 per month if you lease the POS System under the HaaS Program",
+   "annualUsd": null
+  },
+  {
+   "name": "POS System Support Fee",
+   "amount": "Currently, between $100 and $250 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Learning Management System License Fee",
+   "amount": "Currently, $170 per year",
+   "annualUsd": 170
+  },
+  {
+   "name": "Back Office and Polling Software Fee",
+   "amount": "Currently, not charged. Estimated to be between $100 and $200 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Credit Card Fees",
+   "amount": "Transaction fees estimated to be from 2.5% to 5% of transaction amounts",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "50% of the then-current Initial Franchise Fee if it is a Control Transfer; if it is a transfer to a related party or that is not a Control Transfer, 10% of the then-current Initial Franchise Fee.",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Net Sales, all franchised Traditional Stores reporting all weeks of fiscal 2024",
+   "value": 689065,
+   "count": 511,
+   "period": "fiscal 2024 (ended December 29, 2024)",
+   "median": 640278
+  },
+  "other": [
+   {
+    "label": "Average Net Sales, franchised Traditional Stores without a drive-thru (479), fiscal 2024",
+    "value": 690238
+   },
+   {
+    "label": "Median Net Sales, franchised Traditional Stores without a drive-thru, fiscal 2024",
+    "value": 641848
+   },
+   {
+    "label": "Average Net Sales, franchised Traditional Stores with a drive-thru (32), fiscal 2024",
+    "value": 671517
+   },
+   {
+    "label": "Average Net Sales, top quartile all Traditional Stores (128), fiscal 2024",
+    "value": 1045773
+   },
+   {
+    "label": "Average Net Sales, bottom quartile all Traditional Stores (128), fiscal 2024",
+    "value": 403886
+   }
+  ],
+  "profitPct": null,
+  "quote": "All Traditional Stores ... Total $689,065 217/511 (42%) $640,278 $128,002 $1,847,866",
+  "note": "Net Sales only; no costs or expenses. 511 of 531 Traditional Franchises; excludes 4 not reporting all weeks, 8 opened in 2024, 8 Co-Branded, 195 Non-Traditional, 1 food truck, 35 closed in 2024, and affiliate-owned Stores."
+ },
+ "units": {
+  "year": 2024,
+  "franchised": 726,
+  "company": 1,
+  "total": 727,
+  "franchisedNetChange": -7,
+  "quote": "Franchised ... 2024 733 726 -7 Affiliate-Owned ... 2024 1 1 +0 Total Stores ... 2024 734 727 -7"
+ },
+ "special": "Royalty and advertising are paid weekly. Item 7 includes only one month of rent; real estate purchase not estimated. Promotional materials bought from franchisor or affiliates at up to 110% of their cost. POS fees passed through at cost plus a 0.5% administrative fee.",
+ "confidence": "high",
+ "issues": "FDD is the 2025 edition (data through fiscal 2024). Item 19 intro mistakenly refers to Fiscal Year 2023 / 53 weeks while the table and notes are fiscal 2024 / 52 weeks. Transfer fee printed only as a % of the then-current Initial Franchise Fee (no dollar figure). Cover says 'five types of Stores' but lists three.",
+ "source": {
+  "doc": "33206-202503-08",
+  "received": "2025-04-16",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B70386396-0000-CC18-84CE-A7961FB466DA%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 338,
+  "registrant": "JAMBA JUICE FRANCHISOR SPV LLC",
+  "filedName": "JAMBA",
+  "type": "Clean FDD"
+ }
+}

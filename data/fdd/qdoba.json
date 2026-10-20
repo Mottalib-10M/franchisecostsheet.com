@@ -1,0 +1,164 @@
+{
+ "slug": "qdoba",
+ "brand": "Qdoba",
+ "franchisor": "Qdoba Franchisor LLC",
+ "issuanceDate": "2025-12-09",
+ "amendedDate": null,
+ "format": "Traditional Qdoba restaurant (1,500 to 3,000 sq ft, mostly in-line or end cap), excluding real property and liquor license costs",
+ "invest": {
+  "low": 548100,
+  "high": 1294000,
+  "toFranchisorLow": 40000,
+  "toFranchisorHigh": 40000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Qdoba restaurant is $548,100 to $1,294,000. This includes $40,000 which must be paid to us or our affiliates."
+ },
+ "fee": {
+  "low": 40000,
+  "high": 40000,
+  "quote": "The Franchise Fee for traditional units is $40,000 and the Franchise Fee for Non-Traditional units is $20,000, plus any tax or other fees imposed on the Company due to the collection of the Franchise Fee.",
+  "note": "VetFran: Initial Franchise Fee reduced by $10,000 for honorably discharged U.S. military. Terms shorter than 10 years: $4,000 per year. Development Fee $10,000 per restaurant, may be credited toward the Franchise Fee. Franchise Fees actually paid last fiscal year: $0 to $40,000 (negotiated)."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Five percent (5%) of gross sales Payable weekly ... Royalties at non-traditional sites are six percent (6%); lower rates have been set in unusual situations."
+ },
+ "adFund": {
+  "pct": 4.5,
+  "pctHigh": 6,
+  "localPct": null,
+  "quote": "Marketing Fee Currently four and one half percent (4.50%) of gross sales for franchisees and one and three-quarters percent (1.75%) of gross sales for licensees. ... Company may propose to increase the fee up to six percent (6%), but increases or decreases require approval by majority vote.",
+  "note": "Currently 4.5% (up to 6% with majority vote). Local advertising: currently no requirement. Item 19 says combined advertising was 4.0% in fiscal 2025, raised to 4.5% on September 29, 2025. Grand opening advertising $10,000 to $25,000 required."
+ },
+ "otherRecurring": [
+  {
+   "name": "IT Base Services",
+   "amount": "$6,300 to $18,600 per restaurant per year",
+   "annualUsd": null
+  },
+  {
+   "name": "IT Support Services",
+   "amount": "Currently $250 per restaurant per period plus 0.21% of weekly gross sales (13 periods per year)",
+   "annualUsd": null
+  },
+  {
+   "name": "Q-Cash Card program fees",
+   "amount": "$7.75 Monthly",
+   "annualUsd": 93
+  },
+  {
+   "name": "Learning Management System Fee",
+   "amount": "$24-$40 per restaurant per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Lease Administration Fee",
+   "amount": "$100 Payable monthly (only if Franchisee subleases the location from Company)",
+   "annualUsd": 1200
+  },
+  {
+   "name": "Catering Rewards Program / Catering Call Center Fee",
+   "amount": "Varies (pro rata share of program and call center costs)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Up to $5,000 Prior to consummation of transfer",
+  "usd": 5000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average net sales, franchised traditional Qdoba restaurants open and franchisee-operated at least one year (U.S.)",
+   "value": 1697254,
+   "count": 464,
+   "period": "trailing twelve months ended September 28, 2025 (fiscal 2025)",
+   "median": 1596761
+  },
+  "other": [
+   {
+    "label": "Average net sales, top quartile (116 restaurants), TTM to Sept 28, 2025, dollars",
+    "value": 2573684
+   },
+   {
+    "label": "Average net sales, bottom quartile (116 restaurants), TTM to Sept 28, 2025, dollars",
+    "value": 969398
+   },
+   {
+    "label": "Average net sales FY2025, 390 same-store franchised restaurants open all three years, dollars",
+    "value": 1766860
+   },
+   {
+    "label": "Same store sales growth FY2025, 390 franchised restaurants, %",
+    "value": 5.0
+   },
+   {
+    "label": "Average net restaurant sales, 397 franchised restaurants reporting P&L, trailing 12 months, dollars",
+    "value": 1661277
+   },
+   {
+    "label": "Average Proforma Franchisee EBITDA including royalty and advertising fees, 397 franchised restaurants, dollars",
+    "value": 254430
+   },
+   {
+    "label": "Average Proforma Franchisee EBITDA including fees, 397 franchised restaurants, % of net sales",
+    "value": 15.3
+   },
+   {
+    "label": "Median Proforma Franchisee EBITDA including fees, 397 franchised restaurants, dollars",
+    "value": 246001
+   },
+   {
+    "label": "Average Franchise EBITDA pre-fees (before royalty and advertising), 397 restaurants, dollars",
+    "value": 403945
+   },
+   {
+    "label": "Average Franchise EBITDA pre-fees, 397 restaurants, % of net sales",
+    "value": 24.3
+   },
+   {
+    "label": "Average cost of sales (food, paper), 397 restaurants, % of net sales",
+    "value": 27.6
+   },
+   {
+    "label": "Average salaries and benefits, 397 restaurants, % of net sales",
+    "value": 26.9
+   },
+   {
+    "label": "Average other operating expenses, 397 restaurants, % of net sales",
+    "value": 13.7
+   },
+   {
+    "label": "Average occupancy costs, 397 restaurants, % of net sales",
+    "value": 7.5
+   }
+  ],
+  "profitPct": 15.3,
+  "quote": "Total $1,697,254 201 / 464 43.3% $1,596,761 $411,191 $5,078,990 (Chart 2: average net sales, number attaining average, median, lowest, highest, 464 franchised restaurants, TTM ended September 28, 2025)",
+  "note": "Net sales (after promotional discounts and comps, excluding taxes), unaudited POS data. Excludes 123 non-traditional, 5 refranchised, 38 newly opened, 13 Canadian and 7 restaurants closed 21+ days; company-owned excluded. EBITDA (Chart 3) based on 397 traditional franchised restaurants that reported via portal for varying trailing-12-month periods; excludes depreciation/amortization, development and franchise fees, administrative costs and overhead above store management; 64 restaurants had not loaded data."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 652,
+  "company": 175,
+  "total": 827,
+  "franchisedNetChange": 39,
+  "quote": "Franchised Outlets 2025 613 652 +39 Company-Owned Outlets 2025 164 175 +11 Total Outlets 2025 777 827 +50"
+ },
+ "special": "Cash incentive of up to $100,000 per restaurant for qualifying openings (first 150 qualifying restaurants; expiry September 27, 2026 for agreements signed before June 15, 2025, otherwise 24 months from signing), not deducted in Item 7. Non-traditional royalty is 6%. If the franchisee subleases from the Company, a $100 monthly Lease Administration Fee applies (rent terms not given as % of sales).",
+ "confidence": "high",
+ "issues": "Item 7 signage low printed garbled ('$10,000 $35,000 $35,000'); line items sum to the printed totals with $10,000 low. Item 7 note 15 says $545,500 low per restaurant vs $548,100 in the table. Development agreement subtotal printed '$508s,100'. Fiscal year ends late September (FY2025 = 9/30/2024 - 9/28/2025). Item 20 Table 1 appears to include non-traditional (and possibly Canadian) outlets, so it is larger than the Item 19 population.",
+ "source": {
+  "doc": "35127-202512-08",
+  "received": "2025-12-12",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BF021479B-0000-CA53-899D-051CB3CFD58D%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 437,
+  "registrant": "Qdoba Franchisor LLC",
+  "filedName": "Qdoba Mexican Eats Qdoba Mexican Grill Qdoba",
+  "type": "Clean FDD"
+ }
+}

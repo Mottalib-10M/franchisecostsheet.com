@@ -1,0 +1,23 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { AUTHOR_NAME, REVIEW_CYCLE_MONTHS } from '../../data/site-config';
+const lang = 'en';
+---
+<PageLayout title="Editorial policy of Franchise Cost Sheet: one FDD per brand" description="How Franchise Cost Sheet writes its pages: each brand's own disclosure document, dated and linked, every figure computed from it by a script, and no money from brands, brokers or lenders." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Editorial policy</h1>
+    <h2>What counts as a source</h2>
+    <p>Each brand's figures come from its Franchise Disclosure Document, the edition registered with the Minnesota Department of Commerce and read in the public file, recorded with its issuance date, its state document number and its address. Rules come from the Federal Trade Commission and the Code of Federal Regulations, loan terms from the Small Business Administration and the prime rate from the Federal Reserve. Brands that sell no franchise are described from their own annual reports filed with the Securities and Exchange Commission. Broker, lender and listing articles are read to know what people ask, never as a source of a number.</p>
+    <h2>How a figure reaches a page</h2>
+    <p>No figure is typed into the text. Each document is read Item by Item and the facts are stored with the sentence they come from; a script checks them and the pages compute every amount from those files when the site is built. When a document is unclear or contradicts itself, the page says so and the calculator uses the printed total. A figure the document does not print is left blank, never guessed.</p>
+    <h2>Earnings are the franchisor's, margins are yours</h2>
+    <p>Sales figures come only from Item 19, with the population and the year the franchisor gives. Most documents publish sales and no profit, so the calculator asks you for a margin and starts from a round value that is not a published figure. Nothing on the site promises a result: the page says so wherever a payback period is shown.</p>
+    <h2>What is to come is labeled</h2>
+    <p>A fee increase announced for a later date is shown as to come, with its date, never as the current rule. A figure we cannot trace to a public document is not published.</p>
+    <h2>Independence</h2>
+    <p>{AUTHOR_NAME} receives nothing from franchisors, franchise brokers, lenders or lead buyers and links to none of them. There is no advertising today; if some is added it will be labeled, limited to three places a page, and never placed above a calculator.</p>
+    <h2>Review and corrections</h2>
+    <p>The site is reviewed at least every {REVIEW_CYCLE_MONTHS} months, and when a brand registers a new edition of its document. A reported error is checked against the document and, once fixed, moves the date shown on the page. Write through the <a href={route('contact', lang)}>contact page</a>; the steps are on the <a href={route('method', lang)}>method page</a>.</p>
+  </div>
+</PageLayout>

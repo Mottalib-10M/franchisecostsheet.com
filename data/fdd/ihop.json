@@ -1,0 +1,144 @@
+{
+ "slug": "ihop",
+ "brand": "IHOP",
+ "franchisor": "IHOP Franchisor LLC",
+ "issuanceDate": "2026-03-27",
+ "amendedDate": "2026-04-07",
+ "format": "single traditional IHOP Restaurant, 2700 Prototype (freestanding 2,700 sq ft, ground-up construction) under the Single Store Development Program",
+ "invest": {
+  "low": 2708932,
+  "high": 4240095,
+  "toFranchisorLow": 68500,
+  "toFranchisorHigh": 162000,
+  "excludesRealEstate": true,
+  "quote": "2700 Prototype $2,708,932 $4,240,095 ... This includes Initial Fees (as set forth in Item 5) of $68,500 to $162,000 per restaurant opened under a Single Store Development Agreement"
+ },
+ "fee": {
+  "low": 50000,
+  "high": 50000,
+  "quote": "If you enter into a Franchise Agreement, you must construct and equip the Restaurant, acquire and convert an existing building or acquire an existing IHOP Restaurant, and pay an Initial Franchise Fee of $50,000.",
+  "note": "A $15,000 Location Fee (Single Store Development Agreement) is applied to the $50,000 fee. Dual Branded Restaurant: $35,000. Multi-Store Development: $20,000 Development Fee per Restaurant plus $40,000 Initial Franchise Fee per Restaurant (Development Fee credited). Purchase Program (taking over an existing Restaurant): $0 to $300,000. Opening Training Support Fee $0 to $65,000 and POS setup $3,500 to $9,000 also paid to IHOP. Fees non-refundable; IHOP may reduce or waive them."
+ },
+ "royalty": {
+  "pct": 4.5,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty 4.5% of total Gross Sales 2 Billed weekly and due 16 days after invoice date"
+ },
+ "adFund": {
+  "pct": 3.5,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "National Advertising Fee 3.5% of total Gross Sales Same as Royalty Fee We pool these funds with payments from all U.S. franchisees. Local Advertising Fee There is currently no required local advertising fee",
+  "note": "No local advertising fee currently; cooperative advertising optional."
+ },
+ "otherRecurring": [
+  {
+   "name": "Dine Brands Franchisee Technology Services Support (Help Desk)",
+   "amount": "$1,900 to $2,500 per year, subject to change",
+   "annualUsd": null
+  },
+  {
+   "name": "Tray POS Software Fees",
+   "amount": "$2,900 per year to $4,000 per year",
+   "annualUsd": null
+  },
+  {
+   "name": "EMV Point to Point Encryption Services",
+   "amount": "$1,300 per year to $4,500 per year",
+   "annualUsd": null
+  },
+  {
+   "name": "Digital Products Service Fee",
+   "amount": "$0 per month to $350 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Payment Protection Fee (not currently required)",
+   "amount": "$150 to $500 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "National Gift Card Program Charges",
+   "amount": "15% of the redeemed portion of gift cards sold in the national program",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$7,500, plus $5,000 training fee per person per Restaurant",
+  "usd": 7500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Annualized average gross sales, franchised traditional freestanding IHOP Restaurants (excl. 145 subfranchised, non-traditional and dual branded; incl. 2025 openings)",
+   "value": 2023009,
+   "count": 1271,
+   "period": "December 30, 2024 to December 28, 2025",
+   "median": 1953332
+  },
+  "other": [
+   {
+    "label": "Annualized average gross sales, in-line franchised Restaurants, 2025 (54 units)",
+    "value": 1978316
+   },
+   {
+    "label": "Annualized average gross sales, endcap franchised Restaurants, 2025 (138 units)",
+    "value": 1931884
+   },
+   {
+    "label": "Annualized average gross sales, Northeast region, 2025 (180 units)",
+    "value": 2286794
+   },
+   {
+    "label": "Annualized average gross sales, West region, 2025 (423 units)",
+    "value": 2127026
+   },
+   {
+    "label": "Annualized average gross sales, South region, 2025 (624 units)",
+    "value": 1984978
+   },
+   {
+    "label": "Annualized average gross sales, Midwest region, 2025 (236 units)",
+    "value": 1672423
+   },
+   {
+    "label": "Highest gross sales, freestanding, 2025",
+    "value": 6701374
+   },
+   {
+    "label": "Lowest gross sales, freestanding, 2025",
+    "value": 375921
+   },
+   {
+    "label": "Annualized average gross sales, freestanding, 2024 (1,275 units)",
+    "value": 2072457
+   }
+  ],
+  "profitPct": null,
+  "quote": "Freestanding 1,275 1,271 $2,072,457 $2,023,009 565/44% 574/45% $1,970,976 $1,953,332 $6,869,865 $6,701,374 $485,865 $375,921",
+  "note": "Sales only, no costs. No all-unit average is printed; figures are split by region and by prototype (1,463 restaurants in 2025). Figures are annualized and include 33 restaurants opened in 2025; exclude 145 subfranchised restaurants operated by Sunshine Restaurant Partners, LP, non-traditional and Dual Branded Restaurants. Unaudited franchisee royalty reports."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1630,
+  "company": 12,
+  "total": 1642,
+  "franchisedNetChange": -25,
+  "quote": "Franchised ... 2025 1,655 1,630 -25 Company-Owned ... 2025 0 12 +12 Total Outlets ... 2025 1,655 1,642 (2) -13 (Traditional Venue Locations)"
+ },
+ "special": "Real estate is not included in the Single Store estimates. Under the Purchase Program the franchisee typically subleases the land and building from an IHOP Affiliate and leases equipment from IHOP; the FDD states it is the custom of IHOP Affiliates 'to charge rentals which exceed both the base rent and the percentage rent payable by the applicable IHOP Affiliate to the Master Landlord'. Non-traditional venues (51 franchised in 2025) are offered under a separate FDD.",
+ "confidence": "high",
+ "issues": "Item 19 has no overall average; headline uses the freestanding prototype row (annualized, includes new 2025 openings). Royalty may be reduced under Purchase Program or incentives.",
+ "source": {
+  "doc": "35640-202603-16",
+  "received": "2026-03-27",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B00A0539F-0000-CD94-B237-E1DD000BE2F5%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 488,
+  "registrant": "IHOP FRANCHISOR LLC (TRADITIONAL PROGRAM)",
+  "filedName": "IHOP & INTERNATIONAL HOUSE OF PANCAKES",
+  "type": "Clean FDD"
+ }
+}

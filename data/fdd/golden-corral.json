@@ -1,0 +1,215 @@
+{
+ "slug": "golden-corral",
+ "brand": "Golden Corral",
+ "franchisor": "Golden Corral Franchising Systems, Inc.",
+ "issuanceDate": "2026-04-27",
+ "amendedDate": null,
+ "format": "Small traditional restaurant design (~7,700-8,500 sq ft buffet restaurant), not including cost of land and site work",
+ "invest": {
+  "low": 3631328,
+  "high": 4508130,
+  "toFranchisorLow": 1230000,
+  "toFranchisorHigh": 1370000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a franchised restaurant ranges from $3,631,328 to $4,508,130 for a small traditional restaurant design ... These ranges include $1,230,000 to $1,370,000 that must or may be paid to the franchisor and its affiliates for the small traditional restaurant design"
+ },
+ "fee": {
+  "low": 50000,
+  "high": 50000,
+  "quote": "The initial franchise fee, regardless of building design, is $50,000, payable as follows: $20,000 when you sign the Franchise Agreement, $15,000 when we notify you of site approval for the Restaurant, and $15,000 at least 14 days before opening the Restaurant.",
+  "note": "VetFran: 50% discount of the initial franchise fee for qualifying veterans. Existing franchisees (1+ year) signing a new Development Agreement by April 15, 2027 pay an initial franchise fee of only $15,000 per Restaurant under construction within 18 months. Development fee $20,000 per Restaurant, credited against the initial franchise fee. Prorated fee for terms shorter than the standard 15 years."
+ },
+ "royalty": {
+  "pct": 4,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty 4% of Gross Sales Weekly by electronic funds transfer See Note 2"
+ },
+ "adFund": {
+  "pct": 2.4,
+  "pctHigh": 6,
+  "localPct": null,
+  "quote": "Advertising Contributions 2% - 6% of Gross Sales – Currently 2.4% Weekly by electronic funds transfer",
+  "note": "Currently 2.4%, range 2% to 6% of Gross Sales. Opening Advertising $10,000 - $15,000 before and during the first 90 days after opening."
+ },
+ "otherRecurring": [
+  {
+   "name": "POS Software (Qu)",
+   "amount": "$311.50 per month per location for the minimum Qu hardware package; $364 per month per location for the larger hardware package",
+   "annualUsd": null
+  },
+  {
+   "name": "POS Hardware Subscription (optional HaaS)",
+   "amount": "$298.30 per month per location (minimum package) or $395.87 per month (larger package), plus $40 per month per location Qu help desk fee",
+   "annualUsd": null
+  },
+  {
+   "name": "Back of House Management System (Decision Logic)",
+   "amount": "$190 per month per location",
+   "annualUsd": 2280
+  },
+  {
+   "name": "Network and Security Bundle (AT&T)",
+   "amount": "$248.75 per month per location",
+   "annualUsd": 2985
+  },
+  {
+   "name": "Personal Computer Backoffice Hardware and Support Services",
+   "amount": "$69.22 per month per location, plus ad hoc charges for any service or maintenance required",
+   "annualUsd": null
+  },
+  {
+   "name": "Golden Corral Help Desk",
+   "amount": "$220.83 per month per location",
+   "annualUsd": 2649.96
+  },
+  {
+   "name": "Electronic Learning Platform",
+   "amount": "$335 per quarter per location",
+   "annualUsd": 1340
+  },
+  {
+   "name": "EcoSure Food Safety Program",
+   "amount": "$262.80 per inspection (minimum of 1 inspection per quarter)",
+   "annualUsd": null
+  },
+  {
+   "name": "Other Required Software",
+   "amount": "Microsoft Office 365 - $30.40 per month per location, plus several security/software items ($0.29 to $24.99 per month each; KnowBe4 $22.00 per year)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Franchisees pay 5% of the then-current initial franchise fee. Developers pay the greater of 5% of the aggregate development fee paid by the selling developer or our costs to review the proposed transfer",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average gross sales, franchised Metro market Restaurants, fiscal 2025 (263 of 315 reporting franchised Restaurants; no all-restaurant average is printed)",
+   "value": 4923317,
+   "count": 263,
+   "period": "fiscal 2025 (January 1 - December 31, 2025)",
+   "median": 4659201
+  },
+  "other": [
+   {
+    "label": "Average gross sales, franchised Small market Restaurants (50), 2025, dollars",
+    "value": 3698944
+   },
+   {
+    "label": "Median gross sales, franchised Small market Restaurants, 2025, dollars",
+    "value": 3530953
+   },
+   {
+    "label": "Average gross sales, franchised Non-Traditional Restaurants (2), 2025, dollars",
+    "value": 4475585
+   },
+   {
+    "label": "Average operating income, Metro market (263), 2025, dollars",
+    "value": 1092235
+   },
+   {
+    "label": "Average operating income, Metro market (263), 2025, % of sales",
+    "value": 22.18
+   },
+   {
+    "label": "Median operating income, Metro market, 2025, dollars",
+    "value": 957393
+   },
+   {
+    "label": "Median operating income, Metro market, 2025, % of sales",
+    "value": 20.55
+   },
+   {
+    "label": "Average operating income, Small market (50), 2025, dollars",
+    "value": 701427
+   },
+   {
+    "label": "Average operating income, Small market (50), 2025, % of sales",
+    "value": 18.96
+   },
+   {
+    "label": "Average operating income, Non-Traditional (2), 2025, % of sales",
+    "value": 20.45
+   },
+   {
+    "label": "Average food cost, Metro market, 2025, % of sales",
+    "value": 38.28
+   },
+   {
+    "label": "Average labor related expenses, Metro market, 2025, % of sales",
+    "value": 27.77
+   },
+   {
+    "label": "Average controllable expenses, Metro market, 2025, % of sales",
+    "value": 11.77
+   },
+   {
+    "label": "Average gross sales, top 20% Metro market Restaurants (53), 2025, dollars",
+    "value": 7429329
+   },
+   {
+    "label": "Average operating income, top 20% Metro market, 2025, % of sales",
+    "value": 25.83
+   },
+   {
+    "label": "Average gross sales, bottom 20% Metro market Restaurants (53), 2025, dollars",
+    "value": 2984496
+   },
+   {
+    "label": "Average operating income, bottom 20% Metro market, 2025, % of sales",
+    "value": 17.41
+   },
+   {
+    "label": "Average gross sales, top 20% Small market Restaurants (10), 2025, dollars",
+    "value": 5238713
+   },
+   {
+    "label": "Average gross sales, bottom 20% Small market Restaurants (10), 2025, dollars",
+    "value": 2525021
+   },
+   {
+    "label": "Average operating income, bottom 20% Small market, 2025, % of sales",
+    "value": 11.4
+   },
+   {
+    "label": "Average gross sales, Metro Restaurants opened after 2016 (35), 2025, dollars",
+    "value": 5268264
+   },
+   {
+    "label": "Average operating income, Metro Restaurants opened after 2016, 2025, % of sales",
+    "value": 22.85
+   },
+   {
+    "label": "Average gross sales, Small market Restaurants opened after 2016 (10), 2025, dollars",
+    "value": 3050405
+   }
+  ],
+  "profitPct": 22.18,
+  "quote": "2025 Average Gross Sales (Note 1) $4,923,317 100.00% $3,698,944 100.00% $4,475,585 100.00% ... 2025 Median Gross Sales $4,659,201 100.00% $3,530,953 ... Number of Restaurants 263 50 2 (Table 1, Metro / Small / Non-Traditional)",
+  "note": "Operating income = gross sales minus food cost, labor-related expenses and controllable expenses (utilities, maintenance, sanitation) only. Excludes rent/land/building/equipment, debt service, depreciation, advertising, administrative expenses, taxes, licenses, insurance and the 4% royalty, so it overstates profit. Table 1 covers 315 franchised Restaurants; excludes 7 that left the system, 1 open less than 6 months and 27 that had not reported; 11 Restaurants open 6-12 months were annualized."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 344,
+  "company": 4,
+  "total": 348,
+  "franchisedNetChange": -4,
+  "quote": "Franchised 2025 348 344 -4 Company-Owned 2025 3 4 1 Total Outlets 2025 351 348 -3"
+ },
+ "special": "Pre-opening purchases from the franchisor's affiliate Coastal (equipment, signs, build-out): estimated $530,000 to $1,500,000 if you use Coastal. New Development Incentive Program (agreements signed by July 31, 2027, opened within 24 months): franchisor reimburses 3% of Gross Sales in year 1, 2% in year 2 and 1% in year 3, plus up to $15,000 of training costs for up to 3 managers (up to $45,000). Item 7 excludes land and site work; if leased, annual rent may approximate 9% to 12% of total acquisition and construction cost.",
+ "confidence": "high",
+ "issues": "Small traditional Item 7 lines sum to $3,630,828, $500 below the printed low total $3,631,328 (high matches). Conversion restaurant high: cover says $3,835,640 but Item 7 table total says $4,505,430. Item 19 says 343 franchised Restaurants at 2025 year end vs 344 in Item 20 Table 1. No all-restaurant franchised average sales; headline is Metro markets. Transfer fee 5% of then-current fee ($2,500 implied) not printed in dollars.",
+ "source": {
+  "doc": "36264-202604-10",
+  "received": "2026-04-27",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B20CB6E9E-0000-CF1C-A1A7-F97FAE3837FE%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 310,
+  "registrant": "GOLDEN CORRAL FRANCHISING SYSTEMS, INC.",
+  "filedName": "GOLDEN CORRAL STEAKS, BUFFET & BAKERY GOLDEN CORRAL FAMILY STEAKHOUSE RESTAURANT GOLDEN CORRAL GOLDEN CORRAL BUFFET & GRILL",
+  "type": "Clean FDD"
+ }
+}

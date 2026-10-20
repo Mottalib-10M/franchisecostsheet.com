@@ -1,0 +1,17 @@
+{
+ "burgers": ["mcdonalds", "wendys", "burger-king", "sonic", "dairy-queen", "culvers", "five-guys", "jack-in-the-box", "carls-jr", "hardees", "checkers", "freddys"],
+ "chicken": ["chick-fil-a", "popeyes", "kfc", "churchs", "bojangles", "buffalo-wild-wings"],
+ "pizza": ["dominos", "pizza-hut", "little-caesars", "papa-johns", "marcos-pizza", "blaze-pizza", "pizza-ranch", "jets-pizza"],
+ "sandwiches": ["subway", "arbys", "jimmy-johns", "firehouse-subs", "jersey-mikes", "potbelly", "mcalisters", "schlotzskys", "panera"],
+ "mexican": ["taco-bell", "del-taco", "qdoba", "moes", "taco-johns"],
+ "coffee-treats": ["dunkin", "tropical-smoothie", "crumbl", "baskin-robbins", "cold-stone", "auntie-annes", "cinnabon", "nothing-bundt-cakes", "scooters-coffee", "jamba", "ben-jerrys"],
+ "casual-dining": ["applebees", "ihop", "dennys", "golden-corral"],
+ "fitness": ["planet-fitness", "anytime-fitness", "orangetheory", "snap-fitness", "club-pilates", "crunch-fitness", "pure-barre", "f45"],
+ "beauty-wellness": ["great-clips", "supercuts", "european-wax-center", "the-joint", "massage-envy"],
+ "education-childcare": ["mathnasium", "kumon", "goddard-school", "primrose"],
+ "services": ["ups-store"],
+ "home-services": ["servpro", "mr-rooter", "mosquito-joe", "two-men-and-a-truck", "chem-dry"],
+ "senior-care": ["home-instead", "visiting-angels"],
+ "auto": ["valvoline", "jiffy-lube", "take-5"],
+ "retail": ["pet-supplies-plus"]
+}

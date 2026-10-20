@@ -1,0 +1,147 @@
+{
+ "slug": "mcalisters",
+ "brand": "McAlister's Deli",
+ "franchisor": "McAlister's Franchisor SPV LLC",
+ "issuanceDate": "2026-03-27",
+ "amendedDate": null,
+ "format": "Traditional Restaurant at an endcap or inline shopping center location (about 3,100 to 3,500 sq ft, leased, with drive-thru); freestanding costs $1,282,525 to $2,575,400",
+ "invest": {
+  "low": 910175,
+  "high": 1816100,
+  "toFranchisorLow": 35851,
+  "toFranchisorHigh": 118158,
+  "excludesRealEstate": true,
+  "quote": "Total Initial Investment22 $910,175 $1,816,100 (Restaurant at an Endcap or Inline Shopping Center Location). Cover: The total investment necessary to begin operation of a franchised Restaurant ranges from $910,175 to $2,575,400. This includes $35,851 to $118,158 that must be paid to us or our affiliates."
+ },
+ "fee": {
+  "low": 35500,
+  "high": 35500,
+  "quote": "When you sign a Franchise Agreement, you must pay us an initial franchise fee of $35,500 (the “Initial Franchise Fee”).",
+  "note": "VetFran: Initial Franchise Fee is $20,000 for qualifying veterans or members of the Armed Forces. Case-by-case reductions (additional units, reopening, multi-unit operators). During 2025 franchisees paid $10,000 to $35,500. Grand opening advertising minimum $25,000."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "net sales",
+  "flat": null,
+  "quote": "Royalty Fee 5% of Net Sales. Payable weekly on the date specified in the Manuals (the “Payment Due Date”)"
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": 3,
+  "localPct": 0.75,
+  "quote": "Advertising Contribution Currently, 2% of Net Sales. ... We may increase the Advertising Contribution up to 3% of Net Sales by notice to franchisees at any time.",
+  "note": "Currently 2%, up to 3%. Local Marketing Obligation currently not less than 0.75% of Net Sales each calendar quarter. Advertising Cooperative contribution may also apply."
+ },
+ "otherRecurring": [
+  {
+   "name": "POS System License and Lease Fees",
+   "amount": "Currently, $351 to $456 per month under the CapEx Program and $743 to $1,358 per month under the HaaS Program",
+   "annualUsd": null
+  },
+  {
+   "name": "POS System Support Fee",
+   "amount": "Currently, between $125 and $250 per month",
+   "annualUsd": null
+  },
+  {
+   "name": "Ordering Support Fee",
+   "amount": "Currently, 3% of the pre-tax transaction amount for each transaction that is processed through our online ordering system",
+   "annualUsd": null
+  },
+  {
+   "name": "Online Ordering Fee",
+   "amount": "Currently, $141 per month, plus a per transaction fee (currently, 0.04% per transaction)",
+   "annualUsd": null
+  },
+  {
+   "name": "Loyalty App Fee",
+   "amount": "Currently, $66 per month",
+   "annualUsd": 792
+  },
+  {
+   "name": "Gift card processor",
+   "amount": "$4.50 per Restaurant per month",
+   "annualUsd": 54
+  },
+  {
+   "name": "Learning Management System License Fee",
+   "amount": "Currently, $210 per year",
+   "annualUsd": 210
+  },
+  {
+   "name": "Supply Chain Fee",
+   "amount": "Currently, $0.60 to $0.90 per case purchased through certain Appointed Distributors",
+   "annualUsd": null
+  },
+  {
+   "name": "Sublease Administration Fee",
+   "amount": "Currently, $200 per month (only if you sublease a Restaurant from us)",
+   "annualUsd": 2400
+  }
+ ],
+ "transferFee": {
+  "amount": "50% of the then-current Initial Franchise Fee if it is a Control Transfer; if it is a transfer to a related party or that is not a Control Transfer, 10% of the then-current Initial Franchise Fee.",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average net sales, franchised Traditional Franchises reporting all 52 weeks (excludes non-traditional, express and affiliate-owned)",
+   "value": 1868219,
+   "count": 477,
+   "period": "fiscal 2025 (ended December 28, 2025)",
+   "median": 1764584
+  },
+  "other": [
+   {
+    "label": "Average net sales, top quartile (120), fiscal 2025, dollars",
+    "value": 2754102
+   },
+   {
+    "label": "Average net sales, 2nd quartile (119), fiscal 2025, dollars",
+    "value": 1985797
+   },
+   {
+    "label": "Average net sales, 3rd quartile (119), fiscal 2025, dollars",
+    "value": 1589119
+   },
+   {
+    "label": "Average net sales, bottom quartile (119), fiscal 2025, dollars",
+    "value": 1136413
+   },
+   {
+    "label": "Lowest net sales, fiscal 2025, dollars",
+    "value": 635548
+   },
+   {
+    "label": "Highest net sales, fiscal 2025, dollars",
+    "value": 4932405
+   }
+  ],
+  "profitPct": null,
+  "quote": "Total $1,868,219 209/477 (44%) $1,764,584 $635,548 $4,932,405 (average net sales, number attaining average, median, lowest, highest; Traditional Franchises, Fiscal Year 2025)",
+  "note": "Sales only: 'These sales figures do not reflect the costs of sales, operating expenses or other costs or expenses'. 477 of 505 Traditional Franchises; excludes 28 not reporting all 52 weeks (25 opened in 2025), 10 permanently closed and 5 reacquired; excludes non-traditional venues, express units and affiliate-owned Restaurants. Unaudited franchisee reports."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 533,
+  "company": 39,
+  "total": 572,
+  "franchisedNetChange": 9,
+  "quote": "Franchised 2025 524 533 +9 Company-Owned 2025 36 39 +3 Total Outlets 2025 560 572 +12"
+ },
+ "special": "Several ancillary fees are paid to the franchisor or affiliates (Ordering Support Fee 3% of online ordering transactions, POS license/lease fees passed through at cost plus 0.5% admin, supply chain fee per case collected from distributors). Subleasing from the franchisor adds a $200 monthly Sublease Administration Fee on top of rent. Item 7 includes only one month of rent; buying land for a freestanding Restaurant estimated at $500,000 to $1,000,000.",
+ "confidence": "high",
+ "issues": "Item 19 intro defines eligible franchises by 'all 52 weeks of Fiscal Year 2024' though the table is Fiscal Year 2025 (apparent typo). Item 19 counts 505 Traditional Franchises vs 533 franchised outlets in Item 20 (non-traditional included). Transfer fee not printed in dollars (50% of $35,500 would be $17,750).",
+ "source": {
+  "doc": "35790-202604-09",
+  "received": "2026-04-01",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B3076889D-0000-C89F-95EF-C70F3FF511E8%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 367,
+  "registrant": "MCALISTER'S FRANCHISOR SPV LLC",
+  "filedName": "MCALISTER'S DELI",
+  "type": "Clean FDD"
+ }
+}

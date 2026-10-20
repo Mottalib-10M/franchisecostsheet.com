@@ -1,0 +1,131 @@
+{
+ "slug": "panera",
+ "brand": "Panera Bread",
+ "franchisor": "Panera, LLC",
+ "issuanceDate": "2026-04-23",
+ "amendedDate": null,
+ "format": "Single \"Core\" Panera Bread Bakery-Cafe (approx. 3,200 to 3,500 sq ft) in a non-urban market, excluding real estate and landlord allowances; Panera primarily sells multi-unit Area Development Agreements (minimum 2 cafes)",
+ "invest": {
+  "low": 1337139,
+  "high": 4569880,
+  "toFranchisorLow": 50000,
+  "toFranchisorHigh": null,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Panera Bread Bakery-Cafe in the \"Core\" format ranges from $1,337,139 to $4,569,880 (excluding real estate and related costs, and landlord allowances), including an initial franchise fee of $50,000 and various initial fees and payments of up to $300,000 payable to us for certain optional development and construction services."
+ },
+ "fee": {
+  "low": 50000,
+  "high": 50000,
+  "quote": "If you do not sign an Area Development Agreement, then the initial franchise fee for a Core Bakery-Cafe or Small Box Bakery-Cafe is $50,000, which is due and payable when you sign the Franchise Agreement.",
+  "note": "Under an Area Development Agreement (minimum 2 cafes) the Development Fee is $50,000 x number of cafes, credited so no separate franchise fee is due. Non-Traditional Bakery-Cafe fee is 50% (currently $25,000). In fiscal 2025 Panera collected initial franchise fees ranging from $12,500 to $35,000 and development fees from $15,000 to $20,000. Optional Development Services and Real Estate Selection/Construction Management services are $150,000 each."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "net sales",
+  "flat": null,
+  "quote": "Royalty 5% of Net Sales Payable on 1st business day immediately following each \"Reporting Period\""
+ },
+ "adFund": {
+  "pct": 4,
+  "pctHigh": null,
+  "localPct": 2,
+  "quote": "National Advertising Fund (\"NAF\") ... 4% of Net Sales for standard Panera Bread Bakery-Cafes; 2.6% of Net Sales for Non-Traditional Bakery-Cafes. Local Advertising Funds (\"LAF\") 2.0% of Net Sales ... Marketing Administration Fee (\"MAF\") 0.4% of Net Sales",
+  "note": "NAF 4% + MAF 0.4% + LAF 2.0% local spend (through fiscal 2026 franchisees may temporarily reduce LAF to 0.5%). NAF increases require a vote of 66% of all cafes or 51% of franchised cafes."
+ },
+ "otherRecurring": [
+  {
+   "name": "Marketing Administration Fee (MAF)",
+   "amount": "0.4% of Net Sales",
+   "annualUsd": null
+  },
+  {
+   "name": "Digital & eCommerce",
+   "amount": "1.75% Digital Net Sales, monthly",
+   "annualUsd": null
+  },
+  {
+   "name": "Cafe Network",
+   "amount": "$250 - $375 monthly per Bakery-Cafe",
+   "annualUsd": null
+  },
+  {
+   "name": "Cafe Technology with Drive Thru (3 POS; BOH; Help Desk)",
+   "amount": "$425 - $500 monthly per Bakery-Cafe ($385 - $410 without Drive Thru)",
+   "annualUsd": null
+  },
+  {
+   "name": "Kiosks (2 kiosks per cafe)",
+   "amount": "$230 - $275 monthly",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$25,000 for the transfer of a Bakery-Cafe under the Franchise Agreement.",
+  "usd": 25000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Net Sales, franchisee-owned Bakery-Cafes open the entire fiscal year 2025",
+   "value": 2541217,
+   "count": 1073,
+   "period": "52-week fiscal year ending December 30, 2025",
+   "median": null
+  },
+  "other": [
+   {
+    "label": "Average Net Sales, company-owned Bakery-Cafes (1,087), fiscal 2025 ($)",
+    "value": 2680192
+   },
+   {
+    "label": "Average Net Sales, company-owned and franchisee-owned Bakery-Cafes (2,160), fiscal 2025 ($)",
+    "value": 2611155
+   },
+   {
+    "label": "Average EBITDA, company-owned Bakery-Cafes (1,087), fiscal 2025 ($, before franchise fee/royalty)",
+    "value": 543080
+   },
+   {
+    "label": "Average EBITDA, company-owned Bakery-Cafes, fiscal 2025 (% of average Gross Revenues, before royalty)",
+    "value": 19.3
+   },
+   {
+    "label": "Average Gross Profit, company-owned Bakery-Cafes, fiscal 2025 (% of Gross Revenues)",
+    "value": 68.5
+   },
+   {
+    "label": "Average Cost of Sales, company-owned Bakery-Cafes, fiscal 2025 (% of Gross Revenues)",
+    "value": 26.7
+   },
+   {
+    "label": "Average Gross Revenues, company-owned Bakery-Cafes, fiscal 2025 ($)",
+    "value": 2817493
+   }
+  ],
+  "profitPct": 19.3,
+  "quote": "AVERAGE NET SALES Company-owned Bakery-Cafes $2,680,192 Franchisee-owned Bakery-Cafes $2,541,217 Company-owned and Franchisee-owned Bakery-Cafes $2,611,155",
+  "note": "Franchisee figure is Net Sales only (range $463,536 to $5,876,372; 483 or 45.0% at or above average); no median printed. EBITDA is company-owned only and excludes royalties and franchise fee amortization a franchisee would pay. Not relevant to Non-Traditional Bakery-Cafes."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1106,
+  "company": 1108,
+  "total": 2214,
+  "franchisedNetChange": 1,
+  "quote": "Franchised 2025 1105 1106 +1 Company-Owned 2025 1080 1108 +28 Total Outlets 2025 2185 2214 +29"
+ },
+ "special": "Panera primarily offers multi-unit Area Development Agreements (minimum 2 cafes; Development Fee $100,000 for 2), single-unit franchises only in certain situations. Panera may sell franchisees cafes it develops at total development cost plus a Development Fee (currently $150,000). If you own the premises, Panera may require a lease option or a prime lease/sublease with Panera at fair market rent. EBITDA margin is company-owned and excludes the 5% royalty and initial fee amortization a franchisee would pay.",
+ "confidence": "high",
+ "issues": "Cover gives only the $50,000 fee plus 'up to $300,000' optional services paid to Panera; no single printed total, so toFranchisorHigh left null. Item 19 prints no median for franchisee-owned cafes. Item 20 includes Non-Traditional Locations.",
+ "source": {
+  "doc": "36220-202604-09",
+  "received": "2026-04-25",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B5089A89E-0000-C410-8A54-BF44A1C19EDF%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 374,
+  "registrant": "PANERA, LLC",
+  "filedName": "PANERA BREAD BAKERY-CAFÃ",
+  "type": "Clean FDD"
+ }
+}

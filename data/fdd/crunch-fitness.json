@@ -1,0 +1,123 @@
+{
+ "slug": "crunch-fitness",
+ "brand": "Crunch Fitness",
+ "franchisor": "Crunch Franchising, LLC",
+ "issuanceDate": "2026-04-29",
+ "amendedDate": null,
+ "format": "Crunch Fitness health club (approx. 20,000 to 60,000 sq ft, generally leased)",
+ "invest": {
+  "low": 2147500,
+  "high": 5367000,
+  "toFranchisorLow": 35000,
+  "toFranchisorHigh": 55000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Crunch Fitness health club franchise is $2,147,500 to $5,367,000.  This includes $35,000 to $55,000 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 35000,
+  "high": 35000,
+  "quote": "The initial fee you will pay under the Franchise Agreement (\"Initial Franchise Fee\") will be $35,000 regardless of whether you will open a Crunch Fitness or a Crunch Select health club",
+  "note": "Development Fee or Multi-Unit Fee of $35,000 per club replaces the Initial Franchise Fee. Reduced, waived or deferred fees possible (large developers, veterans, new markets); in 2025 new franchisees paid $0 to $35,000. Opening extension fee $5,000 per 30-day extension."
+ },
+ "royalty": {
+  "pct": 5,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty 5.0% of monthly Gross Sales.(2) By the 5th day of the following calendar month."
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": null,
+  "localPct": 7,
+  "quote": "Brand Marketing Fund Contribution 2% of monthly Gross Sales but we have the right to charge a pro rata share of actual marketing expenses instead.(2)",
+  "note": "Local advertising: the lesser of (1) 7% of Gross Sales (incl. personal training) or (2) by club age: 1-24 months greater of $10,000 or 8% of Gross Sales (excl. personal training); 25-72 months greater of $8,000 or 7%; over 72 months greater of $10,000 or 5%. Brand Marketing Fund does not offset local spend."
+ },
+ "otherRecurring": [
+  {
+   "name": "Club Management Software System (ABC)",
+   "amount": "$159 per month to ABC plus transaction processing fees",
+   "annualUsd": 1908
+  },
+  {
+   "name": "Technology and IT Support Services",
+   "amount": "Currently $75 per month",
+   "annualUsd": 900
+  },
+  {
+   "name": "Online Enrollment Processing",
+   "amount": "Currently $5 per enrollment",
+   "annualUsd": null
+  },
+  {
+   "name": "Local Advertising",
+   "amount": "The lesser of 7% of Gross Sales or an age-based minimum (greater of $8,000-$10,000 or 5%-8% of Gross Sales excl. personal training), monthly",
+   "annualUsd": null
+  },
+  {
+   "name": "Remodel Equipment",
+   "amount": "$250,000 to $1,500,000 upon required remodeling",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "For Franchise Agreements: $10,000 if there is a Change in Control, or $1,000 if there is no Change in Control, and in each case, our actual cost, including legal fees, if higher.",
+  "usd": 10000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Median Gross Revenue of the MIDDLE THIRD (111 clubs) of franchised domestic Crunch Fitness clubs open all of 2025 (no all-club average or median in the extracted text)",
+   "value": 2848462,
+   "count": 111,
+   "period": "calendar 2025",
+   "median": 2848462
+  },
+  "other": [
+   {
+    "label": "Median Gross Revenue, upper third (110 clubs), 2025",
+    "value": 4731483
+   },
+   {
+    "label": "Median Gross Revenue, bottom third (110 clubs), 2025",
+    "value": 1666443
+   },
+   {
+    "label": "Highest Gross Revenue among 331 operating clubs, 2025",
+    "value": 7614726
+   },
+   {
+    "label": "Lowest Gross Revenue among 331 operating clubs, 2025",
+    "value": 812737
+   },
+   {
+    "label": "Number of qualified franchised clubs reporting, 2025",
+    "value": 331
+   }
+  ],
+  "profitPct": null,
+  "quote": "Of the 111 locations in the middle third of the Franchise clubs, 62 locations, or 56%, are below the average and 49 locations, or 44%, are above the average.  The median for this group was $2,848,462.",
+  "note": "Crunch Fitness format only; 331 of 352 qualified domestic franchised clubs (94%) submitted financials. Gross Revenue includes membership, personal training and retail, less sales taxes, refunds and discounts. An EBITDA operating statement by club age (12-59 months, 167 clubs) is described but its table is not in the extracted text. Crunch Select: 'We do not make any representations about a franchisee's future financial performance or the past financial performance of company-owned or franchised outlets.'"
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 481,
+  "company": 5,
+  "total": 486,
+  "franchisedNetChange": 66,
+  "quote": "Franchised 2023 315 359 +44 2024 359 415 +56 2025 415 481 +66 Company-Owned ... 2025 8 5 -3 Total Outlets ... 2025 423 486 +63 (Crunch Fitness Model)"
+ },
+ "special": "Very large investment ($2.1M to $5.4M) with a modest franchise fee; local advertising minimums are high (up to 8% of Gross Sales or $10,000/month) on top of 5% royalty and 2% brand fund. Required remodel/equipment $250,000 to $1,500,000. Crunch Select format: $3,192,500 to $5,277,000; 0 Crunch Select outlets at end of 2025.",
+ "confidence": "medium",
+ "issues": "Item 19 averages, per-third average tables and the EBITDA statement are images not present in the text; only third medians, highest and lowest are printed in text. Headline uses the middle-third median, not an all-club figure. Item 20 Table 1 is for the Crunch Fitness model (US).",
+ "source": {
+  "doc": "36375-202604-12",
+  "received": "2026-04-30",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B206E1F9F-0000-C437-91C3-EDABD48651A0%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 357,
+  "registrant": "Crunch Franchising, LLC",
+  "filedName": "Crunch",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "dominos",
+ "brand": "Domino's",
+ "franchisor": "Domino's Pizza Franchising LLC",
+ "issuanceDate": "2026-04-01",
+ "amendedDate": "2026-07-29",
+ "format": "Domino's Pizza Traditional Store (leased delivery and carry-out store)",
+ "invest": {
+  "low": 231450,
+  "high": 743500,
+  "toFranchisorLow": 117950,
+  "toFranchisorHigh": 196500,
+  "excludesRealEstate": true,
+  "quote": "The total investment ranges from $231,450 to $743,500 for a Domino's Pizza Traditional Store ... We estimate the payments made to us and our affiliates together with Initial Fee payments will range from $117,950 to $196,500 for a Domino's Pizza Traditional Store"
+ },
+ "fee": {
+  "low": 0,
+  "high": 10000,
+  "quote": "you will pay an initial franchise application processing fee (\"Initial Fee\") ranging from $0 to $10,000. ... (1) If you are constructing a Store you will pay an Initial Fee of up to $10,000.",
+  "note": "May be waived in whole or part under incentive programs; generally not billed until the Store is operating. Training fee up to $1,250. Reservation fee of $25,000 under the new Store build incentive program only if Development Agreement requirements are missed. Purchasing an existing Store: $1,500 transfer fee."
+ },
+ "royalty": {
+  "pct": 5.5,
+  "pctHigh": null,
+  "basis": "weekly Royalty Sales (total receipts excluding sales taxes and approved coupons/discounts)",
+  "flat": null,
+  "quote": "Royalty Fee 5.5% of Store's weekly Royalty Sales2 Paid via electronic funds transfer by Thursday of each week on royalty sales for the week ending on the preceding Sunday."
+ },
+ "adFund": {
+  "pct": 4,
+  "pctHigh": null,
+  "localPct": 2,
+  "quote": "Advertising Fund 4% of Store's weekly Royalty Sales 2, 4 under the Franchise Agreement. ... Advertising Cooperatives 1-4%6",
+  "note": "National Advertising Fund 4%. Local/regional cooperatives 1-4%; franchisor may require no less than 2% to the cooperative (or up to 2% local spend if no cooperative). Maximum national + local/regional is 9% of weekly Royalty Sales."
+ },
+ "otherRecurring": [
+  {
+   "name": "Annual Software Enhancement Fee (Domino's PULSE)",
+   "amount": "Currently, $819.25 per Store per year, after the first year",
+   "annualUsd": 819.25
+  },
+  {
+   "name": "Technology Transaction Fee",
+   "amount": "$0.385 per digital order",
+   "annualUsd": null
+  },
+  {
+   "name": "Annual Service Fee for Application Processing (SmartRecruiters)",
+   "amount": "$432.00 annually",
+   "annualUsd": 432
+  },
+  {
+   "name": "Meraki Licensing",
+   "amount": "Currently $280.00 per year",
+   "annualUsd": 280
+  },
+  {
+   "name": "Credit Card Processing Fee",
+   "amount": "$.0525 per transaction",
+   "annualUsd": null
+  },
+  {
+   "name": "PULSE maintenance, support, third-party licenses and upgrades (estimate)",
+   "amount": "should not exceed an average of $7,000 annually",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$1,500 Before transfer. Payable when Franchise Agreement or the assets of the Store or any ownership interest is transferred.",
+  "usd": 1500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average weekly unit sales (AWUS), franchised Domino's Pizza Traditional Stores in the U.S. open the full year 2025 (weekly figure, not annual)",
+   "value": 27267,
+   "count": 6655,
+   "period": "calendar 2025",
+   "median": 26059
+  },
+  "other": [
+   {
+    "label": "AWUS, company-owned Traditional Stores (250), 2025",
+    "value": 26728
+   },
+   {
+    "label": "AWUS, combined franchised and company-owned (6,905), 2025",
+    "value": 27248
+   },
+   {
+    "label": "AWUS, franchised stores, 2024",
+    "value": 26467
+   },
+   {
+    "label": "EBITDA % of Royalty Sales, franchised stores with AWUS $25,001-$30,000 (1,402 stores), 2025",
+    "value": 11.8
+   },
+   {
+    "label": "EBITDA % of Royalty Sales, franchised stores with AWUS $30,001+ (2,195 stores), 2025",
+    "value": 14.4
+   },
+   {
+    "label": "EBITDA % of Royalty Sales, franchised stores with AWUS <$15,000 (470 stores), 2025",
+    "value": 1.5
+   }
+  ],
+  "quote": "AWUS 2021 2022 2023 2024 2025 Franchised $26,004 $25,554 $25,825 $26,467 $27,267 ... MEDIAN WEEKLY UNIT SALES ... Franchised $24,739 $24,322 $24,594 $25,160 $26,059",
+  "note": "Weekly sales only, no annual figure printed. Includes all U.S. Traditional Stores open the full twelve months (excludes Guam, Puerto Rico, U.S. Virgin Islands). 2,963 (50%) of franchised stores met or exceeded AWUS in 2025. EBITDA tables from P&Ls of 6,571 franchised stores, include Supply Chain Profit Sharing and Volume Discount rebates; total variable costs include royalty and advertising."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 6948,
+  "company": 262,
+  "total": 7210,
+  "franchisedNetChange": 197,
+  "quote": "Traditional Franchised ... 2025 6751 6948 +197 Traditional Company-Owned ... 2025 292 262 -30 Total Outlets ... 2025 7043 7210 +167"
+ },
+ "special": "Investment assumes a leased site (no real estate purchase). Most equipment, inventory and supplies are bought from the franchisor's affiliate DPD (Domino's supply chain); EBITDA in Item 19 includes Supply Chain Profit Sharing rebates. Royalty is computed weekly. Required Domino's PULSE POS from affiliate DPL ($4,200 initial license fee; hardware and software $15,000 to $25,000).",
+ "confidence": "high",
+ "issues": "Item 19 gives weekly, not annual, sales; headline value is the weekly AWUS. Item 20 counts are Traditional outlets only (plus 26 franchised Non-Traditional outlets in 2025). Item 19 EBITDA section says 6,896 franchised stores at end of 2025, differing from Item 20 (6,948 Traditional + 26 Non-Traditional).",
+ "source": {
+  "doc": "37073-202607-03",
+  "received": "2026-07-29",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B904DD79F-0000-C018-8633-DF39373E5386%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 546,
+  "registrant": "DOMINO'S PIZZA FRANCHISING LLC",
+  "filedName": "DOMINO'S PIZZA",
+  "type": "Clean FDD"
+ }
+}

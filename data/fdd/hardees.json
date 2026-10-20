@@ -1,0 +1,114 @@
+{
+ "slug": "hardees",
+ "brand": "Hardee's",
+ "franchisor": "Hardee's Restaurants LLC",
+ "issuanceDate": "2026-05-24",
+ "amendedDate": "2026-06-15",
+ "format": "New Hardee's Restaurant at a Traditional Location in an approximately 2,200 square foot freestanding building with 24 seats and drive-thru, excluding land/real property",
+ "invest": {
+  "low": 1385000,
+  "high": 2637395,
+  "toFranchisorLow": 57000,
+  "toFranchisorHigh": 97000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin the operation of a newly-developed Hardee's Restaurant ranges from approximately $1,385,000 to $2,637,395. This includes $57,000 to $97,000, which must be paid to us. The total investment range does not include the cost of buying or renting the business location."
+ },
+ "fee": {
+  "low": 25000,
+  "high": 25000,
+  "quote": "The Initial Franchise Fee is $25,000, although the balance of the Initial Franchise Fee is reduced to $15,000 for a Restaurant developed pursuant to the terms of a Development Agreement.",
+  "note": "Under a Development Agreement a $10,000 non-refundable Development Fee per restaurant is credited against the fee (balance $15,000). If buying an existing company-operated restaurant, the fee is included in the negotiated purchase price. Opening Training Support Fee estimated $32,000 to $70,000 in Item 5 ($32,000 to $72,000 in Item 7). Additional FMTP trainees $500 per person per week. HR may waive the fee as an incentive; in 2026 it waived it for some takeovers of closed restaurants."
+ },
+ "royalty": {
+  "pct": 4,
+  "pctHigh": 6,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty 4% of Gross Sales (2) (3) Within 10 calendar days after the end of each fiscal week"
+ },
+ "adFund": {
+  "pct": 5.5,
+  "pctHigh": 7,
+  "localPct": null,
+  "quote": "An advertising and promotional obligation (\"APO\") in an amount set forth in your Franchise Agreement. Your APO will be up to 7% of Hardee's Gross Sales. Currently, your APO is 5.5% of Hardee's Gross Sales. (3)",
+  "note": "Total APO currently 5.5% (up to 7%), divided between the Hardee's National Advertising Fund (currently 4.25%, 4.50% effective June 30, 2026), a Regional Co-op where applicable (minimum 0.5%, 0.25% effective June 30, 2026; co-op may vote increases, even above 7% total) and Local Store Marketing (the remainder, not paid to HR). Development Incentive Program: royalty and APO each reduced by 3%/2%/1% in years 1-3."
+ },
+ "otherRecurring": [
+  {
+   "name": "Digital Tech Fee",
+   "amount": "Currently, $160 per fiscal period (4 week accounting period)",
+   "annualUsd": null
+  },
+  {
+   "name": "Software Support Fee (Genius or PAR Brink) and CrunchTime",
+   "amount": "Currently, $118 per Franchised Restaurant per fiscal period (4 week accounting period); in addition, $825 per Franchised Restaurant bi-annually (every 26 week accounting period) for back office support fee payable to CrunchTime",
+   "annualUsd": null
+  },
+  {
+   "name": "Star University Access Fee",
+   "amount": "Currently, $18.20 per Fiscal Period (currently a 4-week accounting period)",
+   "annualUsd": null
+  },
+  {
+   "name": "Lease / Sublease Administration Fee (only if leasing/subleasing from HR or affiliate, on renewal/amendment)",
+   "amount": "Currently, $2,500 per year",
+   "annualUsd": 2500
+  }
+ ],
+ "transferFee": {
+  "amount": "$2,500 per restaurant transferred",
+  "usd": 2500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual revenue, franchised freestanding Hardee's Restaurants (US) open the entire 53-week FY26 period",
+   "value": 1347436,
+   "count": 975,
+   "period": "FY26 (January 28, 2025 to January 26, 2026, 53 weeks)",
+   "median": 1294442
+  },
+  "other": [
+   {
+    "label": "Average revenue, company-owned freestanding restaurants (194), FY26 ($)",
+    "value": 1370338
+   },
+   {
+    "label": "Median revenue, company-owned freestanding restaurants, FY26 ($)",
+    "value": 1299224
+   },
+   {
+    "label": "Lowest revenue, franchised freestanding restaurants, FY26 ($)",
+    "value": 413015
+   },
+   {
+    "label": "Highest revenue, franchised freestanding restaurants, FY26 ($)",
+    "value": 3599953
+   }
+  ],
+  "profitPct": null,
+  "quote": "Average Revenue FY26 Franchised Hardee's Freestanding Restaurants Average Revenue $1,347,436 Median Revenue $1,294,442 # Met / Exceeded Average 471 % Met / Exceeded Average 50.1% Lowest $413,015 Highest $3,599,953",
+  "note": "Revenue only, no costs or profits. Excludes 131 non-freestanding (travel plaza, gas/convenience, college, airport), 97 Dual Concept and 88 restaurants without complete FY26 revenue data, and restaurants outside the US."
+ },
+ "units": {
+  "year": 2026,
+  "franchised": 1287,
+  "company": 198,
+  "total": 1485,
+  "franchisedNetChange": -82,
+  "quote": "Franchised 2026 1,369 1,287 -82 Company-Operated 2026 202 198 -4 Total Restaurants 2026 1,571 1,485 -86"
+ },
+ "special": "If you buy an existing restaurant from HR, the royalty may be higher, not to exceed 6% of Gross Sales, and for a Former Corporate Restaurant where HR leases the building and subleases it to you, you pay HR rent passing through all prime-lease rent and escalations (amount varies; not a % of sales). Opening Training Support Fee $32,000 to $72,000 is paid to HR. Development Incentive Program reduces royalty and APO by 3%/2%/1% in years 1-3.",
+ "confidence": "high",
+ "issues": "Opening Training Support Fee is $32,000-$70,000 in Item 5 but $32,000-$72,000 in Item 7 (Item 7 figure matches the cover's $57,000-$97,000). Item 20 fiscal year 2026 ends January 2026. Item 20 Table 2 total for 2026 is blank and the 2024 total-restaurants row shows -110 though 1707 to 1598 is -109 (printed as is).",
+ "source": {
+  "doc": "36896-202606-02",
+  "received": "2026-06-18",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B40B2469F-0000-CA17-B37E-CC94DDF9B9B7%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 600,
+  "registrant": "HARDEE'S RESTAURANTS LLC",
+  "filedName": "HARDEE'S (AA)",
+  "type": "Clean FDD"
+ }
+}

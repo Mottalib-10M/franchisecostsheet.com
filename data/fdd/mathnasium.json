@@ -1,0 +1,143 @@
+{
+ "slug": "mathnasium",
+ "brand": "Mathnasium",
+ "franchisor": "Mathnasium Franchisor LLC",
+ "issuanceDate": "2026-04-30",
+ "amendedDate": null,
+ "format": "first single Mathnasium learning center (leased, 1,200-1,600 sq ft)",
+ "invest": {
+  "low": 127316,
+  "high": 165846,
+  "toFranchisorLow": 51266,
+  "toFranchisorHigh": 52596,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of your first Mathnasium franchise ranges from $127,316 to $165,846. This includes $51,266 to $52,596 that must be paid to the franchisor or its affiliate."
+ },
+ "fee": {
+  "low": 49000,
+  "high": 49000,
+  "quote": "The initial franchise fee is $49,000 for your first franchise. You must pay the entire fee when you sign the Franchise Agreement.",
+  "note": "Additional franchise or eligible Center Director: $26,500 ($15,000 may be financed at 10%). Veterans/active duty and qualifying educators: 25% off the first center fee. Transferee: $7,000. Additional Center Incentive (existing franchisee, same territory, signed by December 31, 2026): fee waived plus up to $1,500/month royalty waived for 12 months."
+ },
+ "royalty": {
+  "pct": 10,
+  "pctHigh": null,
+  "basis": "gross receipts",
+  "flat": "Beginning in the 24th month of operation of the Center, the greater of (i) the 10% monthly royalty or (ii) $1,500. Plus Base Royalty $650 per month",
+  "quote": "Monthly Royalty Initially, 10% of your monthly Gross Receipts from all sources as a result of operating your Center. Beginning in the 24th month of operation of the Center, the greater of (i) the 10% monthly royalty or (ii) $1,500. ... Base Royalty $650 per month"
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Monthly Marketing Fee $250 plus 2% of your monthly Gross Receipts (see Note 4) from all sources as a result of operating your Center.",
+  "note": "Marketing fee is $250 per month plus 2%. Separate Digital and Local Marketing Fee of a minimum $1,000 per month paid to franchisor, credited against the local advertising requirement of at least $6,000 every 3 consecutive months. Pre-opening advertising $5,500."
+ },
+ "otherRecurring": [
+  {
+   "name": "Base Royalty",
+   "amount": "$650 per month (single base royalty per franchisee; begins 6 months after signing)",
+   "annualUsd": 7800
+  },
+  {
+   "name": "Marketing Fee fixed part",
+   "amount": "$250 per month (plus 2% of Gross Receipts)",
+   "annualUsd": 3000
+  },
+  {
+   "name": "Digital and Local Marketing Fee",
+   "amount": "A minimum of $1,000 per month",
+   "annualUsd": 12000
+  },
+  {
+   "name": "Technology License Fee",
+   "amount": "Currently, $266 per month per Mathnasium Center",
+   "annualUsd": 3192
+  },
+  {
+   "name": "Annual Convention Fee (attendance required)",
+   "amount": "Currently $550 per attendee. Payable annually",
+   "annualUsd": 550
+  }
+ ],
+ "transferFee": {
+  "amount": "$7,000 On approval of transfer (plus $3,000 training fee paid by transferee)",
+  "usd": 7000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Receipts, franchised U.S. centers operated by the same franchisee 12 months or longer at December 31, 2025",
+   "value": 384874,
+   "count": 914,
+   "period": "calendar 2025",
+   "median": 326428
+  },
+  "other": [
+   {
+    "label": "Average Operating Profit (dollar amount), 914 franchised centers, 2025 (excludes owner salary/draw and management salaries)",
+    "value": 117000
+   },
+   {
+    "label": "Average Operating Profit as % of reported Gross Receipts, 914 franchised centers, 2025",
+    "value": 30.4
+   },
+   {
+    "label": "Median Operating Profit (dollar amount), 914 franchised centers, 2025",
+    "value": 111630
+   },
+   {
+    "label": "Median Operating Profit as % of median Gross Receipts, 2025",
+    "value": 34.2
+   },
+   {
+    "label": "Average Royalties & Marketing Fees paid to franchisor (dollar amount), 2025",
+    "value": 66883
+   },
+   {
+    "label": "Average Royalties & Marketing Fees as % of Gross Receipts, 2025",
+    "value": 17.4
+   },
+   {
+    "label": "Average Total Variable Expenses as % of Gross Receipts, 2025",
+    "value": 37.7
+   },
+   {
+    "label": "Average Rent (dollar amount), 2025",
+    "value": 49098
+   },
+   {
+    "label": "Average Gross Receipts, top quartile (229 centers), 2025",
+    "value": 693314
+   },
+   {
+    "label": "Average Gross Receipts, bottom quartile (229 centers), 2025",
+    "value": 176306
+   }
+  ],
+  "quote": "Average Gross Receipts $693,314 $391,418 $278,021 $176,306 $384,874 $326,428 355 / 39% (Top 1/4, Mid-Upper, Mid-Lower, Bottom 1/4, Average, Median, Met/Exceeded Average); Operating Profit $117,000 $111,630 365 / 40% % of reported Gross Receipts 30.4% 34.2%",
+  "note": "Excludes 129 centers not operated by the same franchisee for 12+ months and 4 affiliate-operated centers. Operating Profit excludes owner salary or draw, management salaries, bonuses and benefits (Instructor Payroll covers only hourly instructors), so it is before paying a center director or the owner. Unaudited franchisee-reported data. Year-over-year average growth 13.3%.",
+  "profitPct": 30.4
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1043,
+  "company": 4,
+  "total": 1047,
+  "franchisedNetChange": 48,
+  "quote": "Franchised 2023 951 968 +17 2024 968 995 +27 2025 995 1,043 +48 Company-Owned ... 2025 4 4 0 Total U.S. Outlets ... 2025 999 1,047 +48"
+ },
+ "special": "Royalty is 10% of Gross Receipts with a $1,500 monthly minimum from month 24, plus a fixed $650 monthly base royalty, plus marketing fee $250 + 2%, plus a $1,000 minimum monthly digital/local marketing fee and $266 tech fee: fixed fees weigh heavily on a small center (average Gross Receipts $384,874; Item 19 shows royalties and marketing fees at 17.4% of Gross Receipts). Fixed dollar fees can rise each year by the greater of 3% or CPI.",
+ "confidence": "high",
+ "issues": "Item 19 tables are images in the PDF (absent from the text); values read from rendered PDF pages 60-61. Table 3 (by portfolio size) not recorded.",
+ "source": {
+  "doc": "36620-202605-05",
+  "received": "2026-05-13",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B006C849F-0000-CF10-A9F9-D2AEE7C4B274%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 268,
+  "registrant": "Mathnasium Franchisor LLC",
+  "filedName": "Mathnasium Centers Mathnasium Mathnasium The Math Learning Center Mathnasium Learning Centers",
+  "type": "Clean FDD"
+ }
+}

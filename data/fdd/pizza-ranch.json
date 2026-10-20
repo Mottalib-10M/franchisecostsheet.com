@@ -1,0 +1,150 @@
+{
+ "slug": "pizza-ranch",
+ "brand": "Pizza Ranch",
+ "franchisor": "Pizza Ranch, Inc.",
+ "issuanceDate": "2026-04-03",
+ "amendedDate": null,
+ "format": "Pizza Ranch family restaurant with FunZone arcade, retrofit/leased premises (5,400 sq. ft. restaurant / 2,400 sq. ft. FunZone)",
+ "invest": {
+  "low": 2305500,
+  "high": 2987000,
+  "toFranchisorLow": 49100,
+  "toFranchisorHigh": 49100,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Pizza Ranch® franchise is from $2,305,500 to $2,987,000 if you lease or remodel your Restaurant and $3,330,500 to $5,134,500 if you build a new Restaurant. This includes $49,100 that must be paid to us or our affiliate."
+ },
+ "fee": {
+  "low": 30000,
+  "high": 30000,
+  "quote": "You must pay a franchise fee of $30,000 for each Franchise Agreement you sign with us. You must pay us $7,500 at the time you sign a Franchise Agreement.",
+  "note": "$7,500 at signing (refundable only if location not approved within 6 months), $22,500 at start of construction. Also required: Management Training Fee $15,500 plus $200 per trainee for materials, and $3,600 marketing start-up materials from affiliate PR Production Fund, Inc. ADA development fee typically $7,500 per market, applied to franchise fees."
+ },
+ "royalty": {
+  "pct": 3.5,
+  "pctHigh": null,
+  "basis": "gross revenues",
+  "flat": "Greater of $500 or 3.5% of Gross Revenues per month",
+  "quote": "Royalty Greater of $500 or 3.5% of Gross Revenues per month Payable monthly on 10th day of the next month"
+ },
+ "adFund": {
+  "pct": 2.25,
+  "pctHigh": 5,
+  "localPct": null,
+  "quote": "Marketing and Production Fund Contribution Up to 5% of Gross Revenues (current contribution is 2.25%)",
+  "note": "Fund currently 2.25%, up to 5%. Local and regional advertising: up to the difference between 5% and the fund contribution; currently only the difference between 3% and other contributions (total advertising currently 3% of Gross Revenue)."
+ },
+ "otherRecurring": [
+  {
+   "name": "Service Fee",
+   "amount": "0.5% of Gross Revenues, payable monthly",
+   "annualUsd": null
+  },
+  {
+   "name": "Promotions",
+   "amount": "ranges from $50 to $500 per month (subject to change by us)",
+   "annualUsd": null
+  },
+  {
+   "name": "Training Materials",
+   "amount": "Approximately $200 per year for materials",
+   "annualUsd": 200
+  },
+  {
+   "name": "Insurance",
+   "amount": "$8,000 to $25,000 per year (paid to insurers)",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Transfer and Training Fee $10,000 Payable prior to transfer",
+  "usd": 10000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, franchised Restaurants with a FunZone open at least 3 full months (10 newly opened annualized), 2025",
+   "value": 2126964,
+   "count": 94,
+   "period": "calendar 2025",
+   "median": 2039190
+  },
+  "other": [
+   {
+    "label": "Average EBITDA, 94 franchised Restaurants with FunZone, 2025 (dollars)",
+    "value": 278845
+   },
+   {
+    "label": "Average EBITDA as % of Gross Sales, 94 franchised FunZone Restaurants, 2025",
+    "value": 13.11
+   },
+   {
+    "label": "Median EBITDA as % of Gross Sales, 94 franchised FunZone Restaurants, 2025",
+    "value": 12.09
+   },
+   {
+    "label": "Average EBITDAR, 94 franchised FunZone Restaurants, 2025 (dollars)",
+    "value": 410292
+   },
+   {
+    "label": "Average EBITDAR as % of Gross Sales, 94 franchised FunZone Restaurants, 2025",
+    "value": 19.29
+   },
+   {
+    "label": "Average Unit Controllable Profit as % of Gross Sales, 94 franchised FunZone Restaurants, 2025",
+    "value": 35.18
+   },
+   {
+    "label": "Average Rent as % of Gross Sales, 94 franchised FunZone Restaurants, 2025",
+    "value": 6.18
+   },
+   {
+    "label": "Average Gross Sales, franchised Restaurants with 15,000 or less population within 3 miles (96), 2025",
+    "value": 1177407
+   },
+   {
+    "label": "Average Gross Sales, franchised Restaurants with 15,001 to 30,000 population (54), 2025",
+    "value": 1937561
+   },
+   {
+    "label": "Average Gross Sales, franchised Restaurants with 30,001 to 50,000 population (32), 2025",
+    "value": 2060766
+   },
+   {
+    "label": "Average Gross Sales, franchised Restaurants with over 50,001 population (29), 2025",
+    "value": 2352609
+   },
+   {
+    "label": "Average FunZone Revenue, 85 franchised FunZones open 12+ months, 2025",
+    "value": 338985
+   },
+   {
+    "label": "Total franchise system Gross Sales, 2025",
+    "value": 351067502
+   }
+  ],
+  "profitPct": 13.11,
+  "quote": "Gross Sales 1 $2,126,964 100.00% 42 of 94 or 45% $2,039,190 100.00% ... EBITDA 7 $278,845 13.11% 44 of 94 or 47% $246,539 12.09%",
+  "note": "EBITDA is before amortization, interest and depreciation and excludes the wages of 1 General Manager from labor (GM wages are in Non-Controllable Expenses). Includes 10 Restaurants opened in 2025 with annualized figures. Unaudited. No overall average for all 211 franchised Restaurants is printed; Table 1 gives averages by population band only."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 213,
+  "company": 6,
+  "total": 219,
+  "franchisedNetChange": 1,
+  "quote": "Franchised ... 2025 212 213 +1 Company-Owned ... 2025 6 6 0 Total Outlets ... 2025 218 219 +1"
+ },
+ "special": "Royalty has a $500 monthly minimum, and a separate 0.5% Service Fee is charged on top of the 3.5% royalty. New restaurants must open with a FunZone arcade (arcade games $450,000 to $550,000). Rent not estimated in Item 7 (lease cost excluded); new ground-up option $3,330,500 to $5,134,500 includes land $0 to $800,000.",
+ "confidence": "high",
+ "issues": "Headline uses the FunZone-restaurant table (94 units, Table 3) because no single all-restaurant average is printed. Toward-franchisor $49,100 taken from cover (not itemized in Item 7).",
+ "source": {
+  "doc": "35828-202604-09",
+  "received": "2026-04-03",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B50C9FD9D-0000-CB1F-B361-8BD177FF0F9F%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 196,
+  "registrant": "PIZZA RANCH INC",
+  "filedName": "PIZZA RANCH",
+  "type": "Clean FDD"
+ }
+}

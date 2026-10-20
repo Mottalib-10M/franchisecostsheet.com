@@ -1,0 +1,121 @@
+{
+ "slug": "potbelly",
+ "brand": "Potbelly",
+ "franchisor": "Potbelly Franchising, LLC",
+ "issuanceDate": "2026-04-23",
+ "amendedDate": null,
+ "format": "Traditional Potbelly Shop, about 1,500 to 2,000 sq ft of leased space (strip center, mall, lifestyle center); real estate cost not estimated",
+ "invest": {
+  "low": 628938,
+  "high": 999371,
+  "toFranchisorLow": 38000,
+  "toFranchisorHigh": 144000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of each Potbelly Shop franchise is $628,938 to $999,371. This includes $38,000 to $144,000 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 40000,
+  "high": 40000,
+  "quote": "You must pay us a $40,000 initial franchise fee in full when you sign the Franchise Agreement, although we may reduce the initial franchise fee if you qualify for our incentive program described below.",
+  "note": "50/50 Incentive Program (SDAA developers, Shops opened early or on time in 2026-2027): fee reduced 50% to $20,000 and royalty reduced 50% for 1 to 52 weeks; the Item 7 low ($628,938) uses the $20,000 fee. LAD Incentive (15+ Shops): same 50% fee cut plus 50% royalty cut while open early and 50% lower development fee. SDAA development fee: $40,000 plus $20,000 deposit per additional Shop. Fees actually received in 2025: $10,000 to $40,000. No veteran discount printed."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "total revenue (weekly)",
+  "flat": null,
+  "quote": "Royalty 6% of Shop’s weekly Total Revenue Due each Wednesday on Total Revenue during week ending on preceding Sunday"
+ },
+ "adFund": {
+  "pct": 3,
+  "pctHigh": 4,
+  "localPct": 1,
+  "quote": "Brand Fund Currently 3% of Shop’s weekly Total Revenue ... We may, upon 90 days’ prior notice to you, increase your Brand Fund contribution by up to an additional 1% of the Shop’s Total Revenue (for a total of up to 4% of the Shop’s Total Revenue)",
+  "note": "Currently 3%, up to 4%. Minimum Local Marketing Spend 1% of Total Revenue; total required marketing capped at 5%. Market Introduction Program $10,000 to $15,000 at opening."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Services Fee",
+   "amount": "Currently, $1,165 per month plus $0.20 per digital transaction, plus any applicable taxes",
+   "annualUsd": null
+  },
+  {
+   "name": "Annual Convention",
+   "amount": "Up to $1,000 When billed",
+   "annualUsd": null
+  },
+  {
+   "name": "Product purchases from franchisor/affiliates (Potbelly Trade Secret and Branded Products)",
+   "amount": "Varies depending on products and services you buy from us or our affiliates",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "20% or 50% of our then-current initial franchise fee depending on whether transferee is an existing Potbelly franchisee (Controlling Transfers); $500 for non-controlling or convenience-of-ownership transfers",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average unit volume (annual gross sales), franchised Potbelly Shops open all 12 periods of 2025, all venues including 7 non-traditional",
+   "value": 1344085,
+   "count": 97,
+   "period": "fiscal 2025 (January 1 - December 28, 2025)",
+   "median": 1195243
+  },
+  "other": [
+   {
+    "label": "Average unit volume, franchised Suburban Shops (60), 2025, dollars",
+    "value": 1187544
+   },
+   {
+    "label": "Average unit volume, franchised CBD Shops (22), 2025, dollars",
+    "value": 1377260
+   },
+   {
+    "label": "Average unit volume, franchised Urban Shops (8), 2025, dollars",
+    "value": 1212785
+   },
+   {
+    "label": "Average unit volume, franchised Airport Shops (5), 2025, dollars",
+    "value": 3430686
+   },
+   {
+    "label": "Average unit volume, affiliate-owned Shops (337), 2025, dollars",
+    "value": 1330806
+   },
+   {
+    "label": "Average unit volume, systemwide Shops (434), 2025, dollars",
+    "value": 1333774
+   },
+   {
+    "label": "Median unit volume, systemwide Shops (434), 2025, dollars",
+    "value": 1227669
+   }
+  ],
+  "profitPct": null,
+  "quote": "2025 All Shops ... Shop Count 97 ... Median Unit Volume 1,195,243 ... Average Unit Volume 1,344,085 # / % Shops above Avg 33 / 34% (Potbelly Franchise 2025 Average Unit Volume)",
+  "note": "Sales only: 'does not reflect the costs of sales, operating expenses, or other costs or expenses'. Excludes 24 franchised Shops not open the entire 12-period timeframe (22 opened, 2 closed). The franchised all-shop average includes 5 airport Shops averaging $3,430,686, which lifts it; suburban franchised average is $1,187,544. Although the intro mentions expenses and profits for affiliate Shops, only unit volumes are printed."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 122,
+  "company": 348,
+  "total": 470,
+  "franchisedNetChange": 20,
+  "quote": "Franchised 2025 102 122 +20 Company- Owned 2025 342 348 +6 Total Outlets 2025 444 470 +26"
+ },
+ "special": "Franchisor or affiliate may sublease the premises; if rent is paid to the franchisor it 'may charge an amount that is higher than the rent due under the underlying lease' (not a % of sales). Required purchases from affiliate PSW, LLC (menu boards, lighting, millwork, decor: $18,000 to $42,000) and ongoing Potbelly Trade Secret Products. Temporary 50% royalty and fee reductions under the 50/50 and LAD incentive programs.",
+ "confidence": "high",
+ "issues": "Item 19 says 119 franchised Shops at December 28, 2025 vs 122 in Item 20 Table 1 (December 31). No cost or profit figures printed despite the Item 19 introduction. Transfer fee not printed in dollars (20% or 50% of $40,000 implies $8,000 or $20,000). Item 7 low uses the incentive $20,000 fee.",
+ "source": {
+  "doc": "36195-202604-12",
+  "received": "2026-04-24",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B7014669F-0000-CF11-B969-24CFF26D571B%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 313,
+  "registrant": "Potbelly Franchising, LLC",
+  "filedName": "Potbelly Sandwich Shop",
+  "type": "Clean FDD"
+ }
+}

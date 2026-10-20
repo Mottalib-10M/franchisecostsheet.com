@@ -1,0 +1,139 @@
+{
+ "slug": "checkers",
+ "brand": "Checkers",
+ "franchisor": "Checkers Drive-In Restaurants, Inc.",
+ "issuanceDate": "2026-04-17",
+ "amendedDate": "2026-09-23",
+ "format": "Modular design drive-thru Checkers or Rally's restaurant (approx. 700 or 1,008 sq ft building) on a leased site, excluding real estate and related costs",
+ "invest": {
+  "low": 449000,
+  "high": 1915000,
+  "toFranchisorLow": 45000,
+  "toFranchisorHigh": 55000,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Checkers Restaurant or Rally's Restaurant (excluding real estate and related costs) is: $449,000 to $1,915,000 for a modular design drive-thru restaurant; ... This includes $45,000 to $55,000 that must be paid to the franchisor or an affiliate."
+ },
+ "fee": {
+  "low": 30000,
+  "high": 30000,
+  "quote": "The standard initial franchise fee is $30,000.",
+  "note": "Reduced to $15,000 for a Non-Traditional Site; $20,000 for existing franchisees of at least two restaurants (Existing Franchisee Incentive); $0 under the Vet Fran Incentive (veterans owning 51%) and the Women Business Owner Incentive (first new restaurant); 85% reduction under the 2026 Growth Incentive (sign by December 31, 2026, open within 18 months). Plus a $15,000 Initial Advertising Deposit paid to affiliate NPF Inc. for a new restaurant, and a $10,000 asset transfer fee when buying a company-owned restaurant. Development fee $10,000 per restaurant under a Development Agreement."
+ },
+ "royalty": {
+  "pct": 4,
+  "pctHigh": null,
+  "basis": "net sales",
+  "flat": null,
+  "quote": "Royalty 4% of your Net Sales or 2% of your Net Sales if you operate a Restaurant from a Non-Traditional Site. Semi-monthly, on or before the 5th and 20th day of each month."
+ },
+ "adFund": {
+  "pct": 2.65,
+  "pctHigh": 3,
+  "localPct": 1.85,
+  "quote": "National Production Fund Contributions (See Notes 3 and 4) You will be required to pay up to 3% of your Net Sales (currently, 2.65% of your Net Sales). ... The amount is credited toward your 4.5% advertising expenditure requirement.",
+  "note": "Total required advertising spend is 4.5% of Net Sales: NPF currently 2.65% (up to 3%) plus cooperative advertising (\"generally 1.85% of Net Sales, but may vary\") or local advertising for the difference. Cooperative rates may push total above 4.5%; special regional promotion fees are in addition."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Fee",
+   "amount": "Currently, $190 to $370 plus applicable taxes, quarterly ($370 per quarter with optional enhanced technology services)",
+   "annualUsd": null
+  },
+  {
+   "name": "Firewall Fee (if using Scale Computing)",
+   "amount": "Currently, $159 plus applicable taxes, quarterly",
+   "annualUsd": null
+  },
+  {
+   "name": "Secure Payment Gateway Fee",
+   "amount": "Currently, $19 plus applicable taxes, monthly",
+   "annualUsd": null
+  },
+  {
+   "name": "Delivery Administration Fee (optional Delivery Program)",
+   "amount": "2% of the total price charged to a customer that orders Delivered Products from a third-party delivery service provider, bi-monthly",
+   "annualUsd": null
+  },
+  {
+   "name": "Order Ahead Program Administration Fee (optional)",
+   "amount": "2% of the total price charged to a customer that orders Order Ahead Products, bi-monthly",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "Transfer of a Single Restaurant: $20,000 (or $10,000, if the transferee is an existing franchisee); Transfer of Multiple Restaurants: $20,000 (or $10,000, if the transferee is an existing franchisee) for the first Restaurant, plus $5,000 for each additional Restaurant",
+  "usd": 20000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Net Sales, all franchised Checkers Restaurants open at least 350 days in fiscal 2025",
+   "value": 1136589,
+   "count": 320,
+   "period": "fiscal 2025 (52 weeks ending December 29, 2025)",
+   "median": 1102416
+  },
+  "other": [
+   {
+    "label": "Average Net Sales, company-owned Checkers Restaurants (115), fiscal 2025 ($)",
+    "value": 1096821
+   },
+   {
+    "label": "Average Net Sales, franchised Checkers site built or conversion restaurants (280), fiscal 2025 ($)",
+    "value": 1193130
+   },
+   {
+    "label": "Average Net Sales, franchised Checkers endcap & gas/convenience restaurants (19), fiscal 2025 ($)",
+    "value": 630696
+   },
+   {
+    "label": "Average Net Sales, franchised Checkers non-traditional/Walmart/in-line restaurants (21), fiscal 2025 ($)",
+    "value": 840420
+   },
+   {
+    "label": "Average first-year Net Sales, new franchised Checkers Restaurants opened 2023-2025 (39) ($)",
+    "value": 1505140
+   },
+   {
+    "label": "Average Net Sales, all franchised Rally's Restaurants (164), fiscal 2025 ($)",
+    "value": 1134958
+   },
+   {
+    "label": "Median Net Sales, all franchised Rally's Restaurants, fiscal 2025 ($)",
+    "value": 1064667
+   },
+   {
+    "label": "Average Net Sales, company-owned Rally's Restaurants (99), fiscal 2025 ($)",
+    "value": 1103806
+   },
+   {
+    "label": "Average first-year Net Sales, new franchised Rally's Restaurants opened 2023-2025 (10) ($)",
+    "value": 1370093
+   }
+  ],
+  "profitPct": null,
+  "quote": "ALL CHECKERS RESTAURANTS ... Franchised $1,136,589 320 150 or 47% $1,102,416 $197,376 - $3,102,720",
+  "note": "Net Sales only; no costs or profits. Table A covers restaurants open at least 350 days in the 2025 Fiscal Year; excludes 2 company-owned and 12 franchised Checkers open less than 350 days and 1 company-owned and 35 franchised Checkers that closed in 2025. Franchise figures from unaudited franchisee reports."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 332,
+  "company": 121,
+  "total": 453,
+  "franchisedNetChange": -25,
+  "quote": "CHECKERS RESTAURANTS Franchised 2025 357 332 -25 Company-Owned 2025 123 121 -2 Total Outlets 2025 480 453 -27; RALLY'S RESTAURANTS Franchised 2025 166 167 1 Company-Owned 2025 110 99 -11 Total Outlets 2025 276 266 -10"
+ },
+ "special": "One franchise covers two banners (Checkers and Rally's); Item 20 reports them separately (figures above are Checkers only; Rally's had 167 franchised, 99 company-owned, 266 total at end of 2025). If Checkers subleases the premises, rent may be paid to Checkers and \"we may charge an amount that is higher than the rent due under the underlying lease\"; on purchase of a company restaurant a sublease administrative fee of up to 10% of the remaining rent may apply. 2026 Growth Incentive: royalty waived months 1-12, 1% months 13-24, 2% months 25-36, 3% months 37-48 (abatement capped at $150,000). Non-Traditional Sites pay 2% royalty.",
+ "confidence": "medium",
+ "issues": "Cover says $45,000 to $55,000 paid to franchisor/affiliate, but Item 7 line items give $35,000 low ($20,000 fee + $15,000 deposit + $0 asset transfer); cover figure used. Units are Checkers-banner only (no combined Checkers + Rally's total is printed). Item 20 Table 3 franchised 2023 end (378) differs from Table 1 (377).",
+ "source": {
+  "doc": "37322-202609-01",
+  "received": "2026-09-23",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B4077D3A0-0000-C23E-B446-560F2C9AA1DF%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 376,
+  "registrant": "CHECKERS DRIVE-IN RESTURANTS, INC.",
+  "filedName": "CHECKERS RESTAURANT OR RALLY'S RESTAURANT",
+  "type": "Clean FDD"
+ }
+}

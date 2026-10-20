@@ -1,0 +1,111 @@
+{
+ "slug": "arbys",
+ "brand": "Arby's",
+ "franchisor": "Arby's Franchisor, LLC",
+ "issuanceDate": "2026-03-26",
+ "amendedDate": null,
+ "format": "Free-Standing Arby's Restaurant (Traditional, leased scenario, Inspire image), excluding purchase of land/building",
+ "invest": {
+  "low": 868550,
+  "high": 2456600,
+  "toFranchisorLow": 12500,
+  "toFranchisorHigh": 56300,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of an Arby's Restaurant franchise is from $868,550 to $2,456,600 for a Free-Standing Arby's Restaurant and from $651,550 to $1,379,600 for a Non-Free-Standing Arby's Restaurant. This includes $12,500 to $56,300 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 37500,
+  "high": 37500,
+  "quote": "Standard Traditional Restaurant $12,500 $37,500 Non-Traditional Restaurant $0 $18,750 Standard Incentive $12,500 $0",
+  "note": "Standard Traditional Restaurant: $37,500 franchise fee plus a separate $12,500 non-refundable Development Fee per Restaurant (not credited toward the franchise fee). Under the Standard incentive (new Development Agreement by March 31, 2027) the franchise fee is waived ($0), with a $7,500 Royalty credit. Training fee currently $2,100 per attendee (expected $4,000 mid-year), waived for 2 managers of the first Restaurant."
+ },
+ "royalty": {
+  "pct": 4,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty Fee 4% of Gross Sales, subject to applicable incentives.1, 2 6.2% of Gross Sales for Non-Traditional Restaurants.1, 2 Payable monthly on or before the 10th day of the following month."
+ },
+ "adFund": {
+  "pct": 3.22,
+  "pctHigh": 5,
+  "localPct": null,
+  "quote": "Advertising and Marketing Service Fee Currently a minimum aggregate expenditure of 5.2% of Gross Sales comprised of this fee, Local Market Advertising, and Local Cooperative Area Advertising (if applicable) ... which currently ranges from 3.22% to 5% of Gross Sales for Traditional Restaurants.",
+  "note": "Total minimum advertising spend 5.2% of Gross Sales: AFA Advertising and Marketing Service Fee 3.22% to 5% (tiered) plus local market/cooperative spending of 0.2% to 1.98%. Local Cooperative Area Advertising generally 3% to 7%. Standard incentive: 75% discount on the service fee years 1-3, 50% year 4 (minimum 0.85%). Royalty under Standard incentive: 0.5% year 1, 1.0% years 2-4, 2.0% year 5, 4.0% thereafter."
+ },
+ "otherRecurring": [
+  {
+   "name": "Learning Management System fee",
+   "amount": "Currently $62.99 plus tax per year for each Arby's Restaurant",
+   "annualUsd": 62.99
+  },
+  {
+   "name": "Arby's Order Ahead Platform Service Fee (optional)",
+   "amount": "$50 per restaurant per month; 4% of Gross Sales on each order ahead order (35¢ minimum, $1.25 maximum); 3% of Gross Sales from third-party delivery platforms",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$17,500 for transfer of first Arby's Restaurant; $2,500 if you are already a party or hold a 50% interest in a party to at least one existing FA.",
+  "usd": 17500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average AUV (annual Gross Sales), franchised Traditional Restaurants open all of 2025",
+   "value": 1274787,
+   "count": 2182,
+   "period": "fiscal 2025 (December 30, 2024 to December 28, 2025)",
+   "median": 1201669
+  },
+  "other": [
+   {
+    "label": "Average AUV, free-standing franchised restaurants (1,858), 2025",
+    "value": 1267493
+   },
+   {
+    "label": "Median AUV, free-standing franchised restaurants, 2025",
+    "value": 1199475
+   },
+   {
+    "label": "Average AUV, travel plaza franchised restaurants (177), 2025",
+    "value": 1487830
+   },
+   {
+    "label": "Average AUV, other non-free-standing franchised restaurants (147), 2025",
+    "value": 1110463
+   },
+   {
+    "label": "Average AUV, 1st (top) quartile (546), 2025",
+    "value": 1856734
+   },
+   {
+    "label": "Average AUV, 4th (bottom) quartile (546), 2025",
+    "value": 809495
+   }
+  ],
+  "quote": "All Restaurants 2,182 $4,008,289 $1,201,669 $390,125 $1,274,787 939 / 43%",
+  "note": "Gross Sales only; no costs of sales or operating expenses. Excludes 21 opened in 2025, 6 closed for extended periods, 115 transferred from company in December 2025, 4 Multi-Brand, 19 Non-Traditional, 78 closed in 2025, and all company-owned restaurants. 939 / 43% above average."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 2344,
+  "company": 921,
+  "total": 3265,
+  "franchisedNetChange": 58,
+  "quote": "Franchised Units ... 2025 2,286 2,344 58 Company-Owned ... 2025 1,079 921 -158 Total Outlets (United States) ... 2025 3,413 3,265 -148"
+ },
+ "special": "A $12,500 Development Agreement fee is required per Restaurant in addition to the franchise fee (a Development Agreement is required even for one Restaurant). Investment is a leased scenario and excludes purchase of land or building. In December 2025 the franchisor transferred 115 company-owned restaurants to franchisees.",
+ "confidence": "high",
+ "issues": "Item 20 Table 1 total for 2025 starts at 3,413 though 2024 ended at 3,365 (printed as is). Item 19 says 2,325 Traditional plus 184 travel plaza out of 2,344 franchised, which does not add up. Fee range in Item 7 is $0 to $37,500 depending on incentive; standard $37,500 used.",
+ "source": {
+  "doc": "35661-202603-15",
+  "received": "2026-03-28",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BC0B6789D-0000-CD1B-89F1-C227A4D4E0F4%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 329,
+  "registrant": "ARBY'S FRANCHISOR, LLC",
+  "filedName": "ARBY'S",
+  "type": "Clean FDD"
+ }
+}

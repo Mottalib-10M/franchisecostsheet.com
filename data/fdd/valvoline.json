@@ -1,0 +1,137 @@
+{
+ "slug": "valvoline",
+ "brand": "Valvoline Instant Oil Change",
+ "franchisor": "Valvoline Instant Oil Change Franchising, Inc.",
+ "issuanceDate": "2025-12-26",
+ "amendedDate": null,
+ "format": "one Valvoline Instant Oil Change service center (ground-up or conversion), land and improvements either leased or purchased",
+ "invest": {
+  "low": 192375,
+  "high": 3483550,
+  "toFranchisorLow": 73750,
+  "toFranchisorHigh": 122050,
+  "excludesRealEstate": false,
+  "quote": "The estimated total investment necessary to begin operation of one Valvoline Instant Oil Change service center ranges from $192,375 to $3,483,550 per service center. This includes the $73,750 to $122,050 that must be paid to the franchisor or an affiliate."
+ },
+ "fee": {
+  "low": 30000,
+  "high": 30000,
+  "quote": "You must pay VIOCF a license fee of $30,000 for your first Center, regardless of whether the Center is new construction ... or a non-Valvoline Instant Oil Change facility that you convert",
+  "note": "Half paid at signing, half when the first royalty payment is due. Second Center: $20,000 (ground-up) or $5,000 (qualifying conversion); third Center: $5,000. Under a Development Agreement: $2,500 to $5,000 per Center plus a $5,000 development fee per Center (minimum 3). Buying a Center from an existing franchisee: $5,000 for the first, $2,500 for each subsequent Center from the same seller."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "adjusted gross revenue",
+  "flat": null,
+  "quote": "Royalties For the first 12 months of the initial term, 2% of Adjusted Gross Revenue (\"AGR\"); for the second 12 months of the initial term, 3% of AGR, then 6% of AGR or a graduated royalty rate between 4% and 6% of AGR (See Note 2) Payable monthly by electronic funds transfer on the 20th day"
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": null,
+  "localPct": 3,
+  "quote": "General System Fund Up to 2% of AGR for that fiscal year until the cap amount has been reached ... The annual cap amount for Centers to be opened in VIOCF's 2026 fiscal year is $7,344 but in no event shall exceed $7,500 per Center. Local Advertising Spend or Contribution At least 3% of AGR annually",
+  "note": "General System Fund up to 2% of AGR, capped at $7,344 per Center per year for Centers opened in fiscal 2026 (never more than $7,500); local advertising at least 3% of AGR. A national advertising fund may be established at the beginning of fiscal 2027 (amount not yet determined)."
+ },
+ "otherRecurring": [
+  {
+   "name": "General System Fund annual cap (Centers opened in fiscal 2026)",
+   "amount": "Up to 2% of AGR until the annual cap of $7,344 per Center is reached (in no event more than $7,500)",
+   "annualUsd": 7344
+  },
+  {
+   "name": "Signage Lease (if signage leased from VIOCF)",
+   "amount": "Estimated monthly lease payment is $375 to $650 for 120-month lease term",
+   "annualUsd": null
+  },
+  {
+   "name": "Specialized Computer Services",
+   "amount": "$50 to $300 per hour as needed",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$30,000 for your first Center if transferred to a new franchisee; $5,000 for your first Center if transferred to an existing franchisee; and $2,500 for any additional Centers transferred in the same transaction.",
+  "usd": 30000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average Net Sales per Center, comparable franchisee-operated Centers franchise-operated for the full fiscal year 2025 (Oct 1, 2024 - Sep 30, 2025)",
+   "value": 1844172,
+   "count": 891,
+   "period": "fiscal year ended September 30, 2025",
+   "median": 1704870
+  },
+  "other": [
+   {
+    "label": "Net Sales, lowest franchisee-operated Center, FY2025 (dollars)",
+    "value": 397215
+   },
+   {
+    "label": "Net Sales, highest franchisee-operated Center, FY2025 (dollars)",
+    "value": 5728187
+   },
+   {
+    "label": "Average Ticket, franchisee-operated Centers, FY2025 (dollars)",
+    "value": 117.79
+   },
+   {
+    "label": "Average oil changes per day, franchisee-operated Centers, FY2025",
+    "value": 50.2
+   },
+   {
+    "label": "Average Center Net Sales, 785 comparable company-operated Centers, FY2025 (dollars)",
+    "value": 1677087
+   },
+   {
+    "label": "Average Contribution in dollars, 785 company-operated Centers, FY2025 (Net Sales less product, labor, advertising and Center expenses; before operating leases, overhead, depreciation, taxes; no royalty)",
+    "value": 549958
+   },
+   {
+    "label": "Average Contribution Less 4% Royalties in dollars, 785 company-operated Centers, FY2025",
+    "value": 482875
+   },
+   {
+    "label": "Median Contribution Less Royalties in dollars, company-operated Centers, FY2025",
+    "value": 452358
+   },
+   {
+    "label": "Average Contribution Less Royalties in dollars, top 25% (196) company-operated Centers, FY2025",
+    "value": 763989
+   },
+   {
+    "label": "Average Contribution Less Royalties in dollars, bottom 25% (196) company-operated Centers, FY2025",
+    "value": 232393
+   },
+   {
+    "label": "Franchised same-store Net Sales growth, % , FY2025 (986 Centers)",
+    "value": 6.5
+   }
+  ],
+  "profitPct": null,
+  "quote": "FY 2025 - VIOCF Comparable Franchisee-Operated Centers ... Net Sales 891 $397,215 $5,728,187 $1,704,870 $1,844,172 386",
+  "note": "Franchised data are Net Sales only (Gross Sales less coupons, discounts, fleet discounts, refunds), no costs; excludes 172 Centers not franchise-operated for the full year. Contribution figures are for company-operated Centers only, exclude operating leases (rent), market and corporate overhead, depreciation and taxes; advertising is an allocated budget; royalty rows assume 4% although a single new Center pays 2%, 3% then 6% (or 4%-6% graduated). No contribution margin is printed as a % of sales."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1063,
+  "company": 976,
+  "total": 2039,
+  "franchisedNetChange": 101,
+  "quote": "Franchised 2025 962 1063 +101 Company-Owned 2025 913 976 +63 Total Outlets 2025 1875 2039 +164"
+ },
+ "special": "Royalty steps up: 2% of AGR in year 1, 3% in year 2, then 6% (graduated 4%-6% available to existing franchisees whose centers exceed $1,000,000 combined AGR; Item 19 says 4% applies at $5,000,000+ combined AGR and 95% of franchise Centers paid 4%). You must buy VALVOLINE Products (motor oils, filters, lubricants, etc.) from VIOCF, an affiliate or a designated supplier, initially $28,750 to $62,050 and ongoing. Mandatory national fleet program pricing and 100% satisfaction guarantee at franchisee cost. Remodel obligation up to the greater of $50,000 or 2% of AGR over the previous five years. Investment range spans leased site ($192,375 to $639,550) and purchased land and building ($1,773,750 to $3,483,550).",
+ "confidence": "high",
+ "issues": "Item 19 profit data (Contribution) covers only company-operated Centers and is printed in dollars, not as a % of sales, so profitPct is null. Item 20 introduction misprints the fiscal year as '2054'. Royalty pct recorded as the standard 6% from year 3; 2%/3% intro years and 4%-6% graduated scale in special.",
+ "source": {
+  "doc": "35182-202512-03",
+  "received": "2025-12-31",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7BA0EEB29B-0000-C01C-B181-30B426F3272A%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 424,
+  "registrant": "VALVOLINE INSTANT OIL CHANGE FRANCHISING, INC.",
+  "filedName": "VALVOLINE INSTANT OIL CHANGE OR INSTANT OIL CHANGE",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "slug": "marcos-pizza",
+ "brand": "Marco's Pizza",
+ "franchisor": "Marco's Franchising, LLC",
+ "issuanceDate": "2026-04-18",
+ "amendedDate": null,
+ "format": "single Marco's Pizza Store in leased space (approx. 1,200 to 1,600 sq ft)",
+ "invest": {
+  "low": 286477,
+  "high": 811186,
+  "toFranchisorLow": 61336,
+  "toFranchisorHigh": 119886,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a Store ranges from $286,477 - $811,186, which includes $61,336 to $119,886 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 25000,
+  "high": 25000,
+  "quote": "The Initial Franchise Fee for a single Store is $25,000 but may be discounted or waived if you qualify for and meet the obligations of one of our promotional incentives",
+  "note": "First responders (5+ years): $20,000. U.S. veterans: $15,000; waived for veterans with 50%+ service-connected disability. Key Management Employees: 60% of standard, $10,000 or $5,000. Waived under the Equipment Incentive Program for existing franchisees (plus up to $75,000 toward equipment). Development Agreement: $5,000 per Store, credited against the fee. In 2025 fees collected ranged from $1,000 to $25,000. Brand Launch Program of $15,500 also paid to franchisor at start of construction."
+ },
+ "royalty": {
+  "pct": 5.5,
+  "pctHigh": 6,
+  "basis": "net royalty sales",
+  "flat": null,
+  "quote": "Royalty 5.5% of Net Royalty Sales (subject to adjustment up to a maximum of 6.0% as described in Note 3). Paid by electronic payment (ACH debit) each Monday, 8 days after the end of each Accounting Week."
+ },
+ "adFund": {
+  "pct": 5,
+  "pctHigh": null,
+  "localPct": 2,
+  "quote": "Brand Development Fund Currently, 1% of Net Royalty Sales. We have the right to increase this fee by 0.5% ... The current amount of contribution required to our National Advertising Fund is 4% of Net Royalty Sales ... combined contribution to a National Advertising Fund and Regional Advertising Fund will not exceed a total of 5.5%",
+  "note": "Currently 1% Brand Development Fund + 4% National Advertising Fund = 5%; Regional Advertising Fund 0.5% to 1.20% in some markets (combined geography-based cap 5.5%); BDF may rise by 0.5%. Total marketing minimum 7% of Net Royalty Sales: if no regional fund or co-op, the remaining 2% goes to Local Store Marketing."
+ },
+ "otherRecurring": [
+  {
+   "name": "Software Maintenance and Support Fees",
+   "amount": "$430 Payable each Accounting Period (13 per year)",
+   "annualUsd": 5590
+  },
+  {
+   "name": "Technology Fee",
+   "amount": "$27.96 per Accounting Week by ACH",
+   "annualUsd": null
+  },
+  {
+   "name": "SMS/MMS Program Fee (optional for now)",
+   "amount": "$100 per Store per Accounting Period",
+   "annualUsd": null
+  },
+  {
+   "name": "Additional Email Fee",
+   "amount": "$120 per account per year",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$5,000 - $10,000",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Net Royalty Sales, franchised Marco's Pizza Stores open the full 52 weeks of fiscal 2025",
+   "value": 878180,
+   "count": 997,
+   "period": "52 weeks ending December 28, 2025",
+   "median": 832403
+  },
+  "other": [
+   {
+    "label": "Average Net Royalty Sales, top 25% of franchised Stores (250), 2025",
+    "value": 1288466
+   },
+   {
+    "label": "Average Net Royalty Sales, bottom 25% of franchised Stores (250), 2025",
+    "value": 543668
+   },
+   {
+    "label": "Highest Net Royalty Sales, franchised Stores, 2025",
+    "value": 2052737
+   },
+   {
+    "label": "Lowest Net Royalty Sales, franchised Stores, 2025",
+    "value": 289736
+   },
+   {
+    "label": "Number of franchised Stores with Net Royalty Sales over $1,000,000, 2025",
+    "value": 297
+   }
+  ],
+  "profitPct": null,
+  "quote": "Average Net Royalty Sales in Category $1,288,466 $1,109,558 $989,693 $878,180 Median Net Royalty Sales in Category $1,213,859 $1,052,095 $919,833 $832,403 (Total = 997 Franchised Stores)",
+  "note": "Sales only (Net Royalty Sales); no costs or profits. Excludes international locations (incl. Puerto Rico), Stores not open the full 52 weeks, special venue locations, certain Hoogland Foods (Family Video) locations, 28 Stores closed in 2025, and company-owned Stores. 435 (44%) met or exceeded the average; 297 (29.8%) exceeded $1,000,000."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1139,
+  "company": 45,
+  "total": 1184,
+  "franchisedNetChange": 25,
+  "quote": "Franchised ... 2025 1114 1139 +25 Company Owned ... 2025 45 45 0 Total Outlets ... 2025 1159 1184 +25"
+ },
+ "special": "2026 Royalty Incentive Program (3 to 5 Stores, full fees paid upfront) cuts royalty to 0% for Accounting Periods 1-6 and 2.5% for Periods 7-18. Affiliate MPD is the exclusive approved seller of new ovens and affiliate MTS supplies the only approved POS. Marketing obligations total at least 7% of Net Royalty Sales. Brand Launch Program $15,500 (up to $25,500 if performance goals are missed).",
+ "confidence": "medium",
+ "issues": "Item 19 says 1,141 franchised Stores at December 28, 2025 while Item 20 Table 1 shows 1,139; Item 19 also says '582 new Stores' not open the full year, apparently a typo for 58 (its own footnote totals 58). Cover gives $61,336 to $119,886 paid to franchisor for one Store ($66,336 to $124,886 under a two-store Development Agreement). Transfer fee is a range, no single value. Technology Fee annual amount not computed (weekly fee).",
+ "source": {
+  "doc": "36186-202604-04",
+  "received": "2026-04-23",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B80F82C9E-0000-C515-B7B0-20FD561492F5%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 399,
+  "registrant": "MARCO'S FRANCHISING LLC",
+  "filedName": "MARCO'S PIZZA",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "slug": "snap-fitness",
+ "brand": "Snap Fitness",
+ "franchisor": "Snap Fitness, Inc.",
+ "issuanceDate": "2026-05-07",
+ "amendedDate": null,
+ "format": "single SNAP FITNESS Club (4,000 to 6,000 sq ft leased, equipment purchased)",
+ "invest": {
+  "low": 554731,
+  "high": 827621,
+  "toFranchisorLow": 61231,
+  "toFranchisorHigh": 62621,
+  "excludesRealEstate": null,
+  "quote": "The total investment necessary to begin operation of a single Club ranges from $554,731 to $827,621. This includes $61,231 to $62,621 that must be paid to the franchisor or an affiliate."
+ },
+ "fee": {
+  "low": 39500,
+  "high": 39500,
+  "quote": "If you are acquiring franchise rights for a single Club, the initial franchise fee is $39,500.",
+  "note": "Existing franchisees (second or subsequent Club) $34,500; qualified veterans (VetFran, $5,000 discount) $34,500. Area Development Fee $89,500 for the first three Clubs plus $25,000 per additional Club. Required Grand Opening marketing minimum $20,000 remitted to franchisor or pre-approved supplier."
+ },
+ "royalty": {
+  "pct": null,
+  "pctHigh": null,
+  "basis": "fixed monthly fee",
+  "flat": "$725 per month",
+  "quote": "Royalty Fee $725 per month Monthly, upon invoice Subject to annual increase by an amount not to exceed the increase in Consumer Price Index. See Note 11."
+ },
+ "adFund": {
+  "pct": null,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "National Marketing $518 per month Monthly, upon invoice Subject to annual increase by an amount not to exceed the increase in Consumer Price Index.",
+  "note": "Flat amounts, not percentages: National Marketing $518 per month; Local Marketing Fund or Cooperative Advertising Contribution $200 per month; recommended minimum Local Marketing $400 per month."
+ },
+ "otherRecurring": [
+  {
+   "name": "Royalty Fee",
+   "amount": "$725 per month, CPI-adjusted",
+   "annualUsd": 8700
+  },
+  {
+   "name": "National Marketing",
+   "amount": "$518 per month, CPI-adjusted",
+   "annualUsd": 6216
+  },
+  {
+   "name": "Technology Fee",
+   "amount": "$450 per month, CPI-adjusted",
+   "annualUsd": 5400
+  },
+  {
+   "name": "Local Marketing Fund or Cooperative Advertising Contribution",
+   "amount": "$200 per month",
+   "annualUsd": 2400
+  },
+  {
+   "name": "Local Marketing (recommended minimum)",
+   "amount": "$400 per month",
+   "annualUsd": 4800
+  },
+  {
+   "name": "Membership Maintenance Fee",
+   "amount": "$0.73 per month for each membership enrolled at the Club",
+   "annualUsd": null
+  },
+  {
+   "name": "New Membership Fee",
+   "amount": "One-time fee of $7.25 for each new membership agreement",
+   "annualUsd": null
+  },
+  {
+   "name": "Insurance (SAPP)",
+   "amount": "$576.85 per month",
+   "annualUsd": 6922.2
+  },
+  {
+   "name": "Insurance Reimbursement Processing Fee",
+   "amount": "$45 per month",
+   "annualUsd": 540
+  },
+  {
+   "name": "Medical Panic System",
+   "amount": "$29.95 per month",
+   "annualUsd": 359.4
+  },
+  {
+   "name": "Summit fee (mandatory regardless of attendance)",
+   "amount": "currently, $750 not including accommodations, annual; lodging estimated $800 - $1,000",
+   "annualUsd": 750
+  }
+ ],
+ "transferFee": {
+  "amount": "$5,000 if transferee is an existing SNAP FITNESS franchisee. If the transferee is new to the system, the transfer fee is equal to the then-current Initial Franchise Fee. (Transfer Fee Modification Program through April 30, 2027: $10,000 for a buyer new to the system.)",
+  "usd": 39500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual sales (revenue), franchised US Clubs open in 2025",
+   "value": 277584,
+   "count": 459,
+   "period": "calendar 2025",
+   "median": 234451
+  },
+  "other": [
+   {
+    "label": "Average annual sales, franchised top quartile (115 clubs), 2025",
+    "value": 522423
+   },
+   {
+    "label": "Average annual sales, franchised bottom quartile (115 clubs), 2025",
+    "value": 116106
+   },
+   {
+    "label": "Average annual sales, franchised clubs 4,000-6,000 sq ft (167 clubs), 2025",
+    "value": 277049
+   },
+   {
+    "label": "Average annual sales, franchised clubs, 2024 (479 clubs)",
+    "value": 265574
+   },
+   {
+    "label": "Average total members, franchised clubs, 2025",
+    "value": 724
+   },
+   {
+    "label": "Average Total Revenue, 8 corporate-owned clubs, 2025",
+    "value": 466552
+   },
+   {
+    "label": "Operating Income, 8 corporate-owned clubs average, 2025 ($)",
+    "value": 103054
+   },
+   {
+    "label": "Operating Income margin, 8 corporate-owned clubs, 2025 (% of revenue)",
+    "value": 22
+   },
+   {
+    "label": "Operating Income margin, corporate top half (4 clubs), 2025 (% of revenue)",
+    "value": 26
+   },
+   {
+    "label": "Operating Income margin, corporate bottom half (4 clubs), 2025 (% of revenue)",
+    "value": 15
+   }
+  ],
+  "profitPct": 22,
+  "quote": "All Clubs Club Count 459 479 Average 724 178 39% 1% 277,584 170 37% 5% ... Median 652 228 50% 0% 234,451",
+  "note": "Franchised figures are sales and member counts only, no costs; personal training revenue historically not required to be reported. Corporate Operating Income is for 8 corporate-owned clubs with fees adjusted to franchisee Royalty, National Marketing and Technology fees; before interest, taxes, depreciation and owner compensation is not specified."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 460,
+  "company": 8,
+  "total": 468,
+  "franchisedNetChange": -24,
+  "quote": "Franchised Outlets ... 2025 484 460 -24 Company Owned ... 2025 9 8 -1 Total Outlets ... 2025 493 468 -25"
+ },
+ "special": "Royalty and national marketing are fixed monthly fees ($725 and $518, CPI-indexed), not percentages of sales; also per-membership fees ($0.73/month per membership, $7.25 per new membership) and mandatory SAPP insurance billed by the franchisor ($576.85/month). Franchised average sales ($277,584) are far below the corporate clubs ($466,552).",
+ "confidence": "high",
+ "issues": "Item 7 does not explicitly say real estate purchase is excluded (assumes leased vanilla-box premises); excludesRealEstate left null. Transfer fee usd uses the then-current Initial Franchise Fee ($39,500) for a buyer new to the system; temporary program to April 30, 2027 is $10,000. Annual amounts computed as monthly x 12.",
+ "source": {
+  "doc": "36582-202605-03",
+  "received": "2026-05-08",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B007DD59E-0000-C852-8F32-BD0616544776%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 217,
+  "registrant": "Snap Fitness, Inc.",
+  "filedName": "Snap Fitness Club",
+  "type": "Clean FDD"
+ }
+}

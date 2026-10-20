@@ -1,0 +1,158 @@
+{
+ "slug": "scooters-coffee",
+ "brand": "Scooter's Coffee",
+ "franchisor": "Scooter's Coffee Franchisor, LLC",
+ "issuanceDate": "2026-07-14",
+ "amendedDate": "2026-10-05",
+ "format": "Kiosk drive-thru Store (650 to 700 sq ft freestanding kiosk on leased site), not including the purchase of land",
+ "invest": {
+  "low": 1163650,
+  "high": 1345750,
+  "toFranchisorLow": 220000,
+  "toFranchisorHigh": 286000,
+  "excludesRealEstate": true,
+  "quote": "Total (See note 11) $1,163,650 to $1,345,750 (Kiosk). Cover: The total investment necessary to begin operation of a SCOOTER’S COFFEE franchise is from $658,898 to $1,345,750. This includes $220,000 to $286,000 that must be paid to the franchisor or an affiliate."
+ },
+ "fee": {
+  "low": 40000,
+  "high": 40000,
+  "quote": "The “Initial Franchise Fee” for an individual SCOOTER’S COFFEE Store is $40,000. The Initial Franchise Fee is due and payable in a lump sum by an Automated Clearing House network transfer (“ACH”) when you sign the Franchise Agreement and is not refundable.",
+  "note": "Plus a mandatory Initial Opening Support Fee of $20,000 paid to the franchisor at signing. Honorably discharged veterans receive a $20,000 product credit from the affiliate Scooter's Coffee Supply Chain (first Store only). MSD Agreement: $20,000 development fee per additional Store, credited against its fee. In 2025 the predecessor received initial franchise fees ranging from $20,000 to $40,000."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "net sales (weekly)",
+  "flat": null,
+  "quote": "Royalty 6% of Net Sales Paid by electronic funds transfer every Tuesday for the preceding Reporting Period."
+ },
+ "adFund": {
+  "pct": 2,
+  "pctHigh": 4,
+  "localPct": null,
+  "quote": "National Marketing and Advertising Contribution Currently 2% of Net Sales, although we may require you to pay up to 4% of Net Sales",
+  "note": "Currently 2%, up to 4%. Local marketing: none currently, may require up to 2% of Net Sales. Regional co-ops: none currently, up to 3%. Maximum total marketing and advertising expense 5% of Net Sales."
+ },
+ "otherRecurring": [
+  {
+   "name": "Technology Fee",
+   "amount": "Currently $350 per month. This fee is subject to an annual increase of 15%.",
+   "annualUsd": 4200
+  },
+  {
+   "name": "Conference Fee",
+   "amount": "$499 per person per year",
+   "annualUsd": 499
+  },
+  {
+   "name": "Inventory Management Program",
+   "amount": "None currently, although we may require you to spend up to .25% of Net Sales",
+   "annualUsd": null
+  },
+  {
+   "name": "Inventory purchases from affiliate Scooter's Coffee Supply Chain",
+   "amount": "Varies according to sales volume",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "The greater of $10,000 or 25% of the then-current initial franchise fee for a new Store if you transfer your Franchise Agreement.",
+  "usd": 10000
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average gross sales, Participating franchised Kiosk drive-thru Stores open all of 2025",
+   "value": 999869,
+   "count": 761,
+   "period": "calendar 2025 (12 months ended December 31, 2025)",
+   "median": 966739
+  },
+  "other": [
+   {
+    "label": "Average gross sales, Participating franchised End Cap Stores (45), 2025, dollars",
+    "value": 1082458
+   },
+   {
+    "label": "Median gross sales, Participating End Cap Stores, 2025, dollars",
+    "value": 1076758
+   },
+   {
+    "label": "Average net sales, 621 Reporting Kiosk Stores, 2025, dollars",
+    "value": 923805
+   },
+   {
+    "label": "Average EBITDA after imputed 6% royalty, 2% marketing and $350/month technology fee, 621 Reporting Kiosk Stores, 2025, dollars",
+    "value": 134457
+   },
+   {
+    "label": "Average net profit margin (EBITDA / net sales), 621 Reporting Kiosk Stores, 2025, %",
+    "value": 14.6
+   },
+   {
+    "label": "Median EBITDA, 621 Reporting Kiosk Stores, 2025, dollars",
+    "value": 138332
+   },
+   {
+    "label": "Net profit margin, top 1/4 Reporting Kiosk Stores (156), 2025, %",
+    "value": 20.7
+   },
+   {
+    "label": "Net profit margin, bottom 1/4 Reporting Kiosk Stores (155), 2025, %",
+    "value": 0.8
+   },
+   {
+    "label": "Average EBITDA, 45 Reporting End Cap Stores, 2025, dollars",
+    "value": 155439
+   },
+   {
+    "label": "Average net profit margin, 45 Reporting End Cap Stores, 2025, %",
+    "value": 15.6
+   },
+   {
+    "label": "Average cost of goods sold, 621 Reporting Kiosk Stores, 2025, dollars",
+    "value": 322691
+   },
+   {
+    "label": "Average labor costs, 621 Reporting Kiosk Stores, 2025, dollars",
+    "value": 251388
+   },
+   {
+    "label": "Average rental expense, 621 Reporting Kiosk Stores, 2025, dollars",
+    "value": 58694
+   },
+   {
+    "label": "Same-store net sales growth, Comparable Kiosk Stores (525), 2024-2025, %",
+    "value": 8.9
+   },
+   {
+    "label": "Average customer ticket, Participating Kiosk Stores, 2025, dollars",
+    "value": 10.21
+   }
+  ],
+  "profitPct": 14.6,
+  "quote": "2025 $999,869 289 / 47% $966,739 $337,233 / $2,458,874 (Average Gross Sales – Participating Kiosk Stores: average, number/% attaining, median, low/high)",
+  "note": "Gross Sales = Net Sales plus Discounts. Excludes non-traditional and Coffeehouse Stores, affiliate-owned Stores, Stores that permanently closed (22 Kiosks in 2025) and Stores not reporting. EBITDA uses reported COGS, labor (excluding employee benefits and overhead staff) and rent, plus estimated card processing (2.6% of Gross Sales) and estimated overhead ($52,500 in the table), imputed royalty/marketing/technology fees; before debt service, depreciation and amortization and owner compensation is not stated as deducted."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 882,
+  "company": 24,
+  "total": 906,
+  "franchisedNetChange": 57,
+  "quote": "Franchised Stores 2025 825 882 +57 Company-Owned 2025 24 24 0 Total Outlets 2025 849 906 +57"
+ },
+ "special": "A $20,000 Initial Opening Support Fee is due on top of the franchise fee. Initial inventory and most store equipment must be bought from the affiliate Scooter's Coffee Supply Chain ($160,000 to $226,000 for a Kiosk), and ongoing inventory purchases are from that affiliate. Technology Fee rises 15% per year, compounded. Kiosk Item 7 excludes land; franchisees who bought real estate paid $250,000 to $1,300,000.",
+ "confidence": "medium",
+ "issues": "Cover range ($658,898 to $1,345,750) mixes End Cap low and Kiosk high; Kiosk-only Item 7 total is $1,163,650 to $1,345,750 (End Cap $658,898 to $1,068,525). Kiosk 2025 average gross sales is $999,869 in Section A but 998,869 in the Section C table. Overhead note says average $49,800 but tables use 52,500. Item 19 counts 881 franchised / 25 affiliate vs Item 20 882 / 24 (one officer-owned Kiosk counted as affiliate in Item 19). Section C says 697 Kiosks operated all of 2025 while Section A counts 761 Participating Kiosks.",
+ "source": {
+  "doc": "37364-202610-04",
+  "received": "2026-10-05",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B107B3AA1-0000-CF11-86E0-2118173EE521%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 308,
+  "registrant": "Scooter's Coffee Franchisor, LLC",
+  "filedName": "Scooter's Coffee",
+  "type": "Clean FDD"
+ }
+}

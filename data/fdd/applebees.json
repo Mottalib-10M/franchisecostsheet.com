@@ -1,0 +1,119 @@
+{
+ "slug": "applebees",
+ "brand": "Applebee's",
+ "franchisor": "Applebee's Franchisor LLC",
+ "issuanceDate": "2026-03-27",
+ "amendedDate": "2026-04-07",
+ "format": "New ground-up Applebee's Neighborhood Grill & Bar using the newest \"Celebration\" prototype (2025; not yet built; approx. 169 to 225 seats), excluding purchase of real property",
+ "invest": {
+  "low": 3192516,
+  "high": 5076178,
+  "toFranchisorLow": 35000,
+  "toFranchisorHigh": 50000,
+  "excludesRealEstate": true,
+  "quote": "TOTAL (30) Tower II Prototype (23) $3,870,004 - $5,822,933 Celebration Prototype (2025; New Prototype Not Yet Built) (25) $3,192,516 - $5,076,178 Dual Branded Restaurant Concept (31) $616,682 - $4,632,445"
+ },
+ "fee": {
+  "low": 35000,
+  "high": 35000,
+  "quote": "Initial Franchise Fee. You must pay an initial franchise fee of $35,000 for each Restaurant you open during the initial development periods of the Development Agreement.",
+  "note": "Paid half at signing, balance 14 days before opening. A nonrefundable applicant's fee of $15,000 may be required (may be waived or reduced for existing franchisees; none charged in fiscal 2025). Development Agreement franchise fee deposit $10,000 per Restaurant, credited against the $35,000. In fiscal 2025 fees charged ranged from $0 to $50,000 due to circumstances unique to certain locations; fee may be reduced or waived on transfers."
+ },
+ "royalty": {
+  "pct": 4,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Royalty 4% of Gross Sales. This percentage can be increased by us. Payable monthly on the 12th day of the next month."
+ },
+ "adFund": {
+  "pct": 4.25,
+  "pctHigh": 5,
+  "localPct": 0.5,
+  "quote": "Advertising (National Advertising Fund) Currently, 4.25% of total Gross Sales. This percentage can be increased or decreased by us at any time.",
+  "note": "NAF 4.25% through December 31, 2026, then 3.25% from January 1, 2027. No required local advertising through December 31, 2026; from January 1, 2027 minimum local spend of 0.5% of Gross Sales. NAF can be raised to a maximum of 4.25% and total advertising (NAF + local) cannot exceed 5% of Gross Sales."
+ },
+ "otherRecurring": [
+  {
+   "name": "Toast POS software and maintenance fee",
+   "amount": "Annual Toast software and maintenance fee of $3,750 to $5,000 per Restaurant (A1 POS: annual maintenance fee between $850 to $1,000)",
+   "annualUsd": null
+  },
+  {
+   "name": "Franchise Technology Support (Help Desk)",
+   "amount": "Annual subscription costs currently range from $1,995-$2,300 per Restaurant",
+   "annualUsd": null
+  },
+  {
+   "name": "Menu Management Platform Fee (currently optional)",
+   "amount": "$90 to $180 per month per Restaurant",
+   "annualUsd": null
+  },
+  {
+   "name": "Digital Products Service Fee",
+   "amount": "$21 - $100 per month (billed annually)",
+   "annualUsd": null
+  },
+  {
+   "name": "National Gift Card Program Charges",
+   "amount": "Currently, 10.55% of the redeemed portion of gift cards sold in the national gift card program",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "$2,500 per Restaurant.",
+  "usd": 2500
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average annual Gross Sales, traditional franchised Applebee's Restaurants operating at December 28, 2025",
+   "value": 2954522,
+   "count": 1351,
+   "period": "12 months December 30, 2024 to December 28, 2025",
+   "median": 2822904
+  },
+  "other": [
+   {
+    "label": "Average Gross Sales, Midwest franchised restaurants (403), 2025 ($)",
+    "value": 2662918
+   },
+   {
+    "label": "Average Gross Sales, Northeast franchised restaurants (279), 2025 ($)",
+    "value": 3830089
+   },
+   {
+    "label": "Average Gross Sales, South franchised restaurants (419), 2025 ($)",
+    "value": 2450367
+   },
+   {
+    "label": "Average Gross Sales, West franchised restaurants (250), 2025 ($)",
+    "value": 3292418
+   }
+  ],
+  "profitPct": null,
+  "quote": "Total 1351 $2,954,522 600/44% $2,822,904 $10,150,710 $1,053,693",
+  "note": "Gross Sales only (annualized average), no costs or profits. Excludes 4 express-concept restaurants, restaurants temporarily closed during the year and all 24 Dual Branded Restaurants. Unaudited franchisee royalty reports."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 1416,
+  "company": 59,
+  "total": 1475,
+  "franchisedNetChange": -44,
+  "quote": "Table No. 1A (Traditional Venue Locations) Franchised 2025 1,460 1,416 -44 Company Owned 2025 47 59 +12 Total Outlets 2025 1,507 1,475 (2) -32; Table 1B Non-Traditional franchised 2025 3 5 +2"
+ },
+ "special": "Cover range ($616,682 to $5,822,933) spans a Dual Branded IHOP + Applebee's restaurant (combined cost, often a conversion) up to the discontinued Tower II prototype. Royalty 'can be increased by us'. Restaurants serve alcohol; liquor license $500 to $1,000,000 in Item 7. Item 7 notes typical third-party rent of 4% to over 8% of Gross Sales per year (not paid to the franchisor). Company-owned units reappeared in 2024 (47) after reacquisitions (32 in Georgia).",
+ "confidence": "medium",
+ "issues": "No single standard format: Celebration prototype figures are third-party estimates for a prototype not yet built; Tower II ($3,870,004-$5,822,933) is discontinued; cover low ($616,682) is the Dual Branded concept. Celebration line items do not reconcile exactly to the total because monthly fees are multiplied by three. Units exclude 5 Non-Traditional franchised outlets (Table 1B).",
+ "source": {
+  "doc": "35902-202604-03",
+  "received": "2026-04-08",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B6079EB9F-0000-CC1E-B63A-2C2F09207E0D%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 425,
+  "registrant": "APPLEBEE'S FRANCHISOR LLC",
+  "filedName": "APPLEBEE'S NEIGHBORHOOD GRILL & BAR AND APPLEBEE'S",
+  "type": "Clean FDD"
+ }
+}

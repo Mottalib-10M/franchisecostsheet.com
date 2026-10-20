@@ -1,0 +1,124 @@
+{
+ "slug": "schlotzskys",
+ "brand": "Schlotzsky's",
+ "franchisor": "Schlotzsky's Franchisor SPV LLC",
+ "issuanceDate": "2026-03-27",
+ "amendedDate": null,
+ "format": "Endcap or inline Restaurant (1,750 sq ft without drive-thru to 2,500 sq ft with drive-thru) including the required Cinnabon Express Bakery; freestanding costs $1,403,145 to $2,261,500",
+ "invest": {
+  "low": 675365,
+  "high": 1458170,
+  "toFranchisorLow": 35659,
+  "toFranchisorHigh": 111384,
+  "excludesRealEstate": true,
+  "quote": "Total Initial Investment24 $675,365 $1,458,170 (Table 1: Endcap or Inline Restaurant). Cover: ... with a Cinnabon® Express franchise inside ranges from $675,365 to $2,261,500. This includes $35,659 to $111,384 that must be paid to us or to our affiliates."
+ },
+ "fee": {
+  "low": 35500,
+  "high": 35500,
+  "quote": "When you sign a Franchise Agreement, you must pay us an initial franchise fee (the “Initial Franchise Fee”) of $35,500.",
+  "note": "Plus Cinnabon Express Bakery Initial Franchise Fee of $8,000 paid to affiliate Cinnabon. VetFran: Initial Franchise Fee is $20,000 for qualifying veterans or members of the Armed Forces. Case-by-case reductions; during 2025 franchisees paid $10,000 to $16,320. Grand opening advertising minimum $15,000 ($25,000 if first in a Designated Market Area)."
+ },
+ "royalty": {
+  "pct": 6,
+  "pctHigh": null,
+  "basis": "net sales (including Cinnabon Express Bakery sales)",
+  "flat": null,
+  "quote": "Royalty Fee 6% of Net Sales. ... If you operate a Cinnabon Express Bakery in your Restaurant, sales made from the bakery will be included in your Net Sales for the Restaurant, and you must pay the Royalty Fee on these sales (in addition to any royalty or other payments you make to Cinnabon"
+ },
+ "adFund": {
+  "pct": 4,
+  "pctHigh": 5,
+  "localPct": 0.5,
+  "quote": "Advertising Contribution Currently, 4% of Net Sales, but it may be increased to up to 5% of Net Sales.",
+  "note": "Currently 4%, up to 5%. Local Marketing Obligation currently not less than 0.5% of Net Sales each calendar quarter. Local Advertising Group (LAG) contribution may also apply."
+ },
+ "otherRecurring": [
+  {
+   "name": "Marketing Technology (Mar-Tech) Fee",
+   "amount": "Currently, $395 per month",
+   "annualUsd": 4740
+  },
+  {
+   "name": "Ordering Support Fee",
+   "amount": "Currently, 3% of the pre-tax transaction amount for each transaction that is processed through our online ordering system",
+   "annualUsd": null
+  },
+  {
+   "name": "Online Ordering Fee",
+   "amount": "Currently, $99 per month",
+   "annualUsd": 1188
+  },
+  {
+   "name": "Loyalty App Fee",
+   "amount": "Currently, $66 per month, which is currently collected as part of the Mar-Tech Fee",
+   "annualUsd": null
+  },
+  {
+   "name": "Sublease Administration Fee",
+   "amount": "Currently, $200 per month (only if you sublease a Restaurant from us)",
+   "annualUsd": 2400
+  },
+  {
+   "name": "Cinnabon Express Bakery fees",
+   "amount": "Royalty and other payments to Cinnabon under its own franchise agreement (see Cinnabon Disclosure Document); not stated in this FDD",
+   "annualUsd": null
+  }
+ ],
+ "transferFee": {
+  "amount": "50% of the then-current Initial Franchise Fee if it is a Control Transfer; if it is a transfer to a related party or that is not a Control Transfer, 10% of the then-current Initial Franchise Fee",
+  "usd": null
+ },
+ "rentToFranchisor": null,
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average net sales, franchised Traditional Franchises with a drive-thru (with Cinnabon Express) reporting all 52 weeks",
+   "value": 1157190,
+   "count": 201,
+   "period": "fiscal 2025 (ended December 28, 2025)",
+   "median": 1084731
+  },
+  "other": [
+   {
+    "label": "Average net sales, Traditional Franchises without a drive-thru (34), fiscal 2025, dollars",
+    "value": 1042298
+   },
+   {
+    "label": "Median net sales, Traditional Franchises without a drive-thru, fiscal 2025, dollars",
+    "value": 899905
+   },
+   {
+    "label": "Average net sales, top quartile drive-thru (51), fiscal 2025, dollars",
+    "value": 1739247
+   },
+   {
+    "label": "Average net sales, bottom quartile drive-thru (50), fiscal 2025, dollars",
+    "value": 697837
+   }
+  ],
+  "profitPct": null,
+  "quote": "Total $1,157,190 89/201 (44%) $1,084,731 $418,762 $2,882,056 (Table 1: Average Net Sales by Quartile for Traditional Franchises with a Drive-Thru, Fiscal Year 2025)",
+  "note": "Sales only: 'These sales figures do not reflect the costs of sales, operating expenses, or other costs or expenses'. Net Sales include Cinnabon products. Excludes non-traditional, Restaurants without Cinnabon Express, co-branded and affiliate-owned Restaurants; excludes 2 drive-thru units not reporting all 52 weeks and 13 drive-thru units that permanently closed in 2025."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 267,
+  "company": 27,
+  "total": 294,
+  "franchisedNetChange": -13,
+  "quote": "Franchised 2025 280 267 -13 Affiliate-Owned 2025 28 27 -1 Total Outlets 2025 308 294 -14"
+ },
+ "special": "A Cinnabon Express franchise inside the Restaurant is typically required: separate $8,000 fee to affiliate Cinnabon, $23,600 to $40,100 build-out, and separate Cinnabon royalty/fees, while Schlotzsky's also charges its 6% royalty on Cinnabon sales. Ordering Support Fee of 3% on online orders. Subleasing from the franchisor adds a $200 monthly Sublease Administration Fee.",
+ "confidence": "high",
+ "issues": "Item 7 Table 1 mixes formats: low is a 1,750 sq ft unit without drive-thru, high a 2,500 sq ft endcap with drive-thru. Cinnabon Express ongoing royalty rate not in this FDD. Transfer fee not printed in dollars. System shrank three years in a row (franchised 299 to 267).",
+ "source": {
+  "doc": "35792-202604-09",
+  "received": "2026-04-01",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B30016B9E-0000-C232-B489-7D1EFB1801EF%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 354,
+  "registrant": "SCHLOTZSKY'S FRANCHISOR SPV LLC",
+  "filedName": "SCHLOTZSKY'S",
+  "type": "Clean FDD"
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "slug": "dunkin",
+ "brand": "Dunkin'",
+ "franchisor": "Dunkin' Donuts Franchising LLC",
+ "issuanceDate": "2026-03-26",
+ "amendedDate": null,
+ "format": "freestanding Dunkin' restaurant (Table A); shopping center/storefront, gas & convenience and non-traditional (SDO) formats also offered",
+ "invest": {
+  "low": 532400,
+  "high": 1832500,
+  "toFranchisorLow": 40340,
+  "toFranchisorHigh": 112740,
+  "excludesRealEstate": true,
+  "quote": "The total investment necessary to begin operation of a freestanding Dunkin' restaurant ranges from $532,400 to $1,832,500.  This includes a range of $40,340 to $112,740 that must be paid to the franchisor or affiliate."
+ },
+ "fee": {
+  "low": 40000,
+  "high": 90000,
+  "quote": "Standard Dunkin' Restaurant $40,000 to $90,000 depending on the Development Area Type (described below)",
+  "note": "IFF set by DMA: Type 1 $90,000, Type 2 $80,000, Type 3 $70,000, Type 4 $60,000, Type 5 $50,000, Type 6 $40,000. Gas station/convenience store IFF pro-rated by term; self-service and SDO IFF is 50% of standard. During fiscal 2025 the IFF paid ranged from $0 to $90,000. Initial Training Fee for first 2 people included in IFF. The Center Initial Access Fee $340 at signing. VetFran: CFF credit of $10,000 per restaurant, up to $100,000."
+ },
+ "royalty": {
+  "pct": 5.9,
+  "pctHigh": null,
+  "basis": "gross sales",
+  "flat": null,
+  "quote": "Continuing Franchise Fee (\"CFF\") 5.9% of Gross Sales (Note 1) On or before Thursday of each week, for the seven-day sales reporting period ending at the close of business on Saturday, twelve days previous"
+ },
+ "adFund": {
+  "pct": 5.0,
+  "pctHigh": null,
+  "localPct": null,
+  "quote": "Continuing Advertising Fee (\"CAF\") 5.0% of Gross Sales 2.5% of Gross Sales for SDOs Weekly with the CFF (Note 3)",
+  "note": "Standard incentive: CAF 2% through Year 1, 3% Year 2, 4% Year 3, 5% Year 4 onward; Strategic incentive: 2.4% through Year 5, 3.4% Years 6-8, 5.0% Year 9 onward. Also a mandatory opening Marketing Start-Up spend of at least $10,000."
+ },
+ "otherRecurring": [
+  {
+   "name": "The Center Annual Subscription Fee",
+   "amount": "Currently, $340 per Restaurant Annually",
+   "annualUsd": 340
+  },
+  {
+   "name": "Loyalty Program Contribution Payment",
+   "amount": "Currently, 1.4% of Loyalty Program Sales, weekly with the CFF (1.2% from 2027)",
+   "annualUsd": null
+  },
+  {
+   "name": "POS System and BOH Technical Maintenance (approved vendor)",
+   "amount": "Fixed monthly fees range from $10 to $25 per Restaurant",
+   "annualUsd": null
+  },
+  {
+   "name": "Data Availability Services (approved vendor)",
+   "amount": "$36 per year, per Restaurant",
+   "annualUsd": 36
+  },
+  {
+   "name": "Advance and Remote Ordering (approved vendor)",
+   "amount": "fixed monthly fees ranging from $0 to $75 as well as transaction fees ranging from 2.0% to 15.0% of the order amount",
+   "annualUsd": null
+  }
+ ],
+ "rentToFranchisor": "Only if you lease from an affiliate: \"you will pay our affiliates a monthly the fixed rent set forth in your lease. You may also pay us percentage rent regardless of whether the prime lease requires percentage rent. The amount of percentage rent varies and will be set forth in your lease.\" No % printed.",
+ "item19": {
+  "published": true,
+  "headline": {
+   "label": "Average Annual Unit Volume (gross sales), 7,010 franchised Dunkin' restaurants open the full year 2025 (traditional and non-traditional, excl. Combo, self-serve, new, temporarily closed)",
+   "value": 1372069,
+   "count": 7010,
+   "period": "fiscal 2025 (Dec 30, 2024 - Dec 28, 2025)",
+   "median": 1297694
+  },
+  "other": [
+   {
+    "label": "Average AUV, Traditional/Free-standing Pad or Building (3,169 restaurants)",
+    "value": 1584319
+   },
+   {
+    "label": "Median AUV, Traditional/Free-standing Pad or Building",
+    "value": 1522154
+   },
+   {
+    "label": "Average AUV, Traditional/Other (2,423 restaurants)",
+    "value": 1250245
+   },
+   {
+    "label": "Average AUV, Non-Traditional/SDO Gas or C-store (900 restaurants)",
+    "value": 1141971
+   },
+   {
+    "label": "Average AUV, Non-Traditional/SDO Airport (102 restaurants)",
+    "value": 1667646
+   },
+   {
+    "label": "Average AUV, Non-Traditional/SDO Other (416 restaurants)",
+    "value": 890102
+   },
+   {
+    "label": "Average AUV, traditional with Drive-Thru (4,161 restaurants)",
+    "value": 1547899
+   },
+   {
+    "label": "Average AUV, traditional No Drive-Thru (1,431 restaurants)",
+    "value": 1124559
+   },
+   {
+    "label": "Highest AUV, all 2025 Franchised Restaurants",
+    "value": 6007706
+   },
+   {
+    "label": "Lowest AUV, all 2025 Franchised Restaurants",
+    "value": 65354
+   }
+  ],
+  "quote": "All Restaurants 7,010 $6,007,706 $1,297,694 $65,354 $1,372,069 3,155 / 45%",
+  "note": "Sales only: \"These financial performance representations do not reflect the costs of sales, operating expenses or other costs or expenses\". Excludes 314 opened in 2025, 1,261 closed for extended periods, 36 Multi-Brand, 111 self-serve, 25 part-time, 81 closed in 2025, company-owned and 1,219 Combo restaurants. Unaudited."
+ },
+ "units": {
+  "year": 2025,
+  "franchised": 8744,
+  "company": 36,
+  "total": 8780,
+  "franchisedNetChange": 279,
+  "quote": "Franchised 2025 8,465 8,744 +279 ... Company-Owned 2025 34 36 +2 ... Total Outlets (Note 1) 2025 8,499 8,780 +281"
+ },
+ "special": "Royalty and ad fee incentives (Standard/Strategic/Pacific Northwest programs) give CFF credits of $125,000, $225,000 or up to $300,000 and reduced CAF in early years. Loyalty Program Contribution of 1.4% of Loyalty Program Sales on top of CFF and CAF. If leasing from an affiliate, fixed rent plus possible percentage rent (amount not printed). More than 95% of purchases to establish and operate are under franchisor specifications; affiliates received $132,600,000 from sales/leases to franchisees in 2025. Delivery vehicle not included in Item 7 total. Item 20 counts exclude Combo (Dunkin'/Baskin-Robbins) restaurants.",
+ "confidence": "high",
+ "issues": "Real estate cost 'Variable' not in Item 7 total; affiliate percentage rent % not printed; local ad % not specified (only $10,000 Marketing Start-Up spend).",
+ "source": {
+  "doc": "35678-202603-13",
+  "received": "2026-03-29",
+  "url": "https://cards.web.commerce.state.mn.us/documents/%7B90B4789D-0000-C31C-B63B-5595856BFAC6%7D/download?documentClass=FRANCHISE_REGISTRATIONS&contentSequence=0",
+  "pages": 675,
+  "registrant": "DUNKIN' DONUTS FRANCHISING LLC",
+  "filedName": "DUNKIN'",
+  "type": "Clean FDD"
+ }
+}
