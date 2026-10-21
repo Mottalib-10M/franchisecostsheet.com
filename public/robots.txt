@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /*?*
 
-Sitemap: https://us-franchise-costs.example/sitemap-index.xml
+Sitemap: https://franchisecostsheet.com/sitemap-index.xml

@@ -1,5 +1,5 @@
 /** Configuration centrale du site (générée par new-site.py). */
-export const SITE_URL = "https://us-franchise-costs.example";
+export const SITE_URL = "https://franchisecostsheet.com";
 export const SITE_NAMES: Record<string, string> = {"en": "Franchise Cost Sheet"};
 export const LANG_TAGS: Record<string, string> = {"en": "en-US"};
 export const OG_LOCALES: Record<string, string> = {"en": "en_US"};
@@ -16,7 +16,7 @@ export const AUTHOR_DESC: Record<string, string> = {"en": "Radif Partners downlo
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
 export const KNOWS_ABOUT: Record<string, string[]> = {"en": ["Franchise Disclosure Documents (FTC Franchise Rule, 16 CFR Part 436)", "Initial franchise fees and estimated initial investment (Items 5 and 7)", "Royalty and advertising fund fees (Item 6)", "Financial performance representations (Item 19)", "Franchise payback period and break-even sales"]};
-export const CONTACT_EMAIL = "contact@us-franchise-costs.example";
+export const CONTACT_EMAIL = "contact@franchisecostsheet.com";
 export const THEME_COLOR = '#7A3B12';
 export const LOGO_SYMBOL = 'FDD';
 export const BING_VERIFY_CODE = '';
