@@ -11,8 +11,8 @@ const jl = K.B('jiffy-lube');
 
 export default defineBrand({
   slug: 'take-5',
-  title: 'Take 5 Oil Change Franchise Cost 2026: Supplies and EBITDA',
-  description: `Take 5 Oil Change franchise cost in 2026: ${K.range(b)} for a ground-up center without real estate, ${K.rate(b.royPct)} royalty, ${K.rate(b.adPct)} marketing, ${K.usd(avg)} sales.`,
+  title: 'Take 5 Oil Change Franchise Cost: Supplies and EBITDA',
+  description: `Take 5 Oil Change franchise cost, 2025 FDD: ${K.range(b)} for a ground-up center without real estate, ${K.rate(b.royPct)} royalty, ${K.rate(b.adPct)} marketing, ${K.usd(avg)} sales.`,
   intro: `Take 5's current document is the June ${b.issued.slice(0, 4)} edition amended in December, so its sales and unit figures stop at fiscal ${b.units.year}.`,
   resume: `Take 5 Franchisor SPV LLC estimates ${K.range(b)} to open a new ground-up Take 5 Oil Change center on a ground lease, real estate costs excluded, in the disclosure document issued ${K.day(b.issued)} and amended ${K.day(b.amended!)}. Between ${K.usd(b.toFrLow!)} and ${K.usd(b.toFrHigh!)} of that goes to Take 5 or its affiliates: the ${K.usd(b.feeLow)} franchise fee, a $20,000 grand opening contribution, a $3,000 software installation fee, and the equipment package and opening inventory, which must be bought from them. The center then pays a royalty of ${K.rate(b.royPct)} and marketing fund contributions of ${K.rate(b.adPct)} of gross sales every week. Item 19 reports average gross sales of ${K.usd(avg)} and a median of ${K.usd(b.i19.median!)} for ${K.num(b.i19.count!)} franchised centers open at least a full year in the ${b.i19.period}. Item 20 counts ${K.num(b.units.total!)} centers at the end of fiscal ${b.units.year}, of which ${K.num(b.units.company!)} run by an affiliate.`,
   body: (h) => `

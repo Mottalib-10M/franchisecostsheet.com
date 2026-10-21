@@ -11,8 +11,8 @@ const e = K.eco('mcdonalds');
 
 export default defineBrand({
   slug: 'mcdonalds',
-  title: `McDonald's Franchise Cost 2026: Fee, Rent and ${r(b.royPct)} Royalty`,
-  description: `McDonald's franchise cost in 2026: ${K.range(b)} plus rent to McDonald's of 10.00 % of sales and up, a ${r(b.royPct)} royalty, and ${K.usd(avg)} average sales.`,
+  title: `McDonald's Franchise Cost: Fee, Rent and ${r(b.royPct)} Royalty`,
+  description: `McDonald's franchise cost, 2024 FDD: ${K.range(b)} plus rent to McDonald's of 10.00 % of sales and up, a ${r(b.royPct)} royalty, and ${K.usd(avg)} average sales.`,
   intro: `McDonald's is the landlord of its franchisees, and the rent it charges is a share of sales on top of the royalty. The latest document on file in Minnesota dates from 2024 and describes the year 2023.`,
   resume: `The McDonald's disclosure document on file in Minnesota was issued on ${K.day(b.issued)} and amended on ${K.day(b.amended!)}; its Item 19 and Item 20 describe ${b.units.year}. Opening a traditional restaurant costs ${K.range(b)}, a range that covers equipment, signs, seating and decor but not the land or the building, which McDonald's owns or leases and then rents to the franchisee. The initial fee is ${K.usd(b.feeLow)}, and ${K.usd(b.toFrLow!)} to ${K.usd(b.toFrHigh!)} of the investment goes to McDonald's, including up to three months of base rent. Each month the franchisee pays a royalty of ${r(b.royPct)} of gross sales, spends at least ${r(b.adPct)} on advertising, and pays McDonald's a base rent plus a percentage rent that starts at 10.00 % of sales for new restaurants. Franchised restaurants open a full year averaged ${K.usd(avg)} in sales in ${b.i19.period}, and the system counted ${K.num(b.units.total!)} restaurants.`,
   body: (h) => `

@@ -9,8 +9,8 @@ const jl = K.B('jiffy-lube');
 
 export default defineBrand({
   slug: 'valvoline',
-  title: 'Valvoline Franchise Cost 2026: Royalty Steps and Real Estate',
-  description: `Valvoline Instant Oil Change franchise cost in 2026: ${K.range(b)} with leased or bought land, a ${K.usd(b.feeLow)} fee and a royalty that climbs to ${K.rate(b.royPct)}.`,
+  title: 'Valvoline Franchise Cost: Royalty Steps and Real Estate',
+  description: `Valvoline Instant Oil Change franchise cost, 2025 FDD: ${K.range(b)} with leased or bought land, a ${K.usd(b.feeLow)} fee and a royalty that climbs to ${K.rate(b.royPct)}.`,
   intro: `Valvoline's Item 7 runs from a leased conversion to a center built on land the franchisee buys, which is why its range spans more than three million dollars.`,
   resume: `Valvoline Instant Oil Change Franchising, Inc. estimates ${K.range(b)} to open one service center, in the disclosure document issued ${K.day(b.issued)}. The low end is a leased site, up to $639,550; buying the land and building costs $1,773,750 to $3,483,550. Between ${K.usd(b.toFrLow!)} and ${K.usd(b.toFrHigh!)} goes to the franchisor or an affiliate, including the ${K.usd(b.feeLow)} license fee and the first stock of Valvoline products. The royalty on adjusted gross revenue starts at 2 % in the first twelve months and 3 % in the next twelve, then reaches ${K.rate(b.royPct)}, or a graduated 4 % to 6 % for owners above the volume thresholds. The general system fund takes up to 2 %, capped at ${K.usd(b.fixedYear)} a year for centers opened in fiscal 2026. Item 19 reports average net sales of ${K.usd(avg)} for ${K.num(b.i19.count!)} franchised centers in the ${b.i19.period}.`,
   body: (h) => `

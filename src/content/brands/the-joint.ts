@@ -11,8 +11,8 @@ const yr = b.issued.slice(0, 4);
 
 export default defineBrand({
   slug: 'the-joint',
-  title: 'The Joint Chiropractic Franchise Cost 2026: Fees, Profit',
-  description: `The Joint Chiropractic franchise cost in 2026: ${K.range(b)}, a ${K.usd(b.feeLow)} fee, ${K.rate(b.royPct)} royalty with a monthly floor, from the ${yr} document still on file.`,
+  title: 'The Joint Chiropractic Franchise Cost: Fees and Profit',
+  description: `The Joint Chiropractic franchise cost: ${K.range(b)}, a ${K.usd(b.feeLow)} fee, ${K.rate(b.royPct)} royalty with a monthly floor, from the ${yr} disclosure document still on file.`,
   intro: `The Joint's latest clean disclosure document on file in Minnesota dates from ${yr}, so its sales and profit figures describe ${b.i19.period}.`,
   resume: `The Joint Corp. estimates ${K.range(b)} to open one chiropractic clinic of 1,000 to 1,400 square feet in leased space, in the disclosure document issued ${K.day(b.issued)}, the most recent clean version on file with Minnesota. Only ${K.usd(b.toFrLow!)} goes to the franchisor: the ${K.usd(b.feeLow)} franchise fee and a $1,000 design fee. After opening, the clinic pays a royalty of ${K.rate(b.royPct)} of gross sales or $700 a month, whichever is greater, a brand fund fee of ${K.rate(b.adPct)} that may rise to ${K.rate(b.adPctHigh)}, and a technology fee counted here at ${K.usd(b.fixedYear)} a year. It must also spend at least 5 % of sales, or $3,000 a month, on local advertising. Item 19 reports average gross sales of ${K.usd(avg)} and a median of ${K.usd(b.i19.median!)} for ${K.num(b.i19.count!)} franchised clinics in ${b.i19.period}, and an average net profit of ${K.rate(b.i19.profitPct)} for the 330 clinics that sent a profit and loss statement.`,
   body: (h) => `

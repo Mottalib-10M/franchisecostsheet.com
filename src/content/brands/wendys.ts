@@ -11,8 +11,8 @@ const e = K.eco('wendys');
 
 export default defineBrand({
   slug: 'wendys',
-  title: `Wendy's Franchise Cost 2026: ${K.usd(b.feeLow)} Fee and Yearly Charges`,
-  description: `Wendy's franchise cost in 2026: ${K.range(b)} without land, a ${K.usd(b.feeLow)} technical assistance fee, ${r(b.royPct)} royalty and ${K.usd(avg)} in average sales.`,
+  title: `Wendy's Franchise Cost: ${K.usd(b.feeLow)} Fee and Yearly Charges`,
+  description: `Wendy's franchise cost, 2025 FDD: ${K.range(b)} without land, a ${K.usd(b.feeLow)} technical assistance fee, ${r(b.royPct)} royalty and ${K.usd(avg)} in average sales.`,
   intro: `Wendy's royalty is among the lowest of the burger brands, but a list of flat yearly charges, led by a FreshAi service fee, sits on top of it.`,
   resume: `Wendy's disclosure document issued on ${K.day(b.issued)} and amended on ${K.day(b.amended!)} estimates ${K.range(b)} to build a new traditional restaurant, paid in cash and excluding the land. The initial fee is called a technical assistance fee: ${K.usd(b.feeLow)}, with a $5,000 training fee for new franchisees. The standard royalty is ${r(b.royPct)} of gross sales and the required advertising contribution 4 %, split between ${r(b.adPct)} for the national program and 0.50 % for local advertising. Flat charges paid to Wendy's add ${K.usd(b.fixedYear)} a year before the technology fee, mostly the FreshAi service fee for restaurants opening on or after August 1, 2025. In fiscal 2024, ${K.num(b.i19.count!)} franchise restaurants averaged ${K.usd(avg)} in gross sales, with a median of ${K.usd(b.i19.median!)}. Item 20 counts ${K.num(b.units.total!)} restaurants at the end of ${b.units.year}, ${K.num(-b.units.franchisedNetChange!)} fewer franchised ones than a year before.`,
   body: (h) => `

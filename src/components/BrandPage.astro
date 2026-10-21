@@ -23,7 +23,9 @@ const ui = t(lang);
 const b = K.B(def.slug);
 const id = brandId(def.slug);
 const path = route(id, lang);
-const h1 = `${b.brand} franchise cost in 2026: ${K.range(b)}`;
+// The year in the H1 is the FDD edition: a 2024 or 2025 document never promises 2026 (2026-10-21).
+const fddYear = b.issued.slice(0, 4);
+const h1 = fddYear === '2026' ? `${b.brand} franchise cost in 2026: ${K.range(b)}` : `${b.brand} franchise cost, ${fddYear} FDD: ${K.range(b)}`;
 const hub = 'franchise-cost';
 const jsonLd = [webApplicationSchema({ name: h1, description: def.description, path, lang }), articleSchema({ title: h1, description: def.description, path, lang }), webPageSchema({ name: h1, description: def.description, path, lang }), breadcrumbSchema([{ name: ui.breadcrumbHome, path: route('home', lang) }, { name: label(hub), path: route(hub, lang) }, { name: b.brand, path }])];
 if (def.faqs.length) jsonLd.push(faqSchema(def.faqs, lang));
